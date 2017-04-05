@@ -1,0 +1,6631 @@
+# document_id = 25311.pos
+# sentence_id = 25311.pos-s1
+# text = 17 lao động trở về từ Malaysia vì không có việc làm .
+1	17	M
+2	lao động	N
+3	trở	V
+4	về	V
+5	từ	E
+6	Malaysia	Np
+7	vì	E
+8	không	R
+9	có	V
+10	việc làm	N
+11	.	CH
+
+# sentence_id = 25311.pos-s2
+# text = Tại Công ty Thương mại xuất nhập khẩu Bình Phước, từ ngày 17 - 3 – 2004 đến nay đã có 17 lao động trở về từ Malaysia vì không có việc làm và vì công ty không thực hiện đúng hợp đồng như đã cam kết .
+1	Tại	E
+2	Công ty	N
+3	Thương mại	N
+4	xuất nhập khẩu	V
+5	Bình Phước	Np
+6	,	CH
+7	từ	E
+8	ngày	N
+9	17 - 3 – 2004	M
+10	đến	E
+11	nay	P
+12	đã	R
+13	có	V
+14	17	M
+15	lao động	N
+16	trở	V
+17	về	V
+18	từ	E
+19	Malaysia	Np
+20	vì	E
+21	không	R
+22	có	V
+23	việc làm	N
+24	và	Cc
+25	vì	E
+26	công ty	N
+27	không	R
+28	thực hiện	V
+29	đúng	A
+30	hợp đồng	N
+31	như	C
+32	đã	R
+33	cam kết	V
+34	.	CH
+
+# sentence_id = 25311.pos-s3
+# text = Trong số đó, một lao động phải đi về bằng đường bộ, vượt qua các cửa khẩu Thái Lan, Campuchia, trở về VN sau cuộc hành trình gian khổ .
+1	Trong	E
+2	số	N
+3	đó	P
+4	,	CH
+5	một	M
+6	lao động	N
+7	phải	V
+8	đi	V
+9	về	V
+10	bằng	E
+11	đường bộ	N
+12	,	CH
+13	vượt	V
+14	qua	V
+15	các	L
+16	cửa khẩu	N
+17	Thái Lan	Np
+18	,	CH
+19	Campuchia	Np
+20	,	CH
+21	trở	V
+22	về	V
+23	VN	Ny
+24	sau	N
+25	cuộc	N
+26	hành trình	N
+27	gian khổ	A
+28	.	CH
+
+# sentence_id = 25311.pos-s4
+# text = Hợp đồng lao động được thực hiện từ tháng 8 – 2003, thời hạn 36 tháng với loại công việc là công nhân xây dựng .
+1	Hợp đồng	N
+2	lao động	N
+3	được	V
+4	thực hiện	V
+5	từ	E
+6	tháng	N
+7	8 – 2003	M
+8	,	CH
+9	thời hạn	N
+10	36	M
+11	tháng	N
+12	với	E
+13	loại	N
+14	công việc	N
+15	là	V
+16	công nhân	N
+17	xây dựng	V
+18	.	CH
+
+# sentence_id = 25311.pos-s5
+# text = Tuy nhiên theo các lao động này, bảy tháng qua họ chỉ có việc làm ít ngày, không có lương, bị chuyển nhượng,"bán"qua lại giữa nhiều nhà môi giới, không được giải quyết khi bị tai nạn lao động, 6/17 người đã nếm mùi"tù tội".
+1	Tuy nhiên	C
+2	theo	V
+3	các	L
+4	lao động	N
+5	này	P
+6	,	CH
+7	bảy	M
+8	tháng	N
+9	qua	V
+10	họ	P
+11	chỉ	R
+12	có	V
+13	việc làm	N
+14	ít	A
+15	ngày	N
+16	,	CH
+17	không	R
+18	có	V
+19	lương	N
+20	,	CH
+21	bị	V
+22	chuyển nhượng	V
+23	,	CH
+24	"	CH
+25	bán	V
+26	"	CH
+27	qua lại	V
+28	giữa	E
+29	nhiều	A
+30	nhà	N
+31	môi giới	V
+32	,	CH
+33	không	R
+34	được	V
+35	giải quyết	V
+36	khi	N
+37	bị	V
+38	tai nạn	N
+39	lao động	N
+40	,	CH
+41	6/17	M
+42	người	N
+43	đã	R
+44	nếm	V
+45	mùi	N
+46	"	CH
+47	tù tội	A
+48	"	CH
+49	.	CH
+
+# sentence_id = 25311.pos-s6
+# text = Với tiền phí dịch vụ trên 1 . 000 USD / người, công ty cho biết đã chi nhiều khoản phí môi giới và chưa có hướng giải quyết cho số lao động này khi họ không có một đồng tiền lương nào trong những ngày vất vả nơi xứ lạ .
+1	Với	E
+2	tiền	N
+3	phí	N
+4	dịch vụ	N
+5	trên	N
+6	1 . 000	M
+7	USD	Nu
+8	/	CH
+9	người	N
+10	,	CH
+11	công ty	N
+12	cho	V
+13	biết	V
+14	đã	R
+15	chi	V
+16	nhiều	A
+17	khoản	N
+18	phí	N
+19	môi giới	N
+20	và	Cc
+21	chưa	R
+22	có	V
+23	hướng	N
+24	giải quyết	V
+25	cho	E
+26	số	N
+27	lao động	N
+28	này	P
+29	khi	N
+30	họ	P
+31	không	R
+32	có	V
+33	một	M
+34	đồng	Nu
+35	tiền lương	N
+36	nào	P
+37	trong	E
+38	những	L
+39	ngày	N
+40	vất vả	A
+41	nơi	N
+42	xứ	N
+43	lạ	A
+44	.	CH
+
+
+# document_id = 81003.pos
+# sentence_id = 81003.pos-s1
+# text = Những nữ lao động Việt bị hãm hại ở Đài Loan .
+1	Những	L
+2	nữ	N
+3	lao động	V
+4	Việt	Np
+5	bị	V
+6	hãm hại	V
+7	ở	E
+8	Đài Loan	Np
+9	.	CH
+
+# sentence_id = 81003.pos-s2
+# text = Ngày 17 - 5, cảnh sát Đài Nam (Đài Loan - ĐL) đã bắt giữ hai cha con tên Hồng Kính Trương (Hung Ching-chang, 70 tuổi) và Hồng Minh Du (Hung Ming-yu, 48 tuổi, tạm gọi là tên Hồng), giám đốc Công ty môi giới lao động Trung Hữu, và người nữ phiên dịch tên Thảo Linh...
+1	Ngày	N
+2	17	M
+3	-	CH
+4	5	M
+5	,	CH
+6	cảnh sát	N
+7	Đài Nam	Np
+8	(	CH
+9	Đài Loan	Np
+10	-	CH
+11	ĐL	Ny
+12	)	CH
+13	đã	R
+14	bắt giữ	V
+15	hai	M
+16	cha	N
+17	con	N
+18	tên	N
+19	Hồng Kính Trương	Np
+20	(	CH
+21	Hung Ching-chang	Np
+22	,	CH
+23	70	M
+24	tuổi	Nu
+25	)	CH
+26	và	Cc
+27	Hồng Minh Du	Np
+28	(	CH
+29	Hung Ming-yu	Np
+30	,	CH
+31	48	M
+32	tuổi	Nu
+33	,	CH
+34	tạm	V
+35	gọi	V
+36	là	C
+37	tên	N
+38	Hồng	Np
+39	)	CH
+40	,	CH
+41	giám đốc	N
+42	Công ty	N
+43	môi giới	V
+44	lao động	V
+45	Trung Hữu	Np
+46	,	CH
+47	và	Cc
+48	người	Nc
+49	nữ	N
+50	phiên dịch	V
+51	tên	N
+52	Thảo Linh	Np
+53	...	CH
+
+# sentence_id = 81003.pos-s3
+# text = Đây là những nhân vật bị cáo buộc đã hành hung và hãm hiếp hơn 20 phụ nữ là lao động từ VN sang .
+1	Đây	P
+2	là	V
+3	những	L
+4	nhân vật	N
+5	bị	V
+6	cáo buộc	V
+7	đã	R
+8	hành hung	V
+9	và	Cc
+10	hãm hiếp	V
+11	hơn	A
+12	20	M
+13	phụ nữ	N
+14	là	V
+15	lao động	N
+16	từ	E
+17	VN	Np
+18	sang	V
+19	.	CH
+
+# sentence_id = 81003.pos-s4
+# text = Bốn nạn nhân đầu tiên trong hàng chục những phụ nữ không may này trước đó đã tìm đến nhà thờ của cha Nguyễn Văn Hùng ở huyện Đào Viên phía bắc ĐL để nương náu, nhờ che chở và bảo vệ...
+1	Bốn	M
+2	nạn nhân	N
+3	đầu tiên	A
+4	trong	E
+5	hàng	R
+6	chục	M
+7	những	L
+8	phụ nữ	N
+9	không	R
+10	may	A
+11	này	P
+12	trước	A
+13	đó	P
+14	đã	R
+15	tìm	V
+16	đến	E
+17	nhà thờ	N
+18	của	E
+19	cha	N
+20	Nguyễn Văn Hùng	Np
+21	ở	E
+22	huyện	N
+23	Đào Viên	Np
+24	phía	N
+25	bắc	N
+26	ĐL	Np
+27	để	E
+28	nương náu	V
+29	,	CH
+30	nhờ	V
+31	che chở	V
+32	và	Cc
+33	bảo vệ	V
+34	...	CH
+
+# sentence_id = 81003.pos-s5
+# text = Con số nạn nhân không dừng lại .
+1	Con số	N
+2	nạn nhân	N
+3	không	R
+4	dừng	V
+5	lại	R
+6	.	CH
+
+# sentence_id = 81003.pos-s6
+# text = 14 g 30 ngày 27 - 5, chúng tôi tìm đến ngôi nhà thờ ấy .
+1	14	M
+2	g	Nu
+3	30	M
+4	ngày	N
+5	27	M
+6	-	CH
+7	5	M
+8	,	CH
+9	chúng tôi	P
+10	tìm	V
+11	đến	E
+12	ngôi	Nc
+13	nhà thờ	N
+14	ấy	P
+15	.	CH
+
+# sentence_id = 81003.pos-s7
+# text = Đó là một ngôi nhà thờ nhỏ một trệt, một lầu, nằm ngay mặt đường Thánh Paul .
+1	Đó	P
+2	là	V
+3	một	M
+4	ngôi	Nc
+5	nhà thờ	N
+6	nhỏ	A
+7	một	M
+8	trệt	N
+9	,	CH
+10	một	M
+11	lầu	N
+12	,	CH
+13	nằm	V
+14	ngay	T
+15	mặt đường	N
+16	Thánh Paul	Np
+17	.	CH
+
+# sentence_id = 81003.pos-s8
+# text = Tầng dưới của nhà thờ là nhà trẻ, tầng trên là các phòng làm việc của cha Hùng và các đồng sự, xen kẽ là một số phòng nghỉ...
+1	Tầng	N
+2	dưới	A
+3	của	E
+4	nhà thờ	N
+5	là	V
+6	nhà trẻ	N
+7	,	CH
+8	tầng	N
+9	trên	A
+10	là	V
+11	các	L
+12	phòng	N
+13	làm việc	V
+14	của	E
+15	cha	N
+16	Hùng	Np
+17	và	Cc
+18	các	L
+19	đồng sự	N
+20	,	CH
+21	xen kẽ	V
+22	là	V
+23	một số	L
+24	phòng	N
+25	nghỉ	V
+26	...	CH
+
+# sentence_id = 81003.pos-s9
+# text = Khi chúng tôi đến, cha Hùng đang nói chuyện điện thoại với một nạn nhân mới của tên Hồng .
+1	Khi	N
+2	chúng tôi	P
+3	đến	V
+4	,	CH
+5	cha	N
+6	Hùng	Np
+7	đang	R
+8	nói chuyện	V
+9	điện thoại	N
+10	với	E
+11	một	M
+12	nạn nhân	N
+13	mới	A
+14	của	E
+15	tên	N
+16	Hồng	Np
+17	.	CH
+
+# sentence_id = 81003.pos-s10
+# text = Hôm nay có thêm hai nạn nhân nữa tự nguyện đứng ra tố giác tội ác của cha con tên Hồng - gác điện thoại, cha nói với chúng tôi - như vậy đã có đến chín nạn nhân .
+1	Hôm nay	N
+2	có	V
+3	thêm	V
+4	hai	M
+5	nạn nhân	N
+6	nữa	R
+7	tự nguyện	V
+8	đứng	V
+9	ra	R
+10	tố giác	V
+11	tội ác	N
+12	của	E
+13	cha	N
+14	con	N
+15	tên	N
+16	Hồng	Np
+17	-	CH
+18	gác	V
+19	điện thoại	N
+20	,	CH
+21	cha	N
+22	nói	V
+23	với	E
+24	chúng tôi	P
+25	-	CH
+26	như	C
+27	vậy	P
+28	đã	R
+29	có	V
+30	đến	T
+31	chín	M
+32	nạn nhân	N
+33	.	CH
+
+# sentence_id = 81003.pos-s11
+# text = Cha Hùng cho biết con số nạn nhân của cha con tên Hồng không chỉ dừng lại ở đó vì hầu như lao động nữ nào đến ĐL thông qua công ty của tên Hồng đều bị hắn cưỡng hiếp hoặc hành hạ, đánh đập .
+1	Cha	N
+2	Hùng	Np
+3	cho	V
+4	biết	V
+5	con số	N
+6	nạn nhân	N
+7	của	E
+8	cha	N
+9	con	N
+10	tên	N
+11	Hồng	Np
+12	không	R
+13	chỉ	R
+14	dừng	V
+15	lại	R
+16	ở	E
+17	đó	P
+18	vì	E
+19	hầu như	R
+20	lao động	N
+21	nữ	N
+22	nào	P
+23	đến	V
+24	ĐL	Ny
+25	thông qua	V
+26	công ty	N
+27	của	E
+28	tên	N
+29	Hồng	Np
+30	đều	R
+31	bị	V
+32	hắn	P
+33	cưỡng hiếp	V
+34	hoặc	Cc
+35	hành hạ	V
+36	,	CH
+37	đánh đập	V
+38	.	CH
+
+# sentence_id = 81003.pos-s12
+# text = Hiện nay tổ tư vấn pháp luật của ĐL đã cử hai luật sư đứng ra bảo vệ quyền lợi cho các nạn nhân .
+1	Hiện nay	N
+2	tổ	N
+3	tư vấn	V
+4	pháp luật	N
+5	của	E
+6	ĐL	Ny
+7	đã	R
+8	cử	V
+9	hai	M
+10	luật sư	N
+11	đứng	V
+12	ra	R
+13	bảo vệ	V
+14	quyền lợi	N
+15	cho	E
+16	các	L
+17	nạn nhân	N
+18	.	CH
+
+# sentence_id = 81003.pos-s13
+# text = Hôm 18 - 5, họ - những nạn nhân, với sự hỗ trợ của các luật sư và văn phòng của cha Hùng, đã gặp gỡ cơ quan thông tấn báo chí ĐL để vạch trần tội ác của cha con tên Hồng .
+1	Hôm	N
+2	18	M
+3	-	CH
+4	5	M
+5	,	CH
+6	họ	P
+7	-	CH
+8	những	L
+9	nạn nhân	N
+10	,	CH
+11	với	E
+12	sự	Nc
+13	hỗ trợ	N
+14	của	E
+15	các	L
+16	luật sư	N
+17	và	Cc
+18	văn phòng	N
+19	của	E
+20	cha	N
+21	Hùng	Np
+22	,	CH
+23	đã	R
+24	gặp gỡ	V
+25	cơ quan	N
+26	thông tấn	V
+27	báo chí	N
+28	ĐL	Ny
+29	để	E
+30	vạch trần	V
+31	tội ác	N
+32	của	E
+33	cha	N
+34	con	N
+35	tên	N
+36	Hồng	Np
+37	.	CH
+
+# sentence_id = 81003.pos-s14
+# text = Theo cha Hùng, mặc dù đã có chuẩn bị trước nhưng do diễn tiến cuộc gặp gỡ này vượt quá sự chuẩn bị của các nạn nhân nên đã có hai trong bốn nạn nhân ngất xỉu, hai nạn nhân còn lại tinh thần vô cùng hoảng loạn .
+1	Theo	E
+2	cha	N
+3	Hùng	Np
+4	,	CH
+5	mặc dù	C
+6	đã	R
+7	có	V
+8	chuẩn bị	V
+9	trước	A
+10	nhưng	C
+11	do	C
+12	diễn tiến	N
+13	cuộc	N
+14	gặp gỡ	V
+15	này	P
+16	vượt	V
+17	quá	R
+18	sự	Nc
+19	chuẩn bị	V
+20	của	E
+21	các	L
+22	nạn nhân	N
+23	nên	C
+24	đã	R
+25	có	V
+26	hai	M
+27	trong	E
+28	bốn	M
+29	nạn nhân	N
+30	ngất xỉu	V
+31	,	CH
+32	hai	M
+33	nạn nhân	N
+34	còn	V
+35	lại	R
+36	tinh thần	N
+37	vô cùng	R
+38	hoảng loạn	V
+39	.	CH
+
+# sentence_id = 81003.pos-s15
+# text = Qua sự sắp xếp của cha Hùng, chúng tôi đã có được cuộc nói chuyện với một số nạn nhân .
+1	Qua	V
+2	sự	N
+3	sắp xếp	V
+4	của	E
+5	cha	N
+6	Hùng	Np
+7	,	CH
+8	chúng tôi	P
+9	đã	R
+10	có	V
+11	được	R
+12	cuộc	N
+13	nói chuyện	V
+14	với	E
+15	một số	L
+16	nạn nhân	N
+17	.	CH
+
+# sentence_id = 81003.pos-s16
+# text = Lời kể của các nạn nhân .
+1	Lời	N
+2	kể	V
+3	của	E
+4	các	L
+5	nạn nhân	N
+6	.	CH
+
+# sentence_id = 81003.pos-s17
+# text = Ngồi trò chuyện với ông về nghiệp võ, về những khoảnh khắc vinh quang, ông Minh Sang cho biết kỷ niệm lớn nhất trong sự nghiệp của ông chính là lần hạ võ sĩ Muay Thái người Việt gốc Hoa tên Lý Bỉnh Sâm .
+1	Ngồi	V
+2	trò chuyện	V
+3	với	E
+4	ông	N
+5	về	E
+6	nghiệp	N
+7	võ	N
+8	,	CH
+9	về	E
+10	những	L
+11	khoảnh khắc	N
+12	vinh quang	A
+13	,	CH
+14	ông	Nc
+15	Minh Sang	Np
+16	cho	V
+17	biết	V
+18	kỷ niệm	N
+19	lớn	A
+20	nhất	R
+21	trong	E
+22	sự nghiệp	N
+23	của	E
+24	ông	N
+25	chính	R
+26	là	V
+27	lần	N
+28	hạ	V
+29	võ sĩ	N
+30	Muay Thái	Np
+31	người	Nc
+32	Việt	Np
+33	gốc	N
+34	Hoa	Np
+35	tên	N
+36	Lý Bỉnh Sâm	Np
+37	.	CH
+
+# sentence_id = 81003.pos-s18
+# text = Sau khi đến ĐL, tên Hồng đưa chị về nhà chủ .
+1	Sau	E
+2	khi	N
+3	đến	V
+4	ĐL	Np
+5	,	CH
+6	tên	N
+7	Hồng	Np
+8	đưa	V
+9	chị	N
+10	về	V
+11	nhà	N
+12	chủ	N
+13	.	CH
+
+# sentence_id = 81003.pos-s19
+# text = Ở đây được 12 ngày thì tên Hồng đón chị về nhà .
+1	Ở	V
+2	đây	P
+3	được	V
+4	12	M
+5	ngày	N
+6	thì	C
+7	tên	N
+8	Hồng	Np
+9	đón	V
+10	chị	N
+11	về	V
+12	nhà	N
+13	.	CH
+
+# sentence_id = 81003.pos-s20
+# text = Sau đó y đưa chị lên rừng làm rẫy cho bố của y, làm suốt năm ngày .
+1	Sau	E
+2	đó	P
+3	y	P
+4	đưa	V
+5	chị	P
+6	lên	V
+7	rừng	N
+8	làm	V
+9	rẫy	N
+10	cho	E
+11	bố	N
+12	của	E
+13	y	P
+14	,	CH
+15	làm	V
+16	suốt	A
+17	năm	M
+18	ngày	N
+19	.	CH
+
+# sentence_id = 81003.pos-s21
+# text = "Đêm 23 - 5 nó cưỡng ép tôi nhiều lần nhưng tôi đã chống cự quyết liệt".
+1	"	CH
+2	Đêm	N
+3	23	M
+4	-	CH
+5	5	M
+6	nó	P
+7	cưỡng ép	V
+8	tôi	P
+9	nhiều	A
+10	lần	N
+11	nhưng	C
+12	tôi	P
+13	đã	R
+14	chống cự	V
+15	quyết liệt	A
+16	"	CH
+17	.	CH
+
+# sentence_id = 81003.pos-s22
+# text = Sang ngày hôm sau, nó liên tục đánh đập tôi .
+1	Sang	V
+2	ngày	N
+3	hôm	N
+4	sau	A
+5	,	CH
+6	nó	P
+7	liên tục	R
+8	đánh đập	V
+9	tôi	P
+10	.	CH
+
+# sentence_id = 81003.pos-s23
+# text = Nó là con thú chứ chẳng phải con người"... - giọng chị Loan run lên .
+1	Nó	P
+2	là	V
+3	con	Nc
+4	thú	N
+5	chứ	C
+6	chẳng	R
+7	phải	V
+8	con người	N
+9	"	CH
+10	...	CH
+11	-	CH
+12	giọng	N
+13	chị	Nc
+14	Loan	Np
+15	run	V
+16	lên	R
+17	.	CH
+
+# sentence_id = 81003.pos-s24
+# text = Chị Hoa, quê Thanh Hóa :"Khi nó cưỡng hiếp tôi xong thì tôi bị nôn đầy nhà .
+1	Chị	Nc
+2	Hoa	Np
+3	,	CH
+4	quê	N
+5	Thanh Hóa	Np
+6	:	CH
+7	"	CH
+8	Khi	N
+9	nó	P
+10	cưỡng hiếp	V
+11	tôi	P
+12	xong	R
+13	thì	C
+14	tôi	P
+15	bị	V
+16	nôn	V
+17	đầy	A
+18	nhà	N
+19	.	CH
+
+# sentence_id = 81003.pos-s25
+# text = Sau đó nó lại bắt tôi phải bóp chân cho nó, rồi nó nổi cơn lên lại đánh và lại đòi cưỡng hiếp tôi...".
+1	Sau	E
+2	đó	P
+3	nó	P
+4	lại	R
+5	bắt	V
+6	tôi	P
+7	phải	V
+8	bóp	V
+9	chân	N
+10	cho	E
+11	nó	P
+12	,	CH
+13	rồi	C
+14	nó	P
+15	nổi	V
+16	cơn	N
+17	lên	R
+18	lại	R
+19	đánh	V
+20	và	Cc
+21	lại	R
+22	đòi	V
+23	cưỡng hiếp	V
+24	tôi	P
+25	...	CH
+26	"	CH
+27	.	CH
+
+# sentence_id = 81003.pos-s26
+# text = Chị Hoa kể tiếp :"Tôi đi Công ty Lao động xuất khẩu Thừa Thiên - Huế ! ?, qua được một tuần thì ở nhà riêng của tên Hồng vì công ty môi giới không cho ở công ty".
+1	Chị	Nc
+2	Hoa	Np
+3	kể	V
+4	tiếp	V
+5	:	CH
+6	"	CH
+7	Tôi	P
+8	đi	V
+9	Công ty	N
+10	Lao động	N
+11	xuất khẩu	V
+12	Thừa Thiên	Np
+13	-	CH
+14	Huế	Np
+15	!	CH
+16	?	CH
+17	,	CH
+18	qua	V
+19	được	V
+20	một	M
+21	tuần	N
+22	thì	C
+23	ở	V
+24	nhà riêng	N
+25	của	E
+26	tên	N
+27	Hồng	Np
+28	vì	E
+29	công ty	N
+30	môi giới	V
+31	không	R
+32	cho	V
+33	ở	V
+34	công ty	N
+35	"	CH
+36	.	CH
+
+# sentence_id = 81003.pos-s27
+# text = Chúng tôi mới sang không biết tiếng, chẳng quen biết ai nên đi đâu làm gì cũng sợ lắm .
+1	Chúng tôi	P
+2	mới	R
+3	sang	V
+4	không	R
+5	biết	V
+6	tiếng	N
+7	,	CH
+8	chẳng	R
+9	quen biết	V
+10	ai	N
+11	nên	C
+12	đi	V
+13	đâu	P
+14	làm	V
+15	gì	P
+16	cũng	R
+17	sợ	V
+18	lắm	R
+19	.	CH
+
+# sentence_id = 81003.pos-s28
+# text = Tên Hồng thì cứ dọa đuổi về VN rồi đánh bằng gậy sắt cứng (tên Hồng chân yếu nên phải di chuyển bằng nạng sắt) .
+1	Tên	N
+2	Hồng	Np
+3	thì	C
+4	cứ	R
+5	dọa	V
+6	đuổi	V
+7	về	V
+8	VN	Ny
+9	rồi	C
+10	đánh	V
+11	bằng	E
+12	gậy	N
+13	sắt	N
+14	cứng	A
+15	(	CH
+16	tên	N
+17	Hồng	Np
+18	chân	N
+19	yếu	A
+20	nên	C
+21	phải	V
+22	di chuyển	V
+23	bằng	E
+24	nạng	N
+25	sắt	N
+26	)	CH
+27	.	CH
+
+# sentence_id = 81003.pos-s29
+# text = Nó giật hết nút áo, xé áo xé quần .
+1	Nó	P
+2	giật	V
+3	hết	R
+4	nút	N
+5	áo	N
+6	,	CH
+7	xé	V
+8	áo	N
+9	xé	V
+10	quần	N
+11	.	CH
+
+# sentence_id = 81003.pos-s30
+# text = Loan bảo ở nhà tên Hồng một tuần thì hầu như ngày nào cũng bị nó cưỡng hiếp .
+1	Loan	Np
+2	bảo	V
+3	ở	V
+4	nhà	N
+5	tên	N
+6	Hồng	Np
+7	một	M
+8	tuần	N
+9	thì	C
+10	hầu như	R
+11	ngày	N
+12	nào	P
+13	cũng	R
+14	bị	V
+15	nó	P
+16	cưỡng hiếp	V
+17	.	CH
+
+# sentence_id = 81003.pos-s31
+# text = Sau đó chị được đưa đến một nhà chủ làm được hai tháng thì tên Hồng và người phiên dịch tên Linh lại đến lôi đi nói là mua vé máy bay và cho tiền đưa về VN, nhưng chủ nhà là người tốt, không cho đi .
+1	Sau	E
+2	đó	P
+3	chị	N
+4	được	V
+5	đưa	V
+6	đến	E
+7	một	M
+8	nhà	N
+9	chủ	N
+10	làm	V
+11	được	R
+12	hai	M
+13	tháng	N
+14	thì	C
+15	tên	N
+16	Hồng	Np
+17	và	Cc
+18	người	N
+19	phiên dịch	V
+20	tên	N
+21	Linh	Np
+22	lại	R
+23	đến	V
+24	lôi	V
+25	đi	R
+26	nói	V
+27	là	C
+28	mua	V
+29	vé	N
+30	máy bay	N
+31	và	Cc
+32	cho	V
+33	tiền	N
+34	đưa	V
+35	về	E
+36	VN	Ny
+37	,	CH
+38	nhưng	C
+39	chủ	N
+40	nhà	N
+41	là	V
+42	người	N
+43	tốt	A
+44	,	CH
+45	không	R
+46	cho	V
+47	đi	V
+48	.	CH
+
+# sentence_id = 81003.pos-s32
+# text = Chị Hạnh, quê Tuyên Quang : Ngày 7 - 5 – 2005 khi đang làm việc ở nhà chủ, tên Hồng lên đón chị về nhà riêng nói là chuyển chủ tốt hơn nhưng ngay đêm đó y đã cưỡng hiếp chị .
+1	Chị	Nc
+2	Hạnh	Np
+3	,	CH
+4	quê	N
+5	Tuyên Quang	Np
+6	:	CH
+7	Ngày	N
+8	7	M
+9	-	CH
+10	5	M
+11	–	CH
+12	2005	M
+13	khi	N
+14	đang	R
+15	làm việc	V
+16	ở	E
+17	nhà	N
+18	chủ	N
+19	,	CH
+20	tên	N
+21	Hồng	Np
+22	lên	V
+23	đón	V
+24	chị	N
+25	về	V
+26	nhà riêng	N
+27	nói	V
+28	là	C
+29	chuyển	V
+30	chủ	N
+31	tốt	A
+32	hơn	R
+33	nhưng	C
+34	ngay	T
+35	đêm	N
+36	đó	P
+37	y	P
+38	đã	R
+39	cưỡng hiếp	V
+40	chị	N
+41	.	CH
+
+# sentence_id = 81003.pos-s33
+# text = Rồi ngày hôm sau y lại cưỡng hiếp tiếp .
+1	Rồi	C
+2	ngày	N
+3	hôm	N
+4	sau	A
+5	y	P
+6	lại	R
+7	cưỡng hiếp	V
+8	tiếp	V
+9	.	CH
+
+# sentence_id = 81003.pos-s34
+# text = Sau đó y mới cho chị đến một chủ nhà mới .
+1	Sau	E
+2	đó	P
+3	y	P
+4	mới	R
+5	cho	V
+6	chị	N
+7	đến	V
+8	một	M
+9	chủ	N
+10	nhà	N
+11	mới	A
+12	.	CH
+
+# sentence_id = 81003.pos-s35
+# text = Chị Hoa : Từ ngày 18 - 1 đến 24 - 4 chị bị dắt đến chín chủ nhà khác nhau nhưng chẳng ở với chủ nào được .
+1	Chị	Nc
+2	Hoa	Np
+3	:	CH
+4	Từ	E
+5	ngày	N
+6	18	M
+7	-	CH
+8	1	M
+9	đến	E
+10	24	M
+11	-	CH
+12	4	M
+13	chị	N
+14	bị	V
+15	dắt	V
+16	đến	E
+17	chín	M
+18	chủ	N
+19	nhà	N
+20	khác	A
+21	nhau	P
+22	nhưng	C
+23	chẳng	R
+24	ở	V
+25	với	E
+26	chủ	N
+27	nào	P
+28	được	R
+29	.	CH
+
+# sentence_id = 81003.pos-s36
+# text = Khi gặp các chị em đi làm ở Công ty Trung Hữu, mấy chị đều cho biết đã bị tên Hồng cưỡng hiếp hoặc hành hạ,"nó nói không ngủ với nó thì sẽ không giới thiệu tìm công ăn việc làm".
+1	Khi	N
+2	gặp	V
+3	các	L
+4	chị em	N
+5	đi	V
+6	làm	V
+7	ở	E
+8	Công ty	N
+9	Trung Hữu	Np
+10	,	CH
+11	mấy	L
+12	chị	N
+13	đều	R
+14	cho	V
+15	biết	V
+16	đã	R
+17	bị	V
+18	tên	N
+19	Hồng	Np
+20	cưỡng hiếp	V
+21	hoặc	Cc
+22	hành hạ	V
+23	,	CH
+24	"	CH
+25	nó	P
+26	nói	V
+27	không	R
+28	ngủ	V
+29	với	E
+30	nó	P
+31	thì	C
+32	sẽ	R
+33	không	R
+34	giới thiệu	V
+35	tìm	V
+36	công ăn việc làm	N
+37	"	CH
+38	.	CH
+
+# sentence_id = 81003.pos-s37
+# text = Không phải một mình tôi đâu, nhiều người cũng bị như tôi mà chẳng dám nói .
+1	Không	R
+2	phải	V
+3	một mình	M
+4	tôi	P
+5	đâu	T
+6	,	CH
+7	nhiều	A
+8	người	N
+9	cũng	R
+10	bị	V
+11	như	C
+12	tôi	P
+13	mà	C
+14	chẳng	R
+15	dám	V
+16	nói	V
+17	.	CH
+
+# sentence_id = 81003.pos-s38
+# text = Chị kể tiếp một buổi chiều khi đang ở nhà của tên Hồng, y đưa cho chị xem một cuốn sổ trong đó đã có hai người VN viết :"Tôi sang ĐL mong ông Hồng giúp đỡ, ông muốn làm gì thì làm"và y cũng yêu cầu chị viết như thế, chị không viết thì liền bị y lao vào đánh đập .
+1	Chị	N
+2	kể	V
+3	tiếp	V
+4	một	M
+5	buổi	N
+6	chiều	N
+7	khi	N
+8	đang	R
+9	ở	V
+10	nhà	N
+11	của	E
+12	tên	N
+13	Hồng	Np
+14	,	CH
+15	y	P
+16	đưa	V
+17	cho	E
+18	chị	N
+19	xem	V
+20	một	M
+21	cuốn	Nc
+22	sổ	N
+23	trong	E
+24	đó	P
+25	đã	R
+26	có	V
+27	hai	M
+28	người	Nc
+29	VN	Np
+30	viết	V
+31	:	CH
+32	"	CH
+33	Tôi	P
+34	sang	V
+35	ĐL	Ny
+36	mong	V
+37	ông	Nc
+38	Hồng	Np
+39	giúp đỡ	V
+40	,	CH
+41	ông	N
+42	muốn	V
+43	làm	V
+44	gì	P
+45	thì	C
+46	làm	V
+47	"	CH
+48	và	Cc
+49	y	P
+50	cũng	R
+51	yêu cầu	V
+52	chị	P
+53	viết	V
+54	như	C
+55	thế	P
+56	,	CH
+57	chị	P
+58	không	R
+59	viết	V
+60	thì	C
+61	liền	R
+62	bị	V
+63	y	P
+64	lao	V
+65	vào	E
+66	đánh đập	V
+67	.	CH
+
+# sentence_id = 81003.pos-s39
+# text = Trong buổi tối đó y đã hiếp chị hai lần .
+1	Trong	E
+2	buổi	N
+3	tối	N
+4	đó	P
+5	y	P
+6	đã	R
+7	hiếp	V
+8	chị	P
+9	hai	M
+10	lần	N
+11	.	CH
+
+# sentence_id = 81003.pos-s40
+# text = Chị van xin và vùng vẫy nhưng hắn cũng không tha, đến khi chị gần như ngất xỉu thì hắn mới thôi .
+1	Chị	N
+2	van xin	V
+3	và	Cc
+4	vùng vẫy	V
+5	nhưng	C
+6	hắn	P
+7	cũng	R
+8	không	R
+9	tha	V
+10	,	CH
+11	đến	E
+12	khi	N
+13	chị	N
+14	gần	A
+15	như	C
+16	ngất xỉu	V
+17	thì	C
+18	hắn	P
+19	mới	R
+20	thôi	V
+21	.	CH
+
+# sentence_id = 81003.pos-s41
+# text = Lúc được đưa đến một bệnh viện để chăm sóc một ông già, chị mới gặp một người VN và liên lạc được với cha Hùng .
+1	Lúc	N
+2	được	V
+3	đưa	V
+4	đến	E
+5	một	M
+6	bệnh viện	N
+7	để	E
+8	chăm sóc	V
+9	một	M
+10	ông già	N
+11	,	CH
+12	chị	N
+13	mới	R
+14	gặp	V
+15	một	M
+16	người	Nc
+17	VN	Np
+18	và	Cc
+19	liên lạc	V
+20	được	R
+21	với	E
+22	cha	N
+23	Hùng	Np
+24	.	CH
+
+# sentence_id = 81003.pos-s42
+# text = Từ Đào Viên chúng tôi lên Đài Bắc tìm cách liên lạc với đại diện Ban quản lý lao động VN tại ĐL .
+1	Từ	E
+2	Đào Viên	Np
+3	chúng tôi	P
+4	lên	V
+5	Đài Bắc	Np
+6	tìm	V
+7	cách	N
+8	liên lạc	V
+9	với	E
+10	đại diện	N
+11	Ban	N
+12	quản lý	V
+13	lao động	N
+14	VN	Ny
+15	tại	E
+16	ĐL	Ny
+17	.	CH
+
+# sentence_id = 81003.pos-s43
+# text = Liên tục từ chiều tối 27 - 5 đến 22 g tối 28 - 5, chúng tôi đã nhiều lần gọi điện, nhắn tin và nhắn vào hộp thư thoại của số máy điện thoại di động của ông Trần Đông Huy, trưởng Ban quản lý lao động VN tại ĐL, nhưng không có hồi âm .
+1	Liên tục	A
+2	từ	E
+3	chiều tối	N
+4	27	M
+5	-	CH
+6	5	M
+7	đến	E
+8	22	M
+9	g	Nu
+10	tối	N
+11	28	M
+12	-	CH
+13	5	M
+14	,	CH
+15	chúng tôi	P
+16	đã	R
+17	nhiều	A
+18	lần	N
+19	gọi	V
+20	điện	N
+21	,	CH
+22	nhắn tin	V
+23	và	Cc
+24	nhắn	V
+25	vào	E
+26	hộp	N
+27	thư thoại	N
+28	của	E
+29	số	N
+30	máy	N
+31	điện thoại di động	N
+32	của	E
+33	ông	Nc
+34	Trần Đông Huy	Np
+35	,	CH
+36	trưởng	N
+37	Ban	N
+38	quản lý	V
+39	lao động	N
+40	VN	Ny
+41	tại	E
+42	ĐL	Ny
+43	,	CH
+44	nhưng	C
+45	không	R
+46	có	V
+47	hồi âm	V
+48	.	CH
+
+# sentence_id = 81003.pos-s44
+# text = Liên lạc với ông Nguyễn Ngọc Bình, trợ lý của ông Huy, về những động thái can thiệp của Ban lao động VN với các trường hợp lao động không may mắn này thì chúng tôi được biết"hôm nay, thứ bảy 28 - 5, là ngày nghỉ..., đầu tuần liên lạc lại".
+1	Liên lạc	V
+2	với	E
+3	ông	Nc
+4	Nguyễn Ngọc Bình	Np
+5	,	CH
+6	trợ lý	N
+7	của	E
+8	ông	Nc
+9	Huy	Np
+10	,	CH
+11	về	E
+12	những	L
+13	động thái	N
+14	can thiệp	V
+15	của	E
+16	Ban	N
+17	lao động	N
+18	VN	Np
+19	với	E
+20	các	L
+21	trường hợp	N
+22	lao động	N
+23	không	R
+24	may mắn	A
+25	này	P
+26	thì	C
+27	chúng tôi	P
+28	được	V
+29	biết	V
+30	"	CH
+31	hôm nay	N
+32	,	CH
+33	thứ bảy	N
+34	28	M
+35	-	CH
+36	5	M
+37	,	CH
+38	là	V
+39	ngày	N
+40	nghỉ	V
+41	...	CH
+42	,	CH
+43	đầu	N
+44	tuần	N
+45	liên lạc	V
+46	lại	R
+47	"	CH
+48	.	CH
+
+# sentence_id = 81003.pos-s45
+# text = Cuối tháng 2 – 2005, văn phòng hỗ trợ các lao động của cha Nguyễn Văn Hùng nhận được một lá thư của một nữ lao động VN tố cáo những hành động đồi bại của tên Hồng .
+1	Cuối	N
+2	tháng	N
+3	2	M
+4	–	CH
+5	2005	M
+6	,	CH
+7	văn phòng	N
+8	hỗ trợ	V
+9	các	L
+10	lao động	N
+11	của	E
+12	cha	N
+13	Nguyễn Văn Hùng	Np
+14	nhận	V
+15	được	R
+16	một	M
+17	lá	N
+18	thư	N
+19	của	E
+20	một	M
+21	nữ	N
+22	lao động	N
+23	VN	Ny
+24	tố cáo	V
+25	những	L
+26	hành động	N
+27	đồi bại	A
+28	của	E
+29	tên	N
+30	Hồng	Np
+31	.	CH
+
+# sentence_id = 81003.pos-s46
+# text = Nội dung bức thư này kể rõ các hành động bạo dâm, thú tính, dã man của cha con tên Hồng với ít nhất là ba nạn nhân .
+1	Nội dung	N
+2	bức	N
+3	thư	N
+4	này	P
+5	kể	V
+6	rõ	A
+7	các	L
+8	hành động	N
+9	bạo	A
+10	dâm	A
+11	,	CH
+12	thú tính	N
+13	,	CH
+14	dã man	N
+15	của	E
+16	cha	N
+17	con	N
+18	tên	N
+19	Hồng	Np
+20	với	E
+21	ít nhất	X
+22	là	V
+23	ba	M
+24	nạn nhân	N
+25	.	CH
+
+# sentence_id = 81003.pos-s47
+# text = Từ lá thư này, VP của cha Hùng đã liên lạc được với một số nạn nhân khác và bắt đầu thu thập chứng cứ cũng như tố cáo chuyện này với cơ quan chức năng ĐL .
+1	Từ	E
+2	lá	Nc
+3	thư	N
+4	này	P
+5	,	CH
+6	VP	Ny
+7	của	E
+8	cha	N
+9	Hùng	Np
+10	đã	R
+11	liên lạc	V
+12	được	R
+13	với	E
+14	một số	L
+15	nạn nhân	N
+16	khác	A
+17	và	Cc
+18	bắt đầu	V
+19	thu thập	V
+20	chứng cứ	N
+21	cũng	R
+22	như	C
+23	tố cáo	V
+24	chuyện	N
+25	này	P
+26	với	E
+27	cơ quan chức năng	N
+28	ĐL	Ny
+29	.	CH
+
+# sentence_id = 81003.pos-s48
+# text = Đến trước khi cha con tên Hồng bị bắt, đã có bốn nạn nhân liên lạc với văn phòng của cha Hùng nhờ che chở và giúp đỡ .
+1	Đến	V
+2	trước	E
+3	khi	N
+4	cha	N
+5	con	N
+6	tên	N
+7	Hồng	Np
+8	bị	V
+9	bắt	V
+10	,	CH
+11	đã	R
+12	có	V
+13	bốn	M
+14	nạn nhân	N
+15	liên lạc	V
+16	với	E
+17	văn phòng	N
+18	của	E
+19	cha	N
+20	Hùng	Np
+21	nhờ	V
+22	che chở	V
+23	và	Cc
+24	giúp đỡ	V
+25	.	CH
+
+# sentence_id = 81003.pos-s49
+# text = Những công ty nào đưa lao động VN sang ĐL qua Công ty Trung Hữu ?
+1	Những	L
+2	công ty	N
+3	nào	P
+4	đưa	V
+5	lao động	N
+6	VN	Np
+7	sang	V
+8	ĐL	Ny
+9	qua	V
+10	Công ty	N
+11	Trung Hữu	Np
+12	?	CH
+
+# sentence_id = 81003.pos-s50
+# text = Hồng Minh Vũ là giám đốc Công ty môi giới lao động Trung Hữu ở vùng Dũng Khang, huyện Đài Nam .
+1	Hồng Minh Vũ	Np
+2	là	V
+3	giám đốc	N
+4	Công ty	N
+5	môi giới	V
+6	lao động	N
+7	Trung Hữu	Np
+8	ở	E
+9	vùng	N
+10	Dũng Khang	Np
+11	,	CH
+12	huyện	N
+13	Đài Nam	Np
+14	.	CH
+
+# sentence_id = 81003.pos-s51
+# text = Theo số liệu từ Cơ quan quản lý lao động của Đài Loan, Công ty Trung Hữu đã tiếp nhận 330 lao động từ các nước, có khoảng 200 là nữ .
+1	Theo	E
+2	số liệu	N
+3	từ	E
+4	Cơ quan	N
+5	quản lý	V
+6	lao động	N
+7	của	E
+8	Đài Loan	Np
+9	,	CH
+10	Công ty	N
+11	Trung Hữu	Np
+12	đã	R
+13	tiếp nhận	V
+14	330	M
+15	lao động	N
+16	từ	E
+17	các	L
+18	nước	N
+19	,	CH
+20	có	V
+21	khoảng	N
+22	200	M
+23	là	V
+24	nữ	N
+25	.	CH
+
+# sentence_id = 81003.pos-s52
+# text = Trụ sở, tài khoản và tài sản của cha con ông Hồng đã được kiểm kê và tịch thu hoặc bị phong tỏa .
+1	Trụ sở	N
+2	,	CH
+3	tài khoản	N
+4	và	Cc
+5	tài sản	N
+6	của	E
+7	cha	N
+8	con	N
+9	ông	Nc
+10	Hồng	Np
+11	đã	R
+12	được	V
+13	kiểm kê	V
+14	và	Cc
+15	tịch thu	V
+16	hoặc	Cc
+17	bị	V
+18	phong tỏa	V
+19	.	CH
+
+# sentence_id = 81003.pos-s53
+# text = Các nạn nhân cũng đã được đưa đến nhà ông Hồng để đối chất .
+1	Các	L
+2	nạn nhân	N
+3	cũng	R
+4	đã	R
+5	được	V
+6	đưa	V
+7	đến	E
+8	nhà	N
+9	ông	Nc
+10	Hồng	Np
+11	để	E
+12	đối chất	V
+13	.	CH
+
+# sentence_id = 81003.pos-s54
+# text = Một số người hàng xóm của ông Hồng cũng đã đứng ra làm chứng cho các nạn nhân này .
+1	Một số	L
+2	người	Nc
+3	hàng xóm	N
+4	của	E
+5	ông	Nc
+6	Hồng	Np
+7	cũng	R
+8	đã	R
+9	đứng	V
+10	ra	R
+11	làm chứng	V
+12	cho	E
+13	các	L
+14	nạn nhân	N
+15	này	P
+16	.	CH
+
+# sentence_id = 81003.pos-s55
+# text = Theo một nguồn tin của Tuổi Trẻ tại ĐL, phía giới chức ĐL ban đầu xác định có một số công ty môi giới lao động tại VN đã đưa các lao động nữ sang Công ty Trung Hữu trong thời gian qua .
+1	Theo	E
+2	một	M
+3	nguồn	N
+4	tin	N
+5	của	E
+6	Tuổi Trẻ	Np
+7	tại	E
+8	ĐL	Ny
+9	,	CH
+10	phía	N
+11	giới chức	N
+12	ĐL	Ny
+13	ban đầu	N
+14	xác định	V
+15	có	V
+16	một số	L
+17	công ty	N
+18	môi giới	V
+19	lao động	N
+20	tại	E
+21	VN	Ny
+22	đã	R
+23	đưa	V
+24	các	L
+25	lao động	N
+26	nữ	A
+27	sang	V
+28	Công ty	N
+29	Trung Hữu	Np
+30	trong	E
+31	thời gian	N
+32	qua	V
+33	.	CH
+
+# sentence_id = 81003.pos-s56
+# text = Đó là : Ha Long fisheries corporation, HaNoi trade and investment development company (Hapexco), Daklak investment export-import corporation, Vietnam corporation import-export of southern province (coopimex), Thua Thien - Hue engineering and labour export comapany (Enlexco)...
+1	Đó	P
+2	là	V
+3	:	CH
+4	Ha Long	Np
+5	fisheries corporation	N
+6	,	CH
+7	HaNoi	Np
+8	trade	N
+9	and	C
+10	investment	N
+11	development	N
+12	company	N
+13	(	CH
+14	Hapexco	Ny
+15	)	CH
+16	,	CH
+17	Daklak	Np
+18	investment	Np
+19	export-import	V
+20	corporation	N
+21	,	CH
+22	Vietnam	Np
+23	corporation	N
+24	import-export	V
+25	of	E
+26	southern	N
+27	province	N
+28	(	CH
+29	coopimex	Ny
+30	)	CH
+31	,	CH
+32	Thua Thien	Np
+33	-	CH
+34	Hue	Np
+35	engineering	N
+36	and	C
+37	labour	N
+38	export	V
+39	comapany	N
+40	(	CH
+41	Enlexco	Ny
+42	)	CH
+43	...	CH
+
+# sentence_id = 81003.pos-s57
+# text = Cha Hùng cho biết trong cuộc họp giữa văn phòng của cha Hùng, các luật sư, các tổ chức phi chính phủ với giới chức ĐL đã đi đến một số thống nhất như : sẽ hoàn trả toàn bộ số tiền lương của các lao động bị tên Hồng cắt xén, đảm bảo cho họ có công ăn việc làm được quyền đổi chủ, được hưởng chế độ bảo hiểm xã hội, y tế, được chính quyền bảo vệ, được chuyển lên miền Bắc làm việc .
+1	Cha	N
+2	Hùng	Np
+3	cho	V
+4	biết	V
+5	trong	E
+6	cuộc	N
+7	họp	V
+8	giữa	N
+9	văn phòng	N
+10	của	E
+11	cha	N
+12	Hùng	Np
+13	,	CH
+14	các	L
+15	luật sư	N
+16	,	CH
+17	các	L
+18	tổ chức	N
+19	phi chính phủ	A
+20	với	Cc
+21	giới chức	N
+22	ĐL	Np
+23	đã	R
+24	đi	V
+25	đến	E
+26	một số	L
+27	thống nhất	N
+28	như	C
+29	:	CH
+30	sẽ	R
+31	hoàn trả	V
+32	toàn bộ	P
+33	số	N
+34	tiền lương	N
+35	của	E
+36	các	L
+37	lao động	N
+38	bị	V
+39	tên	N
+40	Hồng	Np
+41	cắt xén	V
+42	,	CH
+43	đảm bảo	V
+44	cho	E
+45	họ	P
+46	có	V
+47	công ăn việc làm	N
+48	được	V
+49	quyền	N
+50	đổi	V
+51	chủ	N
+52	,	CH
+53	được	V
+54	hưởng	V
+55	chế độ	N
+56	bảo hiểm	V
+57	xã hội	N
+58	,	CH
+59	y tế	N
+60	,	CH
+61	được	V
+62	chính quyền	N
+63	bảo vệ	V
+64	,	CH
+65	được	V
+66	chuyển	V
+67	lên	E
+68	miền	N
+69	Bắc	Np
+70	làm việc	V
+71	.	CH
+
+# sentence_id = 81003.pos-s58
+# text = Đối với các nạn nhân vì sự hành hạ của tên Hồng buộc phải chạy trốn sẽ được hợp thức hóa công việc và chuyển địa bàn làm việc...
+1	Đối với	E
+2	các	L
+3	nạn nhân	N
+4	vì	E
+5	sự	N
+6	hành hạ	V
+7	của	E
+8	tên	N
+9	Hồng	Np
+10	buộc	V
+11	phải	V
+12	chạy	V
+13	trốn	V
+14	sẽ	R
+15	được	V
+16	hợp thức hóa	V
+17	công việc	N
+18	và	Cc
+19	chuyển	V
+20	địa bàn	N
+21	làm việc	N
+22	...	CH
+
+
+# document_id = 58799.pos
+# sentence_id = 58799.pos-s1
+# text = Người không sợ điện .
+1	Người	N
+2	không	R
+3	sợ	V
+4	điện	N
+5	.	CH
+
+# sentence_id = 58799.pos-s2
+# text = Qua đò Cây Trâm đi thêm gần 2 km vào ấp Cái Rô trên con đường giao thông nông thôn ngoằn ngoèo, cuối cùng chúng tôi cũng tìm được nhà anh .
+1	Qua	V
+2	đò	N
+3	Cây Trâm	Np
+4	đi	V
+5	thêm	R
+6	gần	A
+7	2	M
+8	km	Nu
+9	vào	V
+10	ấp	N
+11	Cái Rô	Np
+12	trên	E
+13	con	Nc
+14	đường	N
+15	giao thông	N
+16	nông thôn	N
+17	ngoằn ngoèo	A
+18	,	CH
+19	cuối cùng	A
+20	chúng tôi	P
+21	cũng	R
+22	tìm	V
+23	được	R
+24	nhà	N
+25	anh	N
+26	.	CH
+
+# sentence_id = 58799.pos-s3
+# text = Đang cặm cụi hàn điện, nhưng thấy người lạ vào nhà mà gọi đúng biệt danh của mình nên anh Huỳnh Văn Hùng (41 tuổi, ở xã Định Bình, thành phố Cà Mau) vội ngừng công việc lên nhà trên tiếp khách .
+1	Đang	R
+2	cặm cụi	A
+3	hàn	V
+4	điện	N
+5	,	CH
+6	nhưng	C
+7	thấy	V
+8	người	N
+9	lạ	A
+10	vào	V
+11	nhà	N
+12	mà	C
+13	gọi	V
+14	đúng	A
+15	biệt danh	N
+16	của	E
+17	mình	P
+18	nên	C
+19	anh	Nc
+20	Huỳnh Văn Hùng	Np
+21	(	CH
+22	41	M
+23	tuổi	N
+24	,	CH
+25	ở	E
+26	xã	N
+27	Định Bình	Np
+28	,	CH
+29	thành phố	N
+30	Cà Mau	Np
+31	)	CH
+32	vội	A
+33	ngừng	V
+34	công việc	N
+35	lên	V
+36	nhà	N
+37	trên	A
+38	tiếp	V
+39	khách	N
+40	.	CH
+
+# sentence_id = 58799.pos-s4
+# text = Hút chưa xong điếu thuốc thì đám thanh niên trong ấp cũng kéo đến vì nghe tin anh có khách, thế nào cũng"giỡn mặt"với... điện !
+1	Hút	V
+2	chưa	R
+3	xong	V
+4	điếu	Nc
+5	thuốc	N
+6	thì	C
+7	đám	Nc
+8	thanh niên	N
+9	trong	E
+10	ấp	N
+11	cũng	R
+12	kéo	V
+13	đến	R
+14	vì	E
+15	nghe	V
+16	tin	N
+17	anh	N
+18	có	V
+19	khách	N
+20	,	CH
+21	thế nào	X
+22	cũng	R
+23	"	CH
+24	giỡn	V
+25	mặt	N
+26	"	CH
+27	với	E
+28	...	CH
+29	điện	N
+30	!	CH
+
+# sentence_id = 58799.pos-s5
+# text = Thắng độ... 123 tháng lương !
+1	Thắng	V
+2	độ	N
+3	...	CH
+4	123	M
+5	tháng	N
+6	lương	N
+7	!	CH
+
+# sentence_id = 58799.pos-s6
+# text = Đang lúc chuẩn bị biểu diễn biệt tài dùng tay cắm vào ổ điện thì nhà anh bỗng nhiên cúp điện .
+1	Đang	R
+2	lúc	N
+3	chuẩn bị	V
+4	biểu diễn	V
+5	biệt tài	N
+6	dùng	V
+7	tay	N
+8	cắm	V
+9	vào	E
+10	ổ	N
+11	điện	N
+12	thì	C
+13	nhà	N
+14	anh	N
+15	bỗng nhiên	R
+16	cúp	V
+17	điện	N
+18	.	CH
+
+# sentence_id = 58799.pos-s7
+# text = Cả đám thanh niên đang vây quanh trước cửa nhà ồ lên cười vì cho rằng anh nói dối nên đã dặn người nhà đóng cầu dao .
+1	Cả	P
+2	đám	Nc
+3	thanh niên	N
+4	đang	R
+5	vây	V
+6	quanh	N
+7	trước	E
+8	cửa	N
+9	nhà	N
+10	ồ	V
+11	lên	R
+12	cười	V
+13	vì	E
+14	cho	V
+15	rằng	C
+16	anh	N
+17	nói dối	V
+18	nên	C
+19	đã	R
+20	dặn	V
+21	người nhà	N
+22	đóng	V
+23	cầu dao	N
+24	.	CH
+
+# sentence_id = 58799.pos-s8
+# text = Để minh chứng lời nói của mình, anh vội móc điện thoại di động trong túi ra và gọi cho một người bạn ở khác ấp để tìm cho được nơi có điện .
+1	Để	E
+2	minh chứng	V
+3	lời nói	N
+4	của	E
+5	mình	P
+6	,	CH
+7	anh	N
+8	vội	A
+9	móc	V
+10	điện thoại di động	N
+11	trong	E
+12	túi	N
+13	ra	R
+14	và	Cc
+15	gọi	V
+16	cho	E
+17	một	M
+18	người	N
+19	bạn	N
+20	ở	E
+21	khác	A
+22	ấp	N
+23	để	E
+24	tìm	V
+25	cho	E
+26	được	V
+27	nơi	N
+28	có	V
+29	điện	N
+30	.	CH
+
+# sentence_id = 58799.pos-s9
+# text = Cuối cùng giây phút hồi hộp chờ đợi của chúng tôi và mọi người trong xã đã đến khi tìm được khu vực không bị cúp điện .
+1	Cuối cùng	A
+2	giây phút	N
+3	hồi hộp	A
+4	chờ đợi	V
+5	của	E
+6	chúng tôi	P
+7	và	Cc
+8	mọi	L
+9	người	N
+10	trong	E
+11	xã	N
+12	đã	R
+13	đến	V
+14	khi	N
+15	tìm	V
+16	được	R
+17	khu vực	N
+18	không	R
+19	bị	V
+20	cúp	V
+21	điện	N
+22	.	CH
+
+# sentence_id = 58799.pos-s10
+# text = Sợ mọi người không tin, trước khi biểu diễn anh đã lấy một cây quạt cắm vào ổ điện cho nhiều người cùng xem .
+1	Sợ	V
+2	mọi	L
+3	người	N
+4	không	R
+5	tin	V
+6	,	CH
+7	trước	E
+8	khi	N
+9	biểu diễn	V
+10	anh	N
+11	đã	R
+12	lấy	V
+13	một	M
+14	cây	Nc
+15	quạt	N
+16	cắm	V
+17	vào	R
+18	ổ	N
+19	điện	N
+20	cho	E
+21	nhiều	A
+22	người	N
+23	cùng	A
+24	xem	V
+25	.	CH
+
+# sentence_id = 58799.pos-s11
+# text = Sau đó anh mở nắp cầu dao, dùng cây bút thử điện lia qua lia lại, điện bắn"tẹt, tẹt"sáng ánh .
+1	Sau	E
+2	đó	P
+3	anh	N
+4	mở	V
+5	nắp	N
+6	cầu dao	N
+7	,	CH
+8	dùng	V
+9	cây bút	N
+10	thử	V
+11	điện	N
+12	lia qua lia lại	X
+13	,	CH
+14	điện	N
+15	bắn	V
+16	"	CH
+17	tẹt	A
+18	,	CH
+19	tẹt	A
+20	"	CH
+21	sáng	A
+22	ánh	A
+23	.	CH
+
+# sentence_id = 58799.pos-s12
+# text = Cuối cùng anh đưa hai ngón tay vào ổ điện trong tiếng vỗ tay liên hồi của mọi người, trong đó một số người thân sợ anh bị điện giật chết nên đã run lên bần bật và toát mồ hôi hột, còn anh vẫn cười tươi như không có chuyện gì xảy ra .
+1	Cuối cùng	A
+2	anh	N
+3	đưa	V
+4	hai	M
+5	ngón	N
+6	tay	N
+7	vào	E
+8	ổ	N
+9	điện	N
+10	trong	E
+11	tiếng	N
+12	vỗ tay	V
+13	liên hồi	A
+14	của	E
+15	mọi	L
+16	người	N
+17	,	CH
+18	trong	E
+19	đó	P
+20	một số	L
+21	người thân	N
+22	sợ	V
+23	anh	N
+24	bị	V
+25	điện	N
+26	giật	V
+27	chết	V
+28	nên	C
+29	đã	R
+30	run	V
+31	lên	R
+32	bần bật	A
+33	và	Cc
+34	toát	V
+35	mồ hôi	N
+36	hột	N
+37	,	CH
+38	còn	C
+39	anh	N
+40	vẫn	R
+41	cười	V
+42	tươi	A
+43	như	C
+44	không	R
+45	có	V
+46	chuyện	N
+47	gì	P
+48	xảy	V
+49	ra	R
+50	.	CH
+
+# sentence_id = 58799.pos-s13
+# text = Thoạt đầu mới nghe qua cứ tưởng anh là một người có thân hình to cao và... không bình thường, nhưng khi gặp mặt mới thấy anh chỉ nặng chưa đầy 50 kg và cao chừng 1,6 m .
+1	Thoạt đầu	N
+2	mới	R
+3	nghe	V
+4	qua	R
+5	cứ	R
+6	tưởng	V
+7	anh	N
+8	là	V
+9	một	M
+10	người	N
+11	có	V
+12	thân hình	N
+13	to cao	A
+14	và	Cc
+15	...	CH
+16	không	R
+17	bình thường	A
+18	,	CH
+19	nhưng	C
+20	khi	N
+21	gặp	V
+22	mặt	N
+23	mới	R
+24	thấy	V
+25	anh	N
+26	chỉ	R
+27	nặng	A
+28	chưa	R
+29	đầy	A
+30	50	M
+31	kg	Nu
+32	và	Cc
+33	cao	A
+34	chừng	A
+35	1,6	M
+36	m	Nu
+37	.	CH
+
+# sentence_id = 58799.pos-s14
+# text = Sinh ra trong một gia đình thuần nông ở thị trấn Hộ Phòng, huyện Giá Rai (Bạc Liêu), gia đình anh ai cũng nhút nhát khi tiếp xúc với điện, còn anh rất mê được làm thợ điện .
+1	Sinh	V
+2	ra	R
+3	trong	E
+4	một	M
+5	gia đình	N
+6	thuần	A
+7	nông	N
+8	ở	E
+9	thị trấn	N
+10	Hộ Phòng	Np
+11	,	CH
+12	huyện	N
+13	Giá Rai	Np
+14	(	CH
+15	Bạc Liêu	Np
+16	)	CH
+17	,	CH
+18	gia đình	N
+19	anh	N
+20	ai	P
+21	cũng	R
+22	nhút nhát	A
+23	khi	N
+24	tiếp xúc	V
+25	với	E
+26	điện	N
+27	,	CH
+28	còn	C
+29	anh	N
+30	rất	R
+31	mê	V
+32	được	V
+33	làm	V
+34	thợ điện	N
+35	.	CH
+
+# sentence_id = 58799.pos-s15
+# text = Năm 26 tuổi anh Hùng bắt đầu hành nghề sửa chữa điện gia dụng .
+1	Năm	N
+2	26	M
+3	tuổi	N
+4	anh	Nc
+5	Hùng	Np
+6	bắt đầu	V
+7	hành nghề	V
+8	sửa chữa	V
+9	điện	N
+10	gia dụng	N
+11	.	CH
+
+# sentence_id = 58799.pos-s16
+# text = Một năm sau đó anh xin vào làm việc tại Xí nghiệp Cơ khí huyện Giá Rai với nhiệm vụ trông coi nhà máy đèn của xí nghiệp .
+1	Một	M
+2	năm	N
+3	sau	A
+4	đó	P
+5	anh	N
+6	xin	V
+7	vào	R
+8	làm việc	V
+9	tại	E
+10	Xí nghiệp	Np
+11	Cơ khí	N
+12	huyện	N
+13	Giá Rai	Np
+14	với	E
+15	nhiệm vụ	N
+16	trông coi	V
+17	nhà máy	N
+18	đèn	N
+19	của	E
+20	xí nghiệp	N
+21	.	CH
+
+# sentence_id = 58799.pos-s17
+# text = Trong một lần mất điện, anh đã vào sửa máy nhưng quên không ngắt cầu dao, lúc có điện lại anh vẫn còn cầm trên tay sợi dây điện nhưng không bị giật .
+1	Trong	E
+2	một	M
+3	lần	N
+4	mất	V
+5	điện	N
+6	,	CH
+7	anh	N
+8	đã	R
+9	vào	V
+10	sửa	V
+11	máy	N
+12	nhưng	C
+13	quên	V
+14	không	R
+15	ngắt	V
+16	cầu dao	N
+17	,	CH
+18	lúc	N
+19	có	V
+20	điện	N
+21	lại	R
+22	anh	N
+23	vẫn	R
+24	còn	V
+25	cầm	V
+26	trên	E
+27	tay	N
+28	sợi	Nc
+29	dây điện	N
+30	nhưng	C
+31	không	R
+32	bị	V
+33	giật	V
+34	.	CH
+
+# sentence_id = 58799.pos-s18
+# text = Anh nhớ lại :"Bên ngoài mấy ông thợ ghim điện hàn chì ì xèo nhưng tôi đâu có biết, tưởng chưa có điện nên tôi cứ nối dây bình thường .
+1	Anh	N
+2	nhớ	V
+3	lại	R
+4	:	CH
+5	"	CH
+6	Bên	E
+7	ngoài	N
+8	mấy	L
+9	ông	Nc
+10	thợ	N
+11	ghim	V
+12	điện	N
+13	hàn	V
+14	chì	N
+15	ì xèo	V
+16	nhưng	C
+17	tôi	P
+18	đâu	R
+19	có	V
+20	biết	V
+21	,	CH
+22	tưởng	V
+23	chưa	R
+24	có	V
+25	điện	N
+26	nên	C
+27	tôi	P
+28	cứ	R
+29	nối	V
+30	dây	N
+31	bình thường	A
+32	.	CH
+
+# sentence_id = 58799.pos-s19
+# text = Từ đó mới biết mình không bị điện giật".
+1	Từ	E
+2	đó	P
+3	mới	R
+4	biết	V
+5	mình	P
+6	không	R
+7	bị	V
+8	điện	N
+9	giật	V
+10	"	CH
+11	.	CH
+
+# sentence_id = 58799.pos-s20
+# text = Những ngày đầu biết được cơ thể"khác người"của mình đã làm anh mất ăn mất ngủ, nhiều người ác miệng còn bảo anh là..."người cõi trên"và đặt cho anh biệt danh Hùng"điện".
+1	Những	L
+2	ngày	N
+3	đầu	N
+4	biết	V
+5	được	R
+6	cơ thể	N
+7	"	CH
+8	khác	A
+9	người	N
+10	"	CH
+11	của	E
+12	mình	P
+13	đã	R
+14	làm	V
+15	anh	N
+16	mất ăn mất ngủ	X
+17	,	CH
+18	nhiều	A
+19	người	N
+20	ác miệng	A
+21	còn	R
+22	bảo	V
+23	anh	N
+24	là	V
+25	...	CH
+26	"	CH
+27	người	N
+28	cõi	N
+29	trên	A
+30	"	CH
+31	và	Cc
+32	đặt	V
+33	cho	E
+34	anh	N
+35	biệt danh	N
+36	Hùng	Np
+37	"	CH
+38	điện	N
+39	"	CH
+40	.	CH
+
+# sentence_id = 58799.pos-s21
+# text = Tuy lo lắng vì không biết có mang trong cơ thể loại bệnh gì không nhưng anh vẫn cố bình tĩnh vào cơ quan làm việc, và mỗi lúc bạn bè kêu anh biểu diễn dùng tay nắm dây điện trần đang dẫn điện thì anh lại bảo là có"độ"mới làm .
+1	Tuy	C
+2	lo lắng	V
+3	vì	E
+4	không	R
+5	biết	V
+6	có	V
+7	mang	V
+8	trong	E
+9	cơ thể	N
+10	loại	Nc
+11	bệnh	N
+12	gì	P
+13	không	R
+14	nhưng	C
+15	anh	N
+16	vẫn	R
+17	cố	V
+18	bình tĩnh	A
+19	vào	V
+20	cơ quan	N
+21	làm việc	V
+22	,	CH
+23	và	Cc
+24	mỗi	L
+25	lúc	N
+26	bạn bè	N
+27	kêu	V
+28	anh	N
+29	biểu diễn	V
+30	dùng	V
+31	tay	N
+32	nắm	V
+33	dây điện	N
+34	trần	A
+35	đang	R
+36	dẫn điện	V
+37	thì	C
+38	anh	N
+39	lại	R
+40	bảo	V
+41	là	C
+42	có	V
+43	"	CH
+44	độ	N
+45	"	CH
+46	mới	R
+47	làm	V
+48	.	CH
+
+# sentence_id = 58799.pos-s22
+# text = Nhiều người không tin nên đã cá độ với anh, khi thì một chầu ăn sáng, uống cà phê hay nhiều hơn là một độ nhậu bia lon... và anh đều thắng .
+1	Nhiều	A
+2	người	N
+3	không	R
+4	tin	V
+5	nên	C
+6	đã	R
+7	cá độ	V
+8	với	E
+9	anh	N
+10	,	CH
+11	khi	N
+12	thì	C
+13	một	M
+14	chầu	N
+15	ăn	V
+16	sáng	N
+17	,	CH
+18	uống	V
+19	cà phê	N
+20	hay	C
+21	nhiều	A
+22	hơn	R
+23	là	V
+24	một	M
+25	độ	N
+26	nhậu	V
+27	bia lon	N
+28	...	CH
+29	và	Cc
+30	anh	N
+31	đều	R
+32	thắng	V
+33	.	CH
+
+# sentence_id = 58799.pos-s23
+# text = Anh cười tươi :"Nếu không thắng thì đâu còn sống đến bây giờ .
+1	Anh	N
+2	cười	V
+3	tươi	A
+4	:	CH
+5	"	CH
+6	Nếu	C
+7	không	R
+8	thắng	V
+9	thì	C
+10	đâu	R
+11	còn	V
+12	sống	V
+13	đến	E
+14	bây giờ	P
+15	.	CH
+
+# sentence_id = 58799.pos-s24
+# text = Mà lúc ấy liều thiệt, chưa biết cơ thể mình có không bị điện giật hoài không nhưng nghe có độ với mấy thằng bạn là"máu"liền".
+1	Mà	C
+2	lúc	N
+3	ấy	P
+4	liều	V
+5	thiệt	T
+6	,	CH
+7	chưa	R
+8	biết	V
+9	cơ thể	N
+10	mình	P
+11	có	V
+12	không	R
+13	bị	V
+14	điện	N
+15	giật	V
+16	hoài	R
+17	không	R
+18	nhưng	C
+19	nghe	V
+20	có	V
+21	độ	N
+22	với	E
+23	mấy	L
+24	thằng	N
+25	bạn	N
+26	là	C
+27	"	CH
+28	máu	N
+29	"	CH
+30	liền	R
+31	"	CH
+32	.	CH
+
+# sentence_id = 58799.pos-s25
+# text = Một trong những lần thắng độ mà anh Hùng cho là vẻ vang nhất vào năm 1990 khi ông giám đốc xí nghiệp của anh lúc đó (ông Võ Thành Long) đã thua anh bằng cách xuất tiền túi trả cho 123 công nhân mỗi người một tháng lương .
+1	Một	M
+2	trong	E
+3	những	L
+4	lần	N
+5	thắng	V
+6	độ	N
+7	mà	C
+8	anh	Nc
+9	Hùng	Np
+10	cho	V
+11	là	C
+12	vẻ vang	A
+13	nhất	R
+14	vào	E
+15	năm	N
+16	1990	M
+17	khi	N
+18	ông	Nc
+19	giám đốc	N
+20	xí nghiệp	N
+21	của	E
+22	anh	N
+23	lúc	N
+24	đó	P
+25	(	CH
+26	ông	Nc
+27	Võ Thành Long	Np
+28	)	CH
+29	đã	R
+30	thua	V
+31	anh	N
+32	bằng	E
+33	cách	N
+34	xuất	V
+35	tiền túi	N
+36	trả	V
+37	cho	R
+38	123	M
+39	công nhân	N
+40	mỗi	L
+41	người	N
+42	một	M
+43	tháng	N
+44	lương	N
+45	.	CH
+
+# sentence_id = 58799.pos-s26
+# text = "Lúc đầu tôi chỉ cá với ổng bằng cách tặng tôi một tháng lương để nhậu với anh em làm chung, nhưng có lẽ thấy mang một mạng người ra cá độ chỉ với mấy trăm ngàn là quá ít hay sao đấy mà sếp tăng giá đến vậy (? !)"- anh nói .
+1	"	CH
+2	Lúc	N
+3	đầu	N
+4	tôi	P
+5	chỉ	R
+6	cá	V
+7	với	E
+8	ổng	N
+9	bằng	E
+10	cách	N
+11	tặng	V
+12	tôi	P
+13	một	M
+14	tháng	N
+15	lương	N
+16	để	E
+17	nhậu	V
+18	với	E
+19	anh em	N
+20	làm	V
+21	chung	A
+22	,	CH
+23	nhưng	C
+24	có lẽ	R
+25	thấy	V
+26	mang	V
+27	một	M
+28	mạng	N
+29	người	N
+30	ra	R
+31	cá độ	V
+32	chỉ	R
+33	với	E
+34	mấy	L
+35	trăm ngàn	M
+36	là	C
+37	quá	R
+38	ít	A
+39	hay sao	X
+40	đấy	P
+41	mà	C
+42	sếp	N
+43	tăng giá	V
+44	đến	E
+45	vậy	P
+46	(	CH
+47	?	CH
+48	!	CH
+49	)	CH
+50	"	CH
+51	-	CH
+52	anh	N
+53	nói	V
+54	.	CH
+
+# sentence_id = 58799.pos-s27
+# text = Vái cho... điện giật chết !
+1	Vái	V
+2	cho	E
+3	...	CH
+4	điện	N
+5	giật	V
+6	chết	V
+7	!	CH
+
+# sentence_id = 58799.pos-s28
+# text = Sau nhiều năm"giỡn mặt"với điện, thấy cơ thể vẫn khỏe mạnh nên anh quyết định lấy vợ .
+1	Sau	E
+2	nhiều	A
+3	năm	N
+4	"	CH
+5	giỡn	V
+6	mặt	N
+7	"	CH
+8	với	E
+9	điện	N
+10	,	CH
+11	thấy	V
+12	cơ thể	N
+13	vẫn	R
+14	khỏe mạnh	A
+15	nên	C
+16	anh	N
+17	quyết định	V
+18	lấy	V
+19	vợ	N
+20	.	CH
+
+# sentence_id = 58799.pos-s29
+# text = Tuy nhiên, lo sợ chị Quách Hồng Lê (vợ anh) bị anh... truyền điện nên anh dặn bạn bè không cho vợ biết chuyện và giấu luôn biệt danh Hùng"điện"của mình .
+1	Tuy nhiên	C
+2	,	CH
+3	lo sợ	V
+4	chị	Nc
+5	Quách Hồng Lê	Np
+6	(	CH
+7	vợ	N
+8	anh	N
+9	)	CH
+10	bị	V
+11	anh	N
+12	...	CH
+13	truyền	V
+14	điện	N
+15	nên	C
+16	anh	N
+17	dặn	V
+18	bạn bè	N
+19	không	R
+20	cho	V
+21	vợ	N
+22	biết	V
+23	chuyện	N
+24	và	Cc
+25	giấu	V
+26	luôn	R
+27	biệt danh	N
+28	Hùng	Np
+29	"	CH
+30	điện	N
+31	"	CH
+32	của	E
+33	mình	P
+34	.	CH
+
+# sentence_id = 58799.pos-s30
+# text = Tuy nhiên, cây kim trong bọc cũng có ngày lòi ra .
+1	Tuy nhiên	C
+2	,	CH
+3	cây	Nc
+4	kim	N
+5	trong	E
+6	bọc	N
+7	cũng	R
+8	có	V
+9	ngày	N
+10	lòi	V
+11	ra	R
+12	.	CH
+
+# sentence_id = 58799.pos-s31
+# text = Anh kể :"Cưới vợ gần một tháng, hôm đó khi đi đám giỗ ngang qua nhà anh Năm Truyền (Trần Văn Truyền) ở ấp Cây Trâm, không biết ảnh quên hay sao mà hỏi tôi :"Ê, khỏe không Hùng"điện"?"".
+1	Anh	N
+2	kể	V
+3	:	CH
+4	"	CH
+5	Cưới	V
+6	vợ	N
+7	gần	A
+8	một	M
+9	tháng	N
+10	,	CH
+11	hôm	N
+12	đó	P
+13	khi	N
+14	đi	V
+15	đám	Nc
+16	giỗ	N
+17	ngang	V
+18	qua	R
+19	nhà	N
+20	anh	Nc
+21	Năm Truyền	Np
+22	(	CH
+23	Trần Văn Truyền	Np
+24	)	CH
+25	ở	E
+26	ấp	N
+27	Cây Trâm	Np
+28	,	CH
+29	không	R
+30	biết	V
+31	ảnh	N
+32	quên	V
+33	hay	R
+34	sao	P
+35	mà	C
+36	hỏi	V
+37	tôi	P
+38	:	CH
+39	"	CH
+40	Ê	I
+41	,	CH
+42	khỏe	A
+43	không	R
+44	Hùng	Np
+45	"	CH
+46	điện	N
+47	"	CH
+48	?	CH
+49	"	CH
+50	"	CH
+51	.	CH
+
+# sentence_id = 58799.pos-s32
+# text = Nghe vậy vợ tôi truy hỏi tới cùng vì sao có cái biệt danh ấy nên tôi phải khai ra".
+1	Nghe	V
+2	vậy	P
+3	vợ	N
+4	tôi	P
+5	truy hỏi	V
+6	tới	E
+7	cùng	N
+8	vì sao	X
+9	có	V
+10	cái	Nc
+11	biệt danh	N
+12	ấy	P
+13	nên	C
+14	tôi	P
+15	phải	V
+16	khai	V
+17	ra	R
+18	"	CH
+19	.	CH
+
+# sentence_id = 58799.pos-s33
+# text = Còn chị khi biết được anh Hùng hay thường xuyên cá độ với bạn bè bằng cách lấy ngón tay làm"cầu chì"thì chị đã khóc ròng và cấm anh nếu còn cá độ sẽ bỏ về bên nhà nhưng cũng không ngăn được anh .
+1	Còn	C
+2	chị	N
+3	khi	N
+4	biết	V
+5	được	R
+6	anh	Nc
+7	Hùng	Np
+8	hay	R
+9	thường xuyên	A
+10	cá độ	V
+11	với	E
+12	bạn bè	N
+13	bằng	E
+14	cách	N
+15	lấy	V
+16	ngón	N
+17	tay	N
+18	làm	V
+19	"	CH
+20	cầu chì	N
+21	"	CH
+22	thì	C
+23	chị	N
+24	đã	R
+25	khóc	V
+26	ròng	A
+27	và	Cc
+28	cấm	V
+29	anh	N
+30	nếu	C
+31	còn	V
+32	cá độ	V
+33	sẽ	R
+34	bỏ	V
+35	về	R
+36	bên	N
+37	nhà	N
+38	nhưng	C
+39	cũng	R
+40	không	R
+41	ngăn	V
+42	được	R
+43	anh	N
+44	.	CH
+
+# sentence_id = 58799.pos-s34
+# text = "Vì quá thương tôi nên bả mới làm vậy chứ tôi biết đâu có chuyện gì xảy ra .
+1	"	CH
+2	Vì	E
+3	quá	R
+4	thương	V
+5	tôi	P
+6	nên	C
+7	bả	N
+8	mới	R
+9	làm	V
+10	vậy	P
+11	chứ	C
+12	tôi	P
+13	biết	V
+14	đâu	P
+15	có	V
+16	chuyện	N
+17	gì	P
+18	xảy	V
+19	ra	R
+20	.	CH
+
+# sentence_id = 58799.pos-s35
+# text = Mấy lần sau khi thấy tôi nắm dây điện bả chỉ... vái cho tôi bị điện giật chết"- vừa nói anh vừa nhìn vợ tỏ vẻ đắc ý .
+1	Mấy	L
+2	lần	N
+3	sau	E
+4	khi	N
+5	thấy	V
+6	tôi	P
+7	nắm	V
+8	dây điện	N
+9	bả	N
+10	chỉ	R
+11	...	CH
+12	vái	V
+13	cho	E
+14	tôi	P
+15	bị	V
+16	điện	N
+17	giật	V
+18	chết	V
+19	"	CH
+20	-	CH
+21	vừa	R
+22	nói	V
+23	anh	N
+24	vừa	R
+25	nhìn	V
+26	vợ	N
+27	tỏ vẻ	V
+28	đắc ý	A
+29	.	CH
+
+# sentence_id = 58799.pos-s36
+# text = Anh Năm Truyền chen lời :"Hôm trước nghe chuyện này ông Hai Bình bực mình đòi cá 1.000 giạ lúa với nó, nhưng nghe ai cũng nói thằng Hùng không sợ điện giật nên ổng vội... rút lui".
+1	Anh	Nc
+2	Năm Truyền	Np
+3	chen	V
+4	lời	N
+5	:	CH
+6	"	CH
+7	Hôm	N
+8	trước	A
+9	nghe	V
+10	chuyện	N
+11	này	P
+12	ông	Nc
+13	Hai Bình	Np
+14	bực mình	V
+15	đòi	V
+16	cá	V
+17	1.000	M
+18	giạ	N
+19	lúa	N
+20	với	E
+21	nó	P
+22	,	CH
+23	nhưng	C
+24	nghe	V
+25	ai	P
+26	cũng	R
+27	nói	V
+28	thằng	Nc
+29	Hùng	Np
+30	không	R
+31	sợ	V
+32	điện	N
+33	giật	V
+34	nên	C
+35	ổng	N
+36	vội	A
+37	...	CH
+38	rút lui	V
+39	"	CH
+40	.	CH
+
+# sentence_id = 58799.pos-s37
+# text = Mặc dù biết không bị điện giật nhưng sợ một ngày nào đó"nguồn điện"trong cơ thể sẽ ảnh hưởng đến vợ và bốn đứa con, vì mỗi khi anh cầm đồng hồ đo điện kế của những người sửa chữa điện tử thì kim đồng hồ chạy lên con số 12 V, nên anh quyết định đi TP.HCM khám bệnh .
+1	Mặc dù	C
+2	biết	V
+3	không	R
+4	bị	V
+5	điện	N
+6	giật	V
+7	nhưng	C
+8	sợ	V
+9	một	M
+10	ngày	N
+11	nào	P
+12	đó	P
+13	"	CH
+14	nguồn	N
+15	điện	N
+16	"	CH
+17	trong	E
+18	cơ thể	N
+19	sẽ	R
+20	ảnh hưởng	V
+21	đến	R
+22	vợ	N
+23	và	Cc
+24	bốn	M
+25	đứa	Nc
+26	con	N
+27	,	CH
+28	vì	E
+29	mỗi	L
+30	khi	N
+31	anh	N
+32	cầm	V
+33	đồng hồ	N
+34	đo	V
+35	điện kế	N
+36	của	E
+37	những	L
+38	người	N
+39	sửa chữa	V
+40	điện tử	N
+41	thì	C
+42	kim	N
+43	đồng hồ	N
+44	chạy	V
+45	lên	R
+46	con số	N
+47	12	M
+48	V	Nu
+49	,	CH
+50	nên	C
+51	anh	N
+52	quyết định	V
+53	đi	V
+54	TP.HCM	Ny
+55	khám	V
+56	bệnh	N
+57	.	CH
+
+# sentence_id = 58799.pos-s38
+# text = Theo lời anh thì bác sĩ Nguyễn Thành Thông (Bệnh viện Phạm Ngọc Thạch) cho biết cơ thể anh bình thường, chỉ có màng mỡ không giống người khác và khi bị trầy sướt tay chân anh sẽ không bị làm mủ .
+1	Theo	E
+2	lời	N
+3	anh	N
+4	thì	C
+5	bác sĩ	N
+6	Nguyễn Thành Thông	Np
+7	(	CH
+8	Bệnh viện	N
+9	Phạm Ngọc Thạch	Np
+10	)	CH
+11	cho	V
+12	biết	V
+13	cơ thể	N
+14	anh	N
+15	bình thường	A
+16	,	CH
+17	chỉ	R
+18	có	V
+19	màng	N
+20	mỡ	N
+21	không	R
+22	giống	A
+23	người	N
+24	khác	A
+25	và	Cc
+26	khi	N
+27	bị	V
+28	trầy	V
+29	sướt	V
+30	tay	N
+31	chân	N
+32	anh	N
+33	sẽ	R
+34	không	R
+35	bị	V
+36	làm	V
+37	mủ	N
+38	.	CH
+
+# sentence_id = 58799.pos-s39
+# text = Cũng theo anh Hùng, khi xem tivi về chuyện ông Nguyễn Thành Vinh ở Tiền Giang không bị điện giật, anh đã dùng sợi dây nóng cắm vào ly nước và để tay vào nhưng cũng không thấy giật nên anh đã cầm ly nước uống bình thường như ông Vinh .
+1	Cũng	R
+2	theo	E
+3	anh	Nc
+4	Hùng	Np
+5	,	CH
+6	khi	N
+7	xem	V
+8	tivi	Nb
+9	về	E
+10	chuyện	N
+11	ông	Nc
+12	Nguyễn Thành Vinh	Np
+13	ở	E
+14	Tiền Giang	Np
+15	không	R
+16	bị	V
+17	điện	N
+18	giật	V
+19	,	CH
+20	anh	N
+21	đã	R
+22	dùng	V
+23	sợi	Nc
+24	dây nóng	N
+25	cắm	V
+26	vào	E
+27	ly	N
+28	nước	N
+29	và	Cc
+30	để	V
+31	tay	N
+32	vào	R
+33	nhưng	C
+34	cũng	R
+35	không	R
+36	thấy	V
+37	giật	V
+38	nên	C
+39	anh	N
+40	đã	R
+41	cầm	V
+42	ly	N
+43	nước	N
+44	uống	V
+45	bình thường	A
+46	như	C
+47	ông	Nc
+48	Vinh	Np
+49	.	CH
+
+# sentence_id = 58799.pos-s40
+# text = Anh cười :"Chuyện đó dễ ợt, tôi làm hoài".
+1	Anh	N
+2	cười	V
+3	:	CH
+4	"	CH
+5	Chuyện	N
+6	đó	P
+7	dễ ợt	A
+8	,	CH
+9	tôi	P
+10	làm	V
+11	hoài	R
+12	"	CH
+13	.	CH
+
+# sentence_id = 58799.pos-s41
+# text = Trước khi tiễn khách anh Hùng còn bật mí :"Đến năm 45 tuổi tôi sẽ biểu diễn hơn ông Vinh nhiều thứ nữa cho các anh xem, còn bây giờ thì đang... luyện công .
+1	Trước	E
+2	khi	N
+3	tiễn	V
+4	khách	N
+5	anh	Nc
+6	Hùng	Np
+7	còn	R
+8	bật mí	V
+9	:	CH
+10	"	CH
+11	Đến	E
+12	năm	N
+13	45	M
+14	tuổi	N
+15	tôi	P
+16	sẽ	R
+17	biểu diễn	V
+18	hơn	A
+19	ông	Nc
+20	Vinh	Np
+21	nhiều	A
+22	thứ	N
+23	nữa	T
+24	cho	E
+25	các	L
+26	anh	N
+27	xem	V
+28	,	CH
+29	còn	C
+30	bây giờ	P
+31	thì	C
+32	đang	R
+33	...	CH
+34	luyện	V
+35	công	N
+36	.	CH
+
+# sentence_id = 58799.pos-s42
+# text = Thằng Tính bạn tôi ở Điện lực Tắc Vân nhiều lúc đi sửa điện cho bà con thấy không kịp nên kêu tôi giúp và vụ nào tôi cũng nối dây điện"sống", chưa bao giờ tôi biết cúp cầu dao là gì".
+1	Thằng	Nc
+2	Tính	Np
+3	bạn	N
+4	tôi	P
+5	ở	E
+6	Điện lực	N
+7	Tắc Vân	Np
+8	nhiều	A
+9	lúc	N
+10	đi	V
+11	sửa	V
+12	điện	N
+13	cho	E
+14	bà con	N
+15	thấy	V
+16	không	R
+17	kịp	A
+18	nên	C
+19	kêu	V
+20	tôi	P
+21	giúp	V
+22	và	Cc
+23	vụ	N
+24	nào	P
+25	tôi	P
+26	cũng	R
+27	nối	V
+28	dây điện	N
+29	"	CH
+30	sống	A
+31	"	CH
+32	,	CH
+33	chưa	R
+34	bao giờ	P
+35	tôi	P
+36	biết	V
+37	cúp	V
+38	cầu dao	N
+39	là	V
+40	gì	P
+41	"	CH
+42	.	CH
+
+
+# document_id = 106490.seg.pos
+# sentence_id = 106490.seg.pos-s1
+# text = 00 : 51 : 00
+1	00	M
+2	:	CH
+3	51	M
+4	:	CH
+5	00	M
+
+# sentence_id = 106490.seg.pos-s2
+# text = Đấu trường vinh quang - Ngày ấy & bây giờ (kỳ 4)
+1	Đấu trường	N
+2	vinh quang	A
+3	-	CH
+4	Ngày	N
+5	ấy	P
+6	&	CH
+7	bây giờ	P
+8	(	CH
+9	kỳ	N
+10	4	M
+11	)	CH
+
+# sentence_id = 106490.seg.pos-s3
+# text = Gặp lại “ kỳ quan bóng bàn thế giới ”
+1	Gặp	V
+2	lại	R
+3	“	CH
+4	kỳ quan	N
+5	bóng bàn	N
+6	thế giới	N
+7	”	CH
+
+# sentence_id = 106490.seg.pos-s4
+# text = TT - Đã 66 tuổi nhưng trông ông vẫn còn rất tráng kiện, sáng sáng vẫn cưỡi xe Dream chở vợ đi ăn sáng .
+1	TT	Ny
+2	-	CH
+3	Đã	R
+4	66	M
+5	tuổi	Nu
+6	nhưng	C
+7	trông	V
+8	ông	N
+9	vẫn	R
+10	còn	R
+11	rất	R
+12	tráng kiện	A
+13	,	CH
+14	sáng sáng	N
+15	vẫn	R
+16	cưỡi	V
+17	xe	N
+18	Dream	Np
+19	chở	V
+20	vợ	N
+21	đi	V
+22	ăn	V
+23	sáng	N
+24	.	CH
+
+# sentence_id = 106490.seg.pos-s5
+# text = Gia cảnh khá giả, nhưng chiều chiều ông vẫn chạy xe trên chục cây số từ quận Tân Phú ra đến gần Lăng Ông (TP. HCM) để dạy kèm bóng bàn .
+1	Gia cảnh	N
+2	khá giả	A
+3	,	CH
+4	nhưng	C
+5	chiều chiều	N
+6	ông	N
+7	vẫn	R
+8	chạy	V
+9	xe	N
+10	trên	A
+11	chục	M
+12	cây số	N
+13	từ	E
+14	quận	N
+15	Tân Phú	N
+16	ra	V
+17	đến	E
+18	gần	A
+19	Lăng Ông	Np
+20	(	CH
+21	TP.	Ny
+22	HCM	Np
+23	)	CH
+24	để	E
+25	dạy	V
+26	kèm	V
+27	bóng bàn	N
+28	.	CH
+
+# sentence_id = 106490.seg.pos-s6
+# text = Ông bảo : “ Ở nhà không làm gì hư người .
+1	Ông	N
+2	bảo	V
+3	:	CH
+4	“	CH
+5	Ở	V
+6	nhà	N
+7	không	R
+8	làm	V
+9	gì	P
+10	hư	A
+11	người	N
+12	.	CH
+
+# sentence_id = 106490.seg.pos-s7
+# text = Đi dạy kèm vừa thỏa nỗi nhớ vợt, nhớ bóng ; vừa khỏe người và cũng vừa kiếm đồng ra đồng vào ăn sáng ” .
+1	Đi	V
+2	dạy	V
+3	kèm	V
+4	vừa	R
+5	thỏa	V
+6	nỗi	N
+7	nhớ	V
+8	vợt	N
+9	,	CH
+10	nhớ	V
+11	bóng	N
+12	;	CH
+13	vừa	R
+14	khỏe	A
+15	người	N
+16	và	Cc
+17	cũng	R
+18	vừa	R
+19	kiếm	V
+20	đồng ra đồng vào	X
+21	ăn	V
+22	sáng	N
+23	”	CH
+24	.	CH
+
+# sentence_id = 106490.seg.pos-s8
+# text = Ông là Lê Văn Tiết, người từng được cây bút Robert Journal (báo J.E.O) và tờ Nhật Bản Thời Luận gọi là “ kỳ quan của bóng bàn thế giới ”...
+1	Ông	N
+2	là	V
+3	Lê Văn Tiết	Np
+4	,	CH
+5	người	N
+6	từng	R
+7	được	V
+8	cây bút	N
+9	Robert Journal	Np
+10	(	CH
+11	báo	N
+12	J.E.O	Ny
+13	)	CH
+14	và	Cc
+15	tờ	Nc
+16	Nhật Bản Thời Luận	Np
+17	gọi	V
+18	là	C
+19	“	CH
+20	kỳ quan	N
+21	của	E
+22	bóng bàn	N
+23	thế giới	N
+24	”	CH
+25	...	CH
+
+# sentence_id = 106490.seg.pos-s9
+# text = “ Hãy coi chừng Lê Văn Tiết ! ”
+1	“	CH
+2	Hãy	R
+3	coi chừng	V
+4	Lê Văn Tiết	Np
+5	!	CH
+6	”	CH
+
+# sentence_id = 106490.seg.pos-s10
+# text = Một năm sau chiến thắng ở Asiad 1958, đoàn VN lên đường đi Dortmund (Đức) dự giải vô địch bóng bàn thế giới .
+1	Một	M
+2	năm	N
+3	sau	E
+4	chiến thắng	N
+5	ở	E
+6	Asiad	Np
+7	1958	M
+8	,	CH
+9	đoàn	Nc
+10	VN	Np
+11	lên đường	V
+12	đi	V
+13	Dortmund	Np
+14	(	CH
+15	Đức	Np
+16	)	CH
+17	dự	V
+18	giải	N
+19	vô địch	N
+20	bóng bàn	N
+21	thế giới	N
+22	.	CH
+
+# sentence_id = 106490.seg.pos-s11
+# text = Sau trận thắng đội Anh, nhà báo Huyền Vũ cùng tháp tùng đã tường thuật như sau : “ Anh chàng cao lêu nghêu Johnny Leach, cựu vô địch thế giới 1949 - 1951, là một trong sáu tay vợt hàng đầu thế giới, đương kim vô địch Anh, sau trận thua VN đã vừa lau mồ hôi trán vừa lắc đầu thở ra .
+1	Sau	E
+2	trận	N
+3	thắng	V
+4	đội	N
+5	Anh	Np
+6	,	CH
+7	nhà báo	N
+8	Huyền Vũ	Np
+9	cùng	A
+10	tháp tùng	V
+11	đã	R
+12	tường thuật	V
+13	như	C
+14	sau	A
+15	:	CH
+16	“	CH
+17	Anh chàng	N
+18	cao lêu nghêu	A
+19	Johnny Leach	Np
+20	,	CH
+21	cựu	Z
+22	vô địch	A
+23	thế giới	N
+24	1949	M
+25	-	CH
+26	1951	M
+27	,	CH
+28	là	V
+29	một	M
+30	trong	E
+31	sáu	M
+32	tay vợt	N
+33	hàng đầu	N
+34	thế giới	N
+35	,	CH
+36	đương kim	A
+37	vô địch	N
+38	Anh	Np
+39	,	CH
+40	sau	E
+41	trận	N
+42	thua	V
+43	VN	Np
+44	đã	R
+45	vừa	R
+46	lau	V
+47	mồ hôi	N
+48	trán	N
+49	vừa	R
+50	lắc đầu	V
+51	thở	V
+52	ra	R
+53	.	CH
+
+# sentence_id = 106490.seg.pos-s12
+# text = Anh ta cho biết nếu chẳng có gì xui xẻo bất ngờ, đoàn VN sẽ đứng đầuN bảng D .
+1	Anh ta	P
+2	cho	V
+3	biết	V
+4	nếu	C
+5	chẳng	R
+6	có	V
+7	gì	P
+8	xui xẻo	A
+9	bất ngờ	A
+10	,	CH
+11	đoàn	Nc
+12	VN	Np
+13	sẽ	R
+14	đứng	V
+15	đầuN bảng	N
+16	D	Np
+17	.	CH
+
+# sentence_id = 106490.seg.pos-s13
+# text = Đặc biệt hãy coi chừng Tiết .
+1	Đặc biệt	A
+2	hãy	R
+3	coi chừng	V
+4	Tiết	Np
+5	.	CH
+
+# sentence_id = 106490.seg.pos-s14
+# text = Tôi từng sang VN ăn thua qua lại với Hòa, Được nhiều lần nhưng chưa thấy đấu thủ nào khó chịu như Tiết .
+1	Tôi	P
+2	từng	R
+3	sang	V
+4	VN	Np
+5	ăn thua	V
+6	qua lại	R
+7	với	E
+8	Hòa	Np
+9	,	CH
+10	Được	Np
+11	nhiều	A
+12	lần	N
+13	nhưng	C
+14	chưa	R
+15	thấy	V
+16	đấu thủ	N
+17	nào	P
+18	khó chịu	A
+19	như	C
+20	Tiết	Np
+21	.	CH
+
+# sentence_id = 106490.seg.pos-s15
+# text = Đấu thủ các nước hãy coi chừng, Tiết có thể làm chuyện lớn tại giải vô địch thế giới kỳ này lắm ” !
+1	Đấu thủ	N
+2	các	L
+3	nước	N
+4	hãy	R
+5	coi chừng	V
+6	,	CH
+7	Tiết	Np
+8	có thể	A
+9	làm	V
+10	chuyện	N
+11	lớn	A
+12	tại	E
+13	giải	N
+14	vô địch	N
+15	thế giới	N
+16	kỳ	N
+17	này	P
+18	lắm	R
+19	”	CH
+20	!	CH
+
+# sentence_id = 106490.seg.pos-s16
+# text = Đúng như Leach dự đoán vế đầu, đoàn VN đã đứng đầu bảng D, trong đó trận thắng oanh liệt nhất là hạ số một châu Âu - đội Tiệp Khắc .
+1	Đúng	A
+2	như	C
+3	Leach	Np
+4	dự đoán	V
+5	vế	N
+6	đầu	N
+7	,	CH
+8	đoàn	Nc
+9	VN	Np
+10	đã	R
+11	đứng	V
+12	đầu	N
+13	bảng	N
+14	D	Np
+15	,	CH
+16	trong	E
+17	đó	P
+18	trận	N
+19	thắng	V
+20	oanh liệt	A
+21	nhất	A
+22	là	V
+23	hạ	V
+24	số một	N
+25	châu Âu	Nu
+26	-	CH
+27	đội	N
+28	Tiệp Khắc	Np
+29	.	CH
+
+# sentence_id = 106490.seg.pos-s17
+# text = Vào bán kết còn bốn đội là Nhật, VN, Trung Quốc và Hungary .
+1	Vào	V
+2	bán kết	N
+3	còn	R
+4	bốn	M
+5	đội	N
+6	là	V
+7	Nhật	Np
+8	,	CH
+9	VN	Np
+10	,	CH
+11	Trung Quốc	Np
+12	và	Cc
+13	Hungary	Np
+14	.	CH
+
+# sentence_id = 106490.seg.pos-s18
+# text = “ Oan gia ngõ hẹp ”, đối thủ của VN ở bán kết là Nhật .
+1	“	CH
+2	Oan gia	N
+3	ngõ	N
+4	hẹp	A
+5	”	CH
+6	,	CH
+7	đối thủ	N
+8	của	E
+9	VN	Np
+10	ở	E
+11	bán kết	N
+12	là	V
+13	Nhật	Np
+14	.	CH
+
+# sentence_id = 106490.seg.pos-s19
+# text = Sau thất bại năm 1958, đội Nhật đã quay phim và nghiền ngẫm lối chơi của các tay vợt VN nhằm tìm cách khắc chế .
+1	Sau	E
+2	thất bại	N
+3	năm	N
+4	1958	M
+5	,	CH
+6	đội	N
+7	Nhật	Np
+8	đã	R
+9	quay phim	V
+10	và	Cc
+11	nghiền ngẫm	V
+12	lối	N
+13	chơi	V
+14	của	E
+15	các	L
+16	tay vợt	N
+17	VN	Np
+18	nhằm	V
+19	tìm	V
+20	cách	N
+21	khắc	V
+22	chế	V
+23	.	CH
+
+# sentence_id = 106490.seg.pos-s20
+# text = Đã vậy, căn bệnh cố hữu của các tay vợt VN là thiếu ổn định vì thể lực không thật tốt, nên Nhật đã phục thù thành công với chiến thắng 5 - 3 .
+1	Đã	R
+2	vậy	P
+3	,	CH
+4	căn bệnh	N
+5	cố hữu	A
+6	của	E
+7	các	L
+8	tay vợt	N
+9	VN	Np
+10	là	V
+11	thiếu	A
+12	ổn định	A
+13	vì	E
+14	thể lực	N
+15	không	R
+16	thật	T
+17	tốt	A
+18	,	CH
+19	nên	C
+20	Nhật	Np
+21	đã	R
+22	phục thù	V
+23	thành công	V
+24	với	E
+25	chiến thắng	N
+26	5	M
+27	-	CH
+28	3	M
+29	.	CH
+
+# sentence_id = 106490.seg.pos-s21
+# text = Đội VN chỉ đoạt HCĐ giải thế giới, nhưng đó cũng đáng gọi là kỳ tích của một nền bóng bàn sinh sau đẻ muộn .
+1	Đội	N
+2	VN	Np
+3	chỉ	R
+4	đoạt	V
+5	HCĐ	Ny
+6	giải	N
+7	thế giới	N
+8	,	CH
+9	nhưng	C
+10	đó	P
+11	cũng	R
+12	đáng	V
+13	gọi	V
+14	là	C
+15	kỳ tích	N
+16	của	E
+17	một	M
+18	nền	N
+19	bóng bàn	N
+20	sinh sau đẻ muộn	X
+21	.	CH
+
+# sentence_id = 106490.seg.pos-s22
+# text = Nên nhớ dự giải này có tất cả 40 nước, trong đó châu Á chỉ có bốn đội được tham gia là VN, Nhật, Trung Quốc và Hàn Quốc .
+1	Nên	V
+2	nhớ	V
+3	dự	V
+4	giải	N
+5	này	P
+6	có	V
+7	tất cả	P
+8	40	M
+9	nước	N
+10	,	CH
+11	trong	E
+12	đó	P
+13	châu Á	Np
+14	chỉ	R
+15	có	V
+16	bốn	M
+17	đội	N
+18	được	V
+19	tham gia	V
+20	là	V
+21	VN	Np
+22	,	CH
+23	Nhật	Np
+24	,	CH
+25	Trung Quốc	Np
+26	và	Cc
+27	Hàn Quốc	Np
+28	.	CH
+
+# sentence_id = 106490.seg.pos-s23
+# text = Rời Đức, tất cả danh thủ bóng bàn thế giới đến Paris tham dự Giải quốc tế Pháp 1959 .
+1	Rời	V
+2	Đức	Np
+3	,	CH
+4	tất cả	P
+5	danh thủ	N
+6	bóng bàn	N
+7	thế giới	N
+8	đến	V
+9	Paris	Np
+10	tham dự	V
+11	Giải	N
+12	quốc tế	N
+13	Pháp	Np
+14	1959	M
+15	.	CH
+
+# sentence_id = 106490.seg.pos-s24
+# text = Đây là một trong những giải uy tín nhất thế giới lúc bấy giờ .
+1	Đây	P
+2	là	V
+3	một	M
+4	trong	E
+5	những	L
+6	giải	N
+7	uy tín	A
+8	nhất	A
+9	thế giới	N
+10	lúc	N
+11	bấy giờ	P
+12	.	CH
+
+# sentence_id = 106490.seg.pos-s25
+# text = Và cái vế dự đoán thứ hai của Leach giờ mới thành hiện thực .
+1	Và	Cc
+2	cái	Nc
+3	vế	N
+4	dự đoán	N
+5	thứ	N
+6	hai	M
+7	của	E
+8	Leach	Np
+9	giờ	N
+10	mới	R
+11	thành	V
+12	hiện thực	N
+13	.	CH
+
+# sentence_id = 106490.seg.pos-s26
+# text = Trong khi các đàn anh như Hòa, Được, Liễu đã sớm rơi rụng thì Tiết đi thẳng một mạch vào đến chung kết gặp Murakami (Nhật), người vừa đoạt HCV thế giới đôi nam tại Đức .
+1	Trong	E
+2	khi	N
+3	các	L
+4	đàn anh	N
+5	như	C
+6	Hòa	Np
+7	,	CH
+8	Được	Np
+9	,	CH
+10	Liễu	Np
+11	đã	R
+12	sớm	R
+13	rơi rụng	V
+14	thì	C
+15	Tiết	Np
+16	đi	V
+17	thẳng	A
+18	một mạch	N
+19	vào	E
+20	đến	V
+21	chung kết	N
+22	gặp	V
+23	Murakami	Np
+24	(	CH
+25	Nhật	Np
+26	)	CH
+27	,	CH
+28	người	N
+29	vừa	R
+30	đoạt	V
+31	HCV	Ny
+32	thế giới	N
+33	đôi	M
+34	nam	N
+35	tại	E
+36	Đức	Np
+37	.	CH
+
+# sentence_id = 106490.seg.pos-s27
+# text = Murakami đã dẫn Tiết 2 - 0 (21 / 17, 21 / 15) và tưởng cầm chắc chiến thắng .
+1	Murakami	Np
+2	đã	R
+3	dẫn	V
+4	Tiết	Np
+5	2	M
+6	-	CH
+7	0	M
+8	(	CH
+9	21	M
+10	/	CH
+11	17	M
+12	,	CH
+13	21	M
+14	/	CH
+15	15	M
+16	)	CH
+17	và	Cc
+18	tưởng	V
+19	cầm chắc	V
+20	chiến thắng	N
+21	.	CH
+
+# sentence_id = 106490.seg.pos-s28
+# text = Tuy nhiên, ở ván ba và tư, Tiết thay đổi đấu pháp và thắng lại liền hai ván (21 / 16 và 21 / 12) .
+1	Tuy nhiên	C
+2	,	CH
+3	ở	E
+4	ván	N
+5	ba	M
+6	và	Cc
+7	tư	M
+8	,	CH
+9	Tiết	Np
+10	thay đổi	V
+11	đấu pháp	N
+12	và	Cc
+13	thắng	V
+14	lại	R
+15	liền	R
+16	hai	M
+17	ván	N
+18	(	CH
+19	21	M
+20	/	CH
+21	16	M
+22	và	Cc
+23	21	M
+24	/	CH
+25	12	M
+26	)	CH
+27	.	CH
+
+# sentence_id = 106490.seg.pos-s29
+# text = Bước vào ván quyết định, Murakami dẫn trước 5 - 0, rồi 10 - 5 nhưng Tiết đã bắt kịp 10 - 10 và bứt luôn để chiến thắng với 21 - 17 .
+1	Bước	V
+2	vào	E
+3	ván	N
+4	quyết định	V
+5	,	CH
+6	Murakami	Np
+7	dẫn	V
+8	trước	A
+9	5	M
+10	-	CH
+11	0	M
+12	,	CH
+13	rồi	C
+14	10	M
+15	-	CH
+16	5	M
+17	nhưng	C
+18	Tiết	Np
+19	đã	R
+20	bắt	V
+21	kịp	A
+22	10	M
+23	-	CH
+24	10	M
+25	và	Cc
+26	bứt	V
+27	luôn	R
+28	để	E
+29	chiến thắng	V
+30	với	E
+31	21	M
+32	-	CH
+33	17	M
+34	.	CH
+
+# sentence_id = 106490.seg.pos-s30
+# text = Trong 5.000 khán giả ngồi kín nhà thi đấu lúc ấy có khá đông Việt kiều và mọi người đã trào nước mắt vì hạnh phúc .
+1	Trong	E
+2	5.000	M
+3	khán giả	N
+4	ngồi	V
+5	kín	A
+6	nhà thi đấu	N
+7	lúc	N
+8	ấy	P
+9	có	V
+10	khá	R
+11	đông	A
+12	Việt kiều	Np
+13	và	Cc
+14	mọi	L
+15	người	N
+16	đã	R
+17	trào	V
+18	nước mắt	N
+19	vì	E
+20	hạnh phúc	N
+21	.	CH
+
+# sentence_id = 106490.seg.pos-s31
+# text = Tay vợt huyền thoại của Nhật Ogimura chứng kiến trận đấu này đã phải thốt lên : “ Đây là trận đấu khủng khiếp nhất mà tôi được xem ” !
+1	Tay vợt	N
+2	huyền thoại	N
+3	của	E
+4	Nhật	Np
+5	Ogimura	Np
+6	chứng kiến	V
+7	trận	N
+8	đấu	V
+9	này	P
+10	đã	R
+11	phải	V
+12	thốt	V
+13	lên	R
+14	:	CH
+15	“	CH
+16	Đây	P
+17	là	V
+18	trận	N
+19	đấu	V
+20	khủng khiếp	A
+21	nhất	A
+22	mà	C
+23	tôi	P
+24	được	V
+25	xem	V
+26	”	CH
+27	!	CH
+
+# sentence_id = 106490.seg.pos-s32
+# text = Nhờ chiến thắng này, Lê Văn Tiết đã được xếp hạng sáu thế giới trong năm 1959 .
+1	Nhờ	V
+2	chiến thắng	N
+3	này	P
+4	,	CH
+5	Lê Văn Tiết	Np
+6	đã	R
+7	được	V
+8	xếp	V
+9	hạng	N
+10	sáu	M
+11	thế giới	N
+12	trong	E
+13	năm	N
+14	1959	M
+15	.	CH
+
+# sentence_id = 106490.seg.pos-s33
+# text = Tuy nhiên, điều khiến báo chí thế giới gọi Lê Văn Tiết là “ kỳ quan bóng bàn thế giới ” không phải chỉ nhờ những chiến thắng đó, mà quan trọng hơn là ông được ghi tên vào lịch sử bóng bàn thế giới nhờ “ phát minh ” lối chơi phản công độc đáo .
+1	Tuy nhiên	C
+2	,	CH
+3	điều	N
+4	khiến	V
+5	báo chí	N
+6	thế giới	N
+7	gọi	V
+8	Lê Văn Tiết	Np
+9	là	V
+10	“	CH
+11	kỳ quan	N
+12	bóng bàn	N
+13	thế giới	N
+14	”	CH
+15	không	R
+16	phải	V
+17	chỉ	R
+18	nhờ	V
+19	những	L
+20	chiến thắng	N
+21	đó	P
+22	,	CH
+23	mà	C
+24	quan trọng	A
+25	hơn	R
+26	là	V
+27	ông	N
+28	được	V
+29	ghi	V
+30	tên	N
+31	vào	E
+32	lịch sử	N
+33	bóng bàn	N
+34	thế giới	N
+35	nhờ	V
+36	“	CH
+37	phát minh	V
+38	”	CH
+39	lối	N
+40	chơi	V
+41	phản công	V
+42	độc đáo	A
+43	.	CH
+
+# sentence_id = 106490.seg.pos-s34
+# text = Người Nhật, Ấn Độ đã mất không ít công sức để tìm cách khắc chế lối chơi này, mà họ gọi là “ không thể dùng sức để thắng Tiết, khi tấn công càng mạnh thì đòn phản công của anh ta càng ghê gớm do mượn sức để phản đòn ” !
+1	Người	Nc
+2	Nhật	Np
+3	,	CH
+4	Ấn Độ	Np
+5	đã	R
+6	mất	V
+7	không	R
+8	ít	A
+9	công sức	N
+10	để	E
+11	tìm	V
+12	cách	N
+13	khắc	V
+14	chế	V
+15	lối	N
+16	chơi	V
+17	này	P
+18	,	CH
+19	mà	C
+20	họ	P
+21	gọi	V
+22	là	C
+23	“	CH
+24	không thể	R
+25	dùng	V
+26	sức	N
+27	để	E
+28	thắng	V
+29	Tiết	Np
+30	,	CH
+31	khi	N
+32	tấn công	V
+33	càng	R
+34	mạnh	A
+35	thì	C
+36	đòn	N
+37	phản công	V
+38	của	E
+39	anh ta	P
+40	càng	R
+41	ghê gớm	A
+42	do	E
+43	mượn	V
+44	sức	N
+45	để	E
+46	phản	V
+47	đòn	N
+48	”	CH
+49	!	CH
+
+# sentence_id = 106490.seg.pos-s35
+# text = Một gia đình thể thao
+1	Một	M
+2	gia đình	N
+3	thể thao	N
+
+# sentence_id = 106490.seg.pos-s36
+# text = Lê Văn Tiết sinh ngày 13 - 7 - 1939 tại Gia Định .
+1	Lê Văn Tiết	Np
+2	sinh	V
+3	ngày	N
+4	13	M
+5	- 7	M
+6	-	CH
+7	1939	M
+8	tại	E
+9	Gia Định	Np
+10	.	CH
+
+# sentence_id = 106490.seg.pos-s37
+# text = Cụ thân sinh của ông là một người rất mê quần vợt .
+1	Cụ	Nc
+2	thân sinh	V
+3	của	E
+4	ông	N
+5	là	V
+6	một	M
+7	người	N
+8	rất	R
+9	mê	V
+10	quần vợt	N
+11	.	CH
+
+# sentence_id = 106490.seg.pos-s38
+# text = Như cái cách ra đời của bóng bàn, ông cụ đã đóng bàn đặt trong nhà để giải tỏa cơn ghiền quần vợt khi không thể đến sân .
+1	Như	C
+2	cái	Nc
+3	cách	N
+4	ra đời	V
+5	của	E
+6	bóng bàn	N
+7	,	CH
+8	ông	Nc
+9	cụ	N
+10	đã	R
+11	đóng	V
+12	bàn	N
+13	đặt	V
+14	trong	A
+15	nhà	N
+16	để	E
+17	giải tỏa	V
+18	cơn	Nc
+19	ghiền	V
+20	quần vợt	N
+21	khi	N
+22	không thể	R
+23	đến	V
+24	sân	N
+25	.	CH
+
+# sentence_id = 106490.seg.pos-s39
+# text = Và những lúc như thế, cậu con trai Lê Văn Tiết mới 8 tuổi chính là người được lôi vào để quần thảo .
+1	Và	Cc
+2	những	L
+3	lúc	N
+4	như thế	X
+5	,	CH
+6	cậu	Nc
+7	con trai	N
+8	Lê Văn Tiết	Np
+9	mới	R
+10	8	M
+11	tuổi	Nu
+12	chính	T
+13	là	V
+14	người	N
+15	được	V
+16	lôi	V
+17	vào	R
+18	để	E
+19	quần thảo	V
+20	.	CH
+
+# sentence_id = 106490.seg.pos-s40
+# text = Thế rồi vào một ngày đẹp trời, ông xách vợt đến thử tài ở hội quán bóng bàn đường 20 (nay là Điện Biên Phủ) - một lò bóng bàn nổi danh ở Sài Gòn lúc bấy giờ .
+1	Thế	T
+2	rồi	C
+3	vào	E
+4	một	M
+5	ngày	N
+6	đẹp	A
+7	trời	N
+8	,	CH
+9	ông	N
+10	xách	V
+11	vợt	N
+12	đến	V
+13	thử	V
+14	tài	N
+15	ở	E
+16	hội quán	N
+17	bóng bàn	N
+18	đường	N
+19	20	M
+20	(	CH
+21	nay	P
+22	là	V
+23	Điện Biên Phủ	Np
+24	)	CH
+25	-	CH
+26	một	M
+27	lò	N
+28	bóng bàn	N
+29	nổi danh	A
+30	ở	E
+31	Sài Gòn	Np
+32	lúc	N
+33	bấy giờ	P
+34	.	CH
+
+# sentence_id = 106490.seg.pos-s41
+# text = Hàng loạt các đàn anh ở đây đã bị Tiết hạ đo ván và trong làng bóng đã xôn xao bàn tán về sự xuất hiện của một thần đồng .
+1	Hàng loạt	N
+2	các	L
+3	đàn anh	N
+4	ở	V
+5	đây	P
+6	đã	R
+7	bị	V
+8	Tiết	Np
+9	hạ	V
+10	đo ván	V
+11	và	Cc
+12	trong	E
+13	làng	N
+14	bóng	N
+15	đã	R
+16	xôn xao	V
+17	bàn tán	V
+18	về	E
+19	sự	Nc
+20	xuất hiện	V
+21	của	E
+22	một	M
+23	thần đồng	N
+24	.	CH
+
+# sentence_id = 106490.seg.pos-s42
+# text = Lập tức, một ông bầu có tên là Chín Viễn đã mời Tiết về chơi cho hội bóng bàn đình Phú Thạnh của mình và mời thầy Ady kèm cặp cho ông .
+1	Lập tức	R
+2	,	CH
+3	một	M
+4	ông bầu	N
+5	có	V
+6	tên	N
+7	là	V
+8	Chín Viễn	Np
+9	đã	R
+10	mời	V
+11	Tiết	Np
+12	về	E
+13	chơi	V
+14	cho	E
+15	hội	N
+16	bóng bàn	N
+17	đình	N
+18	Phú Thạnh	Np
+19	của	E
+20	mình	P
+21	và	Cc
+22	mời	V
+23	thầy	N
+24	Ady	Np
+25	kèm cặp	V
+26	cho	E
+27	ông	N
+28	.	CH
+
+# sentence_id = 106490.seg.pos-s43
+# text = Năm 11 tuổi, Tiết vào học Trường Taberd và được rèn giũa thêm bởi một ông thầy khác là Gaetan .
+1	Năm	N
+2	11	M
+3	tuổi	Nu
+4	,	CH
+5	Tiết	Np
+6	vào	V
+7	học	V
+8	Trường	N
+9	Taberd	Np
+10	và	Cc
+11	được	V
+12	rèn giũa	V
+13	thêm	R
+14	bởi	E
+15	một	M
+16	ông	Nc
+17	thầy	N
+18	khác	A
+19	là	V
+20	Gaetan	Np
+21	.	CH
+
+# sentence_id = 106490.seg.pos-s44
+# text = Đến 14 tuổi, Tiết là tay vợt số một của học sinh thời ấy .
+1	Đến	E
+2	14	M
+3	tuổi	Nu
+4	,	CH
+5	Tiết	Np
+6	là	V
+7	tay vợt	N
+8	số một	N
+9	của	E
+10	học sinh	N
+11	thời	N
+12	ấy	P
+13	.	CH
+
+# sentence_id = 106490.seg.pos-s45
+# text = Và năm 18 tuổi ông chính thức đăng quang ngôi số một miền Nam, sau khi hạ một loạt các đàn anh khét tiếng như Hòa, Được, Liễu, Hằng và chính thức chiếm một suất trong đội tuyển để dự Asiad 1958 .
+1	Và	Cc
+2	năm	N
+3	18	M
+4	tuổi	Nu
+5	ông	N
+6	chính thức	A
+7	đăng quang	V
+8	ngôi	N
+9	số một	N
+10	miền	N
+11	Nam	Np
+12	,	CH
+13	sau	E
+14	khi	N
+15	hạ	V
+16	một	M
+17	loạt	Nc
+18	các	L
+19	đàn anh	N
+20	khét tiếng	A
+21	như	C
+22	Hòa	Np
+23	,	CH
+24	Được	Np
+25	,	CH
+26	Liễu	Np
+27	,	CH
+28	Hằng	Np
+29	và	Cc
+30	chính thức	A
+31	chiếm	V
+32	một	M
+33	suất	N
+34	trong	E
+35	đội tuyển	N
+36	để	E
+37	dự	V
+38	Asiad	Np
+39	1958	M
+40	.	CH
+
+# sentence_id = 106490.seg.pos-s46
+# text = Khi ấy ông vừa tròn 19 tuổi .
+1	Khi	N
+2	ấy	P
+3	ông	N
+4	vừa	R
+5	tròn	A
+6	19	M
+7	tuổi	Nu
+8	.	CH
+
+# sentence_id = 106490.seg.pos-s47
+# text = Trong 20 năm cầm vợt, ông đã 19 lần xuất ngoại dự các giải quốc tế lớn nhỏ, được hàng triệu người của các quốc gia từ Á đến Âu ngưỡng mộ .
+1	Trong	E
+2	20	M
+3	năm	N
+4	cầm	V
+5	vợt	N
+6	,	CH
+7	ông	N
+8	đã	R
+9	19	M
+10	lần	N
+11	xuất ngoại	V
+12	dự	V
+13	các	L
+14	giải	N
+15	quốc tế	N
+16	lớn nhỏ	A
+17	,	CH
+18	được	V
+19	hàng	R
+20	triệu	M
+21	người	N
+22	của	E
+23	các	L
+24	quốc gia	N
+25	từ	E
+26	Á	Np
+27	đến	E
+28	Âu	Np
+29	ngưỡng mộ	V
+30	.	CH
+
+# sentence_id = 106490.seg.pos-s48
+# text = Vô số nhân vật lừng danh của bóng bàn thế giới thời bấy giờ đã trở thành bại tướng dưới tay ông như Tiết Thủy Sơ, Tăng Hùng Bô, Lưu Đức Phương (Hong Kong), Hayashi, Fujii, Tsunada, Tanaka, Murakami (Nhật), Khodaiji (Ấn Độ), Lý Quốc Định (Trung Quốc), Bergman, Johnny Leach (Anh), Markovic (Tiệp Khắc)...
+1	Vô số	L
+2	nhân vật	N
+3	lừng danh	V
+4	của	E
+5	bóng bàn	N
+6	thế giới	N
+7	thời	N
+8	bấy giờ	P
+9	đã	R
+10	trở thành	V
+11	bại tướng	N
+12	dưới	E
+13	tay	N
+14	ông	N
+15	như	C
+16	Tiết Thủy Sơ	Np
+17	,	CH
+18	Tăng Hùng Bô	Np
+19	,	CH
+20	Lưu Đức Phương	Np
+21	(	CH
+22	Hong Kong	Np
+23	)	CH
+24	,	CH
+25	Hayashi	Np
+26	,	CH
+27	Fujii	Np
+28	,	CH
+29	Tsunada	Np
+30	,	CH
+31	Tanaka	Np
+32	,	CH
+33	Murakami	Np
+34	(	CH
+35	Nhật	Np
+36	)	CH
+37	,	CH
+38	Khodaiji	Np
+39	(	CH
+40	Ấn Độ	Np
+41	)	CH
+42	,	CH
+43	Lý Quốc Định	Np
+44	(	CH
+45	Trung Quốc	Np
+46	)	CH
+47	,	CH
+48	Bergman	Np
+49	,	CH
+50	Johnny Leach	Np
+51	(	CH
+52	Anh	Np
+53	)	CH
+54	,	CH
+55	Markovic	Np
+56	(	CH
+57	Tiệp Khắc	Np
+58	)	CH
+59	...	CH
+
+# sentence_id = 106490.seg.pos-s49
+# text = Nhưng nhà họ Lê không chỉ có mỗi mình ông Tiết mà còn cung cấp hàng loạt tay vợt tài danh khác cho bóng bàn VN như bốn người em của ông là Lê Văn Inh, Lê Văn Tân, Lê Thị Kim Tiếng và Lê Thị Kim Hoàng .
+1	Nhưng	C
+2	nhà	N
+3	họ	N
+4	Lê	Np
+5	không	R
+6	chỉ	R
+7	có	V
+8	mỗi	M
+9	mình	P
+10	ông	Nc
+11	Tiết	Np
+12	mà còn	C
+13	cung cấp	V
+14	hàng loạt	L
+15	tay vợt	N
+16	tài danh	N
+17	khác	A
+18	cho	E
+19	bóng bàn	N
+20	VN	Np
+21	như	C
+22	bốn	M
+23	người	Nc
+24	em	N
+25	của	E
+26	ông	N
+27	là	V
+28	Lê Văn Inh	Np
+29	,	CH
+30	Lê Văn Tân	Np
+31	,	CH
+32	Lê Thị Kim Tiếng	Np
+33	và	Cc
+34	Lê Thị Kim Hoàng	Np
+35	.	CH
+
+# sentence_id = 106490.seg.pos-s50
+# text = Còn trong các con của mình, ông Tiết có Lê Trung Thành từng đoạt giải vô địch thiếu niên toàn quốc năm 1987, tuy nhiên sau đó đã giã từ nghiệp cầm vợt để lo học văn hóa .
+1	Còn	C
+2	trong	E
+3	các	L
+4	con	N
+5	của	E
+6	mình	P
+7	,	CH
+8	ông	Nc
+9	Tiết	Np
+10	có	V
+11	Lê Trung Thành	Np
+12	từng	R
+13	đoạt	V
+14	giải	N
+15	vô địch	N
+16	thiếu niên	N
+17	toàn quốc	N
+18	năm	N
+19	1987	M
+20	,	CH
+21	tuy nhiên	C
+22	sau	E
+23	đó	P
+24	đã	R
+25	giã từ	V
+26	nghiệp	N
+27	cầm	V
+28	vợt	N
+29	để	E
+30	lo	V
+31	học	V
+32	văn hóa	N
+33	.	CH
+
+# sentence_id = 106490.seg.pos-s51
+# text = Chiếc huy chương mất... vàng !
+1	Chiếc	Nc
+2	huy chương	N
+3	mất	V
+4	...	CH
+5	vàng	N
+6	!	CH
+
+# sentence_id = 106490.seg.pos-s52
+# text = Khi tôi ngỏ ý muốn xem chiếc HCV Asiad 1958, ông Tiết lấy cho xem và cười buồn cho biết : “ Sau ngày thống nhất, một người bạn đến mượn tôi xem chiếc HCV này .
+1	Khi	N
+2	tôi	P
+3	ngỏ	V
+4	ý	N
+5	muốn	V
+6	xem	V
+7	chiếc	Nc
+8	HCV	Ny
+9	Asiad	Np
+10	1958	M
+11	,	CH
+12	ông	Nc
+13	Tiết	Np
+14	lấy	V
+15	cho	V
+16	xem	V
+17	và	Cc
+18	cười	V
+19	buồn	A
+20	cho	V
+21	biết	V
+22	:	CH
+23	“	CH
+24	Sau	E
+25	ngày	N
+26	thống nhất	V
+27	,	CH
+28	một	M
+29	người	Nc
+30	bạn	N
+31	đến	V
+32	mượn	V
+33	tôi	P
+34	xem	V
+35	chiếc	Nc
+36	HCV	Ny
+37	này	P
+38	.	CH
+
+# sentence_id = 106490.seg.pos-s53
+# text = Cứ tưởng anh ấy ái mộ thật nên cũng không do dự gì mà không cho mượn .
+1	Cứ	R
+2	tưởng	V
+3	anh ấy	P
+4	ái mộ	V
+5	thật	T
+6	nên	C
+7	cũng	R
+8	không	R
+9	do dự	V
+10	gì	P
+11	mà	C
+12	không	R
+13	cho	V
+14	mượn	V
+15	.	CH
+
+# sentence_id = 106490.seg.pos-s54
+# text = Nào ngờ anh ấy đem đi phân kim tách mất phần mạ vàng/N, nên chiếc HCV này giờ đây mới xỉn xỉn như thế này ” !
+1	Nào ngờ	X
+2	anh ấy	P
+3	đem	V
+4	đi	V
+5	phân kim	N
+6	tách	V
+7	mất	V
+8	phần	N
+9	mạ	V
+10	vàng/N,	CH
+11	nên	C
+12	chiếc	Nc
+13	HCV	Ny
+14	này	P
+15	giờ đây	P
+16	mới	R
+17	xỉn	A
+18	xỉn	A
+19	như	C
+20	thế này	P
+21	”	CH
+22	!	CH
+
+# sentence_id = 106490.seg.pos-s55
+# text = Nỗi buồn hậu thế...
+1	Nỗi	Nc
+2	buồn	V
+3	hậu thế	N
+4	...	CH
+
+# sentence_id = 106490.seg.pos-s56
+# text = Sau khi giã từ bóng bàn, ông Tiết chuyển sang làm công tác huấn luyện cho quận Tân Bình và cũng đã từng dẫn dắt đội tuyển TP. HCM .
+1	Sau	E
+2	khi	N
+3	giã từ	V
+4	bóng bàn	N
+5	,	CH
+6	ông	Nc
+7	Tiết	Np
+8	chuyển	V
+9	sang	R
+10	làm	V
+11	công tác	N
+12	huấn luyện	V
+13	cho	E
+14	quận	Nc
+15	Tân Bình	Np
+16	và	Cc
+17	cũng	R
+18	đã	R
+19	từng	R
+20	dẫn dắt	V
+21	đội tuyển	N
+22	TP.	Ny
+23	HCM	Np
+24	.	CH
+
+# sentence_id = 106490.seg.pos-s57
+# text = Tuy nhiên, mệt mỏi với nhiều chuyện không hay của thể thao, ông đã rút lui vào năm 1986, và giờ đây tìm thú vui tuổi già nơi những tay vợt nhí do gia đình biết tiếng năn nỉ ông kèm cặp tại nhà .
+1	Tuy nhiên	C
+2	,	CH
+3	mệt mỏi	A
+4	với	Cc
+5	nhiều	A
+6	chuyện	N
+7	không	R
+8	hay	A
+9	của	E
+10	thể thao	N
+11	,	CH
+12	ông	N
+13	đã	R
+14	rút lui	V
+15	vào	E
+16	năm	N
+17	1986	M
+18	,	CH
+19	và	Cc
+20	giờ đây	P
+21	tìm	V
+22	thú vui	N
+23	tuổi	N
+24	già	N
+25	nơi	N
+26	những	L
+27	tay vợt	N
+28	nhí	A
+29	do	E
+30	gia đình	N
+31	biết	V
+32	tiếng	N
+33	năn nỉ	V
+34	ông	N
+35	kèm cặp	V
+36	tại	E
+37	nhà	N
+38	.	CH
+
+# sentence_id = 106490.seg.pos-s58
+# text = Nhìn cơ ngơi khá bề thế là một căn nhà mặt tiền đường Nguyễn Sơn (Tân Phú), cứ tưởng đối với ông như thế đã là mãn nguyện .
+1	Nhìn	V
+2	cơ ngơi	N
+3	khá	R
+4	bề thế	A
+5	là	V
+6	một	M
+7	căn	Nc
+8	nhà	N
+9	mặt tiền	N
+10	đường	N
+11	Nguyễn Sơn	Np
+12	(	CH
+13	Tân Phú	Np
+14	)	CH
+15	,	CH
+16	cứ	R
+17	tưởng	V
+18	đối với	E
+19	ông	N
+20	như	C
+21	thế	P
+22	đã	R
+23	là	V
+24	mãn nguyện	V
+25	.	CH
+
+# sentence_id = 106490.seg.pos-s59
+# text = Không .
+1	Không	R
+2	.	CH
+
+# sentence_id = 106490.seg.pos-s60
+# text = Ông tâm sự : “ Nhiều lúc lên lầu ngồi nhìn lại một lô một lốc huy chương, cúp, cờ... tôi không khỏi ngậm ngùi .
+1	Ông	N
+2	tâm sự	V
+3	:	CH
+4	“	CH
+5	Nhiều	A
+6	lúc	N
+7	lên	V
+8	lầu	N
+9	ngồi	V
+10	nhìn	V
+11	lại	R
+12	một lô một lốc	L
+13	huy chương	N
+14	,	CH
+15	cúp	N
+16	,	CH
+17	cờ	N
+18	...	CH
+19	tôi	P
+20	không	R
+21	khỏi	V
+22	ngậm ngùi	V
+23	.	CH
+
+# sentence_id = 106490.seg.pos-s61
+# text = Buồn lắm khi trong lòng cứ day dứt mãi câu hỏi bao giờ thì bóng bàn VN tìm lại được thời vàng son !
+1	Buồn	A
+2	lắm	R
+3	khi	N
+4	trong	E
+5	lòng	N
+6	cứ	R
+7	day dứt	V
+8	mãi	R
+9	câu	Nc
+10	hỏi	V
+11	bao giờ	P
+12	thì	C
+13	bóng bàn	N
+14	VN	Np
+15	tìm	V
+16	lại	R
+17	được	R
+18	thời	N
+19	vàng son	N
+20	!	CH
+
+# sentence_id = 106490.seg.pos-s62
+# text = Biết là khó nhưng không lẽ lại chịu bó tay khi mà người Việt mình có khiếu lắm với môn thể thao không cần nhiều đến sức vóc này ” .
+1	Biết	V
+2	là	C
+3	khó	A
+4	nhưng	C
+5	không lẽ	R
+6	lại	R
+7	chịu	V
+8	bó tay	V
+9	khi	N
+10	mà	C
+11	người	Nc
+12	Việt	Np
+13	mình	P
+14	có	V
+15	khiếu	N
+16	lắm	R
+17	với	E
+18	môn	N
+19	thể thao	N
+20	không	R
+21	cần	V
+22	nhiều	A
+23	đến	E
+24	sức vóc	N
+25	này	P
+26	”	CH
+27	.	CH
+
+# sentence_id = 106490.seg.pos-s63
+# text = Buồn nhưng không làm được gì, nên ông dốc sức biên soạn cuốn Giúp bạn hoàn thiện kỹ năng bóng bàn, vốn đã xong nhưng chưa biết tìm ra ai hỗ trợ để xuất bản .
+1	Buồn	A
+2	nhưng	C
+3	không	R
+4	làm	V
+5	được	V
+6	gì	P
+7	,	CH
+8	nên	C
+9	ông	N
+10	dốc	V
+11	sức	N
+12	biên soạn	V
+13	cuốn	Nc
+14	Giúp	V
+15	bạn	N
+16	hoàn thiện	V
+17	kỹ năng	N
+18	bóng bàn	N
+19	,	CH
+20	vốn	N
+21	đã	R
+22	xong	V
+23	nhưng	C
+24	chưa	R
+25	biết	V
+26	tìm	V
+27	ra	R
+28	ai	P
+29	hỗ trợ	V
+30	để	E
+31	xuất bản	V
+32	.	CH
+
+# sentence_id = 106490.seg.pos-s64
+# text = Trong cuốn sách này, ông chia làm hai phần : 1 - Bày vẽ chi tiết mọi vấn đề về kỹ thuật bóng bàn, cách thức tổ chức thi đấu bóng bàn .
+1	Trong	E
+2	cuốn	Nc
+3	sách	N
+4	này	P
+5	,	CH
+6	ông	N
+7	chia	V
+8	làm	V
+9	hai	M
+10	phần	N
+11	:	CH
+12	1	M
+13	-	CH
+14	Bày vẽ	V
+15	chi tiết	A
+16	mọi	L
+17	vấn đề	N
+18	về	E
+19	kỹ thuật	N
+20	bóng bàn	N
+21	,	CH
+22	cách thức	N
+23	tổ chức	V
+24	thi đấu	V
+25	bóng bàn	N
+26	.	CH
+
+# sentence_id = 106490.seg.pos-s65
+# text = 2 - Sưu tầm những bài báo viết về thời vang bóng của bóng bàn VN/Np.
+1	2	M
+2	-	CH
+3	Sưu tầm	V
+4	những	L
+5	bài	Nc
+6	báo	N
+7	viết	V
+8	về	E
+9	thời	N
+10	vang	V
+11	bóng	N
+12	của	E
+13	bóng bàn	N
+14	VN/Np.	CH
+
+# sentence_id = 106490.seg.pos-s66
+# text = HUY THỌ
+1	HUY THỌ	Np
+
+# sentence_id = 106490.seg.pos-s67
+# text = - -------- -
+1	-	CH
+2	--------	N
+3	-	CH
+
+# sentence_id = 106490.seg.pos-s68
+# text = Tin, bài liên quan
+1	Tin	N
+2	,	CH
+3	bài	N
+4	liên quan	V
+
+# sentence_id = 106490.seg.pos-s69
+# text = Kỳ 1 : Ngày rúng động thể thao thế giới Kỳ 2 : Mai Văn Hòa và chữ ký giải nợ Chà và Kỳ 3 : Gặp lại “ kỳ quan bóng bàn thế giới ”
+1	Kỳ	N
+2	1	M
+3	:	CH
+4	Ngày	N
+5	rúng động	V
+6	thể thao	N
+7	thế giới	N
+8	Kỳ	N
+9	2	M
+10	:	CH
+11	Mai Văn Hòa	Np
+12	và	Cc
+13	chữ ký	N
+14	giải	V
+15	nợ	N
+16	Chà và	Np
+17	Kỳ	N
+18	3	M
+19	:	CH
+20	Gặp	V
+21	lại	R
+22	“	CH
+23	kỳ quan	N
+24	bóng bàn	N
+25	thế giới	N
+26	”	CH
+
+# sentence_id = 106490.seg.pos-s70
+# text = - -------- -
+1	-	CH
+2	--------	N
+3	-	CH
+
+# sentence_id = 106490.seg.pos-s71
+# text = Kỳ sau : “ Lưỡng thủ vạn năng ” Phạm Văn Rạng
+1	Kỳ	N
+2	sau	A
+3	:	CH
+4	“	CH
+5	Lưỡng thủ	N
+6	vạn năng	A
+7	”	CH
+8	Phạm Văn Rạng	Np
+
+
+# document_id = 105859.seg.pos
+# sentence_id = 105859.seg.pos-s1
+# text = 07 : 01 : 00
+1	07	M
+2	:	CH
+3	01	M
+4	:	CH
+5	00	M
+
+# sentence_id = 105859.seg.pos-s2
+# text = Đấu trường vinh quang - Ngày ấy & bây giờ (kỳ 1)
+1	Đấu trường	N
+2	vinh quang	A
+3	-	CH
+4	Ngày	N
+5	ấy	P
+6	&	CH
+7	bây giờ	P
+8	(	CH
+9	kỳ	N
+10	1	M
+11	)	CH
+
+# sentence_id = 105859.seg.pos-s3
+# text = Ngày rúng động thể thao thế giới
+1	Ngày	N
+2	rúng động	V
+3	thể thao	N
+4	thế giới	N
+
+# sentence_id = 105859.seg.pos-s4
+# text = TT - Thể thao VN đang chuẩn bị bước vào cuộc so tài lớn nhất trong năm 2005, đó là SEA Games 23 tại Philippines, với một lực lượng đông đảo trên 500 VĐV !
+1	TT	Ny
+2	-	CH
+3	Thể thao	N
+4	VN	Np
+5	đang	R
+6	chuẩn bị	V
+7	bước	V
+8	vào	R
+9	cuộc	N
+10	so	V
+11	tài	N
+12	lớn	A
+13	nhất	A
+14	trong	E
+15	năm	N
+16	2005	M
+17	,	CH
+18	đó	P
+19	là	V
+20	SEA Games	B
+21	23	M
+22	tại	E
+23	Philippines	Np
+24	,	CH
+25	với	E
+26	một	M
+27	lực lượng	N
+28	đông đảo	A
+29	trên	A
+30	500	M
+31	VĐV	Ny
+32	!	CH
+
+# sentence_id = 105859.seg.pos-s5
+# text = Không phủ nhận thể thao nước nhà đã có những bước tiến đáng kể về lượng lẫn chất, nhất là khi nhìn lại lần dự SEA Games đầu tiên của một nước VN thống nhất (năm 1989), chỉ vỏn vẹn chưa đầy 50 VĐV và thành tích chỉ ba HCV .
+1	Không	R
+2	phủ nhận	V
+3	thể thao	N
+4	nước nhà	N
+5	đã	R
+6	có	V
+7	những	L
+8	bước tiến	N
+9	đáng kể	A
+10	về	E
+11	lượng	N
+12	lẫn	R
+13	chất	N
+14	,	CH
+15	nhất là	X
+16	khi	N
+17	nhìn	V
+18	lại	R
+19	lần	N
+20	dự	V
+21	SEA Games	B
+22	đầu tiên	A
+23	của	E
+24	một	M
+25	nước	N
+26	VN	Np
+27	thống nhất	V
+28	(	CH
+29	năm	N
+30	1989	M
+31	)	CH
+32	,	CH
+33	chỉ	R
+34	vỏn vẹn	A
+35	chưa	R
+36	đầy	A
+37	50	M
+38	VĐV	Ny
+39	và	Cc
+40	thành tích	N
+41	chỉ	R
+42	ba	M
+43	HCV	Ny
+44	.	CH
+
+# sentence_id = 105859.seg.pos-s6
+# text = Tuy nhiên, như thế liệu đã đủ để hài lòng ?
+1	Tuy nhiên	C
+2	,	CH
+3	như thế	P
+4	liệu	V
+5	đã	R
+6	đủ	A
+7	để	E
+8	hài lòng	V
+9	?	CH
+
+# sentence_id = 105859.seg.pos-s7
+# text = Chúng tôi muốn quay lại những “ ngày xưa ” không chỉ để nhớ mà còn nhằm nuôi dưỡng khát vọng đi tới...
+1	Chúng tôi	P
+2	muốn	V
+3	quay	V
+4	lại	R
+5	những	L
+6	“	CH
+7	ngày xưa	N
+8	”	CH
+9	không	R
+10	chỉ	R
+11	để	E
+12	nhớ	V
+13	mà còn	C
+14	nhằm	V
+15	nuôi dưỡng	V
+16	khát vọng	N
+17	đi	V
+18	tới	V
+19	...	CH
+
+# sentence_id = 105859.seg.pos-s8
+# text = Hôm ấy là ngày 27 - 5 - 1958, kim đồng hồ vừa chỉ 22 g 40, tay vợt đương kim vô địch bóng bàn đơn nam thế giới Tanaka (Nhật) đã quăng vợt, chạy đến quì xuống ôm chân mẹ khóc ròng .
+1	Hôm	N
+2	ấy	P
+3	là	V
+4	ngày	N
+5	27	M
+6	-	CH
+7	5	M
+8	-	CH
+9	1958	M
+10	,	CH
+11	kim	N
+12	đồng hồ	N
+13	vừa	R
+14	chỉ	V
+15	22	M
+16	g	Nu
+17	40	M
+18	,	CH
+19	tay vợt	N
+20	đương kim	A
+21	vô địch	N
+22	bóng bàn	N
+23	đơn	N
+24	nam	N
+25	thế giới	N
+26	Tanaka	Np
+27	(	CH
+28	Nhật	Np
+29	)	CH
+30	đã	R
+31	quăng	V
+32	vợt	N
+33	,	CH
+34	chạy	V
+35	đến	R
+36	quì	V
+37	xuống	R
+38	ôm chân	V
+39	mẹ	N
+40	khóc	V
+41	ròng	A
+42	.	CH
+
+# sentence_id = 105859.seg.pos-s9
+# text = 10.000 khán giả chủ nhà ngồi lặng ngắt như tờ .
+1	10.000	M
+2	khán giả	N
+3	chủ	N
+4	nhà	N
+5	ngồi	V
+6	lặng ngắt	A
+7	như	C
+8	tờ	N
+9	.	CH
+
+# sentence_id = 105859.seg.pos-s10
+# text = Hoàng thái tử Nhật Bản lẳng lặng ra về và nguyên một ngày hôm sau không tiếp khách vì đau buồn .
+1	Hoàng thái tử	N
+2	Nhật Bản	Np
+3	lẳng lặng	R
+4	ra	V
+5	về	V
+6	và	Cc
+7	nguyên	R
+8	một	M
+9	ngày	N
+10	hôm	N
+11	sau	A
+12	không	R
+13	tiếp	V
+14	khách	N
+15	vì	E
+16	đau buồn	V
+17	.	CH
+
+# sentence_id = 105859.seg.pos-s11
+# text = Làng bóng bàn thế giới đã rúng động với sự kiện ngay tại Tokyo : các tay vợt VN đã hạ một đội Nhật không có đối thủ trong suốt thập niên 1950 để đoạt HCV đồng đội nam Asiad 1958...
+1	Làng	N
+2	bóng bàn	N
+3	thế giới	N
+4	đã	R
+5	rúng động	V
+6	với	E
+7	sự kiện	N
+8	ngay	R
+9	tại	E
+10	Tokyo	Np
+11	:	CH
+12	các	L
+13	tay vợt	N
+14	VN	Np
+15	đã	R
+16	hạ	V
+17	một	M
+18	đội	N
+19	Nhật	Np
+20	không	R
+21	có	V
+22	đối thủ	N
+23	trong	E
+24	suốt	A
+25	thập niên	N
+26	1950	M
+27	để	E
+28	đoạt	V
+29	HCV	Ny
+30	đồng đội	N
+31	nam	N
+32	Asiad	Nb
+33	1958	M
+34	...	CH
+
+# sentence_id = 105859.seg.pos-s12
+# text = Một đêm không ngủ của kỳ nữ Kim Cương !
+1	Một	M
+2	đêm	N
+3	không	R
+4	ngủ	V
+5	của	E
+6	kỳ nữ	N
+7	Kim Cương	Np
+8	!	CH
+
+# sentence_id = 105859.seg.pos-s13
+# text = Trong những tấm ảnh tư liệu đã ố màu thời gian, tôi tìm thấy một tấm chụp nữ nghệ sĩ Kim Cương cười thật tươi, đang trao hoa cho những người hùng năm ấy trong ngày trở về .
+1	Trong	E
+2	những	L
+3	tấm	Nc
+4	ảnh	N
+5	tư liệu	N
+6	đã	R
+7	ố	A
+8	màu	N
+9	thời gian	N
+10	,	CH
+11	tôi	P
+12	tìm	V
+13	thấy	V
+14	một	M
+15	tấm	Nc
+16	chụp	V
+17	nữ	N
+18	nghệ sĩ	N
+19	Kim Cương	Np
+20	cười	V
+21	thật	R
+22	tươi	A
+23	,	CH
+24	đang	R
+25	trao	V
+26	hoa	N
+27	cho	E
+28	những	L
+29	người hùng	N
+30	năm	N
+31	ấy	P
+32	trong	E
+33	ngày	N
+34	trở về	V
+35	.	CH
+
+# sentence_id = 105859.seg.pos-s14
+# text = Liên lạc với cô, Kim Cương cười giòn tan hỏi : “ Có phải em muốn hỏi cái chuyến chị đi đón mấy anh Hòa, Được, Tiết thắng trận ở Nhật về không ? ” .
+1	Liên lạc	V
+2	với	E
+3	cô	N
+4	,	CH
+5	Kim Cương	Np
+6	cười	V
+7	giòn tan	A
+8	hỏi	V
+9	:	CH
+10	“	CH
+11	Có	V
+12	phải	A
+13	em	N
+14	muốn	V
+15	hỏi	V
+16	cái	T
+17	chuyến	N
+18	chị	N
+19	đi	V
+20	đón	V
+21	mấy	L
+22	anh	Nc
+23	Hòa	Np
+24	,	CH
+25	Được	Np
+26	,	CH
+27	Tiết	Np
+28	thắng	V
+29	trận	N
+30	ở	E
+31	Nhật	Np
+32	về	V
+33	không	R
+34	?	CH
+35	”	CH
+36	.	CH
+
+# sentence_id = 105859.seg.pos-s15
+# text = Những hình ảnh thật đáng tự hào của gần nửa thế kỷ trước đã lung linh hiện về qua lời kể của người nghệ sĩ : Mình thì cũng không rành lắm về chuyện thể thao, dù giữa giới nghệ sĩ và mấy anh vận động viên rất là thân thiết .
+1	Những	L
+2	hình ảnh	N
+3	thật	R
+4	đáng	V
+5	tự hào	A
+6	của	E
+7	gần	A
+8	nửa	M
+9	thế kỷ	N
+10	trước	A
+11	đã	R
+12	lung linh	A
+13	hiện	V
+14	về	R
+15	qua	E
+16	lời	N
+17	kể	V
+18	của	E
+19	người	Nc
+20	nghệ sĩ	N
+21	:	CH
+22	Mình	P
+23	thì	C
+24	cũng	R
+25	không	R
+26	rành	V
+27	lắm	R
+28	về	E
+29	chuyện	N
+30	thể thao	N
+31	,	CH
+32	dù	C
+33	giữa	N
+34	giới	Nc
+35	nghệ sĩ	N
+36	và	Cc
+37	mấy	L
+38	anh	Nc
+39	vận động viên	N
+40	rất	R
+41	là	V
+42	thân thiết	A
+43	.	CH
+
+# sentence_id = 105859.seg.pos-s16
+# text = Khi mấy anh đi dự đại hội gì gì đó ở Tokyo năm 1958, nói thiệt mình cũng chẳng để ý đâu, dù những anh Hòa, anh Được, anh Tiết lúc ấy nổi tiếng lắm rồi .
+1	Khi	N
+2	mấy	L
+3	anh	N
+4	đi	V
+5	dự	V
+6	đại hội	N
+7	gì	P
+8	gì	P
+9	đó	P
+10	ở	E
+11	Tokyo	Np
+12	năm	N
+13	1958	M
+14	,	CH
+15	nói	V
+16	thiệt	A
+17	mình	P
+18	cũng	R
+19	chẳng	R
+20	để ý	V
+21	đâu	P
+22	,	CH
+23	dù	E
+24	những	L
+25	anh	Nc
+26	Hòa	Np
+27	,	CH
+28	anh	Nc
+29	Được	Np
+30	,	CH
+31	anh	Nc
+32	Tiết	Np
+33	lúc	N
+34	ấy	P
+35	nổi tiếng	A
+36	lắm	R
+37	rồi	R
+38	.	CH
+
+# sentence_id = 105859.seg.pos-s17
+# text = Ngay cả đến khi mấy ảnh lọt vào đến trận chung kết, mình cũng chưa chú ý nhiều nữa .
+1	Ngay	R
+2	cả	P
+3	đến	E
+4	khi	N
+5	mấy	L
+6	ảnh	P
+7	lọt	V
+8	vào	E
+9	đến	V
+10	trận	N
+11	chung kết	N
+12	,	CH
+13	mình	P
+14	cũng	R
+15	chưa	R
+16	chú ý	V
+17	nhiều	A
+18	nữa	R
+19	.	CH
+
+# sentence_id = 105859.seg.pos-s18
+# text = Nhưng mình nhớ rõ cái đêm hôm ấy, khuya lắm rồi, gần dễ đến nửa đêm chứ không ít đâu .
+1	Nhưng	C
+2	mình	P
+3	nhớ	V
+4	rõ	A
+5	cái	T
+6	đêm	N
+7	hôm	N
+8	ấy	P
+9	,	CH
+10	khuya	A
+11	lắm	R
+12	rồi	R
+13	,	CH
+14	gần	A
+15	dễ	A
+16	đến	T
+17	nửa đêm	N
+18	chứ	C
+19	không	R
+20	ít	A
+21	đâu	P
+22	.	CH
+
+# sentence_id = 105859.seg.pos-s19
+# text = Nhà bình luận thể thao nổi tiếng Huyền Vũ báo tin về và đài phát thanh Sài Gòn lập tức loan tin các anh đã hạ đội tuyển bóng bàn Nhật để đoạt HCV, lập tức cả Sài Gòn xôn xao .
+1	Nhà	N
+2	bình luận	V
+3	thể thao	N
+4	nổi tiếng	A
+5	Huyền Vũ	Np
+6	báo	V
+7	tin	N
+8	về	R
+9	và	Cc
+10	đài phát thanh	N
+11	Sài Gòn	Np
+12	lập tức	R
+13	loan	V
+14	tin	N
+15	các	L
+16	anh	N
+17	đã	R
+18	hạ	V
+19	đội tuyển	N
+20	bóng bàn	N
+21	Nhật	Np
+22	để	E
+23	đoạt	V
+24	HCV	Ny
+25	,	CH
+26	lập tức	R
+27	cả	P
+28	Sài Gòn	Np
+29	xôn xao	A
+30	.	CH
+
+# sentence_id = 105859.seg.pos-s20
+# text = Lúc ấy mình cũng không biết đội Nhật là mạnh nhất thế giới, không có đối thủ, nhưng vẫn thấy sung sướng lắm, tự hào lắm khi nghe chuyện hoàng thái tử nước Nhật đã không nén nổi đau buồn vì thất bại này, phải bỏ về không dự lễ trao huy chương .
+1	Lúc	N
+2	ấy	P
+3	mình	P
+4	cũng	R
+5	không	R
+6	biết	V
+7	đội	N
+8	Nhật	Np
+9	là	V
+10	mạnh	A
+11	nhất	A
+12	thế giới	N
+13	,	CH
+14	không	R
+15	có	V
+16	đối thủ	N
+17	,	CH
+18	nhưng	C
+19	vẫn	R
+20	thấy	V
+21	sung sướng	A
+22	lắm	R
+23	,	CH
+24	tự hào	A
+25	lắm	R
+26	khi	N
+27	nghe	V
+28	chuyện	N
+29	hoàng thái tử	N
+30	nước	N
+31	Nhật	Np
+32	đã	R
+33	không	R
+34	nén	V
+35	nổi	R
+36	đau buồn	V
+37	vì	E
+38	thất bại	N
+39	này	P
+40	,	CH
+41	phải	V
+42	bỏ	V
+43	về	R
+44	không	R
+45	dự	V
+46	lễ	N
+47	trao	V
+48	huy chương	N
+49	.	CH
+
+# sentence_id = 105859.seg.pos-s21
+# text = Trời ơi, không phải bây giờ đâu, ngay từ hồi ấy Nhật đã là nước mạnh hơn mình nhiều mặt lắm rồi, nên thắng được họ là thấy sướng lắm...
+1	Trời ơi	I
+2	,	CH
+3	không	R
+4	phải	V
+5	bây giờ	P
+6	đâu	P
+7	,	CH
+8	ngay	R
+9	từ	E
+10	hồi	N
+11	ấy	P
+12	Nhật	Np
+13	đã	R
+14	là	V
+15	nước	N
+16	mạnh	A
+17	hơn	R
+18	mình	P
+19	nhiều	A
+20	mặt	N
+21	lắm	R
+22	rồi	R
+23	,	CH
+24	nên	C
+25	thắng	V
+26	được	R
+27	họ	P
+28	là	V
+29	thấy	V
+30	sướng	A
+31	lắm	R
+32	...	CH
+
+# sentence_id = 105859.seg.pos-s22
+# text = Ngay lập tức, sáng hôm sau cả Sài Gòn xôn xao chuẩn bị việc đi đón mấy ảnh, dù mấy ngày sau nữa họ mới về .
+1	Ngay lập tức	R
+2	,	CH
+3	sáng	N
+4	hôm	N
+5	sau	A
+6	cả	P
+7	Sài Gòn	Np
+8	xôn xao	V
+9	chuẩn bị	V
+10	việc	Nc
+11	đi	V
+12	đón	V
+13	mấy	L
+14	ảnh	N
+15	,	CH
+16	dù	E
+17	mấy	L
+18	ngày	N
+19	sau	A
+20	nữa	R
+21	họ	P
+22	mới	R
+23	về	V
+24	.	CH
+
+# sentence_id = 105859.seg.pos-s23
+# text = Mình cũng nôn nao liên lạc với mấy anh bên thể thao để xin được đi đón .
+1	Mình	P
+2	cũng	R
+3	nôn nao	V
+4	liên lạc	V
+5	với	E
+6	mấy	L
+7	anh	N
+8	bên	N
+9	thể thao	N
+10	để	E
+11	xin	V
+12	được	V
+13	đi	V
+14	đón	V
+15	.	CH
+
+# sentence_id = 105859.seg.pos-s24
+# text = Cũng may, lúc ấy dù chỉ mới 18 tuổi nhưng đã là ngôi sao vơ-đét, đã được gọi là “ kỳ nữ ” rồi nên được ưu ái xếp vào phái đoàn danh dự, ra đến tận chân cầu thang máy bay để đón mấy ảnh .
+1	Cũng	R
+2	may	A
+3	,	CH
+4	lúc	N
+5	ấy	P
+6	dù	E
+7	chỉ	R
+8	mới	R
+9	18	M
+10	tuổi	Nu
+11	nhưng	C
+12	đã	R
+13	là	V
+14	ngôi sao	N
+15	vơ-đét	Nb
+16	,	CH
+17	đã	R
+18	được	V
+19	gọi	V
+20	là	C
+21	“	CH
+22	kỳ nữ	N
+23	”	CH
+24	rồi	R
+25	nên	C
+26	được	V
+27	ưu ái	V
+28	xếp	V
+29	vào	E
+30	phái đoàn	N
+31	danh dự	N
+32	,	CH
+33	ra	V
+34	đến	R
+35	tận	T
+36	chân	N
+37	cầu thang	N
+38	máy bay	N
+39	để	E
+40	đón	V
+41	mấy	L
+42	ảnh	P
+43	.	CH
+
+# sentence_id = 105859.seg.pos-s25
+# text = Nói thiệt nghe, không giả một chút nào đâu, cái đêm trước khi đi đón mấy ảnh, mình nôn nao không ngủ được .
+1	Nói	V
+2	thiệt	A
+3	nghe	T
+4	,	CH
+5	không	R
+6	giả	A
+7	một chút	L
+8	nào	P
+9	đâu	P
+10	,	CH
+11	cái	T
+12	đêm	N
+13	trước	E
+14	khi	N
+15	đi	V
+16	đón	V
+17	mấy	L
+18	ảnh	N
+19	,	CH
+20	mình	P
+21	nôn nao	V
+22	không	R
+23	ngủ	V
+24	được	R
+25	.	CH
+
+# sentence_id = 105859.seg.pos-s26
+# text = Còn hôm ấy, sân bay Tân Sơn Nhất toàn người với người .
+1	Còn	C
+2	hôm	N
+3	ấy	P
+4	,	CH
+5	sân bay	N
+6	Tân Sơn Nhất	Np
+7	toàn	R
+8	người	N
+9	với	Cc
+10	người	N
+11	.	CH
+
+# sentence_id = 105859.seg.pos-s27
+# text = Ai cũng cười nói, bàn tán vui vẻ .
+1	Ai	P
+2	cũng	R
+3	cười	V
+4	nói	V
+5	,	CH
+6	bàn tán	V
+7	vui vẻ	A
+8	.	CH
+
+# sentence_id = 105859.seg.pos-s28
+# text = Khi mấy ảnh vừa bước xuống máy bay, mình là một trong những người đã ôm hoa đến tặng .
+1	Khi	N
+2	mấy	L
+3	ảnh	P
+4	vừa	R
+5	bước	V
+6	xuống	R
+7	máy bay	N
+8	,	CH
+9	mình	P
+10	là	V
+11	một	M
+12	trong	E
+13	những	L
+14	người	N
+15	đã	R
+16	ôm	V
+17	hoa	N
+18	đến	V
+19	tặng	V
+20	.	CH
+
+# sentence_id = 105859.seg.pos-s29
+# text = Mấy ảnh lên xe đi diễu hành về trung tâm thành phố mà phía sau là một đoàn người dài dằng dặc .
+1	Mấy	L
+2	ảnh	N
+3	lên	V
+4	xe	N
+5	đi	V
+6	diễu hành	V
+7	về	E
+8	trung tâm	N
+9	thành phố	N
+10	mà	C
+11	phía	N
+12	sau	A
+13	là	V
+14	một	M
+15	đoàn	N
+16	người	N
+17	dài dằng dặc	A
+18	.	CH
+
+# sentence_id = 105859.seg.pos-s30
+# text = Ôi, không khí mừng chiến thắng kéo dài lắm, mấy ảnh dự tiệc ăn mừng muốn mệt xỉu .
+1	Ôi	I
+2	,	CH
+3	không khí	N
+4	mừng	V
+5	chiến thắng	N
+6	kéo dài	A
+7	lắm	R
+8	,	CH
+9	mấy	L
+10	ảnh	N
+11	dự	V
+12	tiệc	N
+13	ăn mừng	V
+14	muốn	V
+15	mệt	A
+16	xỉu	V
+17	.	CH
+
+# sentence_id = 105859.seg.pos-s31
+# text = Mình nhớ cũng tranh thủ mời được mấy ảnh dự một buổi tiệc do mình chiêu đãi ở nhà hàng Thanh Thế nữa đó...
+1	Mình	P
+2	nhớ	V
+3	cũng	R
+4	tranh thủ	V
+5	mời	V
+6	được	R
+7	mấy	L
+8	ảnh	N
+9	dự	V
+10	một	M
+11	buổi	N
+12	tiệc	N
+13	do	E
+14	mình	P
+15	chiêu đãi	V
+16	ở	E
+17	nhà hàng	N
+18	Thanh Thế	Np
+19	nữa	R
+20	đó	P
+21	...	CH
+
+# sentence_id = 105859.seg.pos-s32
+# text = Ôi, nhớ lại vui lắm...
+1	Ôi	I
+2	,	CH
+3	nhớ	V
+4	lại	R
+5	vui	A
+6	lắm	R
+7	...	CH
+
+# sentence_id = 105859.seg.pos-s33
+# text = Không biết đến bao giờ mình mới thắng được một đội số một thế giới như thế nữa em nhỉ ?
+1	Không	R
+2	biết	V
+3	đến	E
+4	bao giờ	P
+5	mình	P
+6	mới	R
+7	thắng	V
+8	được	R
+9	một	M
+10	đội	N
+11	số một	N
+12	thế giới	N
+13	như	C
+14	thế	P
+15	nữa	R
+16	em	N
+17	nhỉ	T
+18	?	CH
+
+# sentence_id = 105859.seg.pos-s34
+# text = Một trong hai nỗi đau nhất của thể thao Nhật Bản
+1	Một	M
+2	trong	E
+3	hai	M
+4	nỗi	Nc
+5	đau	A
+6	nhất	A
+7	của	E
+8	thể thao	N
+9	Nhật Bản	Np
+
+# sentence_id = 105859.seg.pos-s35
+# text = Tìm lại tư liệu báo chí thời bấy giờ, đã có khá nhiều bài viết, bài dịch từ báo chí Nhật nói về sự kiện này .
+1	Tìm	V
+2	lại	R
+3	tư liệu	N
+4	báo chí	N
+5	thời	N
+6	bấy giờ	P
+7	,	CH
+8	đã	R
+9	có	V
+10	khá	R
+11	nhiều	A
+12	bài	N
+13	viết	V
+14	,	CH
+15	bài	N
+16	dịch	V
+17	từ	E
+18	báo chí	N
+19	Nhật	Np
+20	nói	V
+21	về	E
+22	sự kiện	N
+23	này	P
+24	.	CH
+
+# sentence_id = 105859.seg.pos-s36
+# text = Với thể thao nước Nhật lúc ấy, người ta cho rằng đây là một trong hai nỗi đau lớn nhất .
+1	Với	E
+2	thể thao	N
+3	nước	N
+4	Nhật	Np
+5	lúc	N
+6	ấy	P
+7	,	CH
+8	người ta	P
+9	cho	V
+10	rằng	C
+11	đây	P
+12	là	V
+13	một	M
+14	trong	E
+15	hai	M
+16	nỗi	N
+17	đau	A
+18	lớn	A
+19	nhất	A
+20	.	CH
+
+# sentence_id = 105859.seg.pos-s37
+# text = Tờ Nhật báo Đông Kinh viết : “ Trong lịch sử thể thao Nhật, có hai biến cố làm chúng ta đau lòng nhất là việc để đoàn VN đoạt HCV bóng bàn đồng đội nam ngay tại Asiad lần 3 - Tokyo 1958 ; và võ sĩ Hà Lan Auton Geenik đoạt chức vô địch judo thế giới ” .
+1	Tờ	Nc
+2	Nhật báo Đông Kinh	Np
+3	viết	V
+4	:	CH
+5	“	CH
+6	Trong	E
+7	lịch sử	N
+8	thể thao	N
+9	Nhật	Np
+10	,	CH
+11	có	V
+12	hai	M
+13	biến cố	N
+14	làm	V
+15	chúng ta	P
+16	đau lòng	A
+17	nhất	A
+18	là	V
+19	việc	N
+20	để	E
+21	đoàn	N
+22	VN	Np
+23	đoạt	V
+24	HCV	Ny
+25	bóng bàn	N
+26	đồng đội	N
+27	nam	N
+28	ngay	R
+29	tại	E
+30	Asiad	Nb
+31	lần	N
+32	3	M
+33	-	CH
+34	Tokyo	Np
+35	1958	M
+36	;	CH
+37	và	Cc
+38	võ sĩ	N
+39	Hà Lan	Np
+40	Auton Geenik	Np
+41	đoạt	V
+42	chức	N
+43	vô địch	N
+44	judo	Nb
+45	thế giới	N
+46	”	CH
+47	.	CH
+
+# sentence_id = 105859.seg.pos-s38
+# text = Còn tờ Nhật Bản Thời Luận thì có hẳn một bài ca ngợi ba tay vợt chủ lực của VN : “ bức tường thành ” Mai Văn Hòa, “ kỳ quan ” Lê Văn Tiết - tay vợt duy nhất chỉ thua một trận trong số 14 trận đấu của mình tại Asiad 1958 và Trần Cảnh Được - một tay vợt công thủ toàn diện .
+1	Còn	C
+2	tờ	Nc
+3	Nhật Bản Thời Luận	Np
+4	thì	C
+5	có	V
+6	hẳn	R
+7	một	M
+8	bài	N
+9	ca ngợi	V
+10	ba	M
+11	tay vợt	N
+12	chủ lực	N
+13	của	E
+14	VN	Np
+15	:	CH
+16	“	CH
+17	bức	Nc
+18	tường	N
+19	thành	N
+20	”	CH
+21	Mai Văn Hòa	Np
+22	,	CH
+23	“	CH
+24	kỳ quan	N
+25	”	CH
+26	Lê Văn Tiết	Np
+27	-	CH
+28	tay vợt	N
+29	duy nhất	A
+30	chỉ	R
+31	thua	V
+32	một	M
+33	trận	N
+34	trong	E
+35	số	N
+36	14	M
+37	trận	N
+38	đấu	V
+39	của	E
+40	mình	P
+41	tại	E
+42	Asiad	B
+43	1958	M
+44	và	Cc
+45	Trần Cảnh Được	Np
+46	-	CH
+47	một	M
+48	tay vợt	N
+49	công thủ	N
+50	toàn diện	A
+51	.	CH
+
+# sentence_id = 105859.seg.pos-s39
+# text = Để lọt được vào đến trận chung kết gặp chủ nhà Nhật, đội VN với bốn tay vợt Mai Văn Hòa, Trần Cảnh Được, Trần Văn Liễu và Lê Văn Tiết đã lần lượt thắng như chẻ tre trước Philippines 5 - 1, Đài Loan 5 - 1, Iran 5 - 2, Hong Kong 5 - 1 và Nam Triều Tiên 5 - 2 .
+1	Để	E
+2	lọt	V
+3	được	R
+4	vào	V
+5	đến	V
+6	trận	N
+7	chung kết	N
+8	gặp	V
+9	chủ	N
+10	nhà	N
+11	Nhật	Np
+12	,	CH
+13	đội	N
+14	VN	Np
+15	với	E
+16	bốn	M
+17	tay vợt	N
+18	Mai Văn Hòa	Np
+19	,	CH
+20	Trần Cảnh Được	Np
+21	,	CH
+22	Trần Văn Liễu	Np
+23	và	Cc
+24	Lê Văn Tiết	Np
+25	đã	R
+26	lần lượt	R
+27	thắng	V
+28	như	C
+29	chẻ tre	A
+30	trước	E
+31	Philippines	Np
+32	5	M
+33	-	CH
+34	1	M
+35	,	CH
+36	Đài Loan	Np
+37	5	M
+38	-	CH
+39	1	M
+40	,	CH
+41	Iran	Np
+42	5	M
+43	-	CH
+44	2	M
+45	,	CH
+46	Hong Kong	Np
+47	5	M
+48	-	CH
+49	1	M
+50	và	Cc
+51	Nam Triều Tiên	Np
+52	5	M
+53	-	CH
+54	2	M
+55	.	CH
+
+# sentence_id = 105859.seg.pos-s40
+# text = Chính vì vậy, đội Nhật dù rất tự tin nhưng cũng thận trọng khi tung ra thành phần mạnh nhất của mình ở trận chung kết, gồm đương kim vô địch nam thế giới Tanaka, cựu vô địch thế giới nhiều năm liền Ogimura (sau này từng làm chủ tịch Liên đoàn Bóng bàn thế giới) và một cây vợt số hai của Nhật lúc đó là Tsunoda .
+1	Chính	T
+2	vì vậy	C
+3	,	CH
+4	đội	N
+5	Nhật	Np
+6	dù	E
+7	rất	R
+8	tự tin	V
+9	nhưng	C
+10	cũng	R
+11	thận trọng	A
+12	khi	N
+13	tung	V
+14	ra	R
+15	thành phần	N
+16	mạnh	A
+17	nhất	A
+18	của	E
+19	mình	P
+20	ở	E
+21	trận	Nc
+22	chung kết	N
+23	,	CH
+24	gồm	V
+25	đương kim	A
+26	vô địch	N
+27	nam	N
+28	thế giới	N
+29	Tanaka	Np
+30	,	CH
+31	cựu	Z
+32	vô địch	N
+33	thế giới	N
+34	nhiều	A
+35	năm	N
+36	liền	A
+37	Ogimura	Np
+38	(	CH
+39	sau này	N
+40	từng	R
+41	làm	V
+42	chủ tịch	N
+43	Liên đoàn	N
+44	Bóng bàn	N
+45	thế giới	N
+46	)	CH
+47	và	Cc
+48	một	M
+49	cây	Nc
+50	vợt	N
+51	số	N
+52	hai	M
+53	của	E
+54	Nhật	Np
+55	lúc	N
+56	đó	P
+57	là	V
+58	Tsunoda	Np
+59	.	CH
+
+# sentence_id = 105859.seg.pos-s41
+# text = Phía VN, ba tay vợt chủ lực đã được tung ra gồm Hòa, Được và Tiết .
+1	Phía	N
+2	VN	Np
+3	,	CH
+4	ba	M
+5	tay vợt	N
+6	chủ lực	N
+7	đã	R
+8	được	V
+9	tung	V
+10	ra	R
+11	gồm	V
+12	Hòa	Np
+13	,	CH
+14	Được	Np
+15	và	Cc
+16	Tiết	Np
+17	.	CH
+
+# sentence_id = 105859.seg.pos-s42
+# text = Trước trận đấu, dư luận đánh giá các tay vợt VN chỉ có 10% hi vọng làm chuyện bất ngờ .
+1	Trước	E
+2	trận	N
+3	đấu	V
+4	,	CH
+5	dư luận	N
+6	đánh giá	V
+7	các	L
+8	tay vợt	N
+9	VN	Np
+10	chỉ	R
+11	có	V
+12	10%	M
+13	hi vọng	N
+14	làm	V
+15	chuyện	N
+16	bất ngờ	A
+17	.	CH
+
+# sentence_id = 105859.seg.pos-s43
+# text = Nên nhớ trước đó một năm, tại giải vô địch thế giới ở Thụy Điển, đội Nhật đã hạ VN (Hòa, Được, Huỳnh Văn Ngọc) 5 - 3 .
+1	Nên	V
+2	nhớ	V
+3	trước	E
+4	đó	P
+5	một	M
+6	năm	N
+7	,	CH
+8	tại	E
+9	giải	N
+10	vô địch	A
+11	thế giới	N
+12	ở	E
+13	Thụy Điển	Np
+14	,	CH
+15	đội	N
+16	Nhật	Np
+17	đã	R
+18	hạ	V
+19	VN	Np
+20	(	CH
+21	Hòa	Np
+22	,	CH
+23	Được	Np
+24	,	CH
+25	Huỳnh Văn Ngọc	Np
+26	)	CH
+27	5	M
+28	-	CH
+29	3	M
+30	.	CH
+
+# sentence_id = 105859.seg.pos-s44
+# text = Vì vậy, Liên đoàn Bóng bàn Nhật rất tự tin mời hoàng thái tử Nhật đến xem và theo kế hoạch sẽ trao HCV cho đội thắng trận .
+1	Vì vậy	C
+2	,	CH
+3	Liên đoàn	N
+4	Bóng bàn	N
+5	Nhật	Np
+6	rất	R
+7	tự tin	A
+8	mời	V
+9	hoàng thái tử	N
+10	Nhật	Np
+11	đến	V
+12	xem	V
+13	và	Cc
+14	theo	E
+15	kế hoạch	N
+16	sẽ	R
+17	trao	V
+18	HCV	Ny
+19	cho	E
+20	đội	N
+21	thắng	V
+22	trận	N
+23	.	CH
+
+# sentence_id = 105859.seg.pos-s45
+# text = Thế nhưng, cái 10% hi vọng chiến thắng lại trở thành hiện thực .
+1	Thế	T
+2	nhưng	C
+3	,	CH
+4	cái	T
+5	10%	M
+6	hi vọng	N
+7	chiến thắng	V
+8	lại	R
+9	trở thành	V
+10	hiện thực	N
+11	.	CH
+
+# sentence_id = 105859.seg.pos-s46
+# text = Thể thức thi đấu lúc ấy là đánh chín trận đơn, bên nào đến năm trước là chiến thắng .
+1	Thể thức	N
+2	thi đấu	V
+3	lúc	N
+4	ấy	P
+5	là	V
+6	đánh	V
+7	chín	M
+8	trận	N
+9	đơn	N
+10	,	CH
+11	bên	N
+12	nào	P
+13	đến	V
+14	năm	M
+15	trước	A
+16	là	V
+17	chiến thắng	V
+18	.	CH
+
+# sentence_id = 105859.seg.pos-s47
+# text = Trận đầu, Hòa thắng Tsunoda 2 - 1 .
+1	Trận	N
+2	đầu	N
+3	,	CH
+4	Hòa	Np
+5	thắng	V
+6	Tsunoda	Np
+7	2	M
+8	-	CH
+9	1	M
+10	.	CH
+
+# sentence_id = 105859.seg.pos-s48
+# text = Kế đến, Ogimura gỡ hòa bằng chiến thắng 2 - 0 trước Được .
+1	Kế	V
+2	đến	R
+3	,	CH
+4	Ogimura	Np
+5	gỡ	V
+6	hòa	A
+7	bằng	E
+8	chiến thắng	N
+9	2	M
+10	-	CH
+11	0	M
+12	trước	E
+13	Được	Np
+14	.	CH
+
+# sentence_id = 105859.seg.pos-s49
+# text = VN vượt lên ở trận thứ ba khi Tiết hạ Tanaka 2 - 0 .
+1	VN	Np
+2	vượt	V
+3	lên	R
+4	ở	E
+5	trận	N
+6	thứ	N
+7	ba	M
+8	khi	N
+9	Tiết	Np
+10	hạ	V
+11	Tanaka	Np
+12	2	M
+13	-	CH
+14	0	M
+15	.	CH
+
+# sentence_id = 105859.seg.pos-s50
+# text = Đội Nhật lại bắt kịp khi Ogimura hạ Hòa 2 - 1 .
+1	Đội	N
+2	Nhật	Np
+3	lại	R
+4	bắt	V
+5	kịp	A
+6	khi	N
+7	Ogimura	Np
+8	hạ	V
+9	Hòa	Np
+10	2	M
+11	-	CH
+12	1	M
+13	.	CH
+
+# sentence_id = 105859.seg.pos-s51
+# text = Ở ván thứ năm, Tiết hạ Tsunoda 2 - 0 .
+1	Ở	E
+2	ván	N
+3	thứ	N
+4	năm	M
+5	,	CH
+6	Tiết	Np
+7	hạ	V
+8	Tsunoda	Np
+9	2	M
+10	-	CH
+11	0	M
+12	.	CH
+
+# sentence_id = 105859.seg.pos-s52
+# text = Tay vợt lão luyện Ogimura là người “ rửa mặt ” cho chủ nhà khi thắng đối thủ thứ ba của VN là Tiết 2 - 1 .
+1	Tay vợt	N
+2	lão luyện	A
+3	Ogimura	Np
+4	là	V
+5	người	N
+6	“	CH
+7	rửa	V
+8	mặt	N
+9	”	CH
+10	cho	E
+11	chủ	N
+12	nhà	N
+13	khi	N
+14	thắng	V
+15	đối thủ	N
+16	thứ	N
+17	ba	M
+18	của	E
+19	VN	Np
+20	là	V
+21	Tiết	Np
+22	2	M
+23	-	CH
+24	1	M
+25	.	CH
+
+# sentence_id = 105859.seg.pos-s53
+# text = Ván thứ tám, Hòa gặp Tanaka .
+1	Ván	N
+2	thứ	N
+3	tám	M
+4	,	CH
+5	Hòa	Np
+6	gặp	V
+7	Tanaka	Np
+8	.	CH
+
+# sentence_id = 105859.seg.pos-s54
+# text = Nhà vô địch thế giới hi vọng thắng trận này để gỡ hòa 4 - 4, và trận quyết định sẽ diễn ra giữa Được với Tsunoda .
+1	Nhà	Nc
+2	vô địch	N
+3	thế giới	N
+4	hi vọng	V
+5	thắng	V
+6	trận	N
+7	này	P
+8	để	E
+9	gỡ	V
+10	hòa	A
+11	4	M
+12	-	CH
+13	4	M
+14	,	CH
+15	và	Cc
+16	trận	N
+17	quyết định	V
+18	sẽ	R
+19	diễn	V
+20	ra	R
+21	giữa	N
+22	Được	Np
+23	với	Cc
+24	Tsunoda	Np
+25	.	CH
+
+# sentence_id = 105859.seg.pos-s55
+# text = Tuy nhiên, với lối chơi vững như tường đồng, Hòa đã xuất sắc hạ Tanaka 2 - 0 (21 / 17, 21 / 18) .
+1	Tuy nhiên	C
+2	,	CH
+3	với	E
+4	lối	N
+5	chơi	V
+6	vững	A
+7	như	C
+8	tường	N
+9	đồng	A
+10	,	CH
+11	Hòa	Np
+12	đã	R
+13	xuất sắc	A
+14	hạ	V
+15	Tanaka	Np
+16	2	M
+17	-	CH
+18	0	M
+19	(	CH
+20	21	M
+21	/	CH
+22	17	M
+23	,	CH
+24	21	M
+25	/	CH
+26	18	M
+27	)	CH
+28	.	CH
+
+# sentence_id = 105859.seg.pos-s56
+# text = Những người mê thể thao nay đã bước sang tuổi thất thập cổ lai hi kể lại rằng bộ phim nhựa quay những trận đấu ấy sau đó đã được công chiếu trong các rạp chiếu bóng toàn miền Nam .
+1	Những	L
+2	người	N
+3	mê	V
+4	thể thao	N
+5	nay	P
+6	đã	R
+7	bước	V
+8	sang	V
+9	tuổi	N
+10	thất thập cổ lai hi	X
+11	kể	V
+12	lại	R
+13	rằng	C
+14	bộ	Nc
+15	phim nhựa	N
+16	quay	V
+17	những	L
+18	trận	N
+19	đấu	V
+20	ấy	P
+21	sau	E
+22	đó	P
+23	đã	R
+24	được	V
+25	công chiếu	V
+26	trong	E
+27	các	L
+28	rạp	N
+29	chiếu bóng	V
+30	toàn	R
+31	miền	N
+32	Nam	Np
+33	.	CH
+
+# sentence_id = 105859.seg.pos-s57
+# text = Khi xem đến cảnh Tanaka quăng vợt chạy đến bên mẹ khóc ròng, rồi cảnh hoàng thái tử Nhật lặng lẽ rời nhà thi đấu, không người Việt nào không rơi lệ vì tự hào .
+1	Khi	N
+2	xem	V
+3	đến	E
+4	cảnh	N
+5	Tanaka	Np
+6	quăng	V
+7	vợt	N
+8	chạy	V
+9	đến	R
+10	bên	N
+11	mẹ	N
+12	khóc	V
+13	ròng	A
+14	,	CH
+15	rồi	C
+16	cảnh	N
+17	hoàng thái tử	N
+18	Nhật	Np
+19	lặng lẽ	A
+20	rời	V
+21	nhà thi đấu	N
+22	,	CH
+23	không	R
+24	người	Nc
+25	Việt	Np
+26	nào	P
+27	không	R
+28	rơi	V
+29	lệ	N
+30	vì	E
+31	tự hào	A
+32	.	CH
+
+# sentence_id = 105859.seg.pos-s58
+# text = Nhà bình luận thể thao nổi tiếng Huyền Vũ lúc ấy viết rằng khi ký biên bản sau trận đấu, đội trưởng đội Nhật - tay vợt Ogimura ngậm ngùi nói : “ Đây là lần đầu tiên trong đời cầm vợt của tôi đã phải ký biên bản trước (đội thất bại phải ký trước) ” !
+1	Nhà	N
+2	bình luận	V
+3	thể thao	N
+4	nổi tiếng	A
+5	Huyền Vũ	Np
+6	lúc	N
+7	ấy	P
+8	viết	V
+9	rằng	C
+10	khi	N
+11	ký	V
+12	biên bản	N
+13	sau	E
+14	trận	N
+15	đấu	V
+16	,	CH
+17	đội trưởng	N
+18	đội	N
+19	Nhật	Np
+20	-	CH
+21	tay vợt	N
+22	Ogimura	Np
+23	ngậm ngùi	V
+24	nói	V
+25	:	CH
+26	“	CH
+27	Đây	P
+28	là	V
+29	lần	N
+30	đầu tiên	A
+31	trong	E
+32	đời	N
+33	cầm	V
+34	vợt	N
+35	của	E
+36	tôi	P
+37	đã	R
+38	phải	V
+39	ký	V
+40	biên bản	N
+41	trước	A
+42	(	CH
+43	đội	N
+44	thất bại	V
+45	phải	V
+46	ký	V
+47	trước	A
+48	)	CH
+49	”	CH
+50	!	CH
+
+# sentence_id = 105859.seg.pos-s59
+# text = Mặc dù chiến thắng được ghi công bởi cả bốn thành viên đội bóng bàn lúc ấy gồm Mai Văn Hòa, Trần Cảnh Được, Lê Văn Tiết và Trần Văn Liễu ; nhưng nhờ trận thắng quyết định cuối cùng, Mai Văn Hòa vẫn là người được nhắc đến nhiều nhất .
+1	Mặc dù	C
+2	chiến thắng	N
+3	được	V
+4	ghi	V
+5	công	N
+6	bởi	E
+7	cả	P
+8	bốn	M
+9	thành viên	N
+10	đội	N
+11	bóng bàn	N
+12	lúc	N
+13	ấy	P
+14	gồm	V
+15	Mai Văn Hòa	Np
+16	,	CH
+17	Trần Cảnh Được	Np
+18	,	CH
+19	Lê Văn Tiết	Np
+20	và	Cc
+21	Trần Văn Liễu	Np
+22	;	CH
+23	nhưng	C
+24	nhờ	V
+25	trận	N
+26	thắng	V
+27	quyết định	V
+28	cuối cùng	A
+29	,	CH
+30	Mai Văn Hòa	Np
+31	vẫn	R
+32	là	V
+33	người	N
+34	được	V
+35	nhắc	V
+36	đến	R
+37	nhiều	A
+38	nhất	A
+39	.	CH
+
+# sentence_id = 105859.seg.pos-s60
+# text = Cũng nhờ chiến thắng ấy, ông đã kiếm được một món tiền lớn để trang trải nợ nần...
+1	Cũng	R
+2	nhờ	V
+3	chiến thắng	N
+4	ấy	P
+5	,	CH
+6	ông	N
+7	đã	R
+8	kiếm	V
+9	được	R
+10	một	M
+11	món	Nc
+12	tiền	N
+13	lớn	A
+14	để	E
+15	trang trải	V
+16	nợ nần	N
+17	...	CH
+
+# sentence_id = 105859.seg.pos-s61
+# text = HUY THỌ
+1	HUY THỌ	Np
+
+# sentence_id = 105859.seg.pos-s62
+# text = - -
+1	-	CH
+2	-	CH
+
+# sentence_id = 105859.seg.pos-s63
+# text = Kỳ sau : Mai Văn Hòa và chữ ký giải nợ Chà và
+1	Kỳ	N
+2	sau	A
+3	:	CH
+4	Mai Văn Hòa	Np
+5	và	Cc
+6	chữ ký	N
+7	giải	V
+8	nợ	N
+9	Chà và	Np

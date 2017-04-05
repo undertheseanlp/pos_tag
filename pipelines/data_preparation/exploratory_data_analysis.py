@@ -4,15 +4,24 @@ import lxml.etree as ET
 import pandas as pd
 from underthesea.corpus import PlainTextCorpus
 
-raw_folder = dirname(__file__)
-corpus = PlainTextCorpus()
-corpus.load(join(dirname(dirname(dirname(__file__))), "data", "raw"))
-sentences = [sentence for document in corpus.documents for sentence in document.sentences]
+# raw_folder = dirname(__file__)
+# corpus = PlainTextCorpus()
+# corpus.load(join(dirname(dirname(dirname(__file__))), "data", "raw", "version 2"))
+# sentences = [sentence for document in corpus.documents for sentence in document.sentences]
+# total_sentences = len(sentences)
+# words = [token for sentence in sentences for token in sentence.split(" ")]
+# total_words = len(words)
+# total_tokens = total_words
+# total_fused = 0
+from pipelines.data_preparation.corpus import TaggedCorpus
+
+ud_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "vi_ud.conllu")
+corpus = TaggedCorpus()
+corpus.load(ud_file)
+sentences = corpus.sents()
 total_sentences = len(sentences)
-words = [token for sentence in sentences for token in sentence.split(" ")]
-total_words = len(words)
+total_words = 0
 total_tokens = total_words
-total_fused = 0
 
 report_file = dirname(dirname(__file__))
 root = ET.Element('treebank')

@@ -6,9 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words.-->
   <size>
     <total>
-      <sentences>21309</sentences>
-      <words>444273</words>
-      <tokens>444273</tokens>
+      <sentences>20679</sentences>
+      <words>0</words>
+      <tokens>0</tokens>
       <fused>0</fused>
     </total>
   </size>

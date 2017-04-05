@@ -1,45 +1,14 @@
 from os.path import dirname
 from os.path import join
-
-from underthesea.corpus import PlainTextCorpus
-
-
-def word2features(sent, i):
-    word = sent[i][0]
-    features = [
-        word,
-        'bias',
-        'word.lower=' + word.lower(),
-        'word.isupper=%s' % word.isupper(),
-        'word.istitle=%s' % word.istitle(),
-        'word.isdigit=%s' % word.isdigit(),
-    ]
-    if i > 0:
-        word1 = sent[i - 1][0]
-        features.extend([
-            '-1:word.lower=' + word1.lower(),
-            '-1:word.istitle=%s' % word1.istitle(),
-            '-1:word.isupper=%s' % word1.isupper(),
-        ])
-    else:
-        features.append('BOS')
-
-    if i < len(sent) - 1:
-        word1 = sent[i + 1][0]
-        features.extend([
-            '+1:word.lower=' + word1.lower(),
-            '+1:word.istitle=%s' % word1.istitle(),
-            '+1:word.isupper=%s' % word1.isupper(),
-        ])
-    else:
-        features.append('EOS')
-
-    return features
+from models.crf_model.features.feature_2 import word2features
+from pipelines.data_preparation.corpus import TaggedCorpus
 
 
 def sent2features(sent):
     return [word2features(sent, i) for i in range(len(sent))]
 
+def sent2features_2(sent, template):
+    return [word2features(sent, i, template) for i in range(len(sent))]
 
 class Transformer:
     def __init__(self):
@@ -53,6 +22,10 @@ class Transformer:
     @staticmethod
     def extract_features(sentence):
         return sent2features(sentence)
+
+    @staticmethod
+    def extract_features_2(sentence, template):
+        return sent2features_2(sentence, template)
 
     def format_word(self, sentence):
         path = join(dirname(dirname(dirname(__file__))), "pipelines", "logs", "punctuation.txt")
@@ -88,14 +61,10 @@ class Transformer:
         return word_tuple
 
     def load_train_sents(self):
-        corpus = PlainTextCorpus()
-        file_path = join(dirname(dirname(dirname(__file__))), "data", "corpus", "train", "output")
+        corpus = TaggedCorpus()
+        file_path = join(dirname(dirname(dirname(__file__))), "data", "ud", "vi_ud.conllu")
         corpus.load(file_path)
-        sentences = []
-        for document in corpus.documents:
-            for sentence in document.sentences:
-                if sentence != "":
-                    sentences.append(sentence)
+        sentences = corpus.sents()
         return sentences
 
 

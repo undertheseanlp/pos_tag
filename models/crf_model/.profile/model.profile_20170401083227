@@ -1,0 +1,36 @@
+{
+    "accuracy score": 0.8687258687258688, 
+    "data": {
+        "test": 20, 
+        "train": 180
+    }, 
+    "duration": 4.631999969482422, 
+    "model": {
+        "name": "CRF", 
+        "params": {
+            "c1": 1.0, 
+            "c2": 0.001, 
+            "feature.possible_transitions": true, 
+            "max_iterations": 1000
+        }
+    }, 
+    "template": [
+        "T[0].lower", 
+        "T[-1].lower", 
+        "T[1].lower", 
+        "T[0].istitle", 
+        "T[-1].istitle", 
+        "T[1].istitle", 
+        "T[-2]", 
+        "T[-1]", 
+        "T[0]", 
+        "T[1]", 
+        "T[2]", 
+        "T[-2,-1]", 
+        "T[-1,0]", 
+        "T[0,1]", 
+        "T[1,2]", 
+        "T[-1][1]", 
+        "T[-2][1]"
+    ]
+}

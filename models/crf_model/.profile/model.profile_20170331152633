@@ -1,0 +1,17 @@
+{
+    "accuracy score": 0.8494208494208494, 
+    "data": {
+        "test": 20, 
+        "train": 180
+    }, 
+    "duration": 3.9839999675750732, 
+    "model": {
+        "name": "CRF", 
+        "params": {
+            "c1": 1.0, 
+            "c2": 0.001, 
+            "feature.possible_transitions": true, 
+            "max_iterations": 1000
+        }
+    }
+}
