@@ -1,5 +1,8 @@
+# -*- coding: utf-8 -*-
 import io
 import re
+from collections import Counter
+import pandas as pd
 
 
 class TaggedCorpus:
@@ -55,7 +58,7 @@ class TaggedCorpus:
                     sentences.append(sentence)
                     continue
                 i, word, tag, x = re.split("\n|\t", line)
-                word = TaggedWord(word, tag)
+                word = TaggedWord(word.decode("utf-8"), tag)
                 words.append(word)
             document = TaggedDocument()
             document.id = document_id
@@ -69,12 +72,24 @@ class TaggedCorpus:
             self.documents = documents
 
     def sents(self):
-        sentences = [sent.words for document in self.documents for sent in document.sentences]
+        sentences = [sent for document in self.documents for sent in document.sentences]
         sentences = [sent for sent in sentences if sent != []]
         return sentences
 
     def words(self):
-        print 0
+        sents = self.sents()
+        words = [word for sent in sents for word in sent.words]
+        return words
+
+    def analyze(self):
+        tagged_words = self.words()
+        data = dict()
+        data["total_words"] = len(tagged_words)
+        words = [tagged_word.word for tagged_word in tagged_words]
+        counter = Counter(words)
+        df = pd.DataFrame.from_dict(counter, orient='index').reset_index()
+        df.to_excel("words.xlsx", encoding="utf-8", index=False)
+        return data
 
 
 class TaggedDocument:

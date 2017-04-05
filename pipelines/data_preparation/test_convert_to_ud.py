@@ -15,3 +15,7 @@ class TestExtractTokens(TestCase):
     def test_extract_tokens_3(self):
         tokens = extract_tokens("//CH")
         self.assertEqual(tokens, ["/", "CH"])
+
+    def test_extract_tokens_4(self):
+        tokens = extract_tokens("vàng/N,/CH")
+        self.assertEqual(tokens, ["/", "CH"])

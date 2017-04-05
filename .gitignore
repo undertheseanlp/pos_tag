@@ -139,3 +139,18 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 /labs/
+### MicrosoftOffice template
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
