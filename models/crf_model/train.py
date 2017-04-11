@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score
 
 
 def sentence_to_tuple(sentence):
-    return [(token.word, token.tags) for token in sentence]
+    return [(token.word, token.tags) for token in sentence.words]
 
 
 def sentence_to_labels(sentence):

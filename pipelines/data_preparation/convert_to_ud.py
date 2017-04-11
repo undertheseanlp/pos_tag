@@ -5,7 +5,9 @@ from pipelines.data_preparation.corpus import TaggedCorpus, TaggedWord, TaggedSe
 import random
 
 raw_folder = join(dirname(dirname(dirname(__file__))), "data", "raw", "version 2")
-ud_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "vi_ud.conllu")
+ud_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "vi_ud_no_comment.conllu")
+dev_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "dev.conllu")
+test_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "test.conllu")
 # sample_ud_file = join("sample", "sample_vi_ud.conllu")
 # ud_file = sample_ud_file
 
@@ -20,7 +22,9 @@ if __name__ == '__main__':
     corpus.load(raw_folder)
     tagged_corpus = TaggedCorpus()
     tagged_documents = []
-    for document in corpus.documents:
+    documents = corpus.documents
+    # documents = random.sample(documents, 10)
+    for document in documents:
         sentences = []
         for sentence in document.sentences:
             tagged_tokens = sentence.split()
@@ -34,4 +38,8 @@ if __name__ == '__main__':
         tagged_document.id = document.id
         tagged_documents.append(tagged_document)
     tagged_corpus.documents = tagged_documents
-    tagged_corpus.save(ud_file)
+    n = int(0.8 * len(tagged_documents))
+    tagged_corpus.documents = tagged_documents[:n]
+    tagged_corpus.save(dev_file, comment=False)
+    tagged_corpus.documents = tagged_documents[n:]
+    tagged_corpus.save(test_file, comment=False)

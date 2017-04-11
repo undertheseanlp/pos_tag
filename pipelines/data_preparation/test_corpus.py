@@ -38,3 +38,10 @@ class TestTaggedCorpus(TestCase):
         corpus.load(ud_file)
         data = corpus.analyze()
         self.assertGreater(data["total_words"], 5000)
+
+    def test_analyze_big(self):
+        ud_file = join(dirname(dirname(dirname(__file__))), "data", "ud", "vi_ud.conllu")
+        corpus = TaggedCorpus()
+        corpus.load(ud_file)
+        data = corpus.analyze()
+        self.assertGreater(data["total_words"], 5000)

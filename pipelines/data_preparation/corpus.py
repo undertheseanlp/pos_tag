@@ -9,17 +9,21 @@ class TaggedCorpus:
     def __init__(self, documents=[]):
         self.documents = documents
 
-    def save(self, filepath, format="UD"):
+    def save(self, filepath, format="UD", comment=True):
         with io.open(filepath, "w", encoding="utf8") as f:
             content = []
             for document in self.documents:
-                content.append(u"# document_id = %s\n" % document.id)
+                if comment:
+                    content.append(u"# document_id = %s\n" % document.id)
                 for i, sentence in enumerate(document.sentences):
                     try:
-                        content.append(u"# sentence_id = %s\n" % sentence.id)
+                        if comment:
+                            content.append(u"# sentence_id = %s\n" % sentence.id)
                     except:
-                        content.append(u"# sentence_id = %s-s%s\n" % (document.id, i + 1))
-                    content.append(u"# text = %s\n" % sentence.get_content())
+                        if comment:
+                            content.append(u"# sentence_id = %s-s%s\n" % (document.id, i + 1))
+                    if comment:
+                        content.append(u"# text = %s\n" % sentence.get_content())
                     for iw, words in enumerate(sentence.words):
                         content.append(u"%d\t%s\t%s\n" % (iw + 1, words.word, words.tags))
                     content.append(u"\n")
@@ -86,9 +90,13 @@ class TaggedCorpus:
         data = dict()
         data["total_words"] = len(tagged_words)
         words = [tagged_word.word for tagged_word in tagged_words]
-        counter = Counter(words)
-        df = pd.DataFrame.from_dict(counter, orient='index').reset_index()
+        tags = [tagged_word.tags for tagged_word in tagged_words]
+        word_counter = Counter(words)
+        tag_counter = Counter(tags)
+        df = pd.DataFrame.from_dict(word_counter, orient='index').reset_index()
         df.to_excel("words.xlsx", encoding="utf-8", index=False)
+        df = pd.DataFrame.from_dict(tag_counter, orient='index').reset_index()
+        df.to_excel("tags.xlsx", encoding="utf-8", index=False)
         return data
 
 
