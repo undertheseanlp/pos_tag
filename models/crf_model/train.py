@@ -29,7 +29,7 @@ def convert_cm_to_log(cm, labels):
 
 if __name__ == '__main__':
     transformer = Transformer()
-    train_sents = transformer.load_train_sents()[:20000]
+    train_sents = transformer.load_train_sents()[:20]
     template = [
         "T[0].lower", "T[-1].lower", "T[1].lower",
         "T[0].istitle", "T[-1].istitle", "T[1].istitle",
@@ -40,7 +40,7 @@ if __name__ == '__main__':
         "T[-3,-1][1]"
     ]
     train_sents = [sentence_to_tuple(sentence) for sentence in train_sents]
-    X = [Transformer.extract_features_2(s, template) for s in train_sents]
+    X = [Transformer.extract_features(s, template) for s in train_sents]
     y = [sent2labels(s) for s in train_sents]
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=10)
     trainer = pycrfsuite.Trainer(verbose=True)

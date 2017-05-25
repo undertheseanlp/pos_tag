@@ -4,11 +4,9 @@ from models.crf_model.features.feature_2 import word2features
 from pipelines.data_preparation.corpus import TaggedCorpus
 
 
-def sent2features(sent):
-    return [word2features(sent, i) for i in range(len(sent))]
-
-def sent2features_2(sent, template):
+def sent2features(sent, template):
     return [word2features(sent, i, template) for i in range(len(sent))]
+
 
 class Transformer:
     def __init__(self):
@@ -20,12 +18,8 @@ class Transformer:
         return sent2features(sentence)
 
     @staticmethod
-    def extract_features(sentence):
-        return sent2features(sentence)
-
-    @staticmethod
-    def extract_features_2(sentence, template):
-        return sent2features_2(sentence, template)
+    def extract_features(sentence, template):
+        return sent2features(sentence, template)
 
     def format_word(self, sentence):
         path = join(dirname(dirname(dirname(__file__))), "pipelines", "logs", "punctuation.txt")

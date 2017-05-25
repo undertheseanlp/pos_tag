@@ -2,7 +2,7 @@
 
 This repository contains experiments in Vietnamese POS Tagging problems.
 
-## Corpus Information
+## Dataset Information
 
 Corpus is in [UniversalDependencies format](https://github.com/UniversalDependencies/UD_Vietnamese).
 
@@ -11,4 +11,4 @@ Corpus is in [UniversalDependencies format](https://github.com/UniversalDependen
 * Detail Reports, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit?usp=sharing)
 * Vietnamese POS Tagging publications, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit#gid=26250307)
 
-Last update: April 2017
+Last update: May 2017
