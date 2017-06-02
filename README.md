@@ -20,4 +20,15 @@ List tags    : A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, N
 * Detail Reports, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit?usp=sharing)
 * Vietnamese POS Tagging publications, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit#gid=26250307)
 
+## How to usage
+
+```
+# clone project
+$ git clone git@github.com:magizbox/underthesea.chunking.git
+$ cd underthesea.chunking
+
+# create environment
+$ conda env create -f environment.yml
+$ source activate underthesea.pos_tag
+```
 Last update: June 2017
