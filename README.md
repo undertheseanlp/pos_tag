@@ -6,6 +6,13 @@ This repository contains experiments in Vietnamese POS Tagging problems.
 
 Corpus is in [UniversalDependencies format](https://github.com/UniversalDependencies/UD_Vietnamese).
 
+```
+Sentences    : 16281
+Unique words : 19742
+Top words    : ,, ., của, ", là, và, một, có, được, người, không, đã, cho, những, :, -, “, ..., ”, ở
+Tags         : 29
+List tags    : A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, Ny, P, Pb, R, T, V, Vb, Vy, X, Y, Z
+```
 ## Reports
 
 ![](https://img.shields.io/badge/accuracy-92.3%25-red.svg)

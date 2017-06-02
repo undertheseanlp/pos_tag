@@ -1,7 +1,7 @@
 from os.path import join, dirname
 from unittest import TestCase, skip
 
-from pipelines.data_preparation.corpus import TaggedCorpus
+from data_preparation.tagged_corpus import TaggedCorpus
 
 
 class TestTaggedCorpus(TestCase):
