@@ -1,6 +1,6 @@
 # POS Tagging Experiments
 
-This repository contains experiments in Vietnamese POS Tagging problems.
+This repository contains experiments in Vietnamese POS Tagging problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
 
 ## Corpus Summary 
 
