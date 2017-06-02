@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import pycrfsuite
 import time
+
+from datetime import datetime
 from underscore import _
 from sklearn.metrics import confusion_matrix
 
@@ -29,7 +31,7 @@ def convert_cm_to_log(cm, labels):
 
 if __name__ == '__main__':
     transformer = Transformer()
-    train_sents = transformer.load_train_sents()[:20]
+    train_sents = transformer.load_train_sents()
     template = [
         "T[0].lower", "T[-1].lower", "T[1].lower",
         "T[0].istitle", "T[-1].istitle", "T[1].istitle",
@@ -63,11 +65,12 @@ if __name__ == '__main__':
     profile.add("template", template)
 
     profile.start_train()
-    trainer.train("crf-model-1")
+    model_name = "crf-postag-%s" % datetime.now().strftime('%Y-%m-%d_%H-%M')
+    trainer.train(model_name)
     profile.end_train()
 
     model = pycrfsuite.Tagger()
-    model.open("crf-model-1")
+    model.open(model_name)
     y_pred = [model.tag(x) for x in X_test]
     y_test = _.flatten(y_test)
     y_pred = _.flatten(y_pred)

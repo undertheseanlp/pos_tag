@@ -1,6 +1,6 @@
 from os.path import dirname
 from os.path import join
-from models.crf_model.features.feature_2 import word2features
+from models.crf_model.features.feature import word2features
 from pipelines.data_preparation.corpus import TaggedCorpus
 
 
