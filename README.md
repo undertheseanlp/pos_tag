@@ -18,7 +18,6 @@ List tags    : A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, N
 ![](https://img.shields.io/badge/accuracy-92.3%25-red.svg)
 
 * Detail Reports, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit?usp=sharing)
-* Vietnamese POS Tagging publications, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit#gid=26250307)
 
 ## How to usage
 
@@ -31,4 +30,12 @@ $ cd underthesea.chunking
 $ conda env create -f environment.yml
 $ source activate underthesea.pos_tag
 ```
-Last update: June 2017
+
+## Related Works
+
+* [Vietnamese POS Tagging Tools](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#pos_tag)
+* [Vietnamese POS Tagging Publications](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#pos_tag)
+* [Vietnamese POS Tagging State of The Art](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#pos_tag)
+* [Vietnamese POS Tagging Service](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#pos_tag)
+
+Last update: October 2017
