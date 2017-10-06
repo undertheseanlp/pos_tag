@@ -10,27 +10,35 @@ Corpus is in [UniversalDependencies format](https://github.com/UniversalDependen
 Sentences    : 16281
 Unique words : 19742
 Top words    : ,, ., của, ", là, và, một, có, được, người, không, đã, cho, những, :, -, “, ..., ”, ở
-Pos Tags     : 29
-List tags    : A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, Ny, P, Pb, R, T, V, Vb, Vy, X, Y, Z
+Pos Tags (29): A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, Ny, P, Pb, R, T, V, Vb, Vy, X, Y, Z
 ```
 ## Reports
 
 ![](https://img.shields.io/badge/accuracy-92.3%25-red.svg)
 
-* Detail Reports, [link](https://docs.google.com/spreadsheets/d/12bqhU5NS9rxM9kY2pBjRSB6Av_XsoOonHEqiv-lDKZw/edit?usp=sharing)
+* [Detail Reports](https://docs.google.com/spreadsheets/d/1nH9XKXzdDWVpJO8uPFjtikL9zJCdZSIxWQX9fqEFmtM/edit?usp=sharing)
 
-## How to usage
+## Usage
+
+**Setup Environment**
 
 ```
 # clone project
-$ git clone git@github.com:magizbox/underthesea.chunking.git
-$ cd underthesea.chunking
+$ git clone git@github.com:magizbox/underthesea.pos_tag.git
 
 # create environment
-$ conda env create -f environment.yml
-$ source activate underthesea.pos_tag
+$ cd underthesea.pos_tag
+$ conda create -n underthesea.pos_tag python=3.4
+$ pip install -r requirement.txt
 ```
 
+**Run experiment**
+
+```
+$ source activate underthesea.pos_tag
+$ cd underthesea.chunking
+$ python main.py
+```
 ## Related Works
 
 * [Vietnamese POS Tagging Tools](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#part-of-speech-tagging)
