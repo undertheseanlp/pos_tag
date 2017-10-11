@@ -1,0 +1,14 @@
+Cử tri	N
+"	CH
+truy	V
+"	CH
+có phải	N
+lái xe	N
+của	E
+Bí thư	N
+Đà Nẵng	Np
+mua	V
+12	M
+lô	N
+đất	N
+?	CH

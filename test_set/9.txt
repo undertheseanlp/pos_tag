@@ -1,0 +1,13 @@
+Đang	R
+khẩn trương	A
+tìm kiếm	V
+gần	A
+20	M
+người	N
+bị	V
+lũ	N
+cuốn	V
+mất tích	V
+ở	E
+Hòa	Np
+Bình	Np
