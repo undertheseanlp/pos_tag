@@ -5,7 +5,7 @@
 This repository contains experiments in Vietnamese POS Tagging problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
 
 * [Demo](http://magizbox.com:9386)
-* [Detail Reports](https://docs.google.com/spreadsheets/d/1nH9XKXzdDWVpJO8uPFjtikL9zJCdZSIxWQX9fqEFmtM/edit?usp=sharing)
+* [Detail Report](https://docs.google.com/spreadsheets/d/1nH9XKXzdDWVpJO8uPFjtikL9zJCdZSIxWQX9fqEFmtM/edit?usp=sharing)
 
 ## Corpus Summary 
 
