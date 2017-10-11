@@ -12,10 +12,10 @@ This repository contains experiments in Vietnamese POS Tagging problems. It is a
 Corpus is in [UniversalDependencies format](https://github.com/UniversalDependencies/UD_Vietnamese).
 
 ```
+# Corpus 1
 Sentences    : 16281
 Unique words : 19742
-Top words    : ,, ., của, ", là, và, một, có, được, người, không, đã, cho, những, :, -, “, ..., ”, ở
-Pos Tags (29): A, Ab, B, C, CH, Cb, Cc, E, Eb, I, L, M, Mb, N, Nb, Nc, Np, Nu, Ny, P, Pb, R, T, V, Vb, Vy, X, Y, Z
+POS Tags     : 29
 ```
 
 
