@@ -4,7 +4,7 @@ from underthesea_flow.validation.validation import TrainTestSplitValidation
 
 from models import model_1
 
-from preprocess import treebank, vlsp2016
+from util import vlsp2016
 
 if __name__ == '__main__':
     # =========================================================================#
