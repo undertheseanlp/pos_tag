@@ -154,3 +154,5 @@ fabric.properties
 # PowerPoint temporary
 ~$*.ppt*
 
+tmp
+!tmp/.gitkeep
