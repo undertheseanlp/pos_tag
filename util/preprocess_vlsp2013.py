@@ -14,19 +14,17 @@ def preprocess(file):
         if not line:
             continue
         tokens = line.strip().split(" ")
-        words = []
-        for token in tokens:
-            if token.startswith("//"):
-                word = "/"
-            else:
-                word = token.split("/")[0]
-            words.append(word)
-        for word in words:
-            syllabels = word.split("_")
-            syllabels = [item for item in syllabels if item]
-            for i, syllabel in enumerate(syllabels):
-                label = "B-W" if i == 0 else "I-W"
-                sentence.append([syllabel, label])
+        try:
+            for token in tokens:
+                if token.startswith("//"):
+                    word = "/"
+                    tag = token[2:]
+                else:
+                    word, tag = token.split("/")
+                word = word.replace("_", " ")
+                sentence.append([word, tag])
+        except:
+            continue
         sentences.append(sentence)
     return sentences
 

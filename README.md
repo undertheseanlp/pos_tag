@@ -2,50 +2,61 @@
 
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/accuracy-92.3%25-red.svg)
 
-This repository contains experiments in Vietnamese POS Tagging problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
+This repository contains starter code for training and evaluating machine learning models in *Vietnamese POS Tagging* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models. 
 
-* [Demo](http://magizbox.com:9386)
-* [Detail Report](https://docs.google.com/spreadsheets/d/1nH9XKXzdDWVpJO8uPFjtikL9zJCdZSIxWQX9fqEFmtM/edit?usp=sharing)
+## Table of contents
 
-## Corpus Summary 
+* [1. Installation](#1-installation)
+  * [1.1 Requirements](#11-requirements)
+  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
+* [2. Usage](#2-usage)
+  * [2.1 Using a pretrained model](#21-using-a-pre-trained-model)
+  * [2.2 Train a new dataset](#22-train-a-new-dataset)
+* [3. References](#3-references)
 
-Corpus is in [UniversalDependencies format](https://github.com/UniversalDependencies/UD_Vietnamese).
+## 1. Installation
+
+### 1.1 Requirements
+
+* `Operating Systems: Linux (Ubuntu, CentOS), Mac`
+* `Python 3.6`
+* `Anaconda`
+* `languageflow==1.1.7`
+
+### 1.2 Download and Setup Environment
+
+Clone project using git
 
 ```
-# Corpus 1
-Sentences    : 16281
-Unique words : 19742
-POS Tags     : 29
+$ git clone https://github.com/undertheseanlp/pos_tag.git
 ```
 
-
-## Usage
-
-**Setup Environment**
+Create environment and install requirements
 
 ```
-# clone project
-$ git clone git@github.com:magizbox/underthesea.pos_tag.git
-
-# create environment
-$ cd underthesea.pos_tag
-$ conda create -n uts.pos_tag python=3.4
+$ cd word_tokenize
+$ conda create -n pos_tag python=3.6
 $ pip install -r requirements.txt
 ```
 
-**Run Experiments**
+## 2. Usage
+
+Make sure you are in `pos_tag` folder and activate `pos_tag` environment
 
 ```
-$ cd underthesea.pos_tag
-$ source activate uts.pos_tag
-$ python main.py
+$ cd pos_tag
+$ source activate pos_tag
+``` 
+
+### 2.2 Train a new dataset
+
+**Train and test**
+
+```
+$ python util/preprocess_vlsp2013.py
+$ python train.py \
+    --train tmp/vlsp2013/train.txt \
+    --test tmp/vlsp2013/test.txt
 ```
 
-## Related Works
-
-* [Vietnamese POS Tagging Tools](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#part-of-speech-tagging)
-* [Vietnamese POS Tagging Publications](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging)
-* [Vietnamese POS Tagging State of The Art](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#part-of-speech-tagging)
-* [Vietnamese POS Tagging Service](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#part-of-speech-tagging)
-
-Last update: October 2017
+Last update: August 2018
