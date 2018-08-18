@@ -1,5 +1,0 @@
-Sentences    : 10404
-Unique words : 15639
-Top words    : ,, ., ", của, là, và, một, có, người, được, không, đã, những, cho, :, ở, ..., trong, -, với
-Tags         : 20
-List tags    : A, C, CH, E, FW, I, L, M, N, Nc, Np, Nu, Ny, P, R, T, V, Vy, X, Z

@@ -1,0 +1,23687 @@
+Kết quả	N
+đó	P
+là	V
+sự	Nc
+ra đời	V
+chất độc	N
+da cam	N
+với	E
+mục đích	N
+quân sự	N
+.	CH
+
+Tuy nhiên	C
+tổng thống	N
+Roosevelt	Np
+lúc	N
+bấy giờ	P
+không	R
+sử dụng	V
+chất	N
+hóa học	N
+này	P
+.	CH
+
+Sau	E
+đó	P
+một	M
+nhân viên	N
+quân đội	N
+Mỹ	Np
+đã	R
+tiết lộ	V
+rằng	C
+vào	E
+tháng	N
+6 - 1945	M
+,	CH
+cuối	N
+Thế chiến	N
+thứ	N
+2	M
+dưới	E
+thời	N
+tổng thống	N
+Truman	Np
+,	CH
+quân đội	N
+Mỹ	Np
+chuẩn bị	V
+sử dụng	V
+thuốc	N
+diệt	V
+cỏ	N
+ở	E
+đồng ruộng	N
+quanh	N
+sáu	M
+thành phố	N
+lớn	A
+Nhật	Np
+.	CH
+
+Tuy nhiên	C
+kế hoạch	N
+này	P
+không	R
+thực hiện	V
+được	R
+vì	E
+Nhật	Np
+đã	R
+đầu hàng	V
+sớm	A
+.	CH
+
+Thế	T
+nhưng	C
+chính	T
+tổng thống	N
+Truman	Np
+đã	R
+ra lệnh	V
+thả	V
+bom nguyên tử	N
+khủng khiếp	A
+xuống	E
+hai	M
+thành phố	N
+Hiroshima	Np
+và	C
+Nagasaki	Np
+.	CH
+
+16	M
+năm	N
+sau	E
+sự kiện	N
+đó	P
+,	CH
+tức	E
+năm	N
+1961	M
+,	CH
+tổng thống	N
+Kennedy	Np
+lúc	N
+bấy giờ	P
+đã	R
+đưa	V
+ra	R
+một	M
+quyết định	N
+sử dụng	V
+vũ khí	N
+hóa học	N
+nói	V
+trên	N
+,	CH
+thứ	Nc
+vũ khí	N
+mà	C
+các	L
+chính quyền	N
+Mỹ	Np
+từ	E
+trước	N
+đến	E
+nay	P
+chưa	R
+dám	V
+làm	V
+.	CH
+
+Còn	C
+tổng thống	N
+Nixon	Np
+thì	C
+trao đổi	V
+ý kiến	N
+với	E
+phụ tá	N
+Kissinger	Np
+về	E
+khả năng	N
+sử dụng	V
+cả	P
+bom nguyên tử	N
+.	CH
+
+Đối với	E
+Nhật	Np
+,	CH
+Mỹ	Np
+đã	R
+thả	V
+bom nguyên tử	N
+kiểu	N
+urani	FW
+xuống	E
+Hiroshima	Np
+và	C
+kiểu	N
+plutoni	FW
+xuống	E
+Nagasaki	Np
+;	CH
+còn	C
+đối với	E
+VN	Ny
+,	CH
+Mỹ	Np
+đã	R
+rải	V
+15	M
+loại	Nc
+thuốc	N
+hóa học	N
+với	E
+số lượng	N
+80	M
+triệu	M
+lít	Nu
+,	CH
+trong	E
+đó	P
+có	V
+gần	A
+400	M
+kg	Nu
+chất	N
+dioxin	FW
+.	CH
+
+Con số	N
+này	P
+gần	R
+trùng hợp	V
+với	E
+lời	N
+phát biểu	V
+"	CH
+500	M
+kg	Nu
+dioxin	FW
+"	CH
+của	E
+ông	Nc
+Fokin	Np
+của	E
+Viện Hàn lâm	Np
+khoa học	N
+Liên Xô	Np
+vào	E
+năm	N
+1983	M
+.	CH
+
+Tuy nhiên	C
+tôi	P
+vẫn	R
+nghi ngờ	V
+con số	N
+mà	C
+ông	Nc
+Fokin	Np
+phát biểu	V
+cũng	R
+còn	R
+quá	R
+thấp	A
+so	V
+với	E
+con số	N
+thực tế	N
+.	CH
+
+Nhiều	A
+nạn nhân	N
+chưa	R
+nhận	V
+được	R
+tiền	N
+bồi thường	V
+,	CH
+chưa	R
+nghe	V
+lời	N
+xin lỗi	V
+của	E
+Mỹ	Np
+mà	C
+chết yểu	V
+với	E
+tâm trạng	N
+oan ức	A
+.	CH
+
+Người ta	N
+nói	V
+tế bào	N
+con người	N
+có thể	R
+tái sinh	V
+được	R
+cho đến	E
+120	M
+tuổi	N
+.	CH
+
+Sách	N
+Phật giáo	Np
+cũng	R
+viết	V
+con người	N
+có thể	R
+sống	V
+được	R
+120	M
+tuổi	N
+.	CH
+
+Thế	T
+mà	C
+các	L
+nạn nhân	N
+chỉ	R
+sống	V
+một	M
+cuộc sống	N
+quá	R
+ngắn ngủi	A
+như	C
+thế	T
+.	CH
+
+Chính	T
+dioxin	FW
+đã	R
+phá hoại	V
+tế bào	N
+quí báu	A
+đó	P
+.	CH
+
+Chất	N
+dioxin	FW
+là	V
+loại	Nc
+chất	N
+hóa học	N
+có	V
+tác dụng	N
+từ từ	A
+,	CH
+nó	P
+chỉ	R
+bộc lộ	V
+toàn diện	A
+tính	N
+quái ác	A
+của	E
+nó	P
+30	M
+năm	N
+sau	E
+khi	N
+chiến tranh	N
+kết thúc	V
+.	CH
+
+Mỹ	Np
+không	R
+chỉ	R
+hành động	V
+vô nhân đạo	A
+mà	C
+còn	R
+là	V
+một	M
+tội phạm	N
+chiến tranh	N
+.	CH
+
+Im lặng	V
+là	V
+đồng lõa	N
+với	E
+kẻ	N
+ác	A
+.	CH
+
+Tại	E
+Hiroshima	Np
+và	C
+Nagasaki	Np
+ở	E
+Nhật	Np
+,	CH
+những	L
+người	Nc
+sống sót	V
+đã	R
+vượt	V
+qua	R
+đau khổ	A
+và	C
+khó khăn	A
+do	E
+hậu quả	N
+của	E
+bom nguyên tử	N
+đang	R
+kế tiếp	V
+nhau	N
+kể	V
+lại	R
+kinh nghiệm	N
+khủng khiếp	A
+do	E
+bom nguyên tử	N
+gây	V
+ra	R
+.	CH
+
+Im lặng	V
+tức là	X
+đồng lõa	N
+với	E
+kẻ	Nc
+gây	V
+tội ác	N
+.	CH
+
+Chúng ta	P
+cần	V
+phải	V
+nghe	V
+và	C
+tiếp tục	V
+kể	V
+lại	R
+những	L
+mẩu	Nc
+chuyện	N
+của	E
+các	L
+nạn nhân	N
+chất độc	N
+da cam	N
+còn	R
+sống sót	V
+,	CH
+nạn nhân	N
+của	E
+một	M
+cuộc	N
+chiến tranh	N
+hóa học	N
+có thể	R
+là	V
+dai dẳng	A
+nhất	R
+trong	E
+lịch sử	N
+.	CH
+
+Tiếng	N
+Nhật	Np
+có	V
+câu	N
+"	CH
+Đồng	A
+khổ	A
+"	CH
+.	CH
+
+Nói	V
+một	M
+cách	N
+khác	A
+là	C
+cảm nhận	V
+đau khổ	A
+của	E
+nạn nhân	N
+như là	C
+đau khổ	A
+của	E
+bản thân	N
+mình	P
+mà	C
+đứng	V
+cùng	A
+vị trí	N
+của	E
+người	N
+yếu	A
+.	CH
+
+Còn	C
+giáo sư	N
+Nguyễn Trọng Nhân	Np
+,	CH
+phó	Z
+chủ tịch	N
+Hội	N
+Nạn nhân	N
+chất độc	N
+da cam	N
+VN	Ny
+,	CH
+lại	R
+cho	V
+tôi	P
+biết	V
+một	M
+thành ngữ	N
+VN	Ny
+là	V
+"	CH
+Góp	V
+gió	N
+thành	V
+bão	N
+"	CH
+.	CH
+
+Vâng	I
+,	CH
+mỗi	M
+một	M
+người	N
+hãy	R
+góp	V
+gió	N
+đi	R
+.	CH
+
+Tôi	P
+tin tưởng	V
+rằng	C
+trách nhiệm	N
+và	C
+nghĩa vụ	N
+của	E
+chúng tôi	P
+ngày nay	N
+là	V
+động viên	V
+dư luận	N
+thế giới	N
+,	CH
+kêu gọi	V
+lương tâm	N
+,	CH
+công lý	N
+,	CH
+chính nghĩa	N
+của	E
+thế giới	N
+.	CH
+
+Chính	T
+điều	N
+này	P
+sẽ	R
+dẫn	V
+đến	R
+thắng lợi	N
+trong	E
+vụ kiện	N
+của	E
+tập thể	N
+các	L
+nạn nhân	N
+.	CH
+
+Theo	E
+tôi	P
+,	CH
+VN	Ny
+dù	C
+là	V
+nước	N
+nhỏ	A
+nhưng	C
+đã	R
+vượt	V
+qua	R
+cuộc	N
+chiến tranh	N
+kéo dài	V
+ác liệt	A
+chưa	R
+từng	R
+có	V
+nên	C
+có	V
+sứ mệnh	N
+to lớn	A
+là	V
+cất	V
+lên	R
+tiếng nói	N
+của	E
+tư tưởng	N
+yêu chuộng	V
+hòa bình	N
+.	CH
+
+Chất độc	N
+vô cùng	R
+mạnh	A
+dioxin	FW
+sẽ	R
+giảm	V
+phân nửa	L
+mức	N
+độc	A
+theo	E
+thời gian	N
+.	CH
+
+Chất	N
+hóa học	N
+dần dần	R
+mất	V
+đi	R
+,	CH
+các	L
+nạn nhân	N
+cũng	R
+chết	V
+dần	R
+.	CH
+
+Nhưng	C
+nếu	C
+nghĩ	V
+theo	E
+thời gian	N
+đó	P
+mà	C
+trách nhiệm	N
+của	E
+chính phủ	N
+,	CH
+quân đội	N
+và	C
+37	M
+công ty	N
+hóa học	N
+sản xuất	V
+chất độc	N
+da cam	N
+của	E
+Mỹ	Np
+cũng	R
+sẽ	R
+phai nhạt	V
+thì	C
+thật là	R
+hoàn toàn	A
+sai lầm	A
+.	CH
+
+Hành động	N
+của	E
+chính phủ	N
+và	C
+quân đội	N
+Mỹ	Np
+không thể	R
+giảm	V
+ngay	T
+cả	P
+đến	E
+phân nửa	L
+mức	N
+tội	N
+,	CH
+trừ	V
+khi	N
+họ	P
+thừa nhận	V
+trách nhiệm	N
+của	E
+mình	P
+và	C
+viện trợ	V
+nhân đạo	A
+.	CH
+
+Họ	P
+là	V
+những	L
+nhà báo	N
+,	CH
+nhà	N
+nghiên cứu	V
+,	CH
+giáo sư	N
+đại học	N
+,	CH
+nhà	N
+hoạt động	V
+xã hội	N
+.	CH
+
+Họ	P
+quan tâm	V
+tới	E
+vấn đề	N
+chất độc	N
+da cam	N
+và	C
+không	R
+vô cảm	A
+trước	E
+cuộc	N
+đấu tranh	V
+vì	E
+công lý	N
+mà	C
+Tuổi Trẻ	Np
+phát động	V
+.	CH
+
+Từ	E
+Hàn Quốc	Np
+,	CH
+Mỹ	Np
+,	CH
+Nhật	Np
+,	CH
+Úc	Np
+,	CH
+Nga	Np
+,	CH
+họ	P
+đã	R
+gửi	V
+thư	N
+bày tỏ	V
+sự	Nc
+ủng hộ	V
+và	C
+phần	N
+đóng góp	V
+của	E
+mình	P
+,	CH
+dù	E
+nhỏ bé	A
+.	CH
+
+Đó	P
+có thể	R
+là	V
+một	M
+chữ ký	N
+,	CH
+một	M
+lời	N
+góp ý	V
+,	CH
+cũng	R
+có thể	R
+là	V
+cả	P
+một	M
+cuộc	N
+đấu tranh	V
+bền bỉ	A
+như	C
+con	Nc
+ong	N
+hút	V
+mật	N
+mỗi	M
+ngày	N
+để	E
+"	CH
+nói	V
+lên	R
+tiếng nói	N
+đủ	A
+lớn	A
+"	CH
+thức tỉnh	V
+lương tâm	N
+và	C
+trách nhiệm	N
+.	CH
+
+Tuổi Trẻ	Np
+sẽ	R
+trích	V
+đăng	V
+ba	M
+trong	E
+số	N
+các	L
+thư điện tử	N
+gửi	V
+về	R
+hưởng ứng	V
+lời	N
+kêu gọi	V
+góp	V
+tay	N
+vì	E
+công lý	N
+của	E
+Tuổi Trẻ	Np
+.	CH
+
+Khi	N
+cửa	N
+biển	N
+bị	V
+lấp	V
+dần	R
+.	CH
+
+"	CH
+Kết quả	N
+quan trắc	V
+gần	A
+đây	R
+cho	V
+thấy	V
+khả năng	N
+đóng	V
+cửa biển	N
+là	V
+rất	R
+lớn	A
+"	CH
+-	CH
+ông	Nc
+Nguyễn Việt Hùng	Np
+,	CH
+trưởng phòng	N
+môi trường	N
+LBKT	CH
+Sở	N
+Tài nguyên	N
+-	CH
+môi trường	N
+Thừa Thiên	Np
+-	CH
+Huế	Np
+RBKT	CH
+,	CH
+lo lắng	V
+.	CH
+
+Hàng	R
+ngàn	M
+hộ	N
+dân	N
+vùng	N
+đầm	N
+Cầu Hai	Np
+và	C
+ven	N
+biển	N
+đang	R
+nơm nớp	V
+lo âu	V
+cho	E
+sự	Nc
+sống	N
+của	E
+mình	P
+khi	N
+con	Nc
+đường	N
+vào	V
+ra	V
+biển	N
+,	CH
+nơi	N
+lấy	V
+nước biển	N
+và	C
+cũng	R
+là	V
+nơi	N
+thoát	V
+lũ	N
+cho	E
+cả	P
+vùng đất	N
+của	E
+hai	M
+huyện	N
+Phú Lộc	Np
+và	C
+Phú Vang	Np
+,	CH
+chẳng	R
+bao lâu	N
+nữa	R
+bị	V
+đóng	V
+chặt	A
+.	CH
+
+Chu kỳ	N
+nghiệt ngã	A
+.	CH
+
+Khoảng	N
+60	M
+chiếc	Nc
+gọ	N
+LBKT	CH
+thuyền	N
+RBKT	CH
+của	E
+bà con	N
+ngư dân	N
+xã	N
+Vinh Hiền	Np
+LBKT	CH
+huyện	N
+Phú Lộc	Np
+,	CH
+tỉnh	N
+Thừa Thiên	Np
+-	CH
+Huế	Np
+RBKT	CH
+như	C
+thường lệ	N
+nhổ neo	V
+vượt	V
+cửa	N
+Tư Hiền	Np
+ra	V
+khơi	N
+vào	E
+những	L
+chiều	N
+cuối	N
+tháng	N
+năm	M
+.	CH
+
+Nhưng	C
+có thể	A
+đây	N
+là	V
+những	L
+chuyến	N
+đi	V
+biển	N
+cuối cùng	A
+và	C
+nhiều	A
+người	N
+sẽ	R
+từ bỏ	V
+nghề	N
+biển	N
+trong	E
+nay mai	N
+.	CH
+
+Phan Thanh Thạc	Np
+,	CH
+một	M
+ngư dân	N
+29	M
+tuổi	Nu
+,	CH
+thở dài	V
+:	CH
+“	CH
+Mỗi	M
+gọ	N
+đi	V
+5	M
+-	CH
+7	M
+người	Nc
+đàn ông	N
+,	CH
+một	M
+người	N
+lo	V
+cho	E
+cả	P
+gia đình	N
+chừng	N
+6	M
+-	CH
+7	M
+miệng ăn	N
+.	CH
+
+Cửa biển	N
+như	C
+ri	P
+không	R
+biết	V
+rồi	C
+có	V
+bám trụ	V
+được	R
+với	E
+nghề	N
+biển	N
+nữa	R
+không	R
+.	CH
+
+Lúc	N
+này	P
+lão	N
+ngư	N
+Nguyễn Đinh	Np
+,	CH
+70	M
+tuổi	Nu
+,	CH
+người	N
+ở	V
+cùng	A
+thôn	N
+Hiền An	Np
+2	M
+LBKT	CH
+xã	N
+Vinh Hiền	Np
+RBKT	CH
+với	E
+Thạc	Np
+cứ	R
+lặng lẽ	A
+nhìn	V
+về	E
+cửa biển	N
+rồi	C
+chép miệng	V
+:	CH
+"	CH
+Hắn	P
+lại	R
+nổi	V
+lên	R
+rồi	R
+!	CH
+"	CH
+.	CH
+
+"	CH
+Hắn	P
+"	CH
+là	C
+ông	N
+ám chỉ	V
+những	L
+doi	N
+cát	N
+lù lù	A
+nhô	V
+lên	R
+từ	E
+đáy	N
+cửa biển	N
+,	CH
+sắp	R
+chặn	V
+ngang	A
+dòng chảy	N
+lưu thông	V
+giữa	E
+đầm	N
+Cầu Hai	Np
+và	C
+biển	N
+Đông	Np
+.	CH
+
+Ông	Nc
+Đinh	Np
+-	CH
+người	N
+đã	R
+60	M
+năm	N
+lăn lộn	V
+với	E
+đầu sóng ngọn gió	X
+-	CH
+nhìn	V
+hai	M
+doi	N
+cát	N
+dài	A
+còn	R
+cách	V
+nhau	N
+chừng	N
+hơn	A
+150	M
+m	Nu
+,	CH
+rồi	C
+lắc đầu	V
+:	CH
+"	CH
+Cũng	R
+chẳng	R
+còn	V
+lâu	A
+nữa	R
+không chỉ	C
+dân	N
+vạn	N
+LBKT	CH
+những	L
+người	N
+sống	V
+bằng	E
+nghề	N
+đi	V
+biển	N
+-	CH
+NV	Ny
+RBKT	CH
+chúng tôi	N
+,	CH
+mà	C
+biết bao	P
+người	N
+nữa	R
+lại	R
+khốn đốn	A
+"	CH
+.	CH
+
+Thôn	N
+Hiền An	Np
+2	M
+có	V
+đến	T
+95%	M
+số	N
+hộ	N
+sống	V
+bằng	E
+ngư nghiệp	N
+,	CH
+ông	Nc
+Đinh	Np
+được	V
+dân	N
+chài	N
+nơi	N
+đây	P
+xem	V
+là	C
+người	N
+am tường	V
+nhất	R
+từng	R
+hơi	N
+thở	V
+của	E
+biển	N
+.	CH
+
+Đời	N
+ông	N
+ít nhất	A
+đã	R
+ba	M
+lần	N
+chứng kiến	V
+sự	N
+bồi tụ	V
+và	C
+lấp	V
+cửa biển	N
+,	CH
+nhưng	C
+thời gian	N
+gần	A
+đây	P
+tốc độ	N
+bồi lấp	V
+nhanh	A
+đến	T
+chóng mặt	A
+.	CH
+
+Lần	N
+này	P
+ngoài	E
+yếu tố	N
+tự nhiên	A
+còn	R
+có	V
+tác nhân	N
+của	E
+việc	N
+thi công	V
+cầu	N
+Tư Hiền	Np
+-	CH
+nơi	N
+đã	R
+làm	V
+cản trở	V
+dòng	N
+thủy lưu	N
+từ	E
+đầm	N
+Cầu Hai	Np
+ra	V
+cửa	N
+Tư Hiền	Np
+.	CH
+
+Trước	E
+trăm	M
+sự	N
+khó	A
+nảy sinh	A
+,	CH
+nhiều	A
+lần	N
+dân	N
+vạn	N
+hò	V
+nhau	N
+ra	V
+múc	V
+cát	N
+.	CH
+
+Gần	A
+đây	P
+nhất	R
+là	V
+năm	N
+1996	M
+,	CH
+toàn	R
+dân vạn	N
+được	V
+huy động	V
+để	E
+khơi	V
+thông	A
+dòng	N
+lạch	N
+.	CH
+
+Làm	V
+không	R
+nổi	R
+thì	C
+đề xuất	V
+với	E
+huyện	N
+,	CH
+tỉnh	N
+cho	V
+phương tiện	N
+cơ giới	N
+.	CH
+
+Đề xuất	N
+được	V
+chấp nhận	V
+,	CH
+hút	V
+gần	A
+như	C
+hết	V
+cát	N
+rồi	T
+,	CH
+chỉ	R
+sau	E
+một	M
+đêm	N
+thức	V
+dậy	V
+thấy	V
+nổi	V
+lên	R
+một	M
+cồn	N
+cát	N
+mới	A
+...	CH
+
+Đến	E
+kỳ	N
+cửa biển	N
+bị	V
+lấp	V
+,	CH
+cát	N
+là	V
+nỗi	N
+ám ảnh	V
+của	E
+dân	N
+ngư	N
+chài	N
+,	CH
+ven	V
+biển	N
+.	CH
+
+Hệ lụy	N
+của	E
+mỗi	M
+đợt	N
+lấp	V
+cửa biển	N
+có khi	N
+thật	T
+thảm khốc	A
+.	CH
+
+Cơn	Nc
+lũ	N
+dữ	A
+năm	N
+1999	M
+đã	R
+quét	V
+ở	E
+thôn	N
+Hiền An	Np
+nguyên	A
+một	M
+xóm	N
+nhà	N
+.	CH
+
+Gần	A
+100	M
+hộ	N
+dân	N
+sau	E
+đó	P
+mất	V
+cửa	N
+mất	V
+nhà	N
+phải	V
+tái định cư	V
+nơi	N
+khác	A
+.	CH
+
+Ông	Nc
+Đinh	Np
+kể	V
+và	C
+cảnh báo	V
+:	CH
+“	CH
+Tức	V
+nước	N
+thì	C
+vỡ	V
+bờ	N
+,	CH
+nước	N
+thoát	V
+không	R
+được	V
+thì	C
+tự	P
+"	CH
+tìm	V
+"	CH
+lối thoát	N
+.	CH
+
+Cửa biển	N
+đóng	V
+thì	C
+nó	P
+tìm	V
+lối thoát	N
+...	CH
+ngay	T
+trong	E
+thôn xóm	N
+,	CH
+làng mạc	N
+"	CH
+.	CH
+
+Những	L
+hồ	N
+nuôi	V
+tôm	N
+cũng	R
+đóng	V
+theo	V
+.	CH
+
+Phần lớn	N
+trong	E
+số	N
+hơn	A
+2 . 800	M
+hộ	N
+dân	N
+sống	V
+bằng	E
+nghề	N
+ngư	N
+ở	E
+vùng	N
+đầm phá	N
+và	C
+ven	N
+biển	N
+này	P
+đều	R
+trông cậy	V
+vào	E
+việc	N
+đánh bắt	V
+và	C
+nuôi trồng	V
+thủy sản	N
+trên	E
+đầm	N
+Cầu Hai	Np
+.	CH
+
+Đặc biệt	A
+,	CH
+nghề	N
+nuôi	V
+tôm sú	N
+từ	E
+lâu	N
+đã	R
+thu hút	V
+hàng	R
+ngàn	M
+người	Nc
+dân	N
+của	E
+bảy	M
+xã	N
+đầu tư	V
+hàng	R
+trăm	M
+tỉ	M
+đồng	Nu
+và	C
+gần	A
+như	C
+"	CH
+sống chết	V
+"	CH
+với	E
+nghề	N
+nuôi	V
+tôm	N
+.	CH
+
+Bảy	M
+xã	N
+ấy	P
+cũng	R
+là	V
+"	CH
+vựa	N
+tôm	N
+"	CH
+của	E
+khoảng	N
+11.000	M
+ha	Nu
+tôm	N
+toàn	L
+huyện	N
+Phú Lộc	Np
+.	CH
+
+Trong	E
+khi	N
+người	Nc
+dân	N
+chuyên	A
+chài lưới	V
+trên	E
+sông	N
+đầm	N
+hay	C
+biển cả	N
+đang	R
+lo lắng	V
+trước	E
+khi	N
+cửa	N
+Tư Hiền	Np
+bị	V
+đóng	V
+thì	C
+người	Nc
+dân	N
+nuôi	V
+tôm sú	N
+mang	V
+nỗi	N
+lo	V
+mất mùa	V
+,	CH
+dịch bệnh	V
+và	C
+bỏ	V
+trống	A
+ao	N
+nuôi	N
+...	CH
+
+Chị	Nc
+Nguyễn Thị Lành	Np
+-	CH
+người	Nc
+dân	N
+thôn	N
+Hòa An	Np
+,	CH
+xã	N
+nghèo	A
+Lộc Bình	Np
+-	CH
+ngồi	V
+thất thần	V
+bên	N
+hai	M
+vuông	N
+tôm	N
+của	E
+mình	P
+,	CH
+mặt	N
+hướng	V
+ra	E
+đầm phá	N
+:	CH
+Năm	M
+năm	N
+rồi	T
+tui	P
+có	V
+lãi	V
+vụ	N
+nào	P
+đâu	T
+.	CH
+
+Nợ	N
+ngân hàng	N
+đã	R
+hàng	R
+chục	M
+triệu	M
+đồng	Nu
+,	CH
+lại	R
+nghe	V
+rục rịch	A
+cửa biển	N
+đóng	V
+nữa	R
+.	CH
+
+Tôm	N
+giống	N
+đã	R
+xấu	A
+,	CH
+nước nôi	N
+xấu	A
+nữa	R
+thì	C
+...	CH
+không	R
+khéo	A
+bán	V
+nhà	N
+trả	V
+nợ	N
+.	CH
+
+Ông	Nc
+Nguyễn Ngọc Thiện	Np
+,	CH
+phó chủ tịch	N
+thường trực	V
+UBND	Ny
+tỉnh	N
+Thừa Thiên	N
+-	CH
+Huế	N
+:	CH
+Cửa	N
+Tư Hiền	Np
+là	V
+nơi	N
+thoát	V
+lũ	N
+,	CH
+đảm bảo	V
+cho	E
+việc	N
+trao đổi	V
+nước	N
+,	CH
+bảo đảm	V
+cho	E
+đa dạng sinh học	N
+vùng	N
+đầm phá	N
+.	CH
+
+Việc	N
+thu hẹp	V
+hay	C
+lấp	V
+dần	R
+đều	R
+dẫn	V
+tới	R
+việc	N
+đánh bắt	V
+và	C
+nuôi trồng	V
+thủy sản	N
+,	CH
+hải sản	N
+vùng	N
+này	P
+bị	V
+đảo lộn	V
+,	CH
+cuộc sống	N
+người	Nc
+dân	N
+vùng	N
+này	P
+chắc chắn	A
+bị	V
+xáo trộn	V
+,	CH
+giao thông	N
+thuyền bè	N
+đánh bắt	V
+của	E
+bà con	N
+gặp	V
+khó khăn	A
+.	CH
+
+Tỉnh	N
+đã	R
+giao	V
+Sở	N
+Nông nghiệp	N
+và	C
+phát triển	V
+nông thôn	N
+làm việc	V
+với	E
+Viện	N
+Khoa học	N
+thủy lợi	N
+LBKT	CH
+Bộ	N
+Nông nghiệp	N
+và	C
+phát triển	V
+nông thôn	N
+RBKT	CH
+để	E
+tìm	V
+giải pháp	N
+về	E
+cửa biển	N
+Tư Hiền	Np
+.	CH
+
+Chuyện	N
+cửa biển	N
+Tư Hiền	Np
+sắp	R
+đóng	V
+,	CH
+phần lớn	N
+người	Nc
+dân	N
+vùng	N
+đầm phá	N
+đều	R
+biết	V
+,	CH
+người	N
+nuôi	V
+tôm	N
+cũng	R
+biết	V
+nhưng	C
+những	L
+niềm	N
+tin	V
+vẫn	R
+hằn	V
+lên	V
+từng	R
+gương mặt	N
+rám	V
+nắng	N
+của	E
+họ	P
+.	CH
+
+Giữa	E
+Cồn Giá	Np
+-	CH
+nơi	N
+nghề	N
+nuôi	V
+tôm	N
+đã	R
+khiến	V
+vùng đất	N
+này	P
+từ	E
+một	M
+gò	N
+hoang	A
+trở thành	V
+"	CH
+thành phố	N
+tôm	N
+"	CH
+-	CH
+cảnh	N
+vẫn	R
+rộn rã	A
+như	C
+ngày	N
+thường	A
+.	CH
+
+Anh	Nc
+Huỳnh Đỗi	Np
+,	CH
+nhân vật	N
+của	E
+phóng sự	N
+"	CH
+Mười	M
+bảy	M
+năm	N
+trên	E
+ốc đảo	N
+"	CH
+LBKT	CH
+Tuổi Trẻ	Np
+,	CH
+ngày	N
+21	M
+-	CH
+10	M
+-	CH
+2003	M
+RBKT	CH
+,	CH
+bây giờ	N
+vẫn	R
+là	V
+nhân vật	N
+nuôi	V
+tôm	N
+số một	N
+của	E
+toàn	N
+huyện	N
+.	CH
+
+10	M
+ha	Nu
+tôm	N
+của	E
+anh	N
+kéo theo	V
+khoảng	A
+400	M
+công	N
+lao động	N
+của	E
+một	M
+vụ	N
+tôm	N
+LBKT	CH
+khoảng	A
+bảy	M
+tháng	N
+RBKT	CH
+,	CH
+có	V
+người	N
+ở	E
+tận	E
+Hà Tĩnh	Np
+,	CH
+Nghệ An	Np
+vào	V
+xin	V
+anh	N
+làm công	V
+rồi	C
+ở	V
+hẳn	R
+trong	E
+nhà	N
+anh	N
+.	CH
+
+Tôi	P
+lại	R
+đem	V
+chuyện	N
+cửa	N
+Tư Hiền	Np
+sắp	R
+lấp	V
+để	E
+thăm dò	V
+người	N
+có	V
+đến	T
+"	CH
+22	M
+năm	N
+theo đuổi	V
+con	Nc
+tôm sú	N
+"	CH
+và	C
+thường	R
+tham dự	V
+như	C
+một	M
+"	CH
+nhà khoa học	N
+làng	N
+"	CH
+tại	E
+nhiều	A
+cuộc	N
+hội thảo	N
+liên quan	V
+đến	E
+tôm	N
+ở	E
+miền	N
+Trung	Np
+này	P
+,	CH
+thì	C
+anh	P
+bảo	V
+:	CH
+"	CH
+Gần	A
+đây	P
+người	N
+nuôi	V
+tôm	N
+lao đao	V
+theo	V
+dịch bệnh	N
+,	CH
+chừ	N
+mà	C
+cửa biển	N
+lấp	V
+không	R
+có	V
+giải pháp	N
+kịp thời	A
+e	V
+nhiều	A
+người	N
+kiệt quệ	V
+...	CH
+
+Rời	V
+năm	M
+xã	N
+khu	N
+Ba	Np
+,	CH
+tôi	P
+lại	R
+vượt	V
+đầm	N
+Cầu Hai	Np
+bằng	E
+đò	N
+máy	N
+để	E
+đến	V
+với	E
+Lộc Điền	Np
+,	CH
+nơi	N
+đang	R
+có	V
+hơn	A
+200	M
+hộ	N
+dân	N
+nuôi	V
+tôm sú	N
+và	C
+là	V
+xã	N
+cách	V
+cửa biển	N
+Tư Hiền	Np
+khá	R
+xa	A
+.	CH
+
+Cũng	R
+như	A
+nhiều	A
+vùng	N
+ven	N
+đầm	N
+khác	A
+,	CH
+người	Nc
+dân	N
+thôn	N
+Miêu Nha	Np
+-	CH
+nơi	N
+tập trung	V
+đông	A
+nhất	R
+nghề	N
+nuôi	V
+tôm	N
+của	E
+Lộc Điền	Np
+-	CH
+cũng	R
+đang	R
+xuống	V
+giống	N
+vụ	N
+2	N
+,	CH
+dù	C
+vài	L
+vụ	N
+tôm	N
+trước	E
+đó	P
+"	CH
+lỗ	V
+đến	T
+trắng	A
+mặt	N
+"	CH
+.	CH
+
+Trưởng thôn	N
+Nguyễn Hải	Np
+cũng	R
+là	V
+người	N
+nuôi	V
+tôm	N
+"	CH
+phán đoán	V
+"	CH
+hậu họa	N
+của	E
+chuyện	N
+cửa	N
+Tư Hiền	Np
+bị	V
+lấp	V
+bằng	E
+câu	N
+gọn lỏn	A
+:	CH
+"	CH
+Nếu	C
+quá lắm	R
+chắc	R
+phải	V
+chuyển	V
+nghề	N
+thôi	T
+"	CH
+.	CH
+
+80	M
+triệu	M
+đồng	Nu
+ủng hộ	V
+bệnh nhân	N
+nghèo	A
+.	CH
+
+800	M
+triệu	M
+đồng	Nu
+là	V
+số	N
+tiền	N
+quyên góp	V
+được	R
+ngay	T
+trong	E
+buổi	N
+ra mắt	V
+chi hội	N
+bảo trợ	V
+bệnh nhân	N
+nghèo	A
+Thiện Nhân	Np
+vào	E
+sáng	N
+21	M
+-	CH
+3	M
+,	CH
+tại	E
+khách sạn	N
+Majestic	Np
+,	CH
+TP.HCM	Ny
+.	CH
+
+Đây	P
+là	V
+chi hội	N
+thứ	N
+24	M
+trực thuộc	V
+Hội	N
+Bảo trợ	V
+bệnh nhân	N
+nghèo	A
+TP. HCM	Ny
+,	CH
+do	E
+gia đình	N
+NSƯT	Ny
+Lý Huỳnh	Np
+cùng	C
+một số	L
+nghệ sĩ	N
+,	CH
+cá nhân	N
+,	CH
+doanh nhân	N
+giàu	A
+lòng	N
+nhân ái	N
+tự nguyện	V
+tham gia	V
+.	CH
+
+Chi hội	N
+Thiện Nhân	Np
+cũng	R
+đã	R
+ra mắt	V
+ban chấp hành	N
+với	E
+19	M
+thành viên	N
+do	E
+bà	Nc
+Lê Thị Vân	Np
+nguyên	Z
+phó	Z
+chủ tịch	N
+UBND	Ny
+TP HCM	Ny
+là	V
+chủ tịch	N
+.	CH
+
+Trong	E
+năm	N
+nay	P
+,	CH
+chi hội	N
+sẽ	R
+thực hiện	V
+một số	L
+kế hoạch	N
+làm	V
+từ thiện	A
+như	C
+:	CH
+Vì	E
+nụ	Nc
+cười	V
+trẻ thơ	N
+,	CH
+Đem	V
+lại	R
+ánh sáng	N
+cho	E
+người	N
+mù	A
+nghèo	A
+và	C
+trẻ em	N
+mù	A
+bẩm sinh	A
+,	CH
+Xe lăn	N
+cho	E
+người	N
+tàn tật	A
+và	C
+trẻ	N
+bại liệt	A
+,	CH
+Âm thanh	N
+và	C
+tiếng nói	N
+cho	E
+trẻ	N
+khiếm thính	A
+,	CH
+Học bổng	N
+cho	E
+HSSV	Ny
+nghèo	A
+hiếu học	A
+,	CH
+Bữa	N
+cơm	N
+miễn phí	V
+cho	E
+bệnh nhân	N
+nghèo	A
+,	CH
+Cấp	V
+thẻ	N
+bảo hiểm y tế	N
+cho	E
+người	N
+nghèo	A
+...	CH
+.	CH
+
+Làng	N
+"	CH
+đỏ	A
+"	CH
+bây giờ	P
+.	CH
+
+Về	V
+làng	N
+"	CH
+đỏ	A
+"	CH
+Tân An	Np
+LBKT	CH
+xóm	N
+Mù U	Np
+RBKT	CH
+,	CH
+xã	N
+Đức Phong	Np
+,	CH
+huyện	N
+Mộ Đức	Np
+LBKT	CH
+Quảng Ngãi	Np
+RBKT	CH
+bây giờ	P
+thấy	V
+màu	N
+xanh	A
+của	E
+cây	N
+và	C
+màu	N
+đỏ	A
+của	E
+ngói	N
+.	CH
+
+"	CH
+Nhìn	V
+cảnh	N
+bình yên	A
+nơi	N
+đây	P
+không	R
+ai	P
+nghĩ	V
+được	R
+cảnh	N
+30	M
+năm	N
+trước	A
+cả	P
+xóm	N
+này	P
+đã	R
+bị	V
+cày	V
+xới	V
+,	CH
+máu	N
+đổ	V
+như thế nào	X
+"	CH
+,	CH
+anh	Nc
+Nguyễn Đợi	Np
+-	CH
+người	Nc
+dân	N
+trong	E
+làng	N
+-	CH
+vừa	R
+dẫn	V
+tôi	P
+thắp	V
+nén	Nc
+hương	N
+trong	E
+nhà	N
+bia	N
+vừa	R
+rưng rưng	A
+nước mắt	N
+...	CH
+
+Dân	N
+xây	V
+nhà	N
+bia	N
+.	CH
+
+Anh	Nc
+Đợi	Np
+kể	V
+:	CH
+"	CH
+Năm	N
+1964	M
+mình	P
+mới	R
+sáu	M
+tuổi	Nu
+.	CH
+
+Sau	E
+một	M
+trận	N
+chống	V
+càn	V
+ngoài	E
+rìa	N
+làng	N
+,	CH
+tin	N
+dữ	A
+bay	V
+về	R
+:	CH
+ba	N
+hi sinh	V
+.	CH
+
+Nghe	V
+tin	N
+này	P
+,	CH
+mẹ	N
+mình	P
+lặng	V
+đi	R
+.	CH
+
+Cũng	R
+từ	E
+ngày	N
+đó	P
+,	CH
+mẹ	N
+LBKT	CH
+mới	R
+25	M
+tuổi	Nu
+RBKT	CH
+ít	A
+nói	V
+hẳn	R
+,	CH
+ngày ngày	R
+lẳng lặng	R
+ra	V
+phía	N
+sau	A
+làng	N
+đem	V
+cơm	N
+cho	E
+anh em	N
+bộ đội	N
+du kích	N
+và	C
+ở vậy	V
+sớm hôm	N
+cháo	N
+rau	N
+nuôi	V
+đứa	Nc
+con trai	N
+duy nhất	A
+là	C
+mình	P
+.	CH
+
+Tám	M
+năm	N
+sau	A
+,	CH
+mẹ	N
+lại	R
+tiễn	V
+mình	P
+tiếp	V
+bước	N
+theo	V
+con	Nc
+đường	N
+của	E
+ba	N
+"	CH
+.	CH
+
+Sát	A
+nhà	N
+anh	Nc
+Đợi	Np
+là	V
+nhà	N
+bà	Nc
+Nguyễn Thị Tồn	Np
+.	CH
+
+Thời	N
+chiến tranh	N
+,	CH
+chồng	N
+bà	N
+và	C
+người	Nc
+em	N
+chồng	N
+cũng	R
+vào	V
+du kích	N
+rồi	C
+em	N
+chồng	N
+hi sinh	V
+.	CH
+
+Sau	E
+đó	P
+bà	N
+lại	R
+tiễn	V
+hai	M
+con	N
+là	C
+Nguyễn Ngọc Thường	Np
+,	CH
+Nguyễn Văn Quang	Np
+vào	V
+du kích	N
+.	CH
+
+Chiến tranh	N
+khốc liệt	A
+,	CH
+anh	Nc
+Thường	Np
+,	CH
+anh	Nc
+Quang	Np
+hi sinh	V
+và	C
+hai	M
+người	Nc
+em	N
+kế tiếp	V
+là	C
+Nguyễn Tiến	Np
+và	C
+Nguyễn Tới	Np
+cũng	R
+vào	V
+du kích	N
+,	CH
+rồi	C
+cũng	R
+ra đi	V
+mãi mãi	R
+.	CH
+
+Ở	E
+"	CH
+làng	N
+lõm	A
+"	CH
+Tân An	Np
+này	P
+,	CH
+những	L
+thế hệ	N
+tiếp nối	V
+ra	V
+đi	V
+không	R
+trở về	V
+không	R
+chỉ	R
+có	V
+nhà	N
+anh	Nc
+Đợi	Np
+,	CH
+nhà	N
+bà	Nc
+Tồn	Np
+.	CH
+
+Năm	N
+1975	M
+,	CH
+ngày	N
+vui	A
+toàn thắng	V
+cũng	R
+là	V
+ngày	N
+người	Nc
+dân	N
+Tân An	Np
+nhìn	V
+khắp	A
+làng	N
+bùi ngùi	A
+:	CH
+cả	P
+làng	N
+có	V
+52	M
+nóc	N
+nhà	N
+,	CH
+nhưng	C
+có	V
+đến	T
+50	M
+gia đình	N
+liệt sĩ	N
+và	C
+hai	M
+gia đình	N
+có	V
+công	N
+với	E
+cách mạng	N
+.	CH
+
+Nhà cửa	N
+xác xơ	A
+,	CH
+lụp xụp	A
+,	CH
+nhiều	A
+gia đình	N
+chết	V
+hết	V
+,	CH
+chẳng	R
+còn	V
+ai	P
+đứng	V
+ra	R
+thờ phụng	V
+.	CH
+
+Ngày	N
+giỗ	N
+người thân	N
+đâu	R
+thể	A
+không	R
+tươm tất	A
+.	CH
+
+"	CH
+Dân	N
+làng	N
+càng	R
+nghĩ	V
+càng	R
+thương	V
+cái	Nc
+làng	N
+mình	P
+.	CH
+
+Thế là	C
+cả	P
+làng	N
+bàn bạc	V
+chuyện	N
+xây	V
+một	M
+nhà	N
+bia	N
+tưởng niệm	V
+để	E
+thờ phụng	V
+chung	A
+của	E
+cả	P
+làng	N
+,	CH
+niềm	Nc
+riêng	A
+cũng	R
+là	V
+cảnh	N
+chung	A
+,	CH
+cả	P
+làng	N
+cùng	A
+nhau	N
+chia sẻ	V
+nỗi	Nc
+đau	A
+"	CH
+,	CH
+ông	Nc
+Nguyễn Vụ	Np
+nhớ	V
+lại	R
+.	CH
+
+Chuyện	N
+xây	V
+bia	N
+tưởng niệm	V
+lan	V
+ra	R
+khắp	A
+làng	N
+.	CH
+
+Ông	Nc
+Trần Út	Np
+kể	V
+:	CH
+"	CH
+Hồi	N
+đó	P
+dân	N
+làng	N
+nghèo	A
+lắm	R
+,	CH
+bữa	N
+rau	N
+bữa	N
+cháo	N
+nhưng	C
+thấy	V
+việc	N
+đúng	A
+nên	C
+bà con	N
+tự nguyện	V
+.	CH
+
+Người	N
+bán	V
+rổ	N
+khoai lang	N
+,	CH
+củ mì	N
+;	CH
+người	N
+ra	V
+biển	N
+cào	V
+ốc	N
+gạo	N
+lấy	V
+tiền	N
+đóng góp	V
+.	CH
+
+Rồi	C
+nhà	N
+bia	N
+tưởng niệm	V
+được	V
+xây dựng	V
+trong	E
+cái	Nc
+nghĩa	N
+,	CH
+cái	Nc
+tình	N
+"	CH
+.	CH
+
+Cuối	A
+năm	N
+1993	M
+,	CH
+khánh thành	V
+nhà	N
+bia	N
+,	CH
+bà con	N
+như	C
+nghẹn	V
+lại	R
+khi	N
+đứng	V
+trước	E
+danh sách	N
+dài	A
+những	L
+liệt sĩ	N
+của	E
+làng	N
+và	C
+cả	T
+những	L
+vùng	N
+quê	N
+khác	A
+hi sinh	V
+trên	E
+đất	N
+này	P
+.	CH
+
+Kể	V
+từ	E
+ngày	N
+ấy	P
+,	CH
+đâu	R
+chỉ	R
+có	V
+dịp	N
+kỷ niệm	V
+Ngày	N
+thương binh	N
+liệt sĩ	N
+,	CH
+ngày	N
+tết	N
+,	CH
+dân	N
+làng	N
+trước	E
+khi	N
+ra	V
+khơi	N
+hay	C
+đi	V
+đâu	P
+xa	A
+cũng	R
+mang	V
+hương	N
+ra	V
+thắp	V
+.	CH
+
+30	M
+năm	N
+rồi	R
+,	CH
+nhà	N
+bia	N
+không	R
+một	M
+ngày	N
+thiếu	A
+mùi	N
+hương	N
+.	CH
+
+Đất	N
+hồi sinh	V
+.	CH
+
+Tôi	P
+theo	V
+anh	Nc
+Nguyễn Đợi	Np
+đi	V
+về	R
+phía	N
+biển	N
+.	CH
+
+Nơi	N
+đây	P
+sau	E
+chiến tranh	N
+chỉ	R
+có	V
+trảng	N
+cát	N
+dài	A
+nhìn	V
+nhức	A
+mắt	N
+,	CH
+bây giờ	P
+là	V
+hàng	N
+dương	N
+xanh	A
+.	CH
+
+Thấy	V
+"	CH
+làng	N
+lõm	A
+"	CH
+nằm	V
+chòi	V
+bên	N
+mép	N
+biển	N
+như	C
+cái	Nc
+gai	N
+trước	E
+mắt	N
+,	CH
+ngày	N
+26	M
+-	CH
+6	M
+-	CH
+1966	M
+Mỹ	Np
+cho	V
+máy bay	N
+ném	V
+bom	N
+phía	N
+trong	A
+trảng	N
+cát	N
+,	CH
+rồi	C
+từ	E
+biển	N
+tàu	N
+chiến	V
+bắn	V
+lên	R
+.	CH
+
+Chỉ	R
+trong	E
+một	M
+buổi	N
+sáng	N
+,	CH
+125	M
+người	Nc
+dân	N
+trong	E
+xóm	N
+và	C
+các	L
+xóm	N
+lân cận	A
+không	R
+còn	V
+nữa	R
+.	CH
+
+Đến	E
+nay	P
+cả	P
+làng	N
+có	V
+sáu	M
+bà mẹ	N
+VN	Ny
+anh hùng	A
+.	CH
+
+Có	V
+nhà	N
+chết	V
+hết	V
+chẳng	R
+còn	V
+ai	P
+thờ phụng	V
+.	CH
+
+Nhà	N
+bia	N
+là	V
+nơi	N
+ấm áp	A
+những	L
+nén	Nc
+nhang	N
+.	CH
+
+Chị	Nc
+Nguyễn Thị Cúc	Np
+,	CH
+dân	N
+trong	E
+làng	N
+,	CH
+đang	R
+cào	V
+lá	N
+dương	N
+về	V
+nấu	V
+bếp	N
+,	CH
+kể	V
+:	CH
+"	CH
+Hồi	N
+mới	R
+giải phóng	V
+,	CH
+mùa	N
+hè	N
+mỗi	M
+lần	N
+mang	V
+cơm	N
+ra	V
+biển	N
+cho	E
+chồng	N
+đi	V
+đánh	V
+cá	N
+,	CH
+ngang	V
+qua	V
+trảng	N
+cát	N
+này	P
+phải	V
+bẻ	V
+theo	R
+một	M
+nhánh	Nc
+cây	N
+,	CH
+bước	V
+đi	V
+vài	L
+bước	N
+ném	V
+nhánh	Nc
+cây	N
+xuống	R
+đứng	V
+lên	R
+cho	R
+khỏi	V
+bỏng	A
+rát	A
+"	CH
+.	CH
+
+Còn	C
+ngoài	E
+mé	N
+biển	N
+,	CH
+có	V
+trên	A
+vài	L
+chục	M
+người	Nc
+đàn ông	N
+đang	R
+dồn	V
+sức	N
+kéo	V
+lưới	N
+rùng	N
+.	CH
+
+Ông	Nc
+Nguyễn Xuân Bình	Np
+,	CH
+69	M
+tuổi	Nu
+,	CH
+vừa	R
+kéo	V
+lưới	N
+vừa	R
+nói	V
+:	CH
+"	CH
+Đất	N
+này	P
+khó khăn	A
+nhiều	A
+,	CH
+cố	V
+làm	V
+mới	R
+có	V
+cái	Nc
+ăn	V
+mà	C
+lo	V
+cho	E
+con cháu	N
+"	CH
+.	CH
+
+Nhìn	V
+mẻ	N
+lưới	N
+kéo	V
+cũng	R
+chỉ	R
+được	V
+non	A
+vài	L
+ký	Nu
+cá	N
+,	CH
+ông	N
+cười	V
+:	CH
+"	CH
+Ngày mai	N
+rồi	R
+sẽ	R
+khá	A
+hơn	A
+"	CH
+.	CH
+
+Sau	E
+chiến tranh	N
+,	CH
+đi	V
+từ	E
+đầu	N
+đến	E
+cuối	N
+làng	N
+,	CH
+nhà	N
+nào	P
+cũng	R
+chỉ	R
+dùng	V
+thân	N
+cây	N
+dương	N
+bắt	V
+chéo	A
+rồi	C
+gác	V
+thêm	V
+một	M
+cây	N
+nữa	R
+làm	V
+đòn	N
+dông	N
+lợp	V
+tranh	N
+lên	R
+ở	V
+.	CH
+
+Mùa	Nc
+mưa	N
+nước	N
+từ	E
+Bàu Súng	N
+,	CH
+xã	N
+Đức Chánh	Np
+đổ	V
+về	R
+dâng	V
+cao	A
+làm	V
+tắc	V
+đường	N
+từ	E
+xóm	N
+đi	V
+vào	E
+khu vực	N
+trung tâm	N
+xã	N
+.	CH
+
+Dân	N
+làng	N
+lúc	N
+phải	V
+lội	V
+bộ	N
+,	CH
+lúc	N
+chèo	V
+ghe	N
+qua	V
+mé	N
+rộc	N
+đến	V
+xóm	N
+Vân Hà	Np
+làm	V
+ruộng	N
+.	CH
+
+Tội	A
+nhất	A
+là	V
+nhiều	A
+đứa	Nc
+trẻ	N
+trong	E
+xóm	N
+lên	V
+xóm	N
+trên	A
+để	E
+học	V
+,	CH
+đi	V
+ngang	V
+rộc	N
+bị	V
+nước	N
+cuốn	V
+trôi	V
+.	CH
+
+Khó khăn	N
+thật	T
+nhiều	A
+nhưng	C
+chẳng	R
+ai	P
+kêu	V
+khó	A
+.	CH
+
+Bà con	N
+cứ	R
+gom góp	V
+từng	R
+mùa	N
+mua	V
+thiên	N
+ngói	N
+,	CH
+mua	V
+gỗ xẻ	N
+mè	N
+,	CH
+làm	V
+trính	N
+để	E
+năm	M
+hoặc	C
+mười	M
+năm	N
+sau	A
+tiến hành	V
+xây dựng	V
+nhà	N
+.	CH
+
+Nhiều	A
+hộ	N
+nghĩ	V
+ra	R
+cách	N
+năm	M
+ba	M
+người	N
+góp	V
+tiền	N
+để	E
+một	M
+hộ	N
+xây	V
+nhà	N
+trước	A
+,	CH
+sau	E
+đó	P
+những	L
+hộ	N
+này	P
+góp	V
+lại	R
+cho	E
+người	N
+khác	A
+xây	V
+.	CH
+
+Đến	E
+năm	N
+1992	M
+cả	P
+làng	N
+có	V
+ngôi	Nc
+nhà	N
+ngói	N
+đầu tiên	A
+,	CH
+những	L
+người	N
+là	V
+thương binh	N
+hoặc	C
+mất	V
+sức lao động	N
+do	E
+bị	V
+địch	N
+tra tấn	V
+tù đày	V
+thì	C
+bà con	N
+tập trung	V
+sức	N
+,	CH
+tiền của	N
+mà	C
+giúp	V
+.	CH
+
+Bây giờ	P
+,	CH
+hầu hết	R
+trong	E
+làng	N
+là	V
+nhà	N
+ngói	N
+và	C
+95%	M
+số	N
+hộ	N
+có	V
+xe máy	N
+.	CH
+
+Họ	P
+bàn	V
+với	E
+nhau	N
+chuyện	N
+nuôi	V
+bò	N
+lai	A
+,	CH
+nuôi	V
+tôm	N
+trên	E
+cát	N
+.	CH
+
+Trên	E
+trảng	N
+cát	N
+dài	A
+ngày	N
+nào	P
+là	V
+đất	N
+chết	V
+bởi	E
+pháo	N
+bầy	N
+,	CH
+bom đạn	N
+cày	V
+xới	V
+giờ	N
+là	V
+rừng	N
+phi lao	N
+,	CH
+rừng	N
+điều	N
+.	CH
+
+Ngoài	E
+phía	N
+biển	N
+,	CH
+sau	E
+năm	N
+2001	M
+,	CH
+khi	N
+ngành	N
+thủy sản	N
+hoàn thành	V
+đề tài	N
+thực nghiệm	V
+nuôi	V
+tôm	N
+trên	E
+cát	N
+bằng	E
+vật liệu	N
+chống	V
+thấm	V
+rẻ	A
+tiền	N
+,	CH
+nhiều	A
+hộ	N
+đã	R
+đầu tư	V
+hàng	R
+trăm	M
+triệu	M
+đồng	Nu
+đào	V
+hồ	N
+,	CH
+mua	V
+con giống	N
+thả	V
+nuôi	V
+.	CH
+
+Ông	Nc
+Vũ Nhân	Np
+,	CH
+chủ tịch	N
+UBND	Ny
+xã	N
+Đức Phong	Np
+,	CH
+cho	V
+hay	V
+Nhà nước	Np
+đã	R
+đầu tư	V
+xây dựng	V
+con	Nc
+đường	N
+nhựa	N
+1	M
+km	Nu
+từ	E
+ngã	N
+ba	M
+Ông Thành	Np
+về	E
+đến	E
+đầu	A
+làng	N
+,	CH
+xây dựng	V
+trường	N
+mẫu giáo	N
+,	CH
+kéo	V
+điện	N
+về	V
+làng	N
+,	CH
+cho	V
+dân	N
+vay	V
+vốn	N
+đóng	V
+mới	A
+hai	M
+chiếc	Nc
+tàu	N
+xa	A
+bờ	N
+để	E
+đánh bắt	V
+mực	N
+nồng	N
+vôi	N
+xuất khẩu	V
+...	CH
+
+Làng	N
+"	CH
+đỏ	A
+"	CH
+bây giờ	P
+đã	R
+sinh sôi	V
+,	CH
+đổi mới	V
+nhiều	A
+.	CH
+
+Những	L
+người	N
+"	CH
+làm thuê	V
+số	N
+1	M
+"	CH
+ở	E
+Việt Nam	Np
+.	CH
+
+Hành trang	N
+để	E
+ra	V
+biển	N
+lớn	A
+.	CH
+
+Có	V
+một	M
+giai thoại	N
+đồng quê	N
+:	CH
+"	CH
+Cậu bé	N
+nhìn	V
+dòng	N
+suối	N
+trước	E
+nhà	N
+và	C
+hỏi	V
+cha	N
+:	CH
+Suối	N
+chảy	V
+về	R
+đâu	P
+,	CH
+thưa	V
+cha	N
+?	CH
+
+Chảy	V
+ra	E
+sông	N
+con	N
+ạ	I
+.	CH
+
+Con	N
+lại	R
+hỏi	V
+:	CH
+Ra	V
+sông	N
+rồi	C
+chảy	V
+đi	R
+đâu	P
+nữa	R
+?	CH
+
+Rồi	C
+đổ	V
+ra	E
+biển	N
+con	N
+ạ	I
+.	CH
+
+Thế	T
+hết	V
+biển	N
+rồi	C
+tới	V
+đâu	P
+vậy	T
+cha	N
+?	CH
+
+Hết	V
+biển	N
+rồi	R
+hòa	V
+vào	R
+đại dương	N
+mênh mông	A
+...	CH
+"	CH
+.	CH
+
+Hành trang	N
+của	E
+những	L
+người	Nc
+trẻ	A
+hôm nay	N
+luôn	R
+bắt đầu	V
+từ	E
+những	L
+dòng	Nc
+suối	N
+nhỏ	A
+,	CH
+vượt	V
+bao	N
+ghềnh thác	N
+để	E
+vươn	V
+ra	R
+biển	N
+lớn	A
+...	CH
+
+Bài toán	N
+khó	A
+của	E
+nguồn	N
+nhân lực	N
+.	CH
+
+Có	V
+một	M
+thời	N
+trên	E
+các	L
+phương tiện	N
+thông tin	N
+đại chúng	A
+VN	Ny
+liên tục	A
+xuất hiện	V
+những	L
+lời	N
+giới thiệu	V
+đầy	A
+tự hào	V
+về	E
+những	L
+"	CH
+copywriter	FW
+"	CH
+LBKT	CH
+người	N
+viết	V
+lời	N
+quảng cáo	N
+RBKT	CH
+của	E
+các	L
+công ty	N
+,	CH
+tập đoàn	N
+nước ngoài	N
+:	CH
+công việc	N
+hứng thú	A
+,	CH
+thu nhập	N
+cả	T
+ngàn	M
+đô	Nu
+chỉ	R
+từ	E
+một	M
+ý tưởng	N
+...	CH
+
+Tưởng chừng	V
+như	C
+đơn giản	A
+,	CH
+vậy mà	C
+khi	N
+trao đổi	V
+với	E
+các	L
+doanh nghiệp	N
+này	P
+về	E
+"	CH
+chỗ	N
+đứng	V
+"	CH
+của	E
+người	Nc
+VN	Ny
+trong	E
+nền	N
+công nghiệp	N
+quảng cáo	N
+thì	C
+:	CH
+vai trò	N
+của	E
+copywriter	FW
+người	Nc
+Việt	Np
+chỉ	R
+dừng	V
+lại	R
+ở	E
+mức	N
+"	CH
+dịch	V
+lời	N
+quảng cáo	N
+"	CH
+.	CH
+
+Nếu	C
+chủ động	V
+hơn	A
+,	CH
+họ	P
+cũng	R
+chỉ	R
+đi	V
+đến	R
+80%	M
+ý tưởng	N
+ban đầu	N
+của	E
+mình	P
+bởi	E
+quyền	N
+quyết định	V
+một	M
+sản phẩm	N
+quảng cáo	N
+cuối cùng	A
+thuộc	V
+về	R
+các	L
+"	CH
+creative director	FW
+"	CH
+LBKT	CH
+giám đốc	N
+sáng tạo	A
+RBKT	CH
+.	CH
+
+Mà	C
+những	L
+người	N
+nắm	V
+quyền	N
+quyết định	V
+một	M
+slogan	FW
+của	E
+các	L
+sản phẩm	N
+vẫn	R
+là	V
+"	CH
+độc quyền	N
+"	CH
+của	E
+người	Nc
+nước ngoài	N
+.	CH
+
+Đã	R
+có	V
+lúc	N
+nhiều	A
+công ty	N
+,	CH
+tập đoàn	N
+nước ngoài	N
+nói	V
+thẳng	A
+với	E
+những	L
+công ty	N
+môi giới	N
+nguồn	N
+nhân lực	N
+cao cấp	A
+VN	Ny
+rằng	C
+:	CH
+với	E
+một	M
+vị trí	N
+công tác	V
+,	CH
+tôi	P
+có thể	A
+trả	V
+10 . 000	M
+USD	Nu
+cho	E
+một	M
+nhân sự	N
+đến	V
+từ	E
+nước ngoài	N
+,	CH
+nhưng	C
+chỉ	R
+1 . 000	M
+USD	Nu
+cho	E
+người	Nc
+VN	Ny
+!	CH
+
+Tại sao	X
+?	CH
+
+Đơn giản	A
+,	CH
+bởi	E
+các	L
+anh	N
+không	R
+được	V
+đào tạo	V
+trong	E
+một	M
+môi trường	N
+chuyên nghiệp	A
+,	CH
+một	M
+đẳng cấp	N
+quốc tế	A
+!	CH
+
+Một	M
+thực tế	N
+đáng	V
+buồn	A
+!	CH
+
+Nhưng	C
+ai	P
+sẽ	R
+là	V
+người	N
+giải	V
+bài toán	N
+khó	A
+này	P
+?	CH
+
+Jonah Levey	Np
+là	V
+giám đốc	N
+điều hành	V
+và	C
+cũng	R
+là	V
+người	N
+sáng lập	V
+VietnamWorks . com	FW
+-	CH
+một	M
+dịch vụ	N
+giới thiệu	V
+việc làm	N
+qua	E
+Internet	FW
+hàng đầu	N
+của	E
+VN	Ny
+,	CH
+và	C
+cũng	R
+là	V
+giám đốc	N
+điều hành	V
+của	E
+Navigos Group	Np
+-	CH
+nơi	N
+cung cấp	V
+các	L
+dịch vụ	N
+tư vấn	V
+và	C
+đào tạo	V
+nguồn	N
+nhân lực	N
+.	CH
+
+Theo	E
+ông	N
+:	CH
+"	CH
+Thị trường	N
+nguồn	N
+nhân lực	N
+cao cấp	A
+của	E
+VN	Ny
+tuy	C
+nhỏ	A
+nhưng	C
+nhu cầu	N
+tìm kiếm	V
+một	M
+nhà	N
+quản lý	V
+giỏi	A
+thật sự	A
+là	V
+rất	R
+lớn	A
+và	C
+hầu hết	R
+các	L
+công ty	N
+,	CH
+tập đoàn	N
+quốc tế	N
+đang	R
+làm ăn	V
+tại	E
+VN	Ny
+đều	R
+đang	R
+rất	R
+"	CH
+khát	V
+"	CH
+nguồn	N
+nhân lực	N
+này	P
+.	CH
+
+Tuy vậy	C
+,	CH
+khi	N
+phải	V
+tuyển	V
+các	L
+vị trí	N
+quan trọng	A
+cho	E
+các	L
+công ty	N
+,	CH
+chúng tôi	P
+luôn	R
+đòi hỏi	V
+kỹ năng	N
+giao tiếp	V
+và	C
+tính	N
+chuyên nghiệp	A
+cao	A
+"	CH
+.	CH
+
+Ông	Nc
+Trần Quốc Dũng	Np
+-	CH
+giám đốc	N
+Trung tâm	N
+dịch vụ	N
+việc làm	N
+cho	E
+người	Nc
+nước ngoài	N
+Fosco	Np
+,	CH
+nơi	N
+quản lý	V
+trên	A
+6 . 000	M
+nhân viên	N
+của	E
+hơn	R
+100	M
+công ty	N
+,	CH
+cơ quan	N
+nước ngoài	N
+tại	E
+TP	Ny
+.	CH
+HCM	Ny
+-	CH
+cũng	R
+đưa	V
+ra	R
+một	M
+"	CH
+chuẩn	N
+"	CH
+về	E
+lao động	N
+cao cấp	A
+làm việc	V
+trong	E
+môi trường	N
+quốc tế	A
+:	CH
+trình độ	N
+chuyên môn	N
+,	CH
+trình độ	N
+ngoại ngữ	N
+và	C
+khả năng	N
+hòa nhập	V
+môi trường	N
+quốc tế	A
+.	CH
+
+Trong	E
+đó	P
+nhân lực	N
+VN	Ny
+luôn	R
+yếu	A
+và	C
+thiếu	A
+"	CH
+chuẩn	N
+"	CH
+thứ	N
+ba	M
+.	CH
+
+Không	R
+khác	A
+hơn	R
+,	CH
+giám đốc	N
+một	M
+công ty	N
+chuyên	A
+cung ứng	V
+lao động	N
+cao cấp	A
+cho	E
+các	L
+tập đoàn	N
+quốc tế	N
+,	CH
+các	L
+công ty	N
+đa	Z
+quốc gia	N
+ở	E
+TP	Ny
+.	CH
+HCM	Np
+đưa	V
+ra	R
+nhận xét	N
+:	CH
+một	M
+trong	E
+những	L
+điểm	N
+yếu	A
+của	E
+nguồn	N
+nhân lực	N
+VN	Ny
+vẫn	R
+là	V
+thiếu	V
+các	L
+kỹ năng	N
+thích ứng	V
+môi trường	N
+và	C
+xử lý	V
+tình huống	N
+đạt	V
+chuẩn	N
+quốc tế	N
+.	CH
+
+"	CH
+Chính	T
+người	N
+trong	E
+cuộc	N
+"	CH
+Trịnh Thanh Lâm	Np
+,	CH
+giám đốc	N
+marketing	FW
+của	E
+Microsoft	FW
+,	CH
+cũng	R
+nhớ	V
+lại	R
+:	CH
+"	CH
+Hồi	N
+xưa	A
+,	CH
+khi	N
+bước	V
+chân	N
+vào	R
+guồng máy	N
+làm việc	V
+mang	V
+tính	N
+quốc tế	N
+mới	R
+thấy	V
+mình	P
+còn	R
+thiếu	V
+nhiều	A
+kỹ năng	N
+để	E
+giải quyết	V
+những	L
+công việc	N
+cụ thể	A
+.	CH
+
+Lúc	N
+đó	P
+,	CH
+cứ	R
+khao khát	V
+có	V
+một	M
+nơi	N
+nào	P
+đó	P
+huấn luyện	V
+,	CH
+dạy	V
+mình	P
+cách	N
+thích ứng	V
+môi trường	N
+mới	A
+,	CH
+kỹ năng	N
+làm việc	V
+,	CH
+kỹ năng	N
+giải quyết	V
+một	M
+vấn đề	N
+khó khăn	A
+trong	E
+quan hệ	N
+nhân sự	N
+,	CH
+kỹ năng	N
+vạch	V
+kế hoạch	N
+làm việc	V
+dài hạn	A
+...	CH
+
+Sau	E
+này	P
+,	CH
+tôi	P
+biết	V
+ở	E
+nước ngoài	N
+các	L
+chương trình	N
+đào tạo	V
+đều	R
+bắt buộc	V
+phải	V
+có	V
+các	L
+vấn đề	N
+này	P
+"	CH
+.	CH
+
+Những	L
+con	Nc
+đường	N
+ra	E
+biển	N
+...	CH
+
+Nhà	Nc
+xã hội học	N
+Nguyễn Thị Oanh	Np
+,	CH
+một	M
+người	N
+từng	R
+làm việc	V
+với	E
+nhiều	A
+tổ chức	N
+quốc tế	A
+,	CH
+chia sẻ	V
+:	CH
+"	CH
+Người	Nc
+Việt	Np
+có	V
+tính	N
+thụ động	A
+.	CH
+
+Hầu hết	R
+chúng ta	P
+chưa	R
+quen	V
+,	CH
+chính xác	A
+là	C
+không	R
+dám	V
+khám phá	V
+những	L
+cái	Nc
+mới	A
+,	CH
+cái	Nc
+khác lạ	A
+.	CH
+
+Phải	V
+dám	V
+làm	V
+những	L
+điều	N
+khác lạ	A
+một chút	L
+mới	R
+dễ	A
+thành công	V
+.	CH
+
+Tôi	P
+đã	R
+xem	V
+loạt	Nc
+bài	N
+"	CH
+Những	L
+người	Nc
+làm thuê	V
+số	N
+1	M
+ở	E
+Việt Nam	Np
+"	CH
+,	CH
+những	L
+người	N
+trong	E
+loạt	Nc
+bài	N
+này	P
+đều	R
+có	V
+một	M
+điểm	N
+chung	A
+:	CH
+dám	V
+chấp nhận	V
+những	L
+suy nghĩ	N
+mới	A
+.	CH
+
+Chỉ	R
+như	C
+thế	P
+mới	R
+đạt	V
+được	R
+những	L
+ước mơ	N
+,	CH
+hoài bão	N
+lớn	A
+.	CH
+
+Tôi	P
+biết	V
+đó	P
+chưa	R
+phải	A
+là	C
+tất cả	P
+,	CH
+tôi	P
+tin	V
+còn	V
+rất	R
+nhiều	A
+người	N
+giỏi	A
+,	CH
+người	N
+tài	A
+đâu đó	N
+ở	E
+những	L
+vùng miền	N
+khác nhau	A
+mà	C
+các	L
+bạn	N
+chưa	R
+tìm	V
+ra	R
+"	CH
+.	CH
+
+Tiến sĩ	N
+Nguyễn Thắng	Np
+là	V
+giám đốc	N
+marketing	FW
+khu vực	N
+Đông Dương	Np
+của	E
+Nokia	Np
+.	CH
+
+Anh	N
+bôn ba	V
+xứ	N
+người	N
+hơn	A
+10	M
+năm	N
+,	CH
+từng	R
+đứng	V
+lên	R
+bục	N
+cao	A
+nhất	A
+của	E
+giải thưởng	N
+kinh tế	N
+-	CH
+thương mại	N
+toàn	P
+Tiệp Khắc	Np
+,	CH
+nay	P
+đã	R
+trở về	V
+.	CH
+
+Không	R
+chỉ	R
+để	E
+làm việc	V
+,	CH
+mà	C
+điều	N
+tâm huyết	A
+hơn	A
+là	V
+anh	N
+muốn	V
+mang	V
+những	L
+giá trị	N
+mình	P
+học	V
+được	R
+,	CH
+tìm thấy	V
+được	R
+gửi	V
+lại	R
+cho	E
+một	M
+thế hệ	N
+kế tiếp	V
+thông qua	V
+những	L
+khóa	N
+đào tạo	V
+thạc sĩ	N
+do	E
+anh	N
+hướng dẫn	V
+.	CH
+
+Hay	C
+một	M
+trường hợp	N
+khác	A
+,	CH
+anh	Nc
+Đỗ Đình Minh	Np
+,	CH
+giám đốc	N
+kinh doanh	V
+toàn quốc	N
+của	E
+Tập đoàn	N
+Cargill	FW
+tại	E
+VN	Ny
+,	CH
+trăn trở	V
+:	CH
+"	CH
+Người	Nc
+Việt	Np
+mình	P
+giỏi	A
+lắm	R
+,	CH
+chưa	R
+bao giờ	P
+để	V
+thua	V
+ai	P
+cả	T
+.	CH
+
+Nhưng	C
+mình	P
+thiếu	V
+một số	L
+yếu tố	N
+mang	V
+tính	N
+quyết định	N
+để	E
+có	V
+những	L
+tập đoàn	N
+đẳng cấp	N
+thế giới	N
+.	CH
+
+Và	C
+điều	N
+đó	P
+thì	C
+chúng ta	P
+cần	V
+phải	V
+học	V
+.	CH
+
+Chúng tôi	P
+đi	V
+làm thuê	V
+thật	T
+nhưng	C
+chưa	R
+bao giờ	P
+thấy	V
+mình	P
+hèn	V
+,	CH
+mà	C
+chỉ	R
+thấy	V
+mình	P
+chưa	R
+đủ	V
+mạnh	A
+để	E
+có thể	A
+lèo lái	V
+một	M
+con	Nc
+thuyền	N
+lớn	A
+"	CH
+.	CH
+
+Giản Tư Trung	Np
+,	CH
+người	N
+từng	R
+làm	V
+chủ	N
+một	M
+doanh nghiệp	N
+nhựa	N
+ở	E
+Q	Ny
+.	CH
+5	M
+,	CH
+TP	Ny
+.	CH
+HCM	N
+,	CH
+sau	E
+khi	N
+tốt nghiệp	V
+đại học	N
+đã	R
+phải	V
+từ bỏ	V
+những	L
+kế hoạch	N
+kiếm	V
+tiền	N
+cỏn con	A
+của	E
+mình	P
+khi	N
+một	M
+ngày	N
+chợt	R
+nhận	V
+ra	R
+:	CH
+mình	P
+sẽ	R
+kiếm	V
+được	R
+gì	P
+cho	E
+bản thân	N
+và	C
+mang	V
+về	R
+cho	E
+xã hội	N
+được	V
+gì	P
+khi	N
+quẩn quanh	V
+với	E
+nhựa	N
+?	CH
+
+Trung	Np
+giải tán	V
+cơ sở	N
+,	CH
+xách	V
+cặp	N
+đi	V
+làm thuê	V
+những	L
+tập đoàn	N
+kinh doanh	V
+lớn	A
+nhất	A
+thế giới	N
+đang	R
+có mặt	V
+tại	E
+VN	Ny
+.	CH
+
+Anh	N
+làm thuê	V
+với	E
+mức	N
+lương	N
+rất	R
+cao	A
+,	CH
+nhưng	C
+cái	N
+được	V
+nhiều	A
+nhất	A
+chính	T
+là	V
+kinh nghiệm	N
+,	CH
+là	V
+kiến thức	N
+và	C
+là	V
+lời	N
+giải	V
+cho	E
+câu	N
+hỏi	V
+:	CH
+vì sao	P
+người ta	P
+lớn	A
+đến	T
+thế	P
+?	CH
+
+Anh	N
+tự hào	A
+bước	V
+ra	R
+và	C
+mở	V
+riêng	A
+cho	E
+mình	P
+một	M
+nơi	N
+dùng	V
+để	E
+"	CH
+nói	V
+"	CH
+cho	E
+mọi	L
+người	N
+biết	V
+phải	V
+làm	V
+thế nào	P
+để	E
+lớn	V
+từ	E
+chính	T
+kinh nghiệm	N
+của	E
+mình	P
+.	CH
+
+PACE	Np
+-	CH
+trung tâm	N
+đào tạo	V
+nhân lực	N
+-	CH
+đã	R
+ra đời	V
+như thế	X
+.	CH
+
+"	CH
+Muốn	V
+tham gia	V
+cuộc chơi	N
+toàn cầu	N
+,	CH
+anh	N
+buộc	V
+phải	V
+có	V
+kiến thức	N
+chuẩn	A
+,	CH
+kỹ năng	N
+chuẩn	A
+và	C
+cách	N
+ứng xử	V
+chuẩn	A
+"	CH
+.	CH
+
+Trung	Np
+đập	V
+bỏ	V
+ba	M
+rào	N
+cản	V
+lớn	A
+nhất	A
+của	E
+người	Nc
+Việt	Np
+khi	N
+đến	V
+với	E
+hệ	N
+"	CH
+chuẩn	N
+"	CH
+này	P
+:	CH
+ngôn ngữ	N
+LBKT	CH
+Việt hóa	V
+hệ thống	N
+tài liệu	N
+RBKT	CH
+,	CH
+kinh phí	N
+LBKT	CH
+mời	V
+giảng viên	N
+là	V
+các	L
+chuyên gia	N
+thành công	V
+ở	E
+VN	Ny
+đến	V
+chia sẻ	V
+kinh nghiệm	N
+và	C
+kiến thức	N
+RBKT	CH
+và	C
+thời gian	N
+LBKT	CH
+rút	V
+ngắn	A
+các	L
+học phần	N
+,	CH
+chỉ	R
+chọn	V
+những	L
+điều	N
+quan trọng	A
+và	C
+cần thiết	A
+cho	E
+xã hội	N
+hiện nay	N
+RBKT	CH
+.	CH
+
+Và	C
+như thế	C
+,	CH
+những	L
+chương trình	N
+đào tạo	V
+giám đốc	N
+điều hành	V
+LBKT	CH
+CEO	Ny
+RBKT	CH
+,	CH
+giám đốc	N
+tài chính	N
+LBKT	CH
+CFO	Ny
+RBKT	CH
+danh tiếng	A
+hàng	R
+trăm	M
+năm	N
+của	E
+các	L
+trường	N
+đại học	N
+lớn	A
+nhất	A
+thế giới	N
+sẽ	R
+có	V
+hàng	R
+trăm ngàn	M
+người	Nc
+Việt	Np
+được	V
+thụ hưởng	V
+.	CH
+
+Anh	N
+tin	V
+,	CH
+chúng tôi	P
+tin	V
+,	CH
+và	C
+rất	R
+nhiều	A
+người	N
+khác	A
+cũng	R
+tin	V
+:	CH
+giấc mơ	N
+xuất khẩu	V
+hàng	R
+ngàn	M
+giám đốc	N
+điều hành	V
+chẳng	R
+có	V
+gì	P
+là	C
+xa vời	A
+.	CH
+
+Giản Tư Trung	Np
+làm	V
+chúng tôi	P
+nhớ	V
+lại	R
+một	M
+câu chuyện	N
+khác	A
+,	CH
+buồn	A
+và	C
+chưa	R
+có	V
+hậu	A
+.	CH
+
+Khi	N
+thực hiện	V
+loạt	Nc
+bài	N
+này	P
+,	CH
+chúng tôi	P
+thử	V
+tìm kiếm	V
+những	L
+gương mặt	N
+trở về	V
+từ	E
+chương t rình	N
+đào tạo	V
+nhân tài	N
+của	E
+Nhà nước	N
+.	CH
+
+Nhiều	A
+ngàn	M
+tỉ	M
+đồng	Nu
+đã	R
+được	R
+chi	V
+cho	E
+những	L
+thạc sĩ	N
+,	CH
+tiến sĩ	N
+người	Nc
+Việt	Np
+được	R
+đào tạo	V
+ở	E
+nước ngoài	N
+nhưng	C
+người	N
+về	V
+như	A
+bóng	N
+chim	N
+tăm	N
+cá	N
+.	CH
+
+Người	N
+duy nhất	A
+mà	C
+chúng tôi	P
+biết	V
+được	R
+,	CH
+tốt nghiệp	V
+cao học	N
+ngành	N
+vi sinh	N
+,	CH
+thì	C
+đang	R
+làm	V
+...	CH
+nhân viên	N
+hành chính	A
+,	CH
+chính xác	A
+là	C
+cặm cụi	A
+gõ	V
+máy tính	N
+những	L
+công văn	N
+,	CH
+hồ sơ	N
+của	E
+một	M
+cơ quan	N
+khoa học	N
+công nghệ	N
+nhà nước	N
+.	CH
+
+Và	C
+,	CH
+có	V
+một	M
+câu chuyện	N
+đáng	V
+suy nghĩ	V
+khác	A
+diễn	V
+ra	R
+tháng	N
+7	M
+-	CH
+2005	M
+,	CH
+tổng giám đốc	N
+Pepsi	Np
+Phạm Phú Ngọc Trai	Np
+đã	R
+rủ	V
+những	L
+người	Nc
+bạn	N
+ở	E
+Công ty	N
+Kinh Đô	Np
+cùng	A
+bỏ	V
+tiền	N
+đầu tư	V
+cho	E
+bốn	M
+sinh viên	N
+xuất sắc	A
+nhất	A
+cuộc	N
+thi	V
+Dynamic	Np
+đến	V
+Mỹ	Np
+tham quan	V
+các	L
+công ty	N
+,	CH
+xưởng	N
+sản xuất	V
+và	C
+tham dự	V
+các	L
+cuộc	N
+hội thảo	N
+khoa học	N
+của	E
+các	L
+trường	N
+đại học	N
+lớn	A
+trên	E
+thế giới	N
+.	CH
+
+"	CH
+Chỉ	R
+là	V
+một	M
+dịp	N
+để	E
+các	L
+bạn	N
+có thể	R
+nhìn	V
+xa	A
+,	CH
+nhìn	V
+rộng	A
+và	C
+sờ	V
+tận tay	A
+những	L
+mô hình	N
+danh tiếng	N
+,	CH
+đó	P
+là	V
+những	L
+kinh nghiệm	N
+mà	C
+chúng tôi	P
+muốn	V
+gửi	V
+cho	E
+các	L
+bạn	N
+như	C
+một	M
+hành trang	N
+bước	V
+ra	R
+thế giới	N
+...	CH
+"	CH
+.	CH
+
+Cuộc sống	N
+sôi động	V
+quanh	N
+mình	P
+đã	R
+trả lời	V
+được	R
+nhiều	A
+điều	N
+hơn	R
+nếu	C
+chúng ta	P
+chịu khó	A
+quan sát	V
+và	C
+suy nghĩ	V
+...	CH
+
+Câu chuyện	N
+về	E
+"	CH
+những	L
+người	N
+làm thuê	V
+số	N
+1	M
+"	CH
+bởi thế	C
+sẽ	R
+không	R
+khép	V
+lại	R
+ở	E
+đây	P
+,	CH
+mà	C
+chuyện	N
+của	E
+những	L
+con người	N
+ra	V
+đi	V
+để	E
+mang	V
+về	R
+cho	E
+xã hội	N
+những	L
+công nghệ	N
+,	CH
+những	L
+qui trình	N
+làm	V
+chủ	N
+,	CH
+những	L
+khát vọng	N
+vươn	V
+lên	R
+đã	R
+giúp	V
+bạn đọc	N
+trẻ	A
+nhận	V
+ra	R
+một	M
+điều	N
+đơn giản	A
+:	CH
+giấc mơ	N
+toàn cầu	N
+đến	V
+bằng	E
+những	L
+hành động	N
+cụ thể	A
+chứ	C
+không	R
+phải	A
+bằng	E
+những	L
+lời	N
+thở than	V
+về	E
+tài sản	N
+của	E
+một	M
+đất nước	N
+đói nghèo	A
+và	C
+lạc hậu	A
+.	CH
+
+Nhiều	A
+trường	N
+đại học	N
+dán	V
+những	L
+bài	N
+báo	N
+này	P
+lên	E
+bảng	N
+tin	N
+của	E
+trường	N
+.	CH
+
+Nhà	N
+xuất bản	V
+Trẻ	N
+đang	R
+xúc tiến	V
+để	E
+quyển	Nc
+sách	N
+về	E
+"	CH
+những	L
+người	N
+làm thuê	V
+số	N
+1	M
+"	CH
+ra đời	V
+trong	E
+một	M
+ngày	N
+gần	A
+đây	P
+và	C
+nhiều	A
+bạn đọc	N
+yêu cầu	V
+thực hiện	V
+các	L
+chương trình	N
+giao lưu	V
+với	E
+SVHS	Ny
+trong	E
+ngày	N
+nhập học	V
+...	CH
+
+Kế hoạch	N
+còn	V
+nhiều	A
+,	CH
+trăn trở	V
+cũng	R
+còn	V
+nhiều	A
+,	CH
+và	C
+chúng tôi	P
+muốn	V
+hẹn	V
+bạn đọc	N
+ở	E
+một	M
+kênh	N
+thông tin	N
+khác	A
+:	CH
+diễn đàn	N
+Tuổi	N
+20	M
+.	CH
+
+Hãy	R
+chia sẻ	V
+cùng	A
+mọi	L
+người	N
+tại	E
+tuoi	N
+20	M
+@	CH
+tuoi tre	N
+.	CH
+com	Ny
+.	CH
+vn	Ny
+.	CH
+
+Và	C
+sáng mai	N
+,	CH
+hãy	R
+đến	V
+với	E
+buổi	N
+giao lưu	V
+trực tuyến	A
+đầu tiên	A
+với	E
+họ	P
+tại	E
+www	Ny
+.	CH
+tuoitre	N
+.	CH
+com	Ny
+.	CH
+vn	Ny
+.	CH
+
+Câu chuyện	N
+sông	N
+Hàn	Np
+...	CH
+
+Thật	R
+lạ	A
+,	CH
+văn minh	N
+nhân loại	N
+dường như	R
+chỉ	R
+phát triển	V
+bên	E
+triền	N
+những	L
+con	Nc
+sông	N
+,	CH
+nhưng	C
+vào	E
+thế kỷ	N
+này	P
+,	CH
+con người	N
+lại	R
+quay	V
+lưng	N
+với	E
+sông	N
+,	CH
+biến	V
+các	L
+dòng	N
+sông	N
+thành	V
+bãi	Nc
+rác thải	N
+lộ thiên	A
+,	CH
+thành	V
+mảnh	Nc
+sân sau	N
+nhếch nhác	A
+.	CH
+
+Ở	E
+vài	L
+thành phố	N
+,	CH
+người ta	P
+chỉ	R
+"	CH
+qua	V
+sông	N
+"	CH
+chứ	C
+không	R
+"	CH
+ra	V
+sông	N
+"	CH
+bao giờ	P
+.	CH
+
+Nhiều	A
+người	N
+dân	N
+Hà Nội	Np
+chưa	R
+bao giờ	P
+đặt chân	V
+đến	E
+bên	N
+sông	N
+Hồng	Np
+.	CH
+
+Người	Nc
+Sài Gòn	Np
+đứng	V
+bên	N
+này	P
+sông	N
+nhìn	V
+sang	E
+Thủ Thiêm	Np
+mà	C
+xót xa	V
+...	CH
+
+Đã	R
+đến	E
+lúc	N
+chúng ta	P
+phải	V
+thay đổi	V
+thái độ	N
+đối xử	V
+với	E
+các	L
+con	Nc
+sông	N
+.	CH
+
+Với	E
+nhiều	A
+người	Nc
+Đà Nẵng	Np
+,	CH
+con	Nc
+sông	N
+Hàn	Np
+quen thuộc	A
+dường như	X
+trẻ	A
+lại	R
+và	C
+đẹp	A
+ra	R
+một cách	N
+bất ngờ	A
+sau	E
+đêm	N
+giao thừa	N
+Tết	Np
+Giáp Thân	Np
+.	CH
+
+Mấy	L
+tháng	N
+rồi	R
+không	R
+đi	V
+đường	N
+Bạch Đằng	Np
+trên	E
+bờ	N
+tây	N
+sông	N
+Hàn	Np
+-	CH
+nơi	N
+các	L
+đơn vị	N
+thi công	V
+ngăn	V
+đường	N
+để	E
+đào xới	V
+,	CH
+xây dựng	V
+tất bật	A
+suốt	A
+ngày đêm	N
+,	CH
+bụi	N
+đất	N
+mịt mù	A
+;	CH
+sáng	N
+xuân	N
+nay	P
+trở lại	V
+đường	N
+xưa	N
+,	CH
+dường như	X
+mọi	L
+thứ	N
+đã	R
+thay đổi	V
+.	CH
+
+Đường	N
+Bạch Đằng	Np
+cũ	A
+có	V
+từ	E
+thời	N
+Pháp	Np
+thuộc	V
+,	CH
+rộng	A
+chỉ	R
+vừa	A
+hai	M
+xe	N
+ô tô	N
+tránh	V
+nhau	N
+,	CH
+có	V
+đoạn	N
+sạch	A
+đẹp	A
+nhưng	C
+cũng	R
+có	V
+khá	R
+nhiều	A
+đoạn	N
+nhếch nhác	A
+vì	E
+bờ	N
+sông	N
+Hàn	Np
+ngày	N
+ấy	P
+không	R
+chỉ	R
+là	V
+đường	N
+mà còn	C
+là	V
+bến	N
+cảng	N
+,	CH
+là	V
+chỗ	N
+giết mổ	V
+gia cầm	N
+,	CH
+họp	V
+chợ	N
+,	CH
+phơi	V
+lưới	N
+,	CH
+chất	V
+than	N
+...	CH
+
+Khi	N
+thành phố	N
+lập	V
+dự án	N
+mở rộng	V
+đường	N
+Bạch Đằng	Np
+,	CH
+mà	C
+mở	V
+về	E
+hướng	N
+sông	N
+để	E
+tránh	V
+giải tỏa	V
+nhà	N
+ven	N
+sông	N
+,	CH
+trong	E
+đó	P
+có	V
+nhiều	A
+biệt thự	N
+hàng	R
+trăm	M
+tuổi	N
+,	CH
+đã	R
+có	V
+không	R
+ít	A
+lời ra tiếng vào	X
+.	CH
+
+Lấn	V
+sông	N
+là	V
+chuyện	N
+không	R
+ai	P
+muốn	V
+,	CH
+ai	P
+cũng	R
+lo	V
+dòng	N
+sông	N
+thu hẹp	V
+lại	R
+,	CH
+bé nhỏ	A
+đi	R
+.	CH
+
+May mà	X
+các	L
+kiến trúc sư	N
+trẻ	A
+đã	R
+tìm	V
+ra	R
+được	R
+phương án	N
+tốt	A
+:	CH
+phần	N
+mở rộng	V
+được	V
+"	CH
+treo	V
+"	CH
+trên	E
+sông	N
+để	E
+không	R
+cản	V
+dòng	N
+nước	N
+chảy	V
+,	CH
+tận dụng	V
+các	L
+cầu cảng	N
+đã	R
+có	V
+để	E
+làm	V
+các	L
+ban công	N
+hóng	V
+gió	N
+.	CH
+
+Đường	N
+Bạch Đằng	Np
+bây giờ	P
+là	V
+một	M
+công viên	N
+dọc	A
+bờ	N
+sông	N
+dài	A
+2,5	M
+km	Nu
+;	CH
+trong	E
+đó	P
+phần	N
+đường	N
+dành	V
+cho	E
+ô tô	N
+,	CH
+xe máy	N
+rộng	A
+15	M
+m	Nu
+;	CH
+phần	N
+công viên	N
+và	C
+vỉa hè	N
+rộng	A
+11	M
+m	Nu
+,	CH
+có	V
+năm	M
+chỗ	N
+mở rộng	V
+ra	R
+thành	V
+"	CH
+công viên	N
+mi-ni	A
+"	CH
+trên	E
+mặt	N
+sông	N
+.	CH
+
+Vỉa hè	N
+công viên	N
+được	V
+ốp	V
+đá	N
+granite	FW
+,	CH
+lát	V
+gạch	N
+gốm	N
+,	CH
+ngăn cách	V
+với	E
+mặt	N
+sông	N
+bằng	E
+dãy	N
+lan can	N
+có	V
+trang trí	V
+hoa văn	N
+đơn giản	A
+mà	C
+đẹp	A
+,	CH
+ngăn cách	V
+với	E
+đường phố	N
+bằng	E
+những	L
+bồn	N
+hoa	N
+,	CH
+những	L
+hàng	N
+cây	N
+cọ	N
+dừa	N
+lạ mắt	A
+.	CH
+
+Ban ngày	N
+,	CH
+dưới	E
+nắng	N
+xuân	N
+ấm áp	A
+,	CH
+nhiều	A
+gia đình	N
+đua	V
+nhau	N
+đến	V
+đây	P
+chụp	V
+ảnh	N
+kỷ niệm	N
+.	CH
+
+Buổi	N
+tối	N
+,	CH
+bờ	N
+sông	N
+rực rỡ	A
+ánh	N
+đèn	N
+,	CH
+nhiều	A
+cụ	N
+già	A
+đến	V
+ngồi	V
+ngắm	V
+dòng	N
+nước	N
+chảy	V
+...	CH
+
+Ai	P
+đó	P
+bảo	V
+,	CH
+nếu	C
+có	V
+cuộc	N
+bình chọn	V
+những	L
+bến	N
+sông	N
+đẹp	A
+nhất	A
+VN	Ny
+thì	C
+bờ	N
+sông	N
+Hàn	Np
+chắc chắn	A
+phải	V
+vào	V
+được	R
+vòng	N
+chung kết	N
+.	CH
+
+Đà Nẵng	Np
+vừa	R
+đi	V
+qua	R
+một	M
+mùa	Nc
+mưa	N
+.	CH
+
+Nước	N
+sông	N
+Hàn	Np
+đang	R
+lên	V
+đầy	A
+,	CH
+xanh	A
+ngát	A
+và	C
+trong vắt	A
+.	CH
+
+Từ	E
+vài	L
+năm	N
+trước	A
+,	CH
+để	E
+chuẩn bị	V
+một	M
+bước	N
+đột phá	V
+về	E
+môi trường	N
+đô thị	N
+:	CH
+toàn bộ	L
+nước thải	N
+trước kia	N
+vẫn	R
+đổ	V
+ra	E
+sông	N
+Hàn	Np
+bị	V
+chặn	V
+lại	R
+,	CH
+đưa	V
+về	E
+nhà máy	N
+xử lý	V
+nước thải	N
+ở	E
+Đầm Rong	Np
+,	CH
+ở	E
+Hòa Cường	Np
+xử lý	V
+;	CH
+toàn bộ	L
+bờ	N
+Đông	Np
+sông	N
+Hàn	Np
+được	V
+xây	V
+kè	V
+kiên cố	A
+kết hợp	V
+với	E
+việc	N
+mở	V
+đường	N
+Bạch Đằng Đông	Np
+,	CH
+chấm dứt	V
+tình trạng	N
+xói lở	V
+bờ	N
+sông	N
+phía	N
+bên	N
+Hà Thân	Np
+.	CH
+
+Khách	N
+phương	N
+xa	A
+đến	V
+Đà Nẵng	Np
+mấy	L
+năm	N
+trước	A
+không	R
+khỏi	V
+ngạc nhiên	V
+khi	N
+thấy	V
+thành phố	N
+chỉ	R
+vài	L
+trăm	M
+ngàn	M
+dân	N
+mà	C
+ống	N
+cống	N
+thì	C
+lớn	A
+đến	E
+mức	N
+ô tô	N
+còn	R
+chạy	V
+được	R
+vào	E
+bên	N
+trong	A
+.	CH
+
+Không chỉ	C
+cảnh quan	N
+hai	M
+bên	N
+bờ	N
+sông	N
+Hàn	Np
+thay đổi	V
+mà	C
+còn	R
+chấm dứt	V
+được	R
+nguy cơ	N
+ô nhiễm	V
+dòng	N
+sông	N
+.	CH
+
+Kết quả	N
+của	E
+những	L
+nỗ lực	N
+lớn lao	A
+ấy	P
+là	V
+sự	Nc
+lột xác	V
+hoàn toàn	A
+của	E
+sông	N
+Hàn	Np
+...	CH
+
+Đã	R
+đến	E
+lúc	N
+chúng ta	P
+phải	V
+thay đổi	V
+thái độ	N
+đối xử	V
+với	E
+các	L
+con	Nc
+sông	N
+như	A
+người	Nc
+Đà Nẵng	Np
+đã	R
+làm	V
+với	E
+dòng	N
+sông	N
+thân yêu	A
+của	E
+mình	P
+.	CH
+
+Từ	E
+bờ	N
+sông	N
+Hàn	Np
+mùa	Nc
+xuân	N
+này	P
+,	CH
+hãy	V
+tin	V
+rằng	C
+có thể	R
+làm	V
+được	R
+điều	N
+đó	P
+chỉ	R
+trong	E
+một	M
+thời gian	N
+ngắn	A
+nếu	C
+chúng ta	P
+thật sự	R
+trân trọng	V
+những	L
+dòng	N
+sông	N
+.	CH
+
+Theo	E
+Thời	N
+báo	N
+Kinh tế	N
+SG	Ny
+.	CH
+
+Khám phá	V
+động	N
+cổ	A
+Tiên Sơn	Np
+.	CH
+
+Bất ngờ	A
+một	M
+hang	N
+động	N
+nằm	V
+im	A
+hàng	R
+ngàn	M
+năm	N
+trên	E
+dãy	N
+núi	N
+đá vôi	N
+thuộc	V
+xã	N
+Vĩnh An	Np
+,	CH
+huyện	N
+Vĩnh Lộc	Np
+LBKT	CH
+Thanh Hóa	Np
+RBKT	CH
+được	V
+các	L
+bạn	N
+trẻ	A
+trong	E
+xã	N
+phát hiện	V
+.	CH
+
+Lập tức	R
+những	L
+thông tin	N
+về	E
+một	M
+hang động	N
+tầm cỡ	N
+quốc gia	N
+được	V
+lan truyền	V
+làm	V
+xôn xao	V
+cả	P
+cái	Nc
+làng	N
+quê	N
+nghèo	A
+vào	E
+bậc	N
+nhất	A
+huyện	N
+này	P
+.	CH
+
+Và	C
+sáng	N
+5	M
+-	CH
+11	M
+,	CH
+chúng tôi	P
+đã	R
+tìm	V
+về	R
+động	N
+cổ	A
+Tiên Sơn	Np
+...	CH
+
+Ngỡ ngàng	A
+tiên cảnh	N
+.	CH
+
+Từ	E
+cửa	N
+hang	N
+bước	V
+vào	R
+mươi	M
+bước	N
+,	CH
+nơi	N
+bắt đầu	V
+nhạt nhòa	A
+bóng tối	N
+,	CH
+chúng tôi	P
+đã	R
+phải	V
+đứng	V
+sững	A
+lại	R
+trước	E
+một	M
+vẻ	N
+đẹp	A
+huyền bí	A
+của	E
+nham thạch	N
+trong	E
+hình	N
+"	CH
+Phật Bà	Np
+đang	R
+ngự	V
+trên	E
+tòa sen	N
+"	CH
+lung linh	A
+sắc	N
+đá	N
+.	CH
+
+Anh	Nc
+Nguyễn Văn Bình	Np
+-	CH
+trưởng	N
+đài truyền hình	N
+huyện	N
+-	CH
+bảo	V
+anh em	N
+phóng viên	N
+quây	V
+hết	R
+đèn	N
+ăcqui	FW
+xách	V
+tay	N
+tập trung	V
+rọi	V
+vào	E
+"	CH
+tượng	N
+Phật	Np
+"	CH
+.	CH
+
+Tôi	P
+đang	R
+mải	V
+nhìn	V
+thì	C
+ông	Nc
+Vang	Np
+,	CH
+người	N
+được	V
+UBND	Ny
+xã	N
+Vĩnh An	Np
+giao	V
+bảo vệ	V
+khu	N
+hang	N
+động	N
+,	CH
+dẫn	V
+đường	N
+,	CH
+đã	R
+giục	V
+tới tấp	A
+:	CH
+"	CH
+Mỗi	L
+nơi	N
+xem	V
+một tí	N
+,	CH
+nếu	C
+không	R
+thì	C
+đi	V
+cả	P
+ngày	N
+không	R
+thấu	V
+hang	N
+đâu	P
+"	CH
+.	CH
+
+Tiến	V
+thêm	R
+một	M
+đoạn	N
+,	CH
+chúng tôi	P
+đành	V
+phải	V
+dừng	V
+lại	R
+để	E
+ngước	V
+mắt	N
+nhìn	V
+thẳng	A
+lên	R
+trần	N
+đá	N
+đang	R
+thả	V
+xuống	R
+vô vàn	L
+hình	N
+nhũ	N
+lớn bé	A
+bao	V
+quanh	N
+như	C
+bông	Nc
+hoa	N
+đá	N
+lấp lánh	A
+sắc màu	N
+huyền ảo	A
+.	CH
+
+Tiếp	V
+đến	R
+tầng	N
+hai	M
+là	V
+vùng	N
+hang	N
+khá	R
+rộng	A
+lô nhô	A
+tảng	N
+đá	N
+,	CH
+được	V
+gọi	V
+là	C
+"	CH
+thiên cung	N
+"	CH
+.	CH
+
+Mỗi	L
+tảng	Nc
+đá	N
+,	CH
+thật	R
+kỳ lạ	A
+,	CH
+hiện	V
+mỗi	L
+hình thù	N
+khác	A
+lạ	A
+của	E
+muôn	L
+loài	N
+vật	N
+khiến	V
+mọi	L
+người	N
+ai	P
+cũng	R
+phải	V
+thốt	V
+lên	R
+lời	N
+trầm trồ	V
+.	CH
+
+Đẹp	A
+nhất	A
+trong	E
+"	CH
+thiên cung	N
+"	CH
+phải	V
+kể	V
+đến	R
+"	CH
+giếng	N
+tiên	N
+"	CH
+.	CH
+
+Đó	P
+là	V
+một	M
+cái	Nc
+giếng	N
+nho nhỏ	A
+,	CH
+nước	N
+trong vắt	A
+được	V
+"	CH
+tu	V
+"	CH
+từ	E
+những	L
+"	CH
+vú	N
+"	CH
+đá	N
+trên	E
+thăm thẳm	A
+trần	N
+cao	A
+rơi	V
+nhẹ	A
+và	C
+đều	A
+xuống	R
+.	CH
+
+Không	R
+ai	P
+bảo	V
+,	CH
+nhưng	C
+mỗi	L
+người	N
+đều	R
+vốc	V
+một	M
+ngụm	Nc
+"	CH
+nước	N
+tiên	N
+"	CH
+uống	V
+hoặc	C
+ngửa	V
+mặt	N
+hứng	V
+những	L
+giọt	Nc
+nước	N
+để	E
+hưởng	V
+cái	Nc
+mát	A
+lạnh	A
+tuyệt dịu	A
+của	E
+thiên nhiên	N
+.	CH
+
+Chúng tôi	P
+đang	R
+tận hưởng	V
+khoái cảm	N
+thì	C
+ông	Nc
+Vang	Np
+lại	R
+giục	V
+:	CH
+"	CH
+Xin	V
+rời	V
+giếng	N
+tiên	N
+"	CH
+!	CH
+
+Mọi	L
+người	N
+theo	V
+ông	N
+chỉ dẫn	V
+nghiêng	V
+mình	N
+lách	V
+qua	R
+một	M
+ô	N
+đá	N
+có	V
+hình	N
+cánh	N
+cửa	N
+để	E
+lạc	V
+vào	E
+"	CH
+thiên la địa võng	X
+"	CH
+của	E
+muôn vàn	L
+nhũ đá	N
+khác	A
+.	CH
+
+Bất ngờ	A
+mọi	L
+ánh	Nc
+đèn	N
+bị	V
+hút	V
+vào	R
+tận	E
+dưới	N
+sâu	A
+hút	A
+lòng	N
+"	CH
+thủy cung	N
+"	CH
+.	CH
+
+Anh	Nc
+Bình	Np
+nói	V
+:	CH
+"	CH
+Hôm	N
+trước	N
+tôi	P
+và	C
+anh em	N
+phải	V
+dùng	V
+thang	N
+dây	N
+tụt	V
+xuống	R
+15	M
+m	Nu
+mới	R
+có thể	R
+vào	V
+quay	V
+cung	N
+vua	N
+thủy tề	N
+"	CH
+.	CH
+
+Ở	E
+dưới	N
+đó	P
+có	V
+những	L
+tấm	Nc
+đàn đá	N
+,	CH
+hễ	C
+gió	N
+trời	N
+thoảng	V
+qua	R
+cũng	R
+có thể	R
+phát	V
+ra	R
+tiếng	N
+nhạc	N
+lạ tai	A
+.	CH
+
+Những	L
+nhũ đá	N
+hình	N
+con	Nc
+tôm	N
+,	CH
+con	Nc
+cua	N
+,	CH
+con	Nc
+cá	N
+còn	V
+mềm nhũn	A
+có thể	R
+đưa	V
+tay	N
+bấm	V
+vào	R
+được	R
+.	CH
+
+Ngước	V
+nhìn	V
+lên	E
+vòm	N
+cung	N
+lại	R
+gặp	V
+những	L
+nhũ đá	N
+khác	A
+như	C
+được	V
+dát	V
+vàng	N
+,	CH
+bạc	N
+long lanh	A
+màu sắc	N
+khiến	V
+"	CH
+cung	N
+vua	N
+"	CH
+luôn	R
+sống động	A
+.	CH
+
+Rồi	C
+những	L
+"	CH
+bồn tắm	N
+tiên	N
+"	CH
+,	CH
+"	CH
+bãi tắm	N
+tiên	N
+"	CH
+lần lượt	R
+hiện	V
+lên	R
+trong	E
+hoa văn	N
+đẹp mắt	A
+của	E
+những	L
+tảng	Nc
+đá	N
+màu	N
+trắng toát	A
+.	CH
+
+Leo	V
+tiếp	R
+lên	V
+chừng	A
+15	M
+m	Nu
+rồi	C
+đi	V
+thẳng	A
+,	CH
+chúng tôi	P
+liền	R
+gặp	V
+vô số	L
+cửa	N
+hang	N
+hiện	V
+ra	R
+bốn	M
+phía	N
+.	CH
+
+Đáng	V
+chú ý	V
+nhất	A
+là	V
+cửa	N
+hang	N
+dẫn	V
+vào	E
+khoảng	N
+rộng	A
+có	V
+những	L
+con	Nc
+sư tử	N
+bằng	E
+đá	N
+xám	A
+đang	R
+chầu	V
+quanh	N
+một	M
+"	CH
+ông	N
+tiên	N
+"	CH
+cao lớn	A
+,	CH
+đầu	N
+tóc	N
+trắng	A
+cước	N
+đứng	V
+bên	N
+một	M
+cột	N
+đá	N
+cao vút	A
+như	C
+trụ	N
+chống	V
+trời	N
+.	CH
+
+Phía	N
+sau	N
+cột	N
+đá	N
+sừng sững	A
+lại	R
+hiện	V
+những	L
+cửa	N
+hang	N
+khác	A
+,	CH
+sâu	A
+hun hút	A
+mà	C
+ánh	Nc
+đèn	N
+ăcqui	FW
+không	R
+đủ	A
+sức	N
+chiếu	V
+sáng	N
+.	CH
+
+Vậy là	C
+gần	A
+trọn	A
+một	M
+ngày	N
+ăn	V
+bánh chưng	N
+,	CH
+bánh mì	N
+,	CH
+uống	V
+"	CH
+nước	N
+tiên	N
+"	CH
+,	CH
+chúng tôi	P
+cũng	R
+mới	R
+chỉ	R
+vào	V
+động	N
+cổ	A
+khoảng	A
+500	M
+m	Nu
+.	CH
+
+Mọi	L
+người	N
+ai	P
+cũng	R
+muốn	V
+đi	V
+thêm	R
+nữa	T
+nhưng	C
+những	L
+chiếc	Nc
+đèn	N
+ăcqui	FW
+cầm	V
+tay	N
+không	R
+còn	V
+đủ	A
+sức	N
+cho	E
+cuộc	N
+thám hiểm	V
+,	CH
+vì	E
+như	C
+ông	Nc
+Vang	Np
+tuyên bố	V
+:	CH
+"	CH
+Vào	V
+không	R
+muốn	V
+ra	V
+.	CH
+
+Nhưng	C
+liệu cơm mà gắp mắm	X
+,	CH
+nếu	C
+ăcqui	FW
+hết	V
+điện	N
+thì	C
+có	V
+bò	V
+bốn	M
+chân	N
+cũng	R
+khó	A
+tìm	V
+được	R
+cửa	N
+hang	N
+"	CH
+.	CH
+
+Từ	E
+chuyến	N
+"	CH
+du lịch	V
+trong	E
+xã	N
+"	CH
+.	CH
+
+Khi	N
+dư luận	N
+xôn xao	V
+về	E
+vẻ	Nc
+đẹp	A
+kỳ thú	A
+của	E
+hang động	N
+mà	C
+người	N
+dân	N
+địa phương	N
+gọi	V
+là	C
+Tiên Sơn	Np
+động	N
+,	CH
+nhiều	L
+người	N
+tò mò	A
+muốn	V
+biết	V
+ai	P
+là	V
+người	N
+đầu tiên	A
+phát hiện	V
+,	CH
+khám phá	V
+hang động	N
+cổ xưa	A
+này	P
+.	CH
+
+Người	N
+đó	P
+chính	T
+là	V
+bí thư	N
+xã đoàn	N
+Trần Song Toàn	Np
+.	CH
+
+Toàn	Np
+đã	R
+kể	V
+lại	R
+câu chuyện	N
+khá	R
+bất ngờ	A
+:	CH
+"	CH
+Tháng	N
+7	M
+-	CH
+2003	M
+Đoàn	N
+xã	N
+tổ chức	V
+cho	V
+anh em	N
+đi	V
+du lịch	V
+nhưng	C
+hiềm	V
+nỗi	N
+"	CH
+yếu	A
+"	CH
+tiền	N
+nên	C
+tôi	P
+bảo	V
+anh em	N
+đi	V
+đâu	P
+cho	E
+xa	A
+,	CH
+nghe	V
+nói	V
+xã	N
+ta	P
+cũng	R
+có	V
+hang động	N
+hàng	R
+ngàn	M
+năm	N
+nay	P
+trên	E
+núi	N
+Thung Vình	Np
+,	CH
+thử	V
+đi	V
+dã ngoại	A
+trên	E
+đó	P
+xem	V
+sao	P
+.	CH
+
+Không	R
+ngờ	V
+chuyến	N
+đi	V
+đã	R
+gây	V
+thích thú	A
+cho	E
+mọi	L
+người	N
+vì	E
+cảnh trí	N
+thiên nhiên	N
+ban tặng	V
+mà	C
+dân	N
+xã	N
+Vĩnh An	Np
+chưa	R
+bao giờ	P
+được	V
+thấy	V
+"	CH
+.	CH
+
+Sau	E
+chuyến	N
+"	CH
+du lịch	V
+trong	E
+xã	N
+"	CH
+,	CH
+Toàn	Np
+kể	V
+lại	R
+những	L
+chuyện	N
+biết	V
+được	R
+trong	E
+hang	N
+cho	E
+lãnh đạo	N
+xã	N
+nghe	V
+khiến	V
+cả	P
+bí thư	N
+,	CH
+chủ tịch	N
+không	R
+khỏi	V
+ngạc nhiên	V
+.	CH
+
+Tiếp	V
+đó	P
+,	CH
+xã	N
+tổ chức	V
+đoàn	N
+cán bộ	N
+lên	V
+kiểm tra	V
+thấy	V
+hang động	N
+còn	R
+đẹp	A
+hơn	A
+nhiều	A
+những	L
+lời	N
+nghe	V
+kể	V
+,	CH
+đẹp	A
+sánh	V
+ngang	A
+động	N
+Phong Nha	Np
+ở	E
+Quảng Bình	Np
+.	CH
+
+Thế là	C
+chủ tịch	N
+xã	N
+tức tốc	R
+vù	A
+xe máy	N
+lên	V
+đài truyền hình	N
+huyện	N
+báo	V
+với	E
+trưởng	N
+đài	N
+Nguyễn Văn Bình	Np
+.	CH
+
+Được	V
+tin	N
+,	CH
+anh	Nc
+Bình	Np
+vẫn	R
+chưa	R
+tin	V
+vì	E
+chuyện	N
+quá	R
+lạ	A
+.	CH
+
+Anh	N
+liền	R
+tổ chức	V
+chuyến	N
+công tác	V
+đột xuất	A
+,	CH
+đi	V
+cùng	C
+phóng viên	N
+,	CH
+xâm nhập	V
+Tiên Sơn	Np
+động	N
+.	CH
+
+Sáng	N
+1	M
+-	CH
+8	M
+-	CH
+2003	M
+bắt đầu	V
+cuộc	N
+khám phá	V
+của	E
+nhóm	Nc
+phóng viên	N
+truyền hình	N
+huyện	N
+do	C
+anh	Nc
+Bình	Np
+dẫn đầu	V
+.	CH
+
+Lúc	N
+ấy	P
+chưa	R
+có	V
+đường	N
+vào	E
+hang	N
+vì	E
+cửa	N
+hang	N
+nằm	V
+giữa	E
+vách	N
+đá	N
+cheo leo	A
+cách	V
+chân	N
+núi	N
+khoảng	A
+20	M
+m	Nu
+.	CH
+
+Anh	Nc
+Bình	Np
+đề xuất	V
+đoàn	N
+xã	N
+"	CH
+thiết kế	V
+"	CH
+dây	N
+thừng	N
+buộc	V
+hai	M
+đầu	N
+vách	N
+đá	N
+để	E
+bám	V
+dây	N
+trèo	V
+lên	R
+.	CH
+
+Chính	T
+anh	Nc
+Bình	Np
+sửng sốt	A
+nói	V
+:	CH
+"	CH
+Tôi	P
+đã	R
+từng	R
+đi	V
+động	N
+Thiên Cung	Np
+ở	E
+Hạ Long	Np
+,	CH
+nếu	C
+so sánh	V
+thì	C
+động	N
+Tiên Sơn	Np
+không	R
+thua kém	V
+gì	T
+"	CH
+.	CH
+
+Nhưng	C
+lời	N
+đánh giá	V
+đó	P
+vẫn	R
+còn	V
+dè dặt	A
+vì	E
+khám phá	V
+đến	E
+12	M
+giờ	Nu
+trưa	N
+thì	C
+hết	V
+ăcqui	FW
+,	CH
+phải	V
+ra	V
+ngay	R
+để	E
+thay	V
+ăcqui	FW
+mới	A
+"	CH
+.	CH
+
+Hôm	N
+sau	A
+đoàn	Nc
+khám phá	V
+dùng	V
+hai	M
+máy phát điện	N
+loại	Nc
+1,5	M
+kW	Nu
+nhưng	C
+cũng	R
+không	R
+đủ	A
+sức	N
+chiếu	V
+sáng	N
+khắp	A
+hang	N
+cùng	N
+kỳ bí	A
+của	E
+động	N
+cổ	A
+.	CH
+
+Mãi	R
+tới	E
+lần	N
+thứ	N
+ba	M
+,	CH
+sau	E
+khi	N
+mượn	V
+được	R
+máy phát điện	N
+5	M
+kW	Nu
+của	E
+kho bạc	N
+huyện	N
+,	CH
+nhóm	N
+phóng viên	N
+mới	R
+có thể	R
+quay	V
+được	R
+những	L
+băng hình	N
+ưng ý	V
+.	CH
+
+Anh	Nc
+Bình	Np
+nhớ	V
+lại	R
+:	CH
+"	CH
+Quay	V
+xong	R
+vẫn	R
+không	R
+muốn	V
+ra	V
+vì	E
+cái	Nc
+hang	N
+lạ	A
+cứ	R
+như	C
+hút	V
+mình	P
+vào	V
+trong	E
+đó	P
+"	CH
+.	CH
+
+Cảnh báo	V
+!	CH
+
+Động	N
+Tiên Sơn	Np
+chỉ	R
+ở	V
+cách	V
+thành	N
+nhà	N
+Hồ	Np
+LBKT	CH
+1397	M
+RBKT	CH
+-	CH
+di tích	N
+văn hóa	N
+đặc sắc	A
+của	E
+khu vực	N
+Đông Nam Á	Np
+-	CH
+khoảng	A
+2	M
+km	Nu
+;	CH
+cách	V
+khu	N
+tượng	N
+đá	N
+Đa Bút	Np
+nổi tiếng	A
+với	E
+những	L
+pho	Nc
+tượng	N
+võ quan	N
+đứng	V
+canh	V
+ngôi	Nc
+mộ	N
+bà	Nc
+Hoàng Thị Ngọc Diễm	Np
+LBKT	CH
+vợ	N
+chúa	N
+Trịnh Tùng	Np
+RBKT	CH
+.	CH
+
+Đây	P
+là	V
+địa bàn	N
+có	V
+hơn	A
+100	M
+quần thể	N
+di tích	N
+lịch sử	N
+-	CH
+văn hóa	N
+của	E
+huyện	N
+"	CH
+di tích	N
+"	CH
+Vĩnh Lộc	Np
+,	CH
+nổi tiếng	A
+dày	A
+mật độ	N
+di tích	N
+nhất	A
+tỉnh	N
+Thanh	Np
+.	CH
+
+Nhưng	C
+tất cả	P
+sẽ	R
+trở thành	V
+một	M
+bài học	N
+đau xót	A
+nếu	C
+ngay	T
+bây giờ	P
+chính quyền	N
+hai	M
+xã	N
+Vĩnh An	Np
+,	CH
+Vĩnh Minh	Np
+không	R
+ra tay	V
+ngăn chặn	V
+những	L
+"	CH
+lò	N
+"	CH
+khai thác	V
+đá	N
+đang	R
+ngày đêm	N
+thi	V
+nhau	N
+nổ mìn	V
+trên	E
+dãy	N
+Thung Vình	Np
+vì	E
+một	M
+lý do	N
+đơn giản	A
+:	CH
+tương truyền	V
+,	CH
+hang động	N
+Tiên Sơn	Np
+xuyên	V
+dài	A
+sang	E
+phía	N
+đầu	N
+dãy	N
+núi	N
+Thung Vình	Np
+thuộc	V
+xã	N
+Vĩnh Minh	Np
+LBKT	CH
+?	CH
+!	CH
+RBKT	CH
+.	CH
+
+Ngày	N
+u uất	A
+...	CH
+
+Mình	P
+cắt	V
+đứt	R
+câu chuyện	N
+bằng	E
+sự	Nc
+im lặng	A
+.	CH
+
+Trong	E
+bóng tối	N
+mình	P
+vẫn	R
+nhận	V
+thấy	V
+sự	Nc
+băn khoăn	A
+của	E
+hai	M
+bệnh nhân	N
+đang	R
+nói chuyện	V
+với	E
+mình	P
+.	CH
+
+Hình như	X
+họ	P
+thấy	V
+được	R
+cái	Nc
+im lặng	A
+nặng nề	A
+đẫm	A
+nước mắt	N
+ấy	P
+của	E
+mình	P
+.	CH
+
+Họ	P
+thương	V
+mình	P
+một cách	N
+chân thành	A
+thắm thiết	A
+,	CH
+nhưng	C
+họ	P
+càng	R
+nói	V
+mình	P
+càng	R
+thấy	V
+khổ đau	A
+.	CH
+
+Họ	P
+hỏi	V
+mình	P
+vì sao	X
+không	R
+đấu tranh	V
+cho	E
+quyền lợi	N
+chính trị	N
+,	CH
+tại sao	X
+mình	P
+rất	R
+xứng đáng	A
+là	C
+một	M
+đảng viên	N
+mà	C
+chi bộ	N
+không	R
+kết nạp	V
+.	CH
+
+Vì sao	X
+,	CH
+vì sao	X
+và	C
+vì sao	X
+ư	T
+?	CH
+
+Ai	P
+mà	C
+trả lời	V
+được	R
+hở	T
+hai	M
+bạn	N
+mến thương	A
+.	CH
+
+Quả tình	R
+tôi	P
+không thể	R
+trả lời	V
+được	R
+.	CH
+
+Cái	Nc
+im lặng	A
+nặng nề	A
+của	E
+tôi	P
+cũng	R
+nói	V
+được	R
+với	E
+các	L
+bạn	N
+nhiều	A
+về	E
+sự	Nc
+bế tắc	A
+đó	P
+.	CH
+
+Nào	R
+phải	A
+mình	P
+không	R
+thiết tha	A
+,	CH
+nhưng	C
+càng	R
+thiết tha	A
+chỉ	R
+càng	R
+thấy	V
+khổ đau	A
+mà	T
+thôi	T
+.	CH
+
+Mấy	L
+hôm nay	N
+rất	R
+buồn	V
+,	CH
+ngày ngày	N
+những	L
+lá	Nc
+thư	N
+,	CH
+những	L
+lời nói	N
+,	CH
+những	L
+hành động	N
+tỏ	V
+lòng	N
+thương mến	A
+thiết tha	A
+vẫn	R
+đến	V
+với	E
+mình	P
+.	CH
+
+Nhưng	C
+chính	T
+những	L
+tình thương	N
+ấy	P
+lại	R
+là	V
+những	L
+mồi	N
+lửa	N
+châm	V
+vào	R
+một	M
+đống	Nc
+củi	N
+đã	R
+khô	A
+từ	E
+lâu	A
+.	CH
+
+Tại sao	X
+mọi	L
+người	N
+thương mến	V
+cảm phục	V
+mà	C
+Đảng	Np
+lại	R
+khắt khe	A
+hẹp hòi	A
+đối với	E
+mình	P
+?	CH
+
+Rất	R
+nhiều	A
+chuyện	N
+đau đầu	A
+hằng	R
+ngày	N
+vẫn	R
+xảy	V
+ra	R
+quanh	N
+mình	P
+.	CH
+
+Thì	C
+đã	R
+tự nhủ	V
+rằng	C
+không thể	R
+đòi hỏi	V
+ở	E
+đâu	P
+chỉ	R
+có	V
+toàn	R
+người	N
+tốt	A
+kia mà	X
+,	CH
+đã	R
+khẳng định	V
+"	CH
+đời	N
+phải	V
+qua	V
+dông tố	N
+nhưng	C
+chớ	R
+có	V
+cúi	V
+đầu	N
+trước	E
+dông tố	N
+"	CH
+,	CH
+mà	C
+thật ra	X
+dông tố	N
+đến	V
+với	E
+mình	P
+vẫn	R
+là	V
+những	L
+cơn	Nc
+dông	N
+của	E
+ngày	N
+cuối	A
+hè	N
+,	CH
+nhẹ nhàng	A
+âm ỉ	A
+mà	T
+thôi	T
+.	CH
+
+Hãy	R
+vui	V
+lên	R
+đi	R
+,	CH
+vui	V
+lên	R
+với	E
+những	L
+nụ cười	N
+trìu mến	A
+của	E
+những	L
+bệnh nhân	N
+đã	R
+dành	V
+cho	E
+mình	P
+.	CH
+
+Vui	V
+lên	R
+với	E
+những	L
+tình thương	N
+chân thật	A
+mà	C
+đa số	L
+cán bộ	N
+trong	E
+huyện	N
+,	CH
+trong	E
+tỉnh	N
+,	CH
+trong	E
+khu	N
+quen biết	V
+đã	R
+dành	V
+cho	R
+mình	P
+.	CH
+
+Vậy	P
+là	V
+được	V
+rồi	R
+,	CH
+Thùy	Np
+ơi	I
+,	CH
+đừng	R
+đòi hỏi	V
+nữa	R
+.	CH
+
+Đảng	Np
+ư	I
+?	CH
+
+Rồi	C
+Đảng	Np
+sẽ	R
+thấy	V
+.	CH
+
+Lời	N
+kể	V
+của	E
+đại tá	N
+Nguyễn Đức Thắng	Np
+,	CH
+thuyền trưởng	N
+con	Nc
+tàu	N
+không	R
+số	N
+,	CH
+Anh hùng	N
+Lực lượng	N
+vũ trang	V
+nhân dân	N
+:	CH
+Tôi	P
+muốn	V
+nói	V
+với	E
+các	L
+anh	N
+về	E
+cái	Nc
+bệnh xá	N
+huyện	N
+Đức Phổ	Np
+,	CH
+tỉnh	N
+Quảng Ngãi	Np
+.	CH
+
+Các	L
+anh	N
+hiểu	V
+thế	P
+nào	P
+là	V
+một	M
+cái	Nc
+bệnh xá	N
+huyện	N
+trong	E
+chiến tranh	N
+,	CH
+ở	E
+miền	N
+Nam	Np
+hồi	N
+bấy giờ	P
+không	R
+?	CH
+
+Riêng	T
+tôi	P
+,	CH
+thật ra	X
+đến	E
+lúc	N
+đó	P
+,	CH
+có	V
+dịp	N
+trôi dạt	V
+vô	E
+đó	P
+,	CH
+tôi	P
+mới	R
+hiểu	V
+.	CH
+
+Thì ra	X
+giữa	E
+chiến tranh	N
+,	CH
+một	M
+vùng	N
+đất	N
+quá	R
+ác liệt	A
+,	CH
+thì	C
+một	M
+đơn vị	N
+bộ đội	N
+,	CH
+chủ lực	N
+hay	C
+địa phương	N
+,	CH
+thậm chí	R
+có	V
+khi	N
+cả	T
+du kích	N
+nữa	R
+,	CH
+rồi	C
+các	L
+cơ quan	N
+chỉ huy	V
+,	CH
+chỉ đạo	V
+...	CH
+có thể	R
+tạm thời	A
+lánh	V
+đi	R
+đâu đó	P
+,	CH
+thời gian	N
+ngắn	A
+hay	C
+dài	A
+.	CH
+
+Nhưng	C
+một	M
+cái	Nc
+bệnh xá	N
+huyện	N
+thì	C
+không thể	R
+lánh	V
+đi	V
+đâu	P
+được	R
+cả	T
+,	CH
+đơn giản	A
+chỉ	R
+vì	E
+nó	P
+là	V
+một	M
+cái	Nc
+bệnh xá	N
+.	CH
+
+Nó	P
+phải	V
+có mặt	V
+ở	E
+đó	P
+bất cứ	R
+lúc nào	P
+,	CH
+trụ	V
+bám	V
+ở	E
+đó	P
+,	CH
+vì	E
+thương binh	N
+,	CH
+vì	E
+những	L
+người	Nc
+dân	N
+bị thương	V
+,	CH
+cả	T
+bị	V
+bệnh	N
+nữa	R
+,	CH
+bất cứ	R
+lúc	N
+nào	P
+.	CH
+
+Mà	C
+Đức Phổ	Np
+lúc	N
+bấy giờ	P
+là	V
+một	M
+trong	E
+những	L
+huyện	N
+ác liệt	A
+nhất	A
+ở	E
+chiến trường	N
+Khu	N
+5	M
+.	CH
+
+Sư đoàn	N
+không vận	V
+số	N
+1	M
+Mỹ	Np
+quần	V
+nát	A
+ở	E
+đó	P
+,	CH
+rồi	C
+lữ	N
+196	M
+Mỹ	Np
+,	CH
+sư dù	N
+101	M
+Mỹ	Np
+,	CH
+có	V
+thời gian	N
+cả	P
+bọn	Nc
+sư	N
+25	M
+Anh Cả Đỏ Mỹ	Np
+cũng	R
+ra	V
+đó	P
+.	CH
+
+Rồi	C
+Rồng Xanh	Np
+,	CH
+Bạch Mã Nam Triều Tiên	Np
+,	CH
+rồi	C
+sư	N
+2	M
+,	CH
+sư	N
+22	M
+,	CH
+sư	N
+23	M
+ngụy	N
+,	CH
+thủy quân	N
+lục chiến	V
+,	CH
+quân	N
+dù	N
+ngụy	N
+chẳng	R
+thằng	P
+nào	P
+thiếu	V
+mặt	N
+ở	E
+đấy	P
+.	CH
+
+B52	Np
+dầm	V
+nát	A
+một	M
+vùng	N
+bán sơn địa	N
+ngang dọc	N
+chỉ	R
+vài	L
+chục	M
+cây số	Nu
+...	CH
+
+Mà	C
+trên	E
+cái	Nc
+vùng	N
+đất	N
+ghê gớm	A
+,	CH
+suốt	A
+hàng	R
+chục	M
+năm	N
+trời	T
+vẫn	R
+tồn tại	V
+,	CH
+trụ bám	V
+một	M
+cái	Nc
+bệnh xá	N
+huyện	N
+nhỏ nhoi	A
+,	CH
+vô danh	A
+,	CH
+gan lì	A
+,	CH
+bất khuất	A
+.	CH
+
+Và	C
+người	N
+chỉ huy	V
+bệnh xá	N
+ấy	P
+là	V
+một	M
+cô gái	N
+,	CH
+một	M
+cô	Nc
+bác sĩ	N
+trẻ	A
+người	Nc
+Hà Nội	Np
+.	CH
+
+Năm	N
+ấy	P
+chị	N
+chưa	R
+đến	V
+30	M
+.	CH
+
+Tên	N
+chị	N
+là	V
+Trâm	Np
+.	CH
+
+Rất	R
+tiếc	V
+tôi	P
+rất	R
+có	V
+lỗi	N
+,	CH
+tôi	P
+không	R
+hỏi	V
+địa chỉ	N
+gia đình	N
+chị	N
+ở	E
+Hà Nội	Np
+,	CH
+phố	N
+nào	P
+,	CH
+số	N
+nhà	N
+bao nhiêu	P
+.	CH
+
+Nghe	V
+nói	V
+chị	N
+có	V
+người yêu	N
+vào	V
+chiến trường	N
+trước	E
+mấy	L
+năm	N
+,	CH
+đúng	A
+chiến trường	N
+Quảng Ngãi	Np
+,	CH
+cho nên	C
+khi	N
+tốt nghiệp	V
+trường	N
+y	Np
+chị	N
+xung phong	V
+vào	V
+Nam	Np
+ngay	R
+.	CH
+
+Không	R
+biết	V
+vì sao	X
+vào	V
+chiến trường	N
+rồi	C
+hai	M
+anh chị	N
+lại	R
+không	R
+khăng khít	A
+với	E
+nhau	N
+nữa	R
+.	CH
+
+Chị	N
+có	V
+nỗi	Nc
+đau	A
+riêng	A
+ấy	P
+,	CH
+giấu	V
+kín	A
+.	CH
+
+Và	C
+chị	N
+chỉ huy	V
+cái	Nc
+bệnh xá	N
+ấy	P
+,	CH
+trụ	V
+bám	V
+đến	T
+gan lì	A
+,	CH
+bền bỉ	A
+suốt	A
+mấy	L
+năm	N
+trời	T
+trên	E
+vùng	N
+đất	N
+hẹp	A
+đã	R
+bị	V
+đánh	V
+nát	A
+như	C
+băm	V
+ấy	P
+...	CH
+cho	E
+đến	E
+ngày	N
+chị	N
+hi sinh	V
+...	CH
+
+2	M
+g	Nu
+chiều	N
+hôm	N
+ấy	P
+mười mấy	L
+anh em	N
+thủy thủ	N
+xơ xác	A
+chúng tôi	P
+đến	V
+được	R
+bệnh xá	N
+của	E
+chị	Nc
+Trâm	Np
+.	CH
+
+Chị	N
+không	R
+nói	V
+gì	P
+nhưng	C
+biết	V
+chúng tôi	P
+là	V
+dân	N
+đường mòn	N
+bí mật	A
+biển	N
+Đông	N
+và	C
+coi	V
+chúng tôi	P
+là	V
+những	L
+người	Nc
+anh hùng	N
+.	CH
+
+Chị	N
+bảo	V
+:	CH
+-	CH
+Các	L
+anh	N
+phải	V
+ở	V
+lại	R
+đây	P
+đã	R
+,	CH
+chưa	R
+được	V
+đi	V
+đâu	P
+hết	R
+.	CH
+
+Phải	V
+chữa	V
+cho	V
+lành	V
+các	L
+vết thương	N
+.	CH
+
+Rồi	C
+bồi dưỡng	V
+cho	E
+lại sức	V
+để	E
+còn	R
+leo	V
+Trường Sơn	Np
+.	CH
+
+Bệnh xá	N
+đói	V
+,	CH
+chị	Nc
+Trâm	Np
+và	C
+các	L
+nhân viên	N
+của	E
+chị	N
+cũng	R
+đói	V
+.	CH
+
+Nhưng	C
+chúng tôi	P
+vẫn	R
+được	V
+nuôi	V
+rất	R
+chu đáo	A
+.	CH
+
+Chúng tôi	P
+ở	V
+lại	R
+chỗ	N
+chị	Nc
+Trâm	Np
+đúng	A
+một	M
+tháng	N
+rồi	C
+bắt	V
+liên lạc	V
+,	CH
+theo	V
+đường dây	N
+dọc	A
+Trường Sơn	Np
+trở ra	V
+Bắc	Np
+...	CH
+
+Những	L
+ngày	N
+u uất	A
+của	E
+tâm hồn	N
+.	CH
+
+Có	V
+gì	P
+đè	V
+nặng	A
+trên	E
+trái tim	N
+ta	P
+?	CH
+
+Đâu	R
+phải	A
+chỉ	R
+có	V
+một	M
+nỗi	Nc
+buồn	A
+của	E
+vết thương	N
+rỉ	V
+máu	N
+của	E
+con	Nc
+tim	N
+đó	P
+đâu	T
+?	CH
+
+Mà	C
+còn	R
+có	V
+những	L
+gì	P
+nữa	R
+kia	T
+?	CH
+
+Những	L
+sự	Nc
+thiếu	A
+công bằng	A
+vẫn	R
+còn	V
+trong	E
+xã hội	N
+,	CH
+vẫn	R
+diễn	V
+ra	R
+hằng	R
+ngày	N
+;	CH
+vẫn	R
+có	V
+những	L
+con	Nc
+sâu	N
+,	CH
+con	Nc
+mọt	N
+đang	R
+gặm	V
+dần	R
+danh dự	N
+của	E
+Đảng	Np
+,	CH
+những	L
+con	Nc
+sâu mọt	N
+ấy	P
+nếu	C
+không	R
+bị	V
+diệt	V
+đi	R
+nó	P
+sẽ	R
+đục khoét	V
+dần	R
+lòng	N
+tin yêu	V
+với	E
+Đảng	Np
+.	CH
+
+Rất	R
+buồn	A
+mình	P
+chưa	R
+được	V
+đứng	V
+trong	E
+hàng ngũ	N
+của	E
+Đảng	Np
+để	E
+đấu tranh	V
+cho	R
+đến cùng	R
+.	CH
+
+Ngày	N
+từng	R
+ngày	N
+vẫn	R
+trôi	V
+qua	R
+nặng nề	A
+.	CH
+
+Công việc	N
+bận rộn	A
+làm	V
+mình	P
+quên	V
+đi	R
+những	L
+chuyện	N
+bực bội	V
+nhưng	C
+rồi	C
+nó	P
+vẫn	R
+lại	R
+đâm	V
+nhói	A
+vào	E
+suy nghĩ	V
+như	A
+những	L
+cây	Nc
+gai	N
+nhức nhối	A
+.	CH
+
+Tại sao	X
+vậy	T
+hở	T
+tất cả	P
+mọi	L
+người	N
+?	CH
+
+Tại sao	X
+khi	N
+ta	P
+là	V
+kẻ	P
+đúng	A
+,	CH
+khi	N
+ta	P
+là	V
+số	N
+đông	A
+mà	C
+không	R
+đấu tranh	V
+được	R
+với	E
+một	M
+số	N
+nhỏ	A
+,	CH
+để	V
+số	N
+người	N
+đó	P
+gây	V
+khó khăn	N
+trở ngại	N
+cho	E
+tập thể	N
+?	CH
+
+Nhiệm vụ	N
+của	E
+ta	P
+là	V
+phải	V
+đấu tranh	V
+cho	E
+lẽ phải	N
+.	CH
+
+Mà	C
+đã	R
+đấu tranh	V
+thì	C
+phải	V
+bỏ	V
+sức lực	N
+,	CH
+phải	V
+suy nghĩ	V
+và	C
+phải	V
+hi sinh	V
+quyền lợi	N
+cá nhân	N
+,	CH
+có	V
+khi	N
+là	C
+cả	P
+cuộc đời	N
+mình	P
+,	CH
+cho	E
+lẽ phải	N
+chiến thắng	N
+.	CH
+
+Vậy	P
+đó	P
+Thùy	Np
+ơi	I
+!	CH
+
+Khi	N
+đã	R
+giác ngộ	V
+quyền lợi	N
+giai cấp	N
+của	E
+Đảng	Np
+thì	C
+suốt	A
+đời	N
+Thùy	Np
+sẽ	R
+gắn bó	V
+với	E
+sự nghiệp	N
+ấy	P
+!	CH
+
+Th	Ny
+.	CH
+sẽ	R
+đau xót	A
+khi	N
+sự nghiệp	N
+ấy	P
+bị	V
+tổn thương	V
+,	CH
+Th	Ny
+.	CH
+sẽ	R
+sướng	A
+vui	A
+khi	N
+sự nghiệp	N
+ấy	P
+lớn mạnh	V
+-	CH
+Có	V
+gì	P
+đâu	P
+nữa	R
+hở	T
+Th	Ny
+.	CH
+?	CH
+
+Nhật ký	N
+ơi	I
+!	CH
+
+Đừng	R
+trách	V
+Th	Ny
+.	CH
+nghe	T
+nếu như	C
+Th	Ny
+.	CH
+cứ	R
+ghi	V
+vào	E
+nhật ký	N
+những	L
+dòng	Nc
+tâm sự	N
+nặng trĩu	A
+đau buồn	A
+.	CH
+
+Tiếng	N
+súng	N
+chiến thắng	V
+đang	R
+nổ	V
+giòn	A
+khắp	A
+chiến trường	N
+Nam	Np
+Bắc	Np
+.	CH
+
+Thắng lợi	N
+đã	R
+đến	V
+gần	A
+chúng ta	P
+rồi	T
+...	CH
+
+Nhưng	C
+trên	E
+mảnh	Nc
+đất	N
+Đức Phổ	Np
+này	P
+vẫn	R
+còn	V
+nặng	A
+những	L
+đau thương	N
+,	CH
+ngày	N
+từng	R
+ngày	N
+máu	N
+vẫn	R
+rơi	V
+,	CH
+xương	N
+vẫn	R
+đổ	V
+.	CH
+
+Điều	N
+đáng	V
+buồn	A
+nhất	A
+là	V
+trong	E
+những	L
+hi sinh	N
+gian khổ	A
+ấy	P
+,	CH
+Th	Ny
+.	CH
+chưa	R
+thấy	V
+được	R
+sự	Nc
+công bằng	A
+,	CH
+sự	Nc
+trung thực	A
+.	CH
+
+Chưa	R
+có	V
+một	M
+sự	Nc
+đấu tranh	N
+để	E
+thắng	V
+được	R
+những	L
+cái	Nc
+ti tiện	A
+,	CH
+đớn hèn	A
+cứ	R
+xảy	V
+ra	R
+làm	V
+sứt mẻ	A
+danh dự	N
+của	E
+hai	M
+chữ	N
+đảng viên	N
+và	C
+làm	V
+mòn mỏi	A
+niềm	Nc
+vui	V
+say	V
+công tác	V
+của	E
+mọi	L
+người	N
+trong	E
+bệnh xá	N
+.	CH
+
+Thùy	Np
+ơi	I
+!	CH
+
+Th	Ny
+.	CH
+chịu thua	V
+sao	T
+,	CH
+khi	N
+mà	C
+anh em	N
+quần chúng	N
+,	CH
+đảng viên	N
+,	CH
+thanh niên	N
+đều	R
+ủng hộ	V
+Th	Ny
+.	CH
+mà	C
+vẫn	R
+không	R
+thắng	V
+được	R
+một vài	L
+cá nhân	N
+đang	R
+hoành hành	V
+trong	E
+đội ngũ	N
+cán bộ	N
+của	E
+bệnh xá	N
+.	CH
+
+Cả	P
+mùa	N
+khô	A
+ác liệt	A
+không	R
+một	M
+lúc	N
+nào	R
+mình	P
+thấy	V
+bi quan	A
+,	CH
+mình	P
+luôn	R
+cười	V
+trong	E
+gian khổ	N
+vậy mà	C
+bây giờ	P
+mình	P
+đau khổ	A
+quá	R
+đi	T
+.	CH
+
+Kẻ thù	N
+phi nghĩa	A
+không	R
+sợ	V
+,	CH
+mà	C
+sợ	V
+những	L
+nọc độc	N
+của	E
+kẻ thù	N
+còn	R
+rớt	V
+lại	R
+trong	E
+đồng chí	N
+của	E
+mình	P
+.	CH
+
+Viết	V
+đơn	N
+vào	V
+Đảng	Np
+,	CH
+niềm	Nc
+vui	A
+thì	C
+ít	A
+mà	C
+bực dọc	V
+thì	C
+nhiều	A
+.	CH
+
+Tại sao	X
+con	Nc
+đường	N
+đi	V
+của	E
+một	M
+đứa	Nc
+tiểu tư sản	N
+bao giờ	P
+cũng	R
+nhiều	A
+chông gai	N
+đến	T
+vậy	T
+?	CH
+
+Đành rằng	X
+vì	E
+tính chất	N
+giai cấp	N
+,	CH
+nhưng	C
+mình	P
+vẫn	R
+thấy	V
+rất	R
+rõ	A
+một	M
+điều	N
+ngoài	E
+cái	Nc
+lẽ	N
+dĩ nhiên	A
+ấy	P
+.	CH
+
+Có	V
+một	M
+cái	Nc
+gì	P
+đó	P
+bắt bẻ	V
+,	CH
+gọi	V
+là	C
+bắt bí	V
+của	E
+một vài	L
+cá nhân	N
+có	V
+trách nhiệm	N
+.	CH
+
+Chẳng	R
+biết	V
+nói	V
+sao	P
+,	CH
+đời	N
+nó	P
+là	V
+như	C
+vậy	P
+đó	P
+.	CH
+
+Dù	C
+thành tích	N
+anh	N
+có	V
+cố gắng	V
+bao nhiêu	P
+cũng	R
+không	R
+bằng	A
+một	M
+anh	N
+khác	A
+ở	E
+thành phần	N
+cơ bản	A
+chỉ	R
+vừa	R
+mới	R
+giác ngộ	V
+bước đầu	N
+.	CH
+
+Hường	Np
+hồi	N
+còn	R
+sống	V
+thường	R
+động viên	V
+mình	P
+rằng	C
+đó	P
+là	V
+chỗ	N
+hơn	R
+của	E
+một	M
+người	Nc
+tiểu tư sản	A
+!	CH
+
+Hơn	A
+gì	P
+?	CH
+
+Hơn	R
+khó khăn	A
+,	CH
+hơn	R
+cực nhọc	A
+hở	T
+Hường	Np
+?	CH
+
+Mình	P
+như	A
+một	M
+đứa	Nc
+con	N
+không	R
+gia đình	N
+lâu	A
+ngày	N
+tìm	V
+về	R
+mẹ	N
+nhưng	C
+người	Nc
+mẹ ghẻ	N
+còn	R
+bận	A
+nâng niu	V
+những	L
+đứa	Nc
+con	N
+riêng	A
+nên	C
+thờ ơ	A
+lạnh nhạt	A
+với	E
+đứa	Nc
+con	N
+chồng	N
+.	CH
+
+Muôn	L
+người	N
+đã	R
+tạo	V
+nên	V
+một	M
+người mẹ	N
+hiền	A
+vĩ đại	A
+là	V
+Đảng	Np
+,	CH
+nhưng	C
+trong	E
+muôn	L
+người mẹ	N
+ấy	P
+có	V
+một	M
+người mẹ	N
+LBKT	CH
+và	C
+chắc	A
+không	R
+phải	A
+một	M
+người	N
+đâu	T
+RBKT	CH
+y hệt	A
+một	M
+bà mẹ	N
+ghẻ	A
+trong	E
+câu chuyện	N
+cổ tích	N
+!	CH
+
+Kết nạp	V
+Đảng	Np
+.	CH
+
+Cảm giác	N
+rõ	A
+nét	N
+nhất	A
+của	E
+ngày	N
+hôm nay	N
+là	V
+:	CH
+phải	V
+phấn đấu	V
+để	E
+sống	V
+xứng đáng	A
+với	E
+cái	Nc
+tên	N
+"	CH
+một	M
+người	Nc
+cộng sản	N
+"	CH
+.	CH
+
+Còn	C
+niềm	N
+vui	A
+,	CH
+sao	P
+nhỏ	A
+quá	R
+so	V
+với	E
+ý nghĩa	N
+của	E
+ngày	N
+vui	A
+.	CH
+
+Vì sao	X
+vậy	T
+hở	T
+Thùy	Np
+?	CH
+
+Phải chăng	X
+như	C
+hôm	N
+nào	P
+Thùy	Np
+đã	R
+nói	V
+:	CH
+như	C
+một	M
+đứa	Nc
+con	N
+khát	V
+sữa	N
+mẹ	N
+khóc	V
+đã	R
+mệt	A
+rồi	T
+,	CH
+miếng	Nc
+sữa	N
+nuốt	V
+vào	R
+không	R
+còn	V
+nguyên	A
+hương vị	N
+thơm	A
+ngon	A
+và	C
+cái	Nc
+thú vị	A
+của	E
+nó	P
+nữa	R
+.	CH
+
+Trở lại	V
+Đồng Răm	Np
+.	CH
+
+Mình	P
+đã	R
+tạm biệt	V
+nơi	N
+đây	P
+ngày	N
+28	M
+-	CH
+4	M
+-	CH
+1969	M
+khi	N
+mà	C
+bệnh xá	N
+bị	V
+địch	N
+tập kích	V
+vào	R
+.	CH
+
+Hôm nay	N
+trở lại	V
+nhìn	V
+những	L
+nền	N
+nhà	N
+sụp đổ	V
+,	CH
+ngổn ngang	A
+thân	N
+cây	N
+cháy	V
+lòng	N
+mình	P
+tràn ngập	A
+xót thương	V
+.	CH
+
+Nơi	N
+đây	P
+đã	R
+ấp ủ	V
+biết bao nhiêu	R
+kỷ niệm	N
+vui	A
+buồn	A
+trong	E
+đời	N
+cách mạng	N
+của	E
+mình	P
+,	CH
+nơi	N
+đây	P
+đã	R
+kết nạp	V
+mình	P
+dưới	E
+cờ	N
+Đảng	Np
+sau	E
+bao	N
+ngày	N
+phấn đấu	V
+gian khổ	A
+.	CH
+
+Nơi	N
+đây	P
+đã	R
+rèn luyện	V
+mình	P
+từ	E
+một	M
+sinh viên	N
+mới	R
+ra	V
+trường	N
+trở thành	V
+một	M
+cán bộ	N
+lãnh đạo	N
+có	V
+nhiều	A
+thành tích	N
+trong	E
+công tác	N
+.	CH
+
+Nơi	N
+đây	P
+đã	R
+nảy sinh	V
+tình	N
+chị em	N
+cao quí	A
+thiết tha	A
+,	CH
+mối	N
+tình	N
+đã	R
+nâng	V
+mình	P
+đi	V
+vững	A
+bước	N
+qua	E
+ngàn vạn	M
+chông gai	N
+trong	E
+cuộc đời	N
+.	CH
+
+Dòng	Nc
+suối	N
+này	P
+một	M
+buổi trưa	N
+nào	P
+mình	P
+đứng	V
+chờ	V
+em	N
+,	CH
+gốc	N
+cây	N
+này	P
+mình	P
+đã	R
+ngồi	V
+cùng	E
+em	N
+sau	E
+những	L
+ngày	N
+xa cách	V
+...	CH
+
+Bao nhiêu	R
+kỷ niệm	N
+lần lượt	R
+hiện	V
+ra	R
+trong	E
+óc	N
+mình	P
+.	CH
+
+Giặc	N
+đã	R
+cướp	V
+của	E
+mình	P
+hai	M
+quyển	Nc
+nhật ký	N
+,	CH
+tuy	C
+đã	R
+mất	V
+những	L
+trang	N
+sổ	N
+vô giá	A
+đó	P
+,	CH
+nhưng	C
+còn	V
+một	M
+quyển	Nc
+sổ	N
+quí	A
+hơn	A
+cả	P
+đó	P
+là	V
+bộ óc	N
+của	E
+mình	P
+,	CH
+nó	P
+sẽ	R
+ghi	V
+lại	R
+toàn bộ	P
+những	L
+điều	N
+nó	P
+đã	R
+tiếp thu	V
+được	R
+trong	E
+cuộc sống	N
+.	CH
+
+Như vậy	C
+,	CH
+có thể	R
+chị	Nc
+Thùy Trâm	Np
+có	V
+ít	A
+nhất	A
+là	C
+ba	M
+cuốn	Nc
+nhật ký	N
+?	CH
+
+Những	L
+gì	P
+chúng ta	P
+đang	R
+đọc	V
+là	C
+nằm	V
+trong	E
+hai	M
+cuốn	N
+chị	N
+ghi chép	V
+năm	N
+1968	M
+,	CH
+1969	M
+,	CH
+1970	M
+.	CH
+
+Không	R
+thấy	V
+có	V
+năm	N
+1967	M
+,	CH
+năm	N
+đầu tiên	A
+chị	N
+vào	V
+chiến trường	N
+Quảng Ngãi	Np
+.	CH
+
+Đường	N
+đến	E
+võ đài	N
+...	CH
+LBKT	CH
+kỳ	N
+1	M
+RBKT	CH
+:	CH
+Những	L
+"	CH
+giác đấu sĩ	N
+"	CH
+!	CH
+
+Trong	E
+các	L
+môn	N
+võ thuật	N
+từ	E
+Thiếu lâm	N
+,	CH
+boxing	FW
+đến	E
+taekwondo	FW
+,	CH
+karate	FW
+,	CH
+judo	FW
+...	CH
+có lẽ	R
+không	R
+có	V
+môn	N
+võ	N
+nào	P
+sánh	V
+được	R
+với	E
+Muay Thái	Np
+về	E
+sự	Nc
+khốc liệt	A
+.	CH
+
+Thậm chí	C
+không	R
+ít	A
+người	N
+sau	E
+khi	N
+xem	V
+đấu	V
+Muay Thái	Np
+được	V
+tận mắt	A
+chứng kiến	V
+các	L
+đấu sĩ	N
+thượng đài	V
+đã	R
+thốt	V
+lên	R
+:	CH
+đó	P
+là	V
+môn	N
+thể thao	N
+dã man	A
+nhất	A
+!	CH
+
+Nhưng	C
+ở	E
+một	M
+góc độ	N
+khác	A
+,	CH
+Muay Thái	Np
+thể hiện	V
+trái tim	N
+quả cảm	A
+của	E
+các	L
+đấu sĩ	N
+,	CH
+thậm chí	C
+chấp nhận	V
+hy sinh	V
+vì	E
+danh dự	N
+và	C
+cả	P
+vì	E
+...	CH
+tiền	N
+!	CH
+
+Cuộc chiến	N
+một	M
+mất	V
+,	CH
+một	M
+còn	V
+...	CH
+
+Trưa	N
+chủ nhật	N
+một	M
+ngày	N
+đầu	N
+tháng	N
+tư	M
+,	CH
+chúng tôi	P
+chen chúc	V
+trong	E
+dòng	Nc
+người	N
+xô đẩy	V
+nhau	N
+dưới	E
+cơn	Nc
+mưa	V
+trái mùa	A
+tầm tã	A
+để	E
+vào	V
+dự khán	V
+cuộc	N
+tỉ thí	V
+giữa	E
+các	L
+võ sĩ	N
+Muay Thái	Np
+.	CH
+
+Sàn	N
+đấu	V
+Muay Thai	Np
+Stadium	N
+7	M
+tại	E
+thủ đô	N
+Bangkok	Np
+,	CH
+Thái Lan	N
+có	V
+sức	N
+chứa	V
+hơn	A
+2.000	M
+người	N
+nằm	V
+ở	E
+khu	N
+công viên	N
+Chatuchak	Np
+gần như	R
+không	R
+còn	V
+một	M
+chỗ	N
+trống	A
+.	CH
+
+Stadium	FW
+7	M
+được	V
+xem	V
+là	C
+sàn	N
+ðấu	V
+nổi tiếng	A
+thứ	N
+ba	M
+tại	E
+Bangkok	Np
+sau	E
+hai	M
+sàn	N
+Rajadamnoen	Np
+và	C
+Lumphini	Np
+.	CH
+
+Tại	E
+đây	P
+,	CH
+khán giả	N
+từng	R
+chứng kiến	V
+cuộc	Nc
+thăng hoa	V
+của	E
+võ sĩ	N
+nổi tiếng	A
+Somluck Khamsing	Np
+-	CH
+người	N
+xuất thân	V
+từ	E
+môn	N
+võ	N
+Muay Thái	Np
+trước	E
+khi	N
+chuyển	V
+sang	V
+đánh	V
+quyền anh	N
+và	C
+mang	V
+về	V
+cho	E
+thể thao	N
+Thái Lan	Np
+chiếc	Nc
+huy chương	N
+vàng	N
+đầu tiên	A
+trong	E
+một	M
+kỳ	N
+tranh	V
+tài	N
+Olympic	Np
+ở	E
+Thế vận hội	N
+Atlanta	Np
+LBKT	CH
+Mỹ	Np
+RBKT	CH
+1996	M
+.	CH
+
+Xem	V
+Muay Thái	Np
+ở	E
+Thái Lan	Np
+không	R
+rẻ	A
+chút	L
+nào	P
+.	CH
+
+Giá	N
+một	M
+chiếc	Nc
+vé	N
+hạng	N
+trung bình	A
+ngồi	V
+chót vót	A
+trên	E
+cao	A
+ở	E
+sàn	N
+Rajadamnoen	Np
+không	R
+dưới	A
+1.500	M
+baht	Nu
+LBKT	CH
+gần	A
+50	M
+USD	Nu
+RBKT	CH
+.	CH
+
+Nhưng	C
+điều	N
+đặc biệt	A
+là	V
+Stadium	N
+7	M
+không	R
+bán	V
+vé	N
+và	C
+khán giả	N
+vào	V
+xem	V
+bằng	E
+giấy	N
+mời	V
+.	CH
+
+Sàn	N
+ðấu	V
+tồn tại	V
+nhờ	V
+vào	E
+tiền	N
+bán	V
+bản quyền	N
+truyền hình	N
+phát	V
+ði	R
+trên	E
+toàn cầu	N
+,	CH
+mà	C
+tiền	N
+thu	V
+về	V
+lên	V
+ðến	T
+vài	L
+triệu	M
+baht	Nu
+.	CH
+
+Mỗi	L
+tháng	N
+bốn	M
+lần	N
+,	CH
+cứ	R
+vào	E
+các	L
+chiều	N
+chủ nhật	N
+,	CH
+Stadium	Np
+7	M
+tổ chức	V
+sáu	M
+trận	N
+ðấu	V
+với	E
+sự	Nc
+tham dự	V
+của	E
+những	L
+ðấu sĩ	N
+chuyên nghiệp	A
+ở	E
+ðủ	A
+lứa	N
+tuổi	N
+.	CH
+
+Tùy	V
+theo	E
+mức độ	N
+nổi tiếng	A
+,	CH
+nhưng	C
+khi	N
+thượng đài	V
+mỗi	L
+đấu sĩ	N
+thường	R
+nhận	V
+được	R
+trung bình	A
+khoảng	A
+12.000	M
+baht	Nu
+LBKT	CH
+300	M
+USD	Nu
+RBKT	CH
+.	CH
+
+Nếu	C
+thắng	V
+cuộc	N
+,	CH
+họ	P
+có thể	R
+nhận	V
+ðược	R
+thêm	V
+8 . 000	M
+-	CH
+12 . 000	M
+baht	Nu
+.	CH
+
+Gần	A
+một	M
+giờ	Nu
+nữa	R
+mới	R
+ðến	V
+trận	N
+khai mạc	V
+mà	C
+khán ðài	N
+ðã	R
+chật cứng	A
+ngýời	N
+với	C
+ðủ	A
+loại	N
+âm thanh	N
+tạp nham	A
+pha trộn	V
+giữa	E
+tiếng	N
+la hét	V
+của	E
+khán giả	N
+,	CH
+tiếng	N
+kèn trống	N
+,	CH
+tiếng	N
+loa	N
+phóng thanh	V
+của	E
+những	L
+nhà	N
+tổ chức	V
+...	CH
+
+Khán đài	N
+chật ních	A
+người	N
+,	CH
+nổi bật	A
+nhất	R
+là	V
+những	L
+tay	N
+cò	N
+cá cược	V
+la hét	V
+ỏm tỏi	A
+,	CH
+không	R
+khó	A
+nhận	V
+ra	R
+sự	Nc
+có mặt	V
+của	E
+"	CH
+cò	N
+"	CH
+vì	E
+trên	E
+tay	N
+họ	P
+luôn	R
+cầm	V
+một	M
+tấm	Nc
+bìa	N
+cứng	A
+dán	V
+trên	E
+ðó	P
+2	M
+-	CH
+3	M
+chiếc	Nc
+máy	N
+ðiện thoại di ðộng	N
+hoặc	C
+máy	N
+bộ ðàm	N
+.	CH
+
+Đây	P
+là	V
+các	L
+"	CH
+cò	N
+"	CH
+chuyên	A
+týờng thuật	V
+từ	E
+sàn	N
+ðấu	V
+về	E
+cho	E
+các	L
+ông	Nc
+trùm	N
+ngồi	V
+nhà	N
+qua	E
+ðiện thoại di ðộng	N
+hoặc	C
+bộ ðàm	N
+,	CH
+các	L
+"	CH
+cò	N
+"	CH
+này	P
+là	V
+những	L
+người	N
+có	V
+kiến thức	N
+cực kỳ	R
+nhạy bén	A
+về	E
+Muay Thái	Np
+,	CH
+thậm chí	R
+hơn	A
+cả	T
+các	L
+trọng tài	N
+chấm	V
+điểm	N
+trận	N
+đấu	V
+.	CH
+
+Ðôi	M
+mắt	N
+họ	P
+luôn	R
+dán	V
+chặt	A
+lên	E
+sàn	N
+theo dõi	V
+diễn biến	N
+trận	N
+ðấu	V
+,	CH
+ðồng thời	C
+miệng	N
+liên tục	A
+áp	V
+sát	A
+vào	E
+loa	N
+ðiện thoại	N
+ðể	E
+"	CH
+ðọc	V
+"	CH
+trận	N
+ðấu	V
+về	E
+cho	E
+"	CH
+ông	N
+chủ	N
+"	CH
+và	C
+các	L
+kèo	N
+ðược	V
+ra	R
+không chỉ	C
+trong	E
+phạm vi	N
+nội ðịa	N
+nýớc	N
+Thái	Np
+mà còn	C
+khắp	A
+thế giới	N
+,	CH
+các	L
+"	CH
+ông	Nc
+chủ	N
+"	CH
+sẽ	R
+ðưa	V
+ra	R
+kèo	N
+mới	A
+,	CH
+báo giá	V
+ðể	E
+các	L
+con bạc	N
+sát phạt	V
+ðỏ ðen	A
+.	CH
+
+13	M
+g	Nu
+30	M
+,	CH
+những	L
+tờ	Nc
+bướm	N
+công bố	V
+sáu	M
+cặp	N
+đấu	V
+sẽ	R
+diễn	V
+ra	R
+trong	E
+ngày	N
+được	V
+phát	V
+ra	R
+.	CH
+
+Hàng	R
+trăm	M
+cánh tay	N
+vội vã	A
+chìa	V
+ra	R
+xin	V
+tờ rơi	N
+khiến	V
+sàn	N
+đấu	V
+càng	R
+trở nên	V
+náo nhiệt	A
+hơn	R
+.	CH
+
+Trận	N
+đấu	V
+đầu tiên	A
+giữa	E
+hai	M
+võ sĩ	N
+cùng	A
+15	M
+tuổi	N
+là	C
+Kaymarn Sor Ubdul	Np
+mang	V
+biệt danh	N
+"	CH
+cọp	N
+dữ	A
+"	CH
+và	C
+Kwanjai Kieatprapat	Np
+có	V
+biệt danh	N
+"	CH
+rắn	N
+lì	V
+đòn	N
+"	CH
+đã	R
+được	V
+tung	V
+ra	R
+.	CH
+
+"	CH
+Cọp	N
+dữ	A
+"	CH
+Kaymarn Sor Ubdul	Np
+chưa	R
+hề	T
+nếm	V
+mùi	N
+thất bại	V
+sau	E
+15	M
+lần	N
+thượng đài	V
+,	CH
+đồng thời	C
+được	V
+xem	V
+là	C
+tay	N
+đấm	V
+thiếu niên	N
+xuất sắc	A
+nhất	R
+của	E
+Thái Lan	Np
+mặc	V
+quần	N
+xanh	A
+được	V
+xếp	V
+ở	E
+cửa	N
+trên	A
+.	CH
+
+"	CH
+Rắn	N
+lì	A
+đòn	N
+"	CH
+Kwanjai Kieatprapat	Np
+mặc	V
+quần	N
+đỏ	A
+bị	V
+xếp	V
+ở	E
+cửa	N
+dưới	A
+.	CH
+
+Cả	P
+sàn	N
+đấu	V
+vang	V
+rền	A
+tiếng	N
+hô	V
+"	CH
+Ubdul	Np
+...	CH
+Ubdul	Np
+...	CH
+"	CH
+.	CH
+
+Hôm nay	N
+,	CH
+các	L
+con bạc	N
+đã	R
+trút	V
+cạn	A
+hầu bao	N
+đặt	V
+vào	E
+cửa	N
+"	CH
+cọp	N
+dữ	A
+"	CH
+Ubdul	Np
+.	CH
+
+Đúng	A
+13	M
+g	Nu
+45	M
+,	CH
+tiếng	N
+nhạc	N
+truyền thống	A
+"	CH
+ò e í e	X
+...	CH
+"	CH
+tấu	V
+lên	R
+.	CH
+
+"	CH
+Cọp	N
+dữ	A
+"	CH
+và	C
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+bắt đầu	V
+thực hiện	V
+nghi thức	N
+múa	V
+truyền thống	N
+Wai-kru	Np
+,	CH
+bày tỏ	V
+sự	Nc
+tôn kính	V
+đối với	E
+thầy	N
+mình	P
+.	CH
+
+"	CH
+Wai-kru	Np
+"	CH
+cũng	R
+là	V
+cách	N
+để	E
+tạo	V
+ra	R
+sức mạnh	N
+tinh thần	N
+,	CH
+giúp	V
+đấu sĩ	N
+thư giãn	V
+,	CH
+chuẩn bị	V
+cho	E
+cơ thể	N
+và	C
+tinh thần	N
+trước	E
+khi	N
+nhập cuộc	V
+.	CH
+
+Ubdul	Np
+và	C
+Kieatprapat	Np
+chơi	V
+ngang ngửa	A
+trong	E
+hai	M
+hiệp	N
+đấu	V
+đầu tiên	A
+.	CH
+
+Nhưng	C
+bước	V
+sang	V
+hiệp	N
+thứ	N
+ba	M
+,	CH
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+Kieatprapat	Np
+đã	R
+bộc lộ	V
+sự	Nc
+đuối	A
+sức	N
+.	CH
+
+Đôi	M
+mắt	N
+sáng	A
+,	CH
+lầm lì	A
+của	E
+anh	N
+đã	R
+biến	V
+mất	T
+,	CH
+thay	V
+vào	E
+đó	P
+là	V
+nỗi	Nc
+tuyệt vọng	V
+khi	N
+liên tiếp	A
+trúng	V
+ba	M
+đòn	N
+đá	V
+bạt	V
+hiểm ác	A
+vào	E
+giữa	E
+mặt	N
+.	CH
+
+Liền	R
+sau	E
+đó	P
+hai	M
+cú	N
+dậm	V
+chỏ	V
+của	E
+"	CH
+cọp	N
+dữ	A
+"	CH
+từ	E
+trên	N
+cao	A
+khiến	V
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+ngã	V
+vật	V
+ra	R
+giữa	E
+sàn	N
+.	CH
+
+Đám	Nc
+đông	A
+hô	V
+to	A
+"	CH
+Ubdul	Np
+...	CH
+Ubdul	Np
+...	CH
+"	CH
+,	CH
+nhưng	C
+tiếng	N
+chuông	N
+báo	V
+hết	V
+hiệp	N
+kịp	A
+cứu	V
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+khỏi	V
+bị	V
+knock-out	FW
+.	CH
+
+Nhưng	C
+đó	P
+là	V
+khoảnh khắc	N
+gượng	V
+dậy	V
+cuối cùng	A
+,	CH
+tiếng	N
+kèn	N
+Wai-kru	Np
+nghe	V
+giống	A
+tiếng	N
+kèn	N
+đám ma	N
+.	CH
+
+Ngay	T
+phút	N
+đầu tiên	A
+của	E
+hiệp	N
+thứ	N
+tư	M
+,	CH
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+đã	R
+nhận	V
+bốn	M
+cú	N
+lên	V
+gối	N
+trúng	V
+ngực	N
+và	C
+mặt	N
+,	CH
+khi	N
+anh	N
+còn	R
+đang	R
+loạng choạng	A
+thì	C
+"	CH
+cọp	N
+dữ	A
+"	CH
+Ubdul	Np
+đã	R
+lao	V
+tới	V
+,	CH
+bay	V
+người	N
+lên	V
+không trung	N
+dùng	V
+hết	R
+lực	N
+cắm	V
+tiếp	R
+hai	M
+cú	Nc
+chỏ	N
+vào	E
+đỉnh	N
+đầu	N
+đối phương	N
+.	CH
+
+"	CH
+Rắn	N
+lì	A
+đòn	N
+"	CH
+Kieatprapat	Np
+đổ	V
+sụp	V
+xuống	V
+sàn	N
+đấu	V
+như	C
+một	M
+ngôi	Nc
+nhà	N
+sụp	V
+móng	N
+vỡ	V
+vụn	A
+.	CH
+
+Trọng tài	N
+ngay lập tức	R
+kéo	V
+cọp	N
+dữ	A
+Ubdul	Np
+ra	R
+và	C
+tuyên bố	V
+anh	N
+thắng	V
+knock-out	FW
+!	CH
+
+Cả	P
+khán phòng	N
+như	C
+bùng nổ	V
+,	CH
+tiếng	N
+reo hò	V
+,	CH
+tung hô	V
+,	CH
+trong	E
+khi	N
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+vẫn	R
+nằm	V
+bất tỉnh	A
+giữa	E
+sàn	N
+đấu	V
+,	CH
+chẳng	R
+ai	P
+ngó ngàng	V
+gì	R
+đến	E
+anh	N
+.	CH
+
+Chúng tôi	P
+còn	R
+chưa	R
+hoàn hồn	V
+khi	N
+thấy	V
+bộ phận	N
+y tế	N
+lên	V
+khiêng	V
+"	CH
+rắn	N
+lì	A
+đòn	N
+"	CH
+xuống	R
+thì	C
+cặp	M
+đấu sĩ	N
+18	M
+tuổi	N
+Thanasak Sithuhubol	Np
+và	C
+Sathandej Skindeoymp	Np
+xuất hiện	V
+.	CH
+
+Trận	N
+đấu	V
+này	P
+dự kiến	V
+diễn	V
+ra	R
+trong	E
+sáu	M
+hiệp	N
+,	CH
+nhưng	C
+mới	R
+được	V
+ba	M
+hiệp	N
+thì	C
+đấu sĩ	N
+quần	N
+đỏ	A
+Skindeoymp	Np
+đã	R
+trúng	V
+liền	R
+ba	M
+đòn	N
+đá	V
+giữa	E
+mặt	N
+và	C
+một	M
+đòn	N
+chỏ	N
+vào	E
+ót	N
+ngã	V
+lăn	V
+ra	R
+sàn	N
+bất tỉnh	A
+,	CH
+máu	N
+phún	V
+đầy	A
+nơi	N
+khóe	N
+miệng	N
+.	CH
+
+Khán đài	N
+lại	R
+hô	V
+vang	V
+trước	E
+sự	Nc
+gục	V
+ngã	V
+của	E
+Skindeoymp	Np
+.	CH
+
+Cố gắng	V
+lắm	R
+chúng tôi	P
+mới	R
+xem	V
+hết	T
+trận	N
+thứ	N
+ba	M
+,	CH
+cậu	N
+SV	Ny
+VN	Ny
+tên	N
+Nguyễn Hữu Hạnh	Np
+-	CH
+đang	R
+theo	V
+học	V
+khoa	N
+markerting	FW
+ở	E
+Trường	N
+Đại học	N
+ABAC	Ny
+-	CH
+đi	V
+cùng	A
+đã	R
+kéo	V
+chúng tôi	P
+khỏi	V
+đấu trường	N
+.	CH
+
+Chúng tôi	P
+rất	R
+ngạc nhiên	V
+vì	E
+Hữu Hạnh	Np
+đã	R
+ở	V
+Bangkok	Np
+hơn	A
+hai	M
+năm	N
+và	C
+ban đầu	N
+anh	N
+tỏ	V
+ra	R
+rất	R
+háo hức	A
+khi	N
+được	V
+đến	V
+đấu trường	N
+.	CH
+
+Hạnh	Np
+nói	V
+trong	E
+hơi	N
+thở	V
+gấp	A
+:	CH
+Tôi	P
+đã	R
+hiểu	V
+vì sao	X
+các	L
+bạn	N
+SV	Ny
+Thái	Np
+cùng	A
+trường	N
+khuyên	V
+không	R
+nên	V
+đi	V
+xem	V
+Muay Thái	Np
+,	CH
+ép	V
+tim	N
+quá	R
+!	CH
+
+"	CH
+Chiếc	Nc
+quan tài	N
+bên	E
+sàn	N
+đấu	V
+!	CH
+?	CH
+"	CH
+
+Muay Thái	N
+ra đời	V
+cách	V
+đây	P
+hơn	A
+700	M
+năm	N
+và	C
+được	V
+hình thành	V
+bởi	E
+những	L
+cuộc chiến	N
+chống	V
+lại	R
+những	L
+đạo quân	N
+xâm lăng	V
+,	CH
+đó	P
+là	V
+tập hợp	N
+những	L
+thế	N
+cận chiến	V
+của	E
+các	L
+chiến binh	N
+trên	E
+chiến trường	N
+.	CH
+
+Ông	Nc
+Sampong	Np
+,	CH
+một	M
+người	N
+am hiểu	V
+lịch sử	N
+Muay Thái	Np
+,	CH
+cho	V
+biết	V
+:	CH
+Muay Thái	Np
+ngày xưa	N
+dã man	A
+hơn	R
+nhiều	A
+.	CH
+
+Đấu sĩ	N
+được	V
+phép	N
+sử dụng	V
+mọi	L
+đòn	N
+thế	N
+,	CH
+kể cả	C
+việc	N
+đá	V
+vào	E
+hạ bộ	N
+đối phương	N
+và	C
+quấn	V
+băng	N
+tay	N
+nhúng	V
+keo	N
+trộn	V
+miểng	Nc
+thủy tinh	N
+để	E
+tăng	V
+tính	N
+sát thương	V
+khi	N
+ra	V
+đòn	N
+.	CH
+
+Cách	V
+đây	P
+vài	L
+chục	M
+năm	N
+,	CH
+những	L
+trận	N
+đánh	V
+Muay Thái	Np
+chuyên nghiệp	A
+thường	R
+đặt	V
+sẵn	R
+một	M
+cỗ	Nc
+quan tài	N
+cạnh	N
+đài	N
+,	CH
+hai	M
+giác đấu sĩ	N
+được	V
+đưa	V
+vào	E
+sàn	N
+đấu	V
+là	V
+chiếc	Nc
+lồng	N
+sắt	N
+,	CH
+trận	N
+đấu	V
+sẽ	R
+không	R
+có	V
+chuyện	N
+cả	P
+hai	M
+cùng	A
+bước	V
+ra	R
+khỏi	V
+lồng	N
+mà	C
+chỉ	R
+có	V
+một	M
+-	CH
+là	V
+người	N
+chiến thắng	V
+,	CH
+còn	C
+kẻ	N
+bại trận	V
+đã	R
+có	V
+sẵn	R
+cỗ	Nc
+quan tài	N
+dành	V
+cho	E
+mình	P
+!	CH
+.	CH
+
+Ngày nay	N
+Muay Thái	Np
+cấm	V
+tuyệt đối	A
+đòn	N
+dã man	A
+có thể	R
+dẫn	V
+đến	R
+thiệt mạng	V
+,	CH
+nhưng	C
+người	N
+xem	V
+vẫn	R
+ớn	V
+lạnh	A
+khi	N
+chứng kiến	V
+những	L
+cú	Nc
+đá	V
+ra	V
+đòn	N
+quyết định	V
+,	CH
+nhất là	C
+cú	Nc
+cắm	V
+hai	M
+cùi chỏ	N
+vào	E
+đỉnh	N
+đầu	N
+đối phương	N
+.	CH
+
+Ông	Nc
+Sampong	Np
+cho	V
+biết	V
+:	CH
+vì	E
+tính chất	N
+đối kháng	V
+tự do	A
+cho phép	V
+các	L
+võ sĩ	N
+sử dụng	V
+nhiều	A
+bộ phận	N
+trên	E
+cơ thể	N
+ra	V
+đòn	N
+đánh	V
+đã	R
+khiến	V
+không	R
+ít	A
+người	N
+liệt	V
+Muay Thái	Np
+vào	E
+môn	N
+võ	V
+dã man	A
+.	CH
+
+Nhưng	C
+với	E
+ông	N
+thì	C
+:	CH
+"	CH
+Tôi	P
+đã	R
+nhiều	A
+năm	N
+gắn bó	V
+với	E
+Muay Thái	Np
+và	C
+từng	R
+chứng kiến	V
+nhiều	A
+đấu sĩ	N
+bị thương	V
+nặng	A
+trên	E
+sàn	N
+đấu	V
+,	CH
+nhưng	C
+chưa	R
+thấy	V
+ai	P
+chết	V
+cả	T
+.	CH
+
+Trong	E
+một	M
+trận	N
+đấu	V
+Muay Thái	Np
+rất	R
+khó	A
+có	V
+ðối thủ	N
+thiệt mạng	V
+khi	N
+hai	M
+ðấu sĩ	N
+có	V
+cùng	A
+cân	N
+nặng	N
+,	CH
+chiều	N
+cao	N
+và	C
+kỹ nãng	N
+giao chiến	V
+,	CH
+họ	P
+che chắn	V
+rất	R
+kỹ	A
+những	L
+chỗ	N
+hiểm	A
+...	CH
+
+Nhưng	C
+khi	N
+chúng tôi	P
+cho	V
+biết	V
+đã	R
+được	V
+nghe	V
+những	L
+câu chuyện	N
+thiệt mạng	V
+ở	E
+những	L
+sàn	N
+đấu	V
+cá cược	V
+bất hợp pháp	A
+tại	E
+những	L
+khu	N
+xóm	N
+lao động	V
+ở	E
+ngoại ô	N
+Bangkok	Np
+,	CH
+thì	C
+Sampong	Np
+gật gù	V
+:	CH
+Do	E
+hai	M
+võ sĩ	N
+ðã	R
+chênh	V
+nhau	N
+ðẳng cấp	N
+,	CH
+ðiều	N
+ðó	P
+rất	R
+nguy hiểm	A
+.	CH
+
+luật	N
+Muay Thái	Np
+nghiêm cấm	V
+sự	Nc
+chênh lệch	A
+này	P
+.	CH
+
+Nhưng	C
+với	E
+ông	Nc
+Amnuay Kesbumrung	Np
+-	CH
+thành viên	N
+Hội đồng	N
+Muay Thái	Np
+thế giới	N
+mà	C
+chúng tôi	P
+tiếp xúc	V
+tại	E
+MuayThai Institute	Np
+,	CH
+nơi	N
+được	V
+xem	V
+là	C
+học viện	N
+Muay Thái	Np
+lớn	A
+nhất	R
+thế giới	N
+,	CH
+gần	A
+sân bay	N
+Don Muong	Np
+mà	C
+ông	N
+làm chủ	V
+-	CH
+thì	C
+:	CH
+"	CH
+Tôi	P
+đã	R
+chứng kiến	V
+bốn	M
+trường hợp	N
+võ sĩ	N
+thiệt mạng	V
+,	CH
+nhưng	C
+họ	P
+không	R
+chết	V
+ngay	R
+trên	E
+sàn	N
+đấu	V
+mà	C
+chết	V
+tại	E
+bệnh viện	N
+vì	E
+bị	V
+chấn thương	V
+sọ	N
+não	N
+hoặc	C
+tim	N
+"	CH
+.	CH
+
+Dù	C
+bị	V
+xem	V
+là	C
+môn	N
+võ	V
+dã man	A
+nhưng	C
+chỉ	R
+riêng	T
+tại	E
+Bangkok	Np
+đã	R
+có	V
+đến	T
+hàng	R
+ngàn	M
+trung tâm	N
+huấn luyện	V
+,	CH
+lò	N
+luyện	V
+Muay Thái	Np
+mà	C
+thanh thiếu niên	N
+Thái Lan	Np
+theo	V
+học	V
+rất	R
+đông	A
+.	CH
+
+Theo	E
+ông	Nc
+Amnuay Kesbumrung	Np
+,	CH
+ủy viên	N
+Hội ðồng	N
+Muay Thái	Np
+thế giới	N
+,	CH
+toàn	P
+nýớc	N
+Thái	Np
+có	V
+ðến	T
+hõn	A
+10.000	M
+trung tâm	N
+,	CH
+lò	N
+,	CH
+trại	N
+huấn luyện	V
+dạy	V
+Muay Thái	Np
+với	E
+cả	T
+triệu	M
+võ sinh	N
+tham gia	V
+.	CH
+
+Chúng tôi	P
+thắc mắc	V
+khi	N
+tiếp xúc	V
+với	E
+nhiều	A
+công chức	N
+,	CH
+trí thức	N
+hay	C
+sinh viên	N
+các	L
+trýờng	N
+ðại học	N
+ở	E
+Bangkok	Np
+,	CH
+ða số	L
+họ	P
+ðều	R
+tỏ vẻ	V
+sợ	V
+môn	N
+võ	V
+này	P
+,	CH
+thậm chí	C
+không	R
+ði	V
+xem	V
+thi ðấu	V
+,	CH
+sao	P
+chỉ	R
+thấy	V
+thanh thiếu niên	N
+nghèo	A
+,	CH
+ở	E
+nông thôn	N
+chọn	V
+học	V
+Muay Thái	Np
+,	CH
+cả	P
+ông	Nc
+Sampong	Np
+lẫn	C
+ông	Nc
+Amnuay	Np
+ðã	R
+không	R
+chút	N
+ðắn ðo	V
+,	CH
+nhún vai	V
+nói	V
+:	CH
+"	CH
+Ðó	P
+là	V
+con	Nc
+ðường	N
+mà	C
+thanh niên	N
+nông thôn	N
+chọn lựa	V
+ðể	E
+thoát	V
+nghèo	A
+và	C
+mýu sinh	V
+tại	E
+những	L
+ðô thị	N
+lớn	A
+...	CH
+
+Quả đấm	N
+và	C
+những	L
+giấc	N
+mơ	V
+đổi đời	V
+...	CH
+
+Phiên	N
+chợ	N
+chó	N
+.	CH
+
+Có	V
+bốn	M
+đại lý	N
+tiêu thụ	V
+chó	N
+,	CH
+hình thành	V
+một	M
+chợ	N
+chó	N
+nằm	V
+trên	E
+quốc lộ	N
+1A	Np
+thuộc	V
+xã	N
+Điện Phương	Np
+,	CH
+huyện	N
+Điện Bàn	Np
+,	CH
+tỉnh	N
+Quảng Nam	Np
+.	CH
+
+Mỗi	M
+ngày	N
+thu gom	V
+hơn	A
+nửa	M
+tạ	Nu
+chó	N
+để	E
+"	CH
+đánh	V
+"	CH
+ra	E
+Bắc	Np
+.	CH
+
+Phiên	N
+chợ	N
+bắt đầu	V
+từ	E
+12	M
+g	Nu
+-	CH
+18	M
+g	Nu
+trong	E
+ngày	N
+,	CH
+thời điểm	N
+sôi động	V
+nhất	A
+vào	V
+khoảng	N
+16	M
+g	Nu
+-	CH
+17	M
+g	Nu
+,	CH
+bởi	E
+đây	P
+là	V
+lúc	N
+các	L
+lái buôn	N
+tập trung	V
+về	E
+chợ	N
+sau	E
+một	M
+ngày	N
+đi	V
+thu mua	V
+chó	N
+.	CH
+
+Hành trình	N
+"	CH
+đổi	V
+chó	N
+"	CH
+.	CH
+
+Theo	E
+ông	Nc
+Phạm Yên	Np
+,	CH
+người	N
+có	V
+thâm niên	N
+trên	A
+20	M
+năm	N
+đi	V
+đổi	V
+chó	N
+ở	E
+xã	N
+Điện Minh	Np
+,	CH
+người ta	P
+không	R
+gọi	V
+là	C
+đi	V
+"	CH
+mua	V
+chó	N
+"	CH
+mà	C
+gọi	V
+"	CH
+đổi	V
+chó	N
+"	CH
+mặc dù	C
+là	C
+bán	V
+lấy	V
+tiền	N
+bởi	E
+lẽ	N
+người ta	P
+nuôi	V
+chó	N
+là	C
+để	E
+giữ	V
+nhà	N
+,	CH
+không	R
+dùng	V
+từ	N
+mua	V
+-	CH
+bán	V
+.	CH
+
+Đúng	A
+6	M
+g	Nu
+30	M
+,	CH
+ông	Nc
+Yên	Np
+hô	V
+lớn	A
+:	CH
+"	CH
+Lên đường	V
+anh em	N
+!	CH
+"	CH
+,	CH
+lần lượt	R
+những	L
+đôi	M
+bàn tay	N
+rắn chắc	A
+cầm	V
+lấy	R
+tay lái	N
+Honda	Np
+tỏa	V
+về	E
+khắp	A
+các	L
+ngả	N
+đường	N
+,	CH
+bắt đầu	V
+cuộc	Nc
+hành trình	N
+một	M
+ngày	N
+đi	V
+đổi	V
+chó	N
+.	CH
+
+Từ	E
+những	L
+khu	N
+thị trấn	N
+sầm uất	A
+đến	E
+những	L
+vùng	N
+nông thôn	N
+hẻo lánh	A
+đều	R
+có	V
+dấu	N
+chân	N
+của	E
+người	N
+đổi	V
+chó	N
+.	CH
+
+Anh	Nc
+Trần Văn Lang	Np
+,	CH
+ở	E
+xã	N
+Điện Phương	Np
+,	CH
+nói	V
+với	E
+đồng nghiệp	N
+:	CH
+"	CH
+Tôi	P
+đi	V
+hướng	N
+thị xã	N
+Hội An	Np
+nhé	T
+!	CH
+"	CH
+.	CH
+
+Anh em	N
+Bùi A	Np
+,	CH
+Bùi B	Np
+LBKT	CH
+ở	E
+xã	N
+Duy Phước	Np
+,	CH
+huyện	N
+Duy Xuyên	Np
+RBKT	CH
+cho	V
+biết	V
+hôm nay	P
+hai	M
+anh em	N
+đi	V
+hướng	N
+huyện	N
+Thăng Bình	Np
+và	C
+hàng	R
+chục	M
+người	N
+đi	V
+đổi	V
+chó	N
+cũng	R
+thông báo	V
+địa điểm	N
+hướng	N
+đi	V
+để	E
+khỏi	V
+chạm trán	V
+trong	E
+ngày	N
+.	CH
+
+Anh em	N
+Bùi A	Np
+,	CH
+Bùi B	Np
+đi	V
+dọc	A
+quốc lộ	N
+1A	Np
+vào	E
+hướng	N
+Thăng Bình	Np
+,	CH
+đến	E
+thị trấn	N
+Nam Phước	Np
+LBKT	CH
+Duy Xuyên	Np
+RBKT	CH
+,	CH
+có	V
+tiếng	N
+gọi	V
+lớn	A
+từ	E
+trong	E
+ngôi	Nc
+nhà	N
+bên	N
+đường	N
+:	CH
+"	CH
+Đổi	V
+chó	N
+,	CH
+đổi	V
+chó	N
+"	CH
+.	CH
+
+Chiếc	Nc
+xe	N
+chưa	R
+kịp	A
+dừng	V
+hẳn	A
+,	CH
+một	M
+bé	N
+trai	N
+chạy	V
+ra	R
+,	CH
+cất	V
+giọng	N
+:	CH
+"	CH
+Vào	V
+nhà	N
+ba	N
+cháu	N
+đổi	V
+con	Nc
+Vàng	Np
+"	CH
+.	CH
+
+Sau	E
+khi	N
+thỏa thuận	V
+giá cả	N
+10.000	M
+đồng	Nu
+/	CH
+kg	Nu
+,	CH
+công việc	N
+còn	V
+lại	R
+của	E
+anh em	N
+Bùi A	Np
+là	V
+bắt	V
+chó	N
+vào	E
+rọ	N
+.	CH
+
+Bữa	N
+ăn	V
+"	CH
+sang trọng	A
+"	CH
+cuối cùng	A
+mà	C
+ông	Nc
+chủ	N
+Phạm Tuấn	Np
+dành	V
+cho	E
+chú	Nc
+Vàng	Np
+yêu quí	V
+gồm	V
+:	CH
+cơm	N
+,	CH
+cá	N
+,	CH
+thịt	N
+heo	N
+...	CH
+để	E
+tiễn	V
+"	CH
+người	Nc
+bạn	N
+tri âm	N
+"	CH
+10	M
+năm	N
+chung	V
+sống	V
+.	CH
+
+Bữa	N
+ăn	V
+chưa	R
+kết thúc	V
+,	CH
+chiếc	Nc
+kẹp	N
+sắt	N
+dài	A
+1	M
+m	Nu
+từ	E
+bàn tay	N
+của	E
+Bùi A	Np
+nhanh	A
+như	C
+chớp	N
+thò	V
+ra	R
+kẹp	V
+cổ	N
+chú	Nc
+Vàng	Np
+bỏ	V
+vào	E
+rọ	N
+sắt	N
+,	CH
+kết thúc	V
+một	M
+thương vụ	N
+.	CH
+
+Bé	N
+trai	N
+vẫn	R
+ngây thơ	A
+vẫy	V
+tay	N
+chào	V
+chú	Nc
+Vàng	Np
+,	CH
+rồi	C
+nhìn	V
+ông	Nc
+Tuấn	Np
+,	CH
+nói	V
+:	CH
+"	CH
+Con	Nc
+Vàng	Np
+mình	P
+về	V
+nhà	N
+mới	A
+sướng	A
+hơn	A
+nhà	N
+mình	N
+phải	A
+không	R
+ba	N
+?	CH
+"	CH
+.	CH
+
+Ông	Nc
+Tuấn	Np
+không	R
+nói	N
+gì	P
+,	CH
+cả	P
+nhà	N
+nhìn	V
+theo	E
+chú	Nc
+Vàng	Np
+và	C
+chiếc	Nc
+xe	N
+Bùi A	Np
+khuất	V
+dần	R
+...	CH
+
+Anh	Nc
+Bùi B	Np
+cho	V
+biết	V
+trong	E
+nhiều	A
+năm	N
+đi	V
+đổi	V
+chó	N
+,	CH
+không	R
+ít	A
+lần	N
+chó	N
+bắt	V
+vào	E
+rọ	N
+phải	V
+thả	V
+ra	R
+vì	E
+những	L
+đứa	Nc
+con	N
+của	E
+chủ	N
+nhà	N
+về	V
+khóc lóc	V
+không	R
+cho	V
+bán	V
+.	CH
+
+Phiên	N
+chợ	N
+chỉ	R
+4	M
+người	N
+mua	V
+.	CH
+
+Phiên	N
+chợ	N
+bắt đầu từ	V
+12	M
+g	Nu
+-	CH
+18	M
+g	Nu
+trong	E
+ngày	N
+,	CH
+thời điểm	N
+sôi động	V
+nhất	R
+vào khoảng	X
+16	M
+g	Nu
+-	CH
+17	M
+g	Nu
+,	CH
+bởi	E
+đây	P
+là	V
+lúc	N
+các	L
+lái buôn	N
+tập trung	V
+về	E
+chợ	N
+sau	E
+một	M
+ngày	N
+đi	V
+thu mua	V
+chó	N
+.	CH
+
+Trong	E
+số	N
+bốn	M
+người	N
+mua	V
+chó	N
+,	CH
+ba	M
+người	N
+là	V
+dân	N
+địa phương	N
+được	V
+các	L
+"	CH
+đại gia	N
+"	CH
+buôn	V
+chó	N
+quê	N
+ở	E
+Thanh Hóa	N
+ủy thác	V
+đứng	V
+điểm	N
+,	CH
+chỉ	R
+duy nhất	A
+đại lý	N
+của	E
+ông	Nc
+chủ	N
+Nguyễn Đình Mạnh	Np
+LBKT	CH
+người	Nc
+Thanh Hóa	Np
+RBKT	CH
+đích thân	P
+cử	V
+ông	Nc
+Thành	Np
+từ	E
+Thanh Hóa	Np
+vào	V
+đứng	V
+điểm	N
+gom	V
+chó	N
+.	CH
+
+Giá	N
+chó	N
+lên	V
+hay	C
+xuống	V
+là	V
+do	E
+sự	Nc
+thống nhất	V
+của	E
+bốn	M
+người	N
+mua	V
+tại	E
+đây	P
+.	CH
+
+12	M
+g	Nu
+15	M
+,	CH
+một	M
+tay	N
+lái buôn	N
+chở	V
+phía	N
+sau	A
+hai	M
+con	Nc
+chó	N
+vào	V
+đại lý	N
+của	E
+ông	Nc
+Thành	Np
+:	CH
+"	CH
+Chó	N
+hôm nay	P
+đẹp	A
+lắm	R
+"	CH
+.	CH
+
+Hai	M
+chú	Nc
+chó	N
+ở	E
+độ	N
+tuổi	N
+"	CH
+U17	Ny
+"	CH
+,	CH
+tức là	C
+chó	N
+tơ	A
+.	CH
+
+Ông	Nc
+Thành	Np
+nói	V
+:	CH
+"	CH
+Chó	N
+này	P
+mua	V
+tăng	V
+cho	E
+anh	N
+một	M
+đồng	Nu
+"	CH
+,	CH
+tức là	C
+13.500	M
+đồng	Nu
+/	CH
+kg	Nu
+thay vì	X
+12.500	M
+đồng	Nu
+/	CH
+kg	Nu
+.	CH
+
+Bên	N
+kia	P
+quốc lộ	N
+1A	Np
+,	CH
+tại	E
+ba	M
+địa điểm	N
+mua	V
+chó	N
+của	E
+ông	Nc
+Chính	Np
+,	CH
+ông	Nc
+Hạt	Np
+,	CH
+ông	Nc
+Quốc	Np
+,	CH
+người	N
+bán	V
+chó	N
+đến	V
+càng	R
+đông	A
+,	CH
+những	L
+tay	N
+lái buôn	N
+và	C
+cả	P
+người	Nc
+dân	N
+tấp nập	A
+đổ	V
+về	R
+.	CH
+
+Một	M
+người	Nc
+đàn ông	N
+chở	V
+năm	M
+chú	Nc
+chó	N
+đáp	V
+vào	E
+điểm	N
+mua	V
+của	E
+ông	Nc
+Chính	Np
+.	CH
+
+Đó	P
+là	V
+ông	Nc
+Nguyễn Minh Phụng	Np
+,	CH
+ở	E
+huyện	N
+miền	N
+núi	N
+Tiên Phước	Np
+LBKT	CH
+Quảng Nam	Np
+RBKT	CH
+.	CH
+
+Ông	Nc
+Phụng	Np
+làm	V
+nghề	N
+đổi	V
+chó	N
+gần	A
+20	M
+năm	N
+nay	P
+,	CH
+hằng	R
+ngày	N
+ông	N
+mua	V
+chó	N
+về	V
+nhốt	V
+trong	E
+kho	N
+,	CH
+khi	N
+đủ	A
+năm	M
+con	N
+đem	V
+bán	V
+một	M
+lần	N
+.	CH
+
+Ông	Nc
+Phụng	Np
+nói	V
+cách	V
+đây	P
+hai	M
+năm	N
+,	CH
+khi	N
+chó	N
+còn	R
+xuất khẩu	V
+sang	E
+Trung Quốc	Np
+,	CH
+nghề	N
+đổi	V
+chó	N
+hái	V
+ra	R
+tiền	N
+,	CH
+bình quân	N
+lời	V
+2	M
+-	CH
+2,5 triệu	M
+đồng	Nu
+/	CH
+tháng	N
+,	CH
+nhưng	C
+bây giờ	P
+chó	N
+không	R
+xuất khẩu	V
+được	R
+,	CH
+chỉ	R
+tiêu thụ	V
+ở	E
+nội địa	N
+,	CH
+nhưng	C
+thu nhập	N
+cũng	R
+trên	A
+1 triệu	M
+đồng	Nu
+/	CH
+tháng	N
+.	CH
+
+Một	M
+đứa	Nc
+trẻ	N
+dắt	V
+ông	Nc
+lão	N
+khoảng	A
+80	M
+tuổi	N
+mang	V
+con	Nc
+chó	N
+đến	V
+bán	V
+.	CH
+
+Con	Nc
+chó	N
+này	P
+gắn bó	V
+với	E
+cụ	N
+tám	M
+năm	N
+nay	P
+,	CH
+nhưng	C
+thiếu	V
+tiền	N
+mua	V
+thuốc	N
+cho	E
+cụ	Nc
+bà	N
+,	CH
+ông	N
+đành	V
+bán	V
+.	CH
+
+Sau	E
+một	M
+hồi	N
+thương lượng	V
+,	CH
+con	Nc
+chó	N
+được	V
+mua	V
+với	E
+giá	N
+100.000	M
+đồng	Nu
+trong	E
+sự	Nc
+nuối tiếc	V
+của	E
+cả	P
+hai	M
+ông	N
+cháu	N
+.	CH
+
+Những	L
+tay	N
+lái	N
+chó	N
+thường	R
+"	CH
+trung thành	V
+"	CH
+với	E
+mối	N
+ruột	N
+.	CH
+
+Những	L
+bạn hàng	N
+quen thuộc	A
+còn	R
+được	V
+tặng	V
+quà	N
+trong	E
+những	L
+ngày	N
+lễ	N
+tết	N
+.	CH
+
+Tổng kết	V
+sau	E
+một	M
+phiên	N
+chợ	N
+,	CH
+ông	Nc
+Quốc	Np
+mua	V
+được	R
+30	M
+con	N
+;	CH
+ông	Nc
+Chính	Np
+20	M
+con	N
+;	CH
+ông	Nc
+Thành	Np
+15	M
+con	N
+và	C
+ông	Nc
+Hạt	Np
+17	M
+con	N
+.	CH
+
+17	M
+g	Ny
+ngày	N
+hôm	N
+sau	A
+,	CH
+một	M
+chiếc	Nc
+xe tải	N
+đậu	V
+trước	E
+điểm	N
+nhà	N
+ông	Nc
+Thành	Np
+để	E
+đưa	V
+chó	N
+về	E
+phương	N
+Bắc	Np
+bán	V
+cho	E
+các	L
+nhà hàng	N
+.	CH
+
+Ông	Nc
+Dũng	Np
+,	CH
+tài xế	N
+,	CH
+cho	V
+biết	V
+đợt	N
+này	P
+có	V
+khoảng	A
+120	M
+con	N
+được	V
+chuyển	V
+ra	E
+Hà Nội	Np
+để	E
+bán	V
+cho	E
+các	L
+nhà hàng	N
+thịt	N
+chó	N
+.	CH
+
+Từ	E
+trong	E
+kho	N
+chứa	V
+,	CH
+lần lượt	R
+10	M
+con	N
+vào	V
+một	M
+rọ	N
+.	CH
+
+Không	R
+đủ	A
+chuyến	N
+ra	E
+Hà Nội	Np
+,	CH
+ông	Nc
+Thành	Np
+liên hệ	V
+với	E
+ba	M
+đại lý	N
+Hạt	Np
+,	CH
+Quốc	Np
+và	C
+Chính	Np
+thêm	V
+được	R
+hơn	A
+400	M
+con	N
+.	CH
+
+Vài	L
+ngày	N
+hơn	A
+nửa	L
+tấn	Nu
+chó	N
+được	V
+đưa	V
+ra	E
+Thanh Hóa	Np
+,	CH
+Hà Nội	Np
+,	CH
+theo	E
+cái	Nc
+đà	N
+này	P
+không chừng	X
+Quảng Nam	Np
+sẽ	R
+không	R
+còn	V
+chó	N
+.	CH
+
+Thời gian	N
+gần	A
+đây	P
+tại	E
+Quảng Nam	Np
+thường xuyên	A
+xảy	V
+ra	R
+nạn	N
+trộm	V
+chó	N
+.	CH
+
+Bọn	Nc
+"	CH
+cẩu	N
+tặc	N
+"	CH
+thường	R
+dùng	V
+điện	N
+,	CH
+đánh	V
+bả	N
+để	E
+bắt	V
+chó	N
+trộm	V
+đem	V
+bán	V
+cho	E
+thương lái	N
+.	CH
+
+Mặc dù	C
+công an	N
+các	L
+địa phương	N
+đã	R
+bắt giữ	V
+và	C
+xử lý	V
+rất	R
+nhiều	A
+trường hợp	N
+nhưng	C
+tình hình	N
+vẫn	R
+không	R
+giảm	V
+.	CH
+
+Giá	N
+chó	N
+càng	R
+tăng	V
+,	CH
+càng	R
+nhiều	A
+kẻ	N
+đi	V
+bắt	V
+trộm	V
+chó	N
+để	E
+bán	V
+,	CH
+không	R
+loại trừ	V
+cả	P
+chó	N
+điên	A
+cũng	R
+được	V
+xẻ	V
+thịt	N
+...	CH
+
+Không	R
+màu	N
+,	CH
+không	R
+mùi	N
+,	CH
+không	R
+vị	N
+,	CH
+cũng	R
+không	R
+thấy	V
+hay	C
+sờ	V
+được	R
+...	CH
+vậy mà	C
+lại	R
+bán	V
+được	R
+.	CH
+
+Một	M
+công ty	N
+lạ đời	A
+chuyên	A
+bán	V
+...	CH
+không khí	N
+cho	E
+những	L
+ai	P
+yêu	V
+thích	V
+sự	Nc
+trong lành	A
+.	CH
+
+Và	C
+người	Nc
+dân	N
+thì	C
+không	R
+phải	V
+đợi	V
+đến	E
+khi	N
+vào	V
+bệnh viện	N
+mới	R
+được	V
+thở	V
+oxy	N
+sạch	A
+,	CH
+tinh khiết	A
+mà	C
+có thể	R
+mua	V
+về	R
+cho	E
+cả	P
+nhà	N
+cùng	A
+thở	V
+.	CH
+
+Một	M
+loại hình	N
+tuy	C
+không	R
+mới	A
+ở	E
+nước ngoài	N
+nhưng	C
+lại	R
+đang	R
+"	CH
+hot	A
+"	CH
+ở	E
+VN	Ny
+.	CH
+
+"	CH
+Oxy shop	FW
+"	CH
+đầu tiên	A
+tại	E
+VN	Ny
+.	CH
+
+Đi	V
+nghỉ	V
+trưa	N
+sẵn	A
+tiện	A
+thở	V
+tí	L
+oxy	FW
+sạch	A
+cho	E
+khỏe	A
+không	R
+?	CH
+
+Oxy shop	FW
+đầu tiên	A
+ở	E
+TP	Ny
+đó	T
+nha	T
+"	CH
+-	CH
+nhỏ	N
+bạn	N
+thân	A
+vỗ	V
+vai	N
+sau	E
+khi	N
+"	CH
+căng	A
+da	N
+bụng	N
+"	CH
+vì	E
+chầu	N
+cơm	N
+trưa	N
+văn phòng	N
+.	CH
+
+Ngồi	V
+bên	N
+tôi	P
+là	V
+một số	L
+sĩ quan	N
+của	E
+Đặc khu	N
+Xây Xẩm Bun	Np
+.	CH
+
+Chọn	V
+hai	M
+ghế	N
+salon	FW
+cạnh	N
+nhau	N
+,	CH
+chị	Nc
+nhân viên	N
+bước	V
+đến	R
+niềm nở	A
+tư vấn	V
+rồi	C
+hướng dẫn	V
+chúng tôi	P
+đặt	V
+ống	N
+thở	V
+vào	E
+mũi	N
+.	CH
+
+Chị	N
+nhẹ nhàng	A
+mở	V
+van	N
+của	E
+cái	Nc
+bình	N
+màu	N
+xanh	A
+ngay	T
+sau	E
+lưng	N
+,	CH
+cái	Nc
+đồng hồ	N
+đo	V
+chỉ	V
+mức	N
+5	M
+:	CH
+"	CH
+vậy	P
+vừa	A
+chưa	R
+em	N
+,	CH
+có	V
+người	N
+thích	V
+mạnh	A
+có	V
+người	N
+lại	R
+thích	V
+nhẹ	A
+.	CH
+
+Chị	N
+để	V
+mức	N
+trung bình	A
+cho	E
+em	N
+làm quen	V
+nha	I
+"	CH
+.	CH
+
+Một	M
+làn	Nc
+khí	N
+mát	A
+lạnh	A
+theo	V
+hai	M
+lỗ	N
+nhỏ	A
+dẫn	V
+vào	E
+mũi	N
+,	CH
+xuống	V
+tận	E
+phổi	N
+.	CH
+
+"	CH
+Trên	E
+thế giới	N
+"	CH
+dịch vụ	N
+này	P
+có	V
+từ	E
+rất	R
+lâu	A
+rồi	R
+.	CH
+
+Ở	E
+Trung Quốc	Np
+,	CH
+Nhật Bản	Np
+,	CH
+Thái Lan	Np
+,	CH
+ngay	T
+cả	P
+Singapore	Np
+nổi tiếng	A
+là	C
+TP	Ny
+trong sạch	A
+nhất	A
+thế giới	N
+...	CH
+cũng	R
+sớm	A
+có	V
+dịch vụ	N
+này	P
+.	CH
+
+Người ta	P
+làm	V
+ở	E
+nhiều	A
+nơi	N
+như	C
+nhà ga	N
+,	CH
+sân bay	N
+,	CH
+trong	E
+siêu thị	N
+,	CH
+quán	N
+bar	FW
+,	CH
+ở	E
+dọc	A
+đường	N
+hay	C
+trên	E
+núi	N
+có	V
+vô số	L
+những	L
+"	CH
+oxy shop	FW
+"	CH
+phục vụ	V
+người dân	N
+.	CH
+
+Còn	C
+ở	E
+VN	Np
+đây	P
+đúng	A
+là	V
+"	CH
+oxy shop	FW
+"	CH
+đầu tiên	A
+-	CH
+anh	Nc
+Huỳnh Ngọc Minh	Np
+,	CH
+phó	Z
+chủ tịch	N
+Liên đoàn	N
+Cử tạ	N
+thể hình	N
+TP	Ny
+.	CH
+HCM	Np
+,	CH
+dí dỏm	A
+nhận định	V
+.	CH
+
+Theo	E
+bác sĩ	N
+Trương Thìn	Np
+-	CH
+nguyên	Z
+giám đốc	N
+Viện	N
+Y học	N
+dân tộc	N
+TP	N
+.	CH
+HCM	Np
+-	CH
+oxy	N
+tinh khiết	A
+rất	R
+tốt	A
+cho	E
+sức khỏe	N
+,	CH
+nhất là	X
+cho	E
+người già	N
+và	C
+những	L
+người	N
+thường xuyên	A
+tiếp xúc	V
+với	E
+khói	N
+bụi	N
+,	CH
+không khí	N
+ô nhiễm	V
+.	CH
+
+nhưng	C
+lạm dụng	V
+sẽ	R
+không	R
+tốt	A
+,	CH
+chức năng	N
+lọc	V
+khí	N
+của	E
+phổi	N
+sẽ	R
+"	CH
+lười biếng	A
+"	CH
+hoạt động	V
+,	CH
+dẫn	V
+đến	R
+tình trạng	N
+ức chế	V
+thần kinh	N
+hô hấp	N
+.	CH
+
+Do đó	C
+tùy	V
+thể trạng	N
+từng	P
+người	N
+,	CH
+tùy	V
+hoàn cảnh	N
+mà	C
+sử dụng	V
+oxy	N
+tinh khiết	A
+hợp lý	A
+,	CH
+người	N
+bình thường	A
+chỉ	R
+thở	V
+từ	E
+10	M
+phút	Nu
+;	CH
+thường xuyên	A
+tiếp xúc	V
+khói	N
+bụi	N
+,	CH
+ô nhiễm	V
+thở	V
+20	M
+phút	Nu
+là	V
+được	A
+;	CH
+tuyệt đối	A
+không	R
+sử dụng	V
+24	M
+/	CH
+24	M
+g	Nu
+.	CH
+
+Tốt	A
+nhất	A
+nên	V
+đến	V
+bác sĩ	N
+để	E
+được	V
+tư vấn	V
+,	CH
+hướng dẫn	V
+.	CH
+
+Anh	N
+là	V
+người	N
+"	CH
+phát pháo	V
+"	CH
+ra	R
+loại	Nc
+dịch vụ	N
+lạ đời	A
+này	P
+từ	E
+3	M
+-	CH
+4	M
+năm	N
+trước	A
+,	CH
+sau	E
+những	L
+chuyến	N
+công tác	V
+nước ngoài	N
+và	C
+"	CH
+thấy	V
+rất	R
+cần	V
+ở	E
+VN	Ny
+"	CH
+.	CH
+
+Ý tưởng	N
+không	R
+thành	V
+vì	E
+khi	N
+đó	P
+bình	N
+oxy	N
+chỉ	R
+dành	V
+cho	E
+...	CH
+người	N
+bệnh	V
+nặng	A
+trong	E
+bệnh viện	N
+.	CH
+
+Ngay	T
+khi	N
+có	V
+thông tin	N
+về	E
+Công ty	N
+Lá Xanh	Np
+sẽ	R
+bán	V
+oxy	N
+tinh khiết	A
+ra	E
+ngoài	N
+,	CH
+anh	N
+đã	R
+liên hệ	V
+và	C
+thành lập	V
+"	CH
+oxy shop	FW
+"	CH
+đầu tiên	A
+của	E
+TP	Ny
+này	P
+.	CH
+
+Hiện	N
+"	CH
+oxy shop	FW
+"	CH
+ở	E
+Trung tâm	Np
+TDTT	Ny
+Phú Thọ	Np
+chỉ	R
+có	V
+hai	M
+phòng	N
+LBKT	CH
+một	M
+phòng	N
+dành	V
+riêng	A
+cho	E
+nữ	N
+RBKT	CH
+với	E
+khoảng	N
+20	M
+ghế	N
+.	CH
+
+Một	M
+suất	N
+thở	V
+LBKT	CH
+20	M
+-	CH
+30	M
+phút	Nu
+RBKT	CH
+,	CH
+kèm	V
+ly	N
+nước	N
+trái cây	N
+mát lạnh	A
+có	V
+giá	N
+20 . 000	M
+đồng	Nu
+LBKT	CH
+nếu	C
+khách	N
+đã	R
+có	V
+dây	N
+thở	V
+được	V
+giảm	V
+5 . 000	M
+đồng	Nu
+RBKT	CH
+.	CH
+
+Oxy	FW
+99 , 9%	M
+.	CH
+
+Non	A
+sáu	M
+tháng	N
+trở lại	V
+đây	P
+,	CH
+ở	E
+TP	Ny
+.	CH
+HCM	Np
+và	C
+Hà Nội	N
+mới	R
+rầm rộ	A
+phong trào	N
+mua	V
+oxy	N
+sạch	A
+về	E
+nhà	N
+thở	V
+.	CH
+
+Tại	E
+TP	Ny
+.	CH
+HCM	Np
+hiện	N
+có	V
+khoảng	N
+20	M
+công ty	N
+sản xuất	V
+oxy	FW
+nhưng	C
+đa số	N
+lại	R
+phục vụ	V
+công nghiệp	N
+và	C
+y tế	N
+,	CH
+chưa	R
+có	V
+loại	N
+dành	V
+cho	R
+dân dụng	A
+.	CH
+
+Tháng	N
+4	M
+-	CH
+2004	M
+,	CH
+Công ty	Np
+cổ phần	N
+Lá Xanh	Np
+ra đời	V
+,	CH
+đăng ký	V
+mặt hàng	N
+kinh doanh	V
+duy nhất	A
+là	C
+oxy	FW
+99 , 9%	M
+LBKT	CH
+do	E
+nhà máy	N
+A34	Np
+và	C
+A41	Np
+không quân	N
+trực thuộc	V
+Bộ Quốc phòng	Np
+chuyên	A
+sản xuất	V
+oxy	FW
+cho	E
+phi công	N
+cung cấp	V
+độc quyền	A
+RBKT	CH
+.	CH
+
+Với	E
+tiêu chí	N
+"	CH
+đưa	V
+oxy	FW
+tinh khiết	A
+đến	E
+từng	P
+nhà	N
+"	CH
+,	CH
+hiện nay	N
+Lá Xanh	Np
+đang	R
+thống lĩnh	V
+thị trường	N
+cung ứng	V
+oxy	N
+tinh khiết	A
+cho	E
+người dân	N
+có	V
+nhu cầu	N
+sử dụng	V
+dịch vụ	N
+này	P
+tại	E
+nhà	N
+,	CH
+khách hàng	N
+đã	R
+tăng	V
+lên	R
+5000	M
+khách	N
+chỉ	R
+sau	E
+một	M
+năm	N
+hoạt động	V
+.	CH
+
+Giá	N
+oxy	FW
+99 , 9%	M
+tương đối	A
+rẻ	A
+,	CH
+10	M
+lít	Nu
+nén	V
+LBKT	CH
+khỏang	N
+1 . 500	M
+lít	Nu
+oxy	N
+RBKT	CH
+giá	N
+35 . 000	M
+đồng	Nu
+,	CH
+14	M
+lít	Nu
+nén	V
+:	CH
+45 . 000	M
+đồng	Nu
+,	CH
+40	M
+lít	Nu
+nén	V
+:	CH
+70 . 000	M
+đồng	Nu
+LBKT	CH
+bình	N
+chứa	V
+có thể	R
+thuê	V
+hoặc	C
+mua	V
+hẳn	R
+với	E
+giá	N
+1,5	M
+-	CH
+1, 9	M
+triệu	M
+đồng	Nu
+RBKT	CH
+.	CH
+
+Những	L
+bình	N
+nhỏ	A
+hơn	R
+từ	E
+2	M
+-	CH
+3	M
+-	CH
+4	M
+-	CH
+6	M
+lít	Nu
+phải	V
+mua	V
+luôn	R
+trọn	A
+bộ	N
+LBKT	CH
+gồm	V
+vali	FW
+,	CH
+bình	N
+,	CH
+ống	N
+,	CH
+đồng hồ	N
+....	CH
+RBKT	CH
+với	E
+giá	N
+120	M
+-	CH
+150	M
+USD	Nu
+LBKT	CH
+xài	V
+hết	V
+thì	C
+mang	V
+tới	R
+nạp	V
+lại	R
+RBKT	CH
+tiện lợi	A
+khi	N
+phải	V
+di huyển	V
+đường	N
+xa	A
+,	CH
+mang	V
+theo	R
+đi	V
+du lịch	V
+...	CH
+
+Trung bình	A
+một	M
+lần	N
+thở	V
+30	M
+phút	Nu
+hết	V
+khoảng	N
+90	M
+lít	Nu
+chưa	R
+đến	V
+2 . 000	M
+đồng	Nu
+.	CH
+
+"	CH
+Ông già	N
+tôi	P
+bị	V
+suyễn	N
+,	CH
+mỗi	M
+lần	N
+lên	V
+cơn	N
+vô	V
+bệnh viện	N
+cấp cứu	V
+cũng	R
+chỉ	R
+cho	V
+thở	V
+oxy	N
+vài	L
+mươi	M
+phút	Nu
+rồi	C
+về	V
+.	CH
+
+Chúng tôi	P
+liên hệ	V
+bệnh viện	N
+không	R
+được	V
+nên	C
+ra	V
+cửa hàng	N
+bán	V
+dụng cụ	N
+y khoa	N
+thuê	V
+một	M
+bình	N
+để	V
+ở	E
+nhà	N
+cho	E
+tiện	A
+nhưng	C
+không	R
+yên tâm	A
+vì	E
+chẳng	R
+biết	V
+họ	P
+bơm	V
+oxy	N
+chất lượng	N
+thế nào	X
+.	CH
+
+Bây giờ	P
+thì	C
+khác	A
+,	CH
+có	V
+tem	N
+niêm yết	V
+,	CH
+có	V
+nơi	N
+xuất xứ	N
+,	CH
+bảo hành	V
+nên	C
+yên tâm	A
+hơn	R
+nhiều	A
+"	CH
+-	CH
+anh	Nc
+Vũ Hữu Tuấn	Np
+LBKT	CH
+Q	Ny
+.	CH
+Phú Nhuận	Np
+RBKT	CH
+cho	V
+biết	V
+.	CH
+
+Phần lớn	L
+khách hàng	N
+sử dụng	V
+oxy	FW
+hiện nay	N
+lại	R
+không	R
+hề	T
+có	V
+bệnh tật	N
+gì	T
+LBKT	CH
+khác	A
+hẳn	R
+với	E
+quan niệm	N
+"	CH
+chỉ	R
+có	V
+người	N
+bệnh	V
+nặng	A
+mới	R
+thở	V
+oxy	FW
+"	CH
+như	C
+từ	E
+trước	A
+tới	E
+nay	P
+RBKT	CH
+.	CH
+
+Sau	E
+khi	N
+ký	V
+nhận	V
+bình	N
+oxy	FW
+40	M
+lít	Nu
+LBKT	CH
+cỡ	N
+lớn	A
+nhất	A
+RBKT	CH
+,	CH
+chị	Nc
+Đỗ Thị Ngọc Hương	Np
+LBKT	CH
+28	M
+tuổi	Nu
+,	CH
+ở	E
+Q	Ny
+.	CH
+Gò Vấp	Np
+RBKT	CH
+cho	V
+biết	V
+:	CH
+"	CH
+Bố mẹ	N
+chồng	N
+đều	R
+đã	R
+trên	A
+70	M
+,	CH
+chồng	N
+làm	V
+trong	E
+ngành	N
+cao su	N
+thường xuyên	A
+hít	V
+thở	V
+trong	E
+khí	N
+độc	A
+,	CH
+còn	C
+tôi	P
+buôn bán	V
+cả	P
+ngày	N
+ngoài	E
+chợ	N
+cũng	R
+hít	V
+bao nhiêu	P
+là	T
+khói	N
+bụi	N
+.	CH
+
+Mỗi	M
+ngày	N
+chỉ	R
+"	CH
+thở	V
+"	CH
+200	M
+phút	Nu
+trong	E
+bữa	N
+cơm	N
+tối	N
+,	CH
+ông bà	N
+già	A
+cần	V
+nhiều	A
+hơn	R
+thì	C
+cho	V
+ống	N
+vào	E
+mũi	N
+hít	V
+riêng	A
+.	CH
+
+Chẳng	R
+tốn	V
+bao nhiêu	P
+mà	C
+ai	P
+cũng	R
+thấy	V
+nhẹ nhõm	A
+người	N
+.	CH
+
+Vậy	P
+là	V
+được	V
+rồi	R
+"	CH
+.	CH
+
+Theo	E
+anh	Nc
+Lê Thanh Tấn	Np
+-	CH
+trợ lý	N
+tổng giám đốc	N
+Công ty	N
+Lá Xanh	Np
+-	CH
+ngày càng	X
+có	V
+nhiều	A
+doanh nghiệp	N
+,	CH
+công ty	N
+LBKT	CH
+ngành nghề	N
+giày	N
+,	CH
+cao su	N
+,	CH
+vệ sinh	N
+,	CH
+hóa chất	N
+...	CH
+RBKT	CH
+,	CH
+trung tâm	N
+thể dục	N
+,	CH
+chăm sóc	V
+sức khỏe	N
+...	CH
+liên hệ	V
+để	E
+mở	V
+phòng	N
+oxy	FW
+phục vụ	V
+công nhân viên	N
+,	CH
+khách hàng	N
+của	E
+mình	P
+.	CH
+
+Hội nghị	N
+Thành ủy	N
+TP.Ny HCM	Ny
+lần	N
+16	M
+BCH	Ny
+Đảng bộ	N
+TP	Ny
+khóa	N
+VII	M
+:	CH
+Kinh tế	N
+sụt giảm	V
+,	CH
+nguyên nhân	N
+từ	E
+đâu	P
+?	CH
+
+Sáng	N
+nay	P
+,	CH
+31	M
+-	CH
+3	M
+,	CH
+Hội nghị	N
+Thành ủy	N
+TP. HCM	Ny
+mở rộng	V
+tiếp tục	V
+làm	V
+rõ	A
+nguyên nhân	N
+vì sao	X
+tình hình	N
+kinh tế	N
+TP	Ny
+quý	N
+1	M
+-	CH
+2004	M
+giảm sút	V
+để	E
+từ	E
+đó	P
+đưa	V
+ra	R
+được	R
+những	L
+giải pháp	N
+khắc phục	V
+trong	E
+quý	N
+2	M
+.	CH
+
+Trước	E
+đó	P
+,	CH
+chiều	N
+30	M
+-	CH
+3	M
+,	CH
+trong	E
+phần	N
+thảo luận	V
+nhiều	A
+ý kiến	N
+đã	R
+làm	V
+sáng tỏ	V
+thêm	V
+nguyên nhân	N
+gây	V
+ra	R
+sự	Nc
+trì trệ	A
+trong	E
+phát triển	V
+kinh tế	N
+...	CH
+.	CH
+
+Phân cấp	V
+thực hiện	V
+cổ phần hóa	V
+.	CH
+
+"	CH
+Tốc độ	N
+cổ phần hóa	V
+không	R
+chậm	A
+-	CH
+Phó	Z
+Chủ tịch	N
+Mai Quốc Bình	Np
+dẫn chứng	V
+-	CH
+có	V
+109	M
+doanh nghiệp	N
+LBKT	CH
+DN	Ny
+RBKT	CH
+cổ phần hóa	V
+,	CH
+năm	N
+2003	M
+mình	P
+làm	V
+được	R
+37	M
+.	CH
+
+Hai	M
+năm	N
+nữa	R
+là	C
+dứt điểm	V
+.	CH
+
+Cái	Nc
+khó	A
+nằm	V
+ở	E
+khâu	N
+quyết toán	V
+tài chính	N
+DN	Ny
+và	C
+quyết toán	V
+thuế	N
+.	CH
+
+Sở	N
+Tài chính	Np
+làm	V
+không	R
+nổi	R
+.	CH
+
+Tôi	P
+nghĩ	V
+giải quyết	V
+được	R
+hết	T
+.	CH
+
+Không	R
+ai	P
+muốn	V
+chậm	A
+,	CH
+nhưng	C
+cả	P
+bộ máy	N
+từ	E
+khâu	N
+này	P
+đến	E
+khâu	N
+kia	P
+lên	V
+đến	E
+TP	Ny
+đều	R
+chậm	A
+“	CH
+.	CH
+
+Ông	Nc
+Bình	Np
+cho	V
+biết	V
+sắp	R
+tới	V
+sẽ	R
+đề nghị	V
+trung ương	N
+phân cấp	V
+cho	E
+TP	Ny
+,	CH
+TP	Ny
+phân cấp	V
+cho	E
+tổng công ty	N
+để	E
+đẩy	V
+nhanh	A
+hơn	R
+tốc độ	N
+cổ phần hóa	V
+.	CH
+
+"	CH
+Lạ	A
+là	C
+khi	N
+tôi	P
+đề nghị	V
+phân cấp	V
+,	CH
+mấy	L
+anh	N
+tổng công ty	N
+nghe	V
+phân cấp	V
+là	C
+...	CH
+chạy	V
+"	CH
+-	CH
+ông	Nc
+Bình	Np
+nói	V
+.	CH
+
+Bí thư	N
+Thành ủy	N
+Nguyễn Minh Triết	Np
+:	CH
+"	CH
+Anh	N
+là	V
+Phó	Z
+Chủ tịch	N
+mà	C
+nói	V
+thế	P
+là	C
+không	R
+được	V
+!	CH
+"	CH
+.	CH
+
+Phó	Z
+Chủ tịch	N
+Mai Quốc Bình	Np
+:	CH
+"	CH
+Nói	V
+thế	T
+cũng	R
+là	V
+tự phê	V
+.	CH
+
+Nhưng	C
+một mình	X
+tôi	P
+gỡ	V
+không	R
+được	V
+.	CH
+
+Việc	N
+này	P
+liên quan	V
+nhiều	A
+khâu	N
+,	CH
+qua	V
+khâu	N
+khác	A
+là	V
+của	E
+người	N
+khác	A
+,	CH
+không	R
+sờ mó	V
+tới	T
+được	T
+"	CH
+.	CH
+
+Hạ tầng cơ sở	N
+là	V
+yếu tố	N
+quan trọng	A
+hấp dẫn	V
+nhà đầu tư	N
+.	CH
+
+Ông	Nc
+Hà Văn Dũng	Np
+,	CH
+Giám đốc	N
+Sở	Nc
+Giao thông	N
+công chánh	N
+,	CH
+đề nghị	V
+đưa	V
+vào	E
+chương trình	N
+công tác	N
+quý	N
+2	M
+một số	L
+việc	N
+liên quan	V
+đến	E
+ngành	N
+giao thông	N
+:	CH
+mở	V
+một	M
+cảng	N
+ở	E
+Phú Hữu	Np
+,	CH
+quận	N
+7	M
+để	E
+giảm	V
+25%	M
+lượng	N
+xe tải	N
+vào	V
+TP	Ny
+.	CH
+
+Ông	N
+thông tin	V
+:	CH
+"	CH
+Nhà nước	N
+chỉ	R
+cần	V
+hỗ trợ	V
+30	M
+tỉ	M
+đồng	Nu
+tiền	N
+mặt bằng	N
+,	CH
+còn	C
+các	L
+DN	Ny
+vận tải	V
+biển	N
+đồng ý	V
+hợp tác	V
+đầu tư	V
+toàn bộ	L
+cầu cảng	N
+.	CH
+
+Tôi	P
+nói	V
+thiệt	A
+,	CH
+DN	Ny
+sợ	V
+"	CH
+lót	V
+đường	N
+"	CH
+nên	C
+rất	R
+muốn	V
+vô	V
+thẳng	A
+Phú Hữu	Np
+"	CH
+.	CH
+
+Thời gian	N
+xây dựng	V
+cảng	N
+chỉ	R
+mất	V
+một	M
+năm	N
+.	CH
+
+Ông	Nc
+Dũng	Np
+cũng	R
+cho	V
+biết	V
+sẽ	R
+cố gắng	V
+khởi công	V
+sớm	A
+đường	N
+Trường Chinh	Np
+do	E
+công tác	N
+đền bù	V
+giải tỏa	V
+tương đối	A
+khả quan	A
+.	CH
+
+Ông	Nc
+Dũng	Np
+đưa	V
+một	M
+tin	N
+đáng	V
+mừng	V
+:	CH
+Vài	L
+ngày	N
+nữa	R
+TP	Ny
+sẽ	R
+được	V
+cung cấp	V
+một	M
+lượng	N
+nước sạch	N
+bằng	E
+nửa	M
+lượng	N
+nước	N
+hiện	N
+có	V
+,	CH
+và	C
+đề nghị	V
+TP	Ny
+triển khai	V
+tiếp	R
+dự án	N
+cung cấp	V
+nước sạch	N
+khác	A
+để	E
+TP	Ny
+sẽ	R
+có	V
+thêm	V
+300 . 000	M
+m3	Nu
+nữa	R
+trong	E
+thời gian	N
+tới	V
+.	CH
+
+"	CH
+To	A
+nhưng	C
+không	R
+khỏe	A
+"	CH
+.	CH
+
+Trước	N
+đó	P
+,	CH
+Phó	Z
+Chủ tịch	N
+Nguyễn Thiện Nhân	Np
+nêu	V
+mười	M
+nguyên nhân	N
+dẫn	V
+đến	E
+sự	Nc
+sụt giảm	V
+kinh tế	N
+trong	E
+ba	M
+tháng	N
+đầu	N
+năm	N
+.	CH
+
+trong	E
+đó	P
+,	CH
+ngoài	E
+các	L
+nguyên nhân	N
+khách quan	A
+như	C
+dịch	N
+cúm gia cầm	N
+,	CH
+giá	N
+vàng	N
+,	CH
+giá	N
+nguyên vật liệu	N
+tăng	V
+,	CH
+thì	C
+ba	M
+yếu tố	N
+chính	A
+khiến	V
+các	L
+nhà đầu tư	N
+...	CH
+nản lòng	V
+khi	N
+gia nhập	V
+thị trường	N
+ở	E
+TP	Ny
+là	C
+:	CH
+đất	N
+không	R
+sẵn sàng	A
+,	CH
+giá	N
+đất	N
+cao	A
+,	CH
+chi phí	N
+đầu tư	V
+cao	A
+LBKT	CH
+do	E
+chi phí	N
+đền bù	V
+giải tỏa	V
+quá	R
+lớn	A
+RBKT	CH
+,	CH
+thời gian	N
+thực hiện	V
+quá	R
+lâu	A
+.	CH
+
+Nhiều	A
+ý kiến	N
+cho	V
+rằng	C
+những	L
+nguyên nhân	N
+này	P
+không	R
+mới	A
+,	CH
+không	R
+là	V
+nguyên nhân	N
+gốc	N
+làm	V
+sụt giảm	V
+kinh tế	N
+TP	Ny
+.	CH
+
+Vậy	P
+nguyên nhân	N
+gốc	N
+từ	E
+đâu	P
+?	CH
+
+Viện trưởng	N
+Viện	N
+Kinh tế	N
+Trần Du Lịch	Np
+sử dụng	V
+phương pháp	N
+hình tượng	N
+hóa	Z
+:	CH
+"	CH
+Cơ thể	N
+nền	N
+kinh tế	N
+của	E
+TP	Ny
+to	A
+nhưng	C
+không	R
+khỏe	A
+,	CH
+lớn	A
+bụng	N
+chứ	C
+không	R
+lớn	A
+toàn thân	N
+.	CH
+
+Hồi	N
+giờ	N
+gọi	V
+là	V
+tăng trưởng	V
+nhưng	C
+thiếu	V
+bền vững	A
+.	CH
+
+Quý	N
+1	M
+là	V
+thời điểm	N
+biểu hiện	V
+rõ	A
+nhất	R
+sự	Nc
+thiếu	V
+bền vững	A
+này	P
+"	CH
+.	CH
+
+Theo	E
+ông	Nc
+Lịch	Np
+,	CH
+giá trị	N
+gia tăng	V
+của	E
+công nghiệp	N
+cực	R
+thấp	A
+,	CH
+chủ yếu	A
+lệ thuộc	V
+vào	E
+nguyên vật liệu	N
+nên	C
+khi	N
+có	V
+biến động	N
+,	CH
+không	R
+DN	Ny
+nào	P
+dám	V
+mở rộng	V
+quy mô	N
+,	CH
+phát triển	V
+sản xuất	N
+.	CH
+
+Ông	N
+nói	V
+thêm	V
+:	CH
+"	CH
+Trước	E
+đây	P
+TP	Ny
+là	V
+trung tâm	N
+phân phối	V
+hàng hóa	N
+.	CH
+
+Nhưng	C
+trong	E
+quá trình	N
+phát triển	V
+vừa qua	X
+,	CH
+các	L
+DN	Ny
+sản xuất	V
+không	R
+qua	V
+hệ thống	N
+phân phối	V
+tại	E
+TP	Ny
+,	CH
+do đó	C
+hoạt động	N
+thương nghiệp	N
+TP	Ny
+mất	V
+đi	R
+vai trò	N
+quan trọng	A
+này	P
+.	CH
+
+Chỗ	N
+này	P
+liên quan	V
+đến	E
+cơ cấu	N
+"	CH
+.	CH
+
+Giải quyết	V
+cái	Nc
+gốc	N
+này	P
+như thế nào	X
+?	CH
+
+Ông	N
+Lịch	Np
+thông tin	V
+16	M
+chương trình	N
+phát triển	V
+các	L
+ngành	N
+kinh tế	N
+chủ lực	A
+của	E
+TP	Ny
+đến	E
+nay	P
+vẫn	R
+còn	R
+...	CH
+nằm	V
+trên	E
+giấy	N
+,	CH
+chưa	R
+triển khai	V
+được	R
+chương trình	N
+nào	P
+.	CH
+
+Ông	N
+cho	V
+rằng	C
+trong	E
+quí	N
+tới	V
+chỉ	R
+cần	V
+triển khai	V
+hai	M
+,	CH
+ba	M
+trong	E
+16	M
+chương trình	N
+này	P
+cũng	R
+tạo	V
+niềm	Nc
+tin	V
+cho	E
+DN	Ny
+,	CH
+giúp	V
+họ	P
+phấn khởi	A
+làm ăn	V
+,	CH
+qua	E
+đó	P
+thúc đẩy	V
+nền	N
+kinh tế	N
+phát triển	V
+.	CH
+
+Rào cản	N
+về	E
+thủ tục	N
+hành chính	N
+cũng	R
+được	V
+đề cập	V
+.	CH
+
+Phó	Z
+Chủ tịch	N
+Mai Quốc Bình	Np
+than	V
+:	CH
+"	CH
+Một	M
+dự án	N
+đầu tư	V
+mất	V
+ba	M
+năm	N
+,	CH
+rút	V
+thành	V
+24	M
+ngày	N
+được	R
+không	R
+?	CH
+
+Người ta	N
+tính	V
+như	C
+vũ bão	N
+từng	R
+giờ	N
+,	CH
+từng	R
+ngày	N
+,	CH
+còn	C
+cán bộ	N
+ta	P
+chỉ	R
+có	V
+khái niệm	N
+là	C
+năm	N
+.	CH
+
+Đụng	V
+vô	R
+là	V
+nhiêu khê	A
+"	CH
+.	CH
+
+Ông	Nc
+Trần Du Lịch	Np
+:	CH
+"	CH
+Có khi	R
+chính	T
+tình hình	N
+kinh tế	N
+quý	N
+1	M
+giảm sút	V
+,	CH
+chúng ta	P
+mới	R
+quyết tâm	V
+cải cách	V
+thủ tục	N
+hành chính	N
+,	CH
+buộc	V
+bộ máy	N
+hành chính	N
+phải	V
+chuyển động	V
+"	CH
+.	CH
+
+Hôm nay	N
+,	CH
+hội nghị	N
+tiếp tục	V
+làm việc	V
+.	CH
+
+Sáng	N
+cùng	A
+ngày	N
+30	M
+-	CH
+3	M
+,	CH
+Ban	N
+Thường vụ	N
+Thành ủy	N
+đã	R
+triệu tập	V
+hội nghị	N
+cán bộ	N
+nghiên cứu	V
+quán triệt	V
+nghị quyết	N
+Hội nghị	N
+lần	N
+9	M
+Ban Chấp hành	N
+Trung ương	N
+khóa	N
+IX	M
+và	C
+chương trình	N
+hành động	V
+của	E
+Thành ủy	N
+thực hiện	V
+Nghị quyết	N
+Hội nghị	N
+trung ương	N
+9	M
+.	CH
+
+Chương trình	N
+hành động	V
+thực hiện	V
+Nghị quyết	N
+trung ương	N
+9	M
+-	CH
+khóa	N
+IX	M
+của	E
+Đảng bộ	N
+TP. HCM	Ny
+.	CH
+
+Về	E
+xây dựng	V
+Đảng	Np
+:	CH
+tiếp tục	V
+chỉ đạo	V
+mạnh mẽ	A
+,	CH
+có	V
+hiệu quả	N
+cuộc	Nc
+vận động	V
+xây dựng	V
+chỉnh đốn	V
+Đảng	Np
+theo	E
+tinh thần	N
+nghị quyết	N
+trung ương	N
+6	M
+LBKT	CH
+lần	N
+2	M
+RBKT	CH
+.	CH
+
+Theo	E
+đó	P
+,	CH
+tiếp tục	V
+thực hiện	V
+việc	N
+kê khai	V
+nhà đất	N
+và	C
+cơ sở	N
+sản xuất	V
+kinh doanh	V
+của	E
+cán bộ	N
+-	CH
+công chức	N
+;	CH
+tăng cường	V
+thanh kiểm tra	V
+những	L
+nơi	N
+có	V
+dấu hiệu	N
+vi phạm	V
+,	CH
+đặc biệt	A
+trong	E
+lĩnh vực	N
+đất đai	N
+và	C
+các	L
+công trình	N
+trọng điểm	N
+.	CH
+
+Xử lý	V
+nghiêm minh	A
+theo	E
+pháp luật	N
+và	C
+kỷ luật	N
+của	E
+Đảng	Np
+những	L
+người	N
+có	V
+hành vi	N
+sai trái	A
+và	C
+những	L
+người	N
+bao che	V
+.	CH
+
+Thực hiện	V
+tốt	A
+các	L
+quy định	N
+đối với	E
+cán bộ	N
+lãnh đạo	V
+,	CH
+quản lý	V
+để	V
+xảy	V
+ra	R
+tham nhũng	V
+,	CH
+tiêu cực	A
+ở	E
+cơ quan	N
+,	CH
+đơn vị	N
+.	CH
+
+Kiện toàn	V
+và	C
+tăng cường	V
+sức	N
+chiến đấu	V
+của	E
+tổ chức	N
+cơ sở	N
+Đảng	Np
+.	CH
+
+Tiếp tục	V
+đổi mới	V
+và	C
+nâng	V
+cao	A
+công tác	N
+cán bộ	N
+.	CH
+
+Tiếp tục	V
+đổi mới	V
+phương thức	N
+lãnh đạo	V
+của	E
+cấp ủy	N
+Đảng	Np
+theo	E
+phương châm	N
+hướng	V
+mạnh	A
+về	E
+cơ sở	N
+.	CH
+
+Về	E
+cải cách	V
+hành chính	N
+:	CH
+Tập trung	V
+chấn chỉnh	V
+mạnh	A
+hơn	A
+nữa	R
+kỷ cương	N
+,	CH
+kỷ luật	N
+trong	E
+bộ máy	N
+hành chính	N
+,	CH
+nâng	V
+cao	A
+tinh thần	N
+trách nhiệm	N
+và	C
+ý thức	N
+kỷ luật	N
+của	E
+CB	Ny
+-	CH
+CC	Ny
+,	CH
+nhất là	X
+trên	E
+lĩnh vực	N
+nhà đất	N
+,	CH
+đầu tư	V
+,	CH
+kinh doanh	V
+,	CH
+trật tự	N
+xây dựng	V
+và	C
+giải quyết	V
+khiếu nại	V
+,	CH
+tố cáo	V
+.	CH
+
+Xây dựng	V
+hoàn thiện	V
+hệ thống	N
+các	L
+qui trình	N
+thủ tục	N
+hành chính	N
+.	CH
+
+Kiên quyết	A
+chấn chỉnh	V
+bộ máy	N
+hành chính	N
+các	L
+cấp	N
+,	CH
+nhanh chóng	A
+khắc phục	V
+tình trạng	N
+quan liêu	A
+,	CH
+cửa quyền	A
+,	CH
+hách dịch	A
+.	CH
+
+Xây dựng	V
+và	C
+phát triển	V
+đội ngũ	N
+CB	Ny
+-	CH
+CC	Ny
+có	V
+chất lượng	N
+chuyên môn	N
+cao	A
+,	CH
+có	V
+phẩm chất	N
+,	CH
+đạo đức	N
+.	CH
+
+Kiểm tra	V
+,	CH
+xử lý	V
+kiên quyết	A
+các	L
+vụ	N
+tham nhũng	V
+,	CH
+lãng phí	V
+,	CH
+làm	V
+thất thoát	V
+tài sản	N
+nhà nước	N
+...	CH
+
+Về	E
+kinh tế	N
+:	CH
+Tập trung	V
+mọi	L
+nỗ lực	N
+nhằm	E
+tháo gỡ	V
+sản xuất	V
+kinh doanh	V
+,	CH
+đưa	V
+tốc độ	N
+tăng trưởng	V
+GDP	Ny
+trên	E
+địa bàn	N
+TP	Ny
+đạt	V
+12%	M
+năm	N
+2004	M
+và	C
+trên	A
+12%	M
+năm	N
+2005	M
+.	CH
+
+Phát triển	V
+nhanh	A
+các	L
+ngành	N
+dịch vụ	N
+,	CH
+tái	Z
+cấu trúc	V
+các	L
+ngành	N
+công nghiệp	N
+.	CH
+
+Tiếp tục	V
+nhân	V
+rộng	A
+các	L
+mô hình	N
+huy động	V
+vốn	N
+đầu tư	V
+.	CH
+
+Tập trung	V
+khai thác	V
+các	L
+nguồn	N
+vốn	N
+cho	E
+ngân sách	N
+.	CH
+
+Tổng kết	V
+quá trình	N
+cổ phần hóa	V
+doanh nghiệp	N
+nhà nước	N
+và	C
+việc	N
+tổ chức	V
+sắp xếp	V
+lại	R
+doanh nghiệp	N
+nhà nước	N
+.	CH
+
+Triển khai	V
+quyết định	N
+của	E
+TP	Ny
+về	E
+một số	L
+chính sách	N
+ưu đãi	A
+đối với	E
+các	L
+dự án	N
+có	V
+vốn	N
+đầu tư	V
+nước ngoài	N
+.	CH
+
+Rà soát	V
+lại	R
+chương trình	N
+hội nhập	V
+kinh tế	N
+của	E
+TP	Ny
+.	CH
+
+Về	E
+văn hóa	N
+-	CH
+xã hội	N
+:	CH
+đẩy mạnh	V
+xã hội hóa	V
+,	CH
+phát triển	V
+xã hội	N
+học tập	V
+,	CH
+ưu tiên	A
+đầu tư	V
+ngân sách	N
+cho	E
+giáo dục	V
+-	CH
+đào tạo	V
+.	CH
+
+Nâng	V
+cao	A
+năng lực	N
+quản lý nhà nước	V
+trên	E
+các	L
+lĩnh vực	N
+kinh doanh	V
+dịch vụ	N
+văn hóa	N
+;	CH
+khắc phục	V
+những	L
+sơ hở	N
+,	CH
+tiêu cực	N
+trong	E
+quản lý	V
+và	C
+hoạt động	V
+văn hóa	N
+.	CH
+
+Tiếp tục	V
+tập trung	V
+nguồn lực	N
+cho	E
+chương trình	N
+3	M
+giảm	V
+...	CH
+
+Phóng sự	N
+điều tra	V
+:	CH
+Thú	N
+rừng	N
+vẫn	R
+"	CH
+chảy	V
+máu	N
+"	CH
+.	CH
+
+Từ	E
+quán	N
+nhậu	V
+đến	E
+vựa	N
+thú	N
+rừng	N
+.	CH
+
+Động vật	N
+rừng	N
+quí hiếm	A
+vẫn	R
+được	V
+âm thầm	A
+đưa	V
+về	E
+thành phố	N
+với	E
+nhiều	A
+phương thức	N
+,	CH
+thủ đoạn	N
+tinh vi	A
+mà	C
+lực lượng	N
+chức năng	N
+không thể	R
+kiểm soát	V
+hết	R
+.	CH
+
+Những	L
+con	Nc
+vật	N
+tội nghiệp	A
+ấy	P
+đã	R
+có mặt	V
+ở	E
+nhiều	A
+quán	N
+nhậu	V
+cao cấp	A
+đặc sản	N
+đến	E
+các	L
+làng	N
+nướng	V
+bình dân	A
+giữa	E
+Sài Gòn	Np
+...	CH
+
+Phóng viên	N
+Tuổi Trẻ	Np
+đã	R
+thâm nhập	V
+các	L
+đường dây	N
+chuyên	A
+cung cấp	V
+thú	N
+rừng	N
+quí hiếm	A
+.	CH
+
+"	CH
+Hương	N
+rừng	N
+"	CH
+trong	E
+thành phố	N
+!	CH
+
+Đêm	N
+2	M
+-	CH
+11	M
+,	CH
+chúng tôi	P
+tìm	V
+đến	E
+Vương Tửu quán	Np
+nằm	V
+trên	E
+đường	N
+Lê Ngô Cát	Np
+LBKT	CH
+quận	N
+3	M
+,	CH
+TP	Np
+HCM	Ny
+RBKT	CH
+.	CH
+
+Vương Tửu quán	Np
+nằm	V
+kế	A
+ba	M
+quán	N
+nhậu	V
+sang trọng	A
+khác	A
+trên	E
+cùng	A
+một	M
+đoạn	N
+đường	N
+dài	A
+hơn	A
+100	M
+m	Nu
+,	CH
+nhưng	C
+khách khứa	N
+đông đúc	A
+,	CH
+tấp nập	A
+hơn	R
+...	CH
+
+Anh	Nc
+nhân viên	N
+tiếp tân	V
+mang	V
+ra	R
+thực đơn	N
+với	E
+hàng	R
+chục	M
+món	N
+ăn	V
+,	CH
+nhậu	V
+,	CH
+trong	E
+đó	P
+có	V
+nhiều	A
+cái	Nc
+tên	N
+rất	R
+"	CH
+phong kiến	A
+"	CH
+.	CH
+
+Thấy	V
+khách	N
+chưa	R
+chọn	V
+được	R
+món	N
+,	CH
+anh	N
+nhanh nhảu	A
+giới thiệu	V
+:	CH
+"	CH
+Hay là	C
+mấy	L
+anh	N
+dùng	V
+thịt	N
+rừng	N
+cho	E
+ngon miệng	A
+.	CH
+
+Quán	N
+tụi	N
+em	N
+hôm nay	N
+có	V
+chồn	N
+,	CH
+cheo	N
+,	CH
+dúi	N
+và	C
+cả	R
+rắn	N
+hổ	N
+.	CH
+
+Tất cả	P
+đều	R
+còn	V
+sống	V
+rất	R
+lanh lợi	A
+...	CH
+"	CH
+.	CH
+
+Không	R
+để	E
+khách	N
+phải	V
+đợi	V
+lâu	A
+,	CH
+anh	Nc
+tiếp viên	N
+chào giá	V
+tại	E
+bàn	N
+:	CH
+chồn	N
+380.000	M
+đ	Nu
+/	CH
+kg	Nu
+,	CH
+cheo	N
+180.000	M
+đ	Nu
+/	CH
+kg	Nu
+,	CH
+dúi	N
+180.000	M
+đ	Nu
+/	CH
+kg	Nu
+...	CH
+
+Theo	E
+anh	Nc
+tiếp viên	N
+,	CH
+các	L
+loại	N
+thú	N
+rừng	N
+trên	R
+đều	R
+có	V
+người	N
+mang	V
+đến	R
+bỏ mối	V
+.	CH
+
+Khi	N
+chưa	R
+bị	V
+làm thịt	V
+,	CH
+thú	N
+được	V
+nuôi	V
+trong	E
+chuồng	N
+sắt	N
+.	CH
+
+Để	E
+chứng minh	V
+lời	N
+mình	P
+nói	V
+,	CH
+anh	N
+ta	P
+chạy	V
+ra	R
+sau	N
+tóm cổ	V
+mang	V
+lên	R
+một	M
+con	Nc
+thú	N
+có	V
+tên	N
+gọi	V
+là	C
+dúi	N
+.	CH
+
+Nó	P
+có	V
+lông	N
+màu	N
+đen	A
+,	CH
+mỏ	N
+cụt	A
+trông	V
+giống	A
+chuôt	N
+cống	N
+.	CH
+
+Con	Nc
+thú	N
+nhỏ	A
+bị	V
+siết	V
+chặt	A
+cổ	N
+,	CH
+không	R
+kêu	V
+được	R
+,	CH
+chỉ	R
+đưa	V
+đôi	L
+mắt	N
+đen nháy	A
+nhìn	V
+ánh sáng	N
+đèn néon	N
+và	C
+mọi	L
+người	N
+.	CH
+
+Vương Tửu	Np
+quán	N
+chỉ	R
+là	V
+một	M
+trong	E
+hàng	R
+ngàn	M
+quán	N
+nhậu	V
+tại	E
+TP	Ny
+HCM	Ny
+bán	V
+thịt	N
+thú	N
+rừng	N
+.	CH
+
+Ở	E
+thành phố	N
+này	P
+muốn	V
+thưởng thức	V
+"	CH
+hàng	N
+độc	A
+"	CH
+là	V
+thịt	N
+động vật	N
+hoang dã	A
+như	C
+nhím	N
+,	CH
+heo	N
+,	CH
+cheo	N
+,	CH
+chồn	N
+rất	R
+dễ dàng	A
+,	CH
+nơi	N
+nào	P
+cũng	R
+có	V
+.	CH
+
+Dân	N
+nhậu	V
+thành phố	N
+có thể	A
+kể	V
+vanh vách	A
+những	L
+tên	N
+quán	N
+loại	N
+này	P
+,	CH
+trong	E
+đó	P
+Hương Rừng	Np
+được	V
+nhắc	V
+đến	R
+đầu tiên	A
+.	CH
+
+Hương Rừng	Np
+xuất hiện	V
+ở	E
+nhiều	A
+nơi	N
+từ	E
+nội thành	N
+ra	E
+ngoại thành	N
+nhưng	C
+ấn tượng	N
+nhất	A
+có lẽ	X
+là	V
+Hương Rừng	Np
+2	M
+ở	E
+góc	N
+đường	N
+Hai Bà Trưng	Np
+-	CH
+Nguyễn Đình Chiểu	Np
+,	CH
+quận	N
+1	M
+LBKT	CH
+còn	V
+một	M
+quán	N
+Hương Rừng	Np
+khác	A
+nằm	V
+trên	E
+đường	N
+Nguyễn Trãi	Np
+,	CH
+quận	N
+1	M
+cũng	R
+nổi tiếng	A
+bán	V
+hàng	N
+độc	A
+RBKT	CH
+.	CH
+
+Quán	N
+luôn	R
+thu hút	V
+khách	N
+hạng	N
+sang	A
+và	C
+cả	P
+quan chức	N
+nhà nước	N
+.	CH
+
+Quán	N
+bắt đầu	V
+đông	A
+khách	N
+từ	E
+trưa	N
+cho	E
+đến	E
+tối	N
+khuya	N
+với	E
+mùi	N
+thú	N
+rừng	N
+ngan ngát	A
+qua	E
+các	L
+món	N
+nướng	V
+,	CH
+món	N
+lẩu	N
+.	CH
+
+Người ta	P
+ước tính	V
+chỉ	R
+riêng	T
+ở	E
+Hương Rừng	Np
+này	P
+,	CH
+mỗi	L
+ngày	N
+có	V
+hàng	R
+trăm	M
+con	Nc
+thú	N
+bị	V
+thọc	V
+huyết	N
+...	CH
+
+Đêm	N
+31	M
+-	CH
+10	M
+,	CH
+một	M
+nhân viên	N
+khi	N
+đón	V
+chúng tôi	P
+vào	E
+bàn	N
+,	CH
+câu	N
+đầu tiên	A
+anh	N
+ta	P
+hỏi	V
+:	CH
+"	CH
+Các	L
+anh	N
+có	V
+dùng	V
+thịt	N
+rừng	N
+không	R
+?	CH
+"	CH
+.	CH
+
+Khách	N
+vào	V
+các	L
+quán	N
+"	CH
+cao cấp	A
+"	CH
+loại	N
+này	P
+thường	R
+phải	V
+có	V
+túi tiền	N
+rủng rỉnh	A
+bởi	E
+hàng	N
+độc	A
+thì	C
+bao giờ	P
+giá cả	N
+cũng	R
+không	R
+nhẹ nhàng	A
+...	CH
+
+Tuy nhiên	C
+,	CH
+đáng	V
+sợ	V
+nhất	A
+về	E
+sự	Nc
+tiêu thụ	V
+thú	N
+rừng	N
+phải	V
+kể	V
+đến	E
+hàng	R
+trăm	M
+làng	N
+nướng	V
+với	E
+nhiều	A
+tên	N
+gọi	V
+khác	A
+nhau	N
+như	C
+Nam Bộ	Np
+,	CH
+Tây Nam Bộ	Np
+,	CH
+Miền Tây	Np
+...	CH
+
+Đây	P
+là	V
+những	L
+nơi	N
+tập trung	V
+ăn nhậu	V
+rầm rộ	A
+nhất	A
+.	CH
+
+Thú	N
+rừng	N
+ở	E
+các	L
+làng	N
+nướng	V
+không	R
+bán	V
+nguyên	A
+con	Nc
+mà	C
+thường	R
+bán	V
+theo	E
+đĩa	N
+với	E
+giá	N
+bình quân	A
+20.000	M
+đồng	Nu
+/	CH
+đĩa	N
+.	CH
+
+Tên	N
+của	E
+hàng	R
+chục	M
+loại	N
+thú	N
+rừng	N
+khác	A
+nhau	N
+từ	E
+có	V
+chân	N
+đến	E
+bò sát	N
+nằm	V
+rõ ràng	A
+trên	E
+thực đơn	N
+.	CH
+
+Thử	V
+làm	V
+một	M
+phép tính	N
+nhỏ	A
+:	CH
+làng	N
+nướng	V
+A	Ny
+mỗi	L
+đêm	N
+có	V
+100	M
+bàn	Nc
+nhậu	V
+,	CH
+bình quân	A
+mỗi	L
+bàn	N
+nướng	V
+khoảng	A
+1/2	M
+kg	Nu
+thịt	N
+rừng	N
+thì	C
+con số	N
+thịt	N
+rừng	N
+bị	V
+xơi	V
+trong	E
+đêm	N
+lên	V
+đến	R
+50	M
+kg	Nu
+.	CH
+
+Tính	V
+ra	R
+một	M
+tháng	N
+có	V
+1.500	M
+kg	Nu
+thịt	N
+rừng	N
+vào	V
+bụng	N
+con người	N
+.	CH
+
+Như vậy	C
+một	M
+năm	N
+chỉ	R
+mỗi	L
+làng	N
+nướng	V
+A	Np
+đã	R
+lấy	V
+đi	R
+của	E
+rừng	N
+18.000	M
+kg	Nu
+động vật	N
+.	CH
+
+Và	C
+cả	P
+hệ thống	N
+quán	N
+nhậu	V
+trên	E
+địa bàn	N
+TP	Ny
+đã	R
+,	CH
+đang	R
+và	C
+sẽ	R
+tàn sát	V
+bao nhiêu	P
+con	Nc
+thú	N
+rừng	N
+?	CH
+!	CH
+
+"	CH
+Muốn	V
+rẻ	A
+về	V
+Đạ Tẻ	Np
+mà	C
+ăn	V
+"	CH
+!	CH
+
+Chiều	N
+30	M
+-	CH
+10	M
+,	CH
+chúng tôi	P
+đến	V
+Đạ Tẻ	Np
+,	CH
+một	M
+thị trấn	N
+bé nhỏ	A
+nằm	V
+lọt thỏm	A
+giữa	E
+núi rừng	N
+.	CH
+
+Các	L
+bác	Nc
+tài	N
+xe ôm	N
+cho	V
+biết	V
+thị trấn	N
+có	V
+đến	T
+bốn	M
+địa điểm	N
+bán	V
+thú	N
+rừng	N
+sống	A
+,	CH
+nhưng	C
+muốn	V
+rõ	A
+cứ	R
+vào	V
+quán	N
+nhậu	V
+hỏi	V
+.	CH
+
+Quán	N
+nhậu	V
+mà	C
+các	L
+bác	Nc
+tài	N
+chỉ	V
+nhìn	V
+bên	N
+ngoài	N
+là	V
+một	M
+quán	N
+bán	V
+bún	N
+,	CH
+hủ tiếu	N
+rất	R
+đơn sơ	A
+,	CH
+do	C
+hai	M
+người	Nc
+đàn ông	N
+nói	V
+giọng	N
+Bắc	Np
+đứng	V
+bán	V
+.	CH
+
+Sau	E
+khi	N
+yên vị	V
+,	CH
+chúng tôi	P
+liền	R
+được	V
+chủ	N
+quán	N
+mang	V
+ra	R
+chào bán	V
+các	L
+loại	N
+thú	N
+rừng	N
+với	E
+giá	N
+rẻ	A
+bất ngờ	A
+:	CH
+cheo	N
+50.000	M
+đ	Nu
+/	CH
+kg	Nu
+,	CH
+chồn	N
+120.000	M
+đ	Nu
+/	CH
+kg	Nu
+...	CH
+
+Ngoài	E
+những	L
+con	Nc
+thú	N
+đã	R
+bị	V
+thọc	V
+huyết	N
+,	CH
+làm	V
+sạch	A
+lông	N
+cất	V
+trong	E
+tủ lạnh	N
+,	CH
+ở	E
+đây	P
+còn	R
+nuôi	V
+sống	A
+các	L
+con	Nc
+vật	N
+ở	E
+phía	N
+sau	A
+nhà	N
+,	CH
+trong	E
+đó	P
+có	V
+con	Nc
+kỳ đà	N
+to	A
+bằng	A
+bắp vế	N
+.	CH
+
+Chúng tôi	P
+đặt	V
+vấn đề	N
+muốn	V
+mua	V
+ít	A
+thịt	N
+rừng	N
+về	E
+thành phố	N
+,	CH
+nhờ	V
+chủ	N
+quán	N
+giúp	V
+giùm	R
+.	CH
+
+Hai	M
+anh	Nc
+chủ	N
+quán	N
+bảo	V
+yên chí	V
+sẽ	R
+có	V
+ngay	R
+.	CH
+
+Sau	E
+15	M
+phút	Nu
+đội	V
+mưa	N
+chạy	V
+ngoài	E
+thị trấn	N
+,	CH
+người	Nc
+chủ	N
+quán	N
+có	V
+hàng	N
+ria	N
+mép	N
+trở	V
+về	R
+cho	V
+biết	V
+có	V
+cái	Nc
+đùi	N
+heo	N
+rừng	N
+30	M
+kg	Nu
+còn	V
+nguyên	A
+lông	N
+,	CH
+giá	N
+45.000	M
+đ	Nu
+/	CH
+kg	Nu
+,	CH
+nếu	C
+lấy	V
+thì	C
+kêu	V
+họ	P
+mang	V
+lại	R
+.	CH
+
+Trời	N
+nhá nhem	A
+tối	A
+,	CH
+chúng tôi	P
+tìm	V
+đến	E
+nhà	N
+người	Nc
+đàn ông	N
+tên	N
+Đức	Np
+nằm	V
+trên	E
+con	Nc
+đường	N
+nhỏ	A
+dẫn	V
+vào	E
+thị trấn	N
+Đạ Tẻ	Np
+.	CH
+
+Đức	Np
+tự	P
+giới thiệu	V
+mình	P
+là	V
+Đức	Np
+"	CH
+thú	N
+rừng	N
+"	CH
+-	CH
+đầu nậu	N
+lớn	A
+nhất	A
+tại	E
+đây	P
+.	CH
+
+Anh	N
+ta	P
+đã	R
+buôn bán	V
+thú	N
+rừng	N
+hơn	A
+10	M
+năm	N
+qua	V
+,	CH
+ở	E
+thị trấn	N
+này	P
+ai	P
+cũng	R
+biết	V
+.	CH
+
+Chúng tôi	P
+nói	V
+muốn	V
+đặt	V
+đầu mối	N
+gom	V
+hàng	N
+đưa	V
+về	E
+Sài Gòn	Np
+bán	V
+quán	N
+.	CH
+
+Đức	Np
+thốt	V
+lên	R
+:	CH
+"	CH
+Thế thì	C
+hay	A
+quá	R
+"	CH
+và	C
+cho	V
+biết	V
+ở	E
+thị trấn	N
+có	V
+nhiều	A
+người	V
+buôn	V
+thú	N
+nhưng	C
+đều	R
+nhỏ lẻ	A
+,	CH
+ít	A
+hàng	N
+ngon	A
+,	CH
+chỉ	R
+có	V
+anh	N
+ta	P
+là	V
+"	CH
+xịn	A
+"	CH
+nhất	A
+.	CH
+
+Chúng tôi	P
+đặt	V
+vấn đề	N
+muốn	V
+xem	V
+qua	R
+vài	L
+loại	Nc
+thú	N
+thì	C
+Đức	Np
+tiết lộ	V
+rằng	C
+ở	E
+đây	P
+không	R
+trực tiếp	A
+bán	V
+mà	C
+chỉ	R
+là	V
+đầu mối	N
+gom	V
+hàng	N
+,	CH
+sau	E
+đó	P
+gửi	V
+ra	E
+thị trấn	N
+Mađagui	Np
+cho	E
+người	Nc
+em	N
+tên	N
+Mười	Np
+cung cấp	V
+cho	E
+các	L
+hàng quán	N
+ở	E
+Sài Gòn	Np
+.	CH
+
+Nhà	N
+Mười	Np
+nằm	V
+gần	A
+ngã	N
+ba	M
+,	CH
+thị trấn	N
+Mađagui	Np
+LBKT	CH
+Lâm Đồng	Np
+RBKT	CH
+bằng	E
+gỗ	N
+,	CH
+có	V
+tầng	N
+hầm	N
+để	E
+mua bán	V
+thú	N
+.	CH
+
+Các	L
+loại	Nc
+thú	N
+rừng	N
+được	V
+nhốt	V
+trong	E
+bao	N
+,	CH
+lồng	N
+sắt	N
+.	CH
+
+Những	L
+con	Nc
+đã	R
+chết	V
+thì	C
+nằm	V
+chình ình	A
+giữa	E
+nền	N
+đất	N
+.	CH
+
+Lúc	N
+chúng tôi	P
+vào	V
+hầm	N
+,	CH
+ngoài	E
+số	N
+cheo	N
+,	CH
+chồn	N
+,	CH
+trong	E
+lồng	N
+còn	R
+có	V
+một	M
+con	Nc
+khỉ	N
+to	A
+bằng	A
+đứa	N
+bé	N
+4	M
+tuổi	N
+bị	V
+cột	V
+cả	P
+tay chân	N
+và	C
+con	Nc
+mễn	N
+khoảng	A
+hơn	A
+20	M
+kg	Nu
+.	CH
+
+Vợ	N
+Mười	Np
+bảo	V
+nên	V
+lấy	V
+mấy	L
+con	Nc
+này	P
+về	R
+nuôi	V
+làm	V
+cảnh	N
+cho	E
+sinh động	A
+.	CH
+
+Vừa	R
+nói chuyện	V
+với	E
+chúng tôi	P
+,	CH
+vợ	N
+Mười	Np
+vừa	R
+cân	V
+mấy	L
+con	Nc
+thú	N
+của	E
+một	M
+người	Nc
+đàn ông	N
+bẫy	V
+được	R
+mang	V
+đến	R
+bán	V
+.	CH
+
+Với	E
+một	M
+con	Nc
+cheo	N
+chết	V
+và	C
+một	M
+con	Nc
+chồn	N
+1,2	M
+kg	Nu
+vợ chồng	N
+Mười	Np
+đã	R
+mua	V
+với	E
+giá	N
+80.000	M
+đ	Nu
+.	CH
+
+Người	Nc
+đàn ông	N
+không	R
+thêm bớt	V
+tiếng	N
+nào	P
+,	CH
+lặng lẽ	A
+nhận	V
+tiền	N
+ra	V
+về	R
+.	CH
+
+Ở	E
+phòng	N
+khách	N
+nhà	N
+của	E
+Mười	Np
+,	CH
+chúng tôi	P
+thấy	V
+có	V
+cái	Nc
+đầu	N
+con	Nc
+min	N
+đã	R
+khô cứng	A
+với	E
+hai	M
+chiếc	Nc
+sừng	N
+đen	A
+bóng	A
+và	C
+một	M
+bồn	Nc
+rượu	N
+đang	R
+ngâm	V
+bào thai	N
+con	Nc
+nai	N
+.	CH
+
+Mười	Np
+cho	V
+biết	V
+bồn	N
+rượu	N
+này	P
+đã	R
+có	V
+người	N
+đặt	V
+mua	V
+với	E
+giá	N
+500.000	M
+đồng	Nu
+.	CH
+
+Đặt	V
+vấn đề	N
+về	E
+chuyện	N
+bỏ	V
+mối hàng	N
+,	CH
+Mười	Np
+nói	V
+:	CH
+"	CH
+Chuyện	N
+nhỏ	A
+.	CH
+
+Nếu	C
+anh	N
+lấy	V
+mang	V
+về	R
+,	CH
+em	N
+bao	V
+anh	N
+qua	V
+khỏi	R
+trạm	N
+kiểm lâm	V
+gần	A
+nhà	N
+.	CH
+
+Nếu	C
+không	R
+,	CH
+anh	N
+cho	V
+địa chỉ	N
+em	N
+gửi	V
+xuống	R
+.	CH
+
+Hằng	R
+ngày	N
+em	N
+xuất	V
+đi	R
+mấy	L
+tạ	M
+thịt	N
+nhưng	C
+vẫn	R
+không	R
+hụt	A
+một	M
+gam	Nu
+.	CH
+
+Anh	N
+yên trí	V
+đi	R
+,	CH
+cứ	R
+gọi	V
+báo	V
+trước	A
+một	M
+ngày	N
+thì	C
+gấu	N
+,	CH
+mật	N
+gấu	N
+gì	P
+cũng	R
+có	V
+hết	T
+!	CH
+"	CH
+.	CH
+
+"	CH
+Không	R
+sợ	V
+kiểm lâm	N
+sao	P
+?	CH
+"	CH
+.	CH
+
+"	CH
+Chuyện	N
+đó	P
+anh	N
+khỏi	V
+lo	V
+.	CH
+
+Đâu	R
+phải	A
+Mười	Np
+này	P
+mới	R
+làm	V
+nghề	N
+này	P
+đâu	T
+,	CH
+anh	N
+yên trí	V
+đi	R
+"	CH
+.	CH
+
+Chắc chắn	V
+là	C
+Mười	Np
+nói	V
+đúng	A
+...	CH
+
+Vừa	R
+ra	V
+khỏi	R
+nhà	N
+Mười	Np
+không	R
+xa	A
+,	CH
+chúng tôi	P
+thấy	V
+có	V
+một	M
+trạm	Nc
+kiểm lâm	V
+của	E
+tỉnh	N
+Lâm Đồng	Np
+!	CH
+
+Kỳ	N
+sau	A
+:	CH
+Những	L
+trùm	N
+"	CH
+đầu nậu	N
+"	CH
+.	CH
+
+Sẽ	R
+tổ chức	V
+phố	N
+đi	V
+bộ	N
+tại	E
+Hội An	Np
+.	CH
+
+Chủ tịch	N
+UBND	Ny
+tỉnh	N
+Quảng Nam	Np
+Nguyễn Xuân Phúc	Np
+cho	V
+biết	V
+tỉnh	N
+sẽ	R
+đầu tư	V
+xây dựng	V
+khu phố	N
+đi	V
+bộ	N
+tại	E
+6	M
+đường	N
+phố	N
+chính	A
+của	E
+khu phố	N
+cổ	A
+Hội An	Np
+,	CH
+đồng thời	C
+tổ chức	V
+chợ	N
+đêm	N
+,	CH
+các	L
+quán	N
+bar	FW
+,	CH
+cà phê	N
+,	CH
+các	L
+khu	N
+vui chơi	V
+giải trí	V
+mở cửa	V
+phục vụ	V
+theo	E
+yêu cầu	N
+của	E
+du khách	N
+.	CH
+
+Tại	E
+các	L
+điểm	N
+du lịch	V
+này	P
+sẽ	R
+tổ chức	V
+các	L
+lễ hội	N
+,	CH
+như	C
+đêm	N
+rằm	N
+phố	N
+cổ	A
+mỗi	M
+tuần	N
+một	M
+lần	N
+và	C
+tổ chức	V
+các	L
+hội nghị	N
+quốc tế	N
+và	C
+mở	V
+các	L
+tour	FW
+du lịch	V
+làng nghề	N
+truyền thống	A
+.	CH
+
+Cũng	R
+trong	E
+chương trình	N
+đẩy mạnh	V
+phát triển	V
+du lịch	N
+này	P
+,	CH
+tổ chức	N
+JICA	Np
+Nhật Bản	Np
+đã	R
+đề nghị	V
+Quảng Nam	Np
+triển khai	V
+nhanh	A
+10	M
+dự án	N
+do	E
+ICA	Np
+đề xuất	V
+trong	E
+phát triển	V
+du lịch	N
+miền	N
+Trung	Np
+như	C
+dự án	N
+Trung tâm	N
+thông tin	N
+du lịch	N
+,	CH
+phát triển	V
+bãi	N
+đậu	V
+đổ	V
+xe	N
+bên	N
+đường	N
+,	CH
+mạng lưới	N
+thông tin	N
+bảo tàng	N
+lịch sử	N
+văn hoá	N
+,	CH
+dự án	N
+Trung tâm	N
+du khách	N
+,	CH
+mạng lưới	N
+đường bộ	N
+ven	N
+biển	N
+,	CH
+chương trình	N
+phòng	N
+trưng bày	V
+khu	N
+tháp	N
+Chăm	Np
+Mỹ Sơn	Np
+,	CH
+chương trình	N
+giảm thiểu	V
+tác động	N
+của	E
+lũ	N
+tại	E
+đô thị	N
+cổ	A
+Hội An	Np
+,	CH
+chương trình	N
+quản lý	V
+đô thị	N
+cổ	A
+Hội An	Np
+quản lý	V
+khu	N
+tháp	N
+Chăm	Np
+Mỹ Sơn	Np
+,	CH
+Chương trình	N
+Hỗ trợ	V
+du lịch	N
+đồng quê	N
+.	CH
+
+Cuộc đời	N
+dưới	E
+vành	N
+mũ	N
+thám tử	N
+.	CH
+
+Mua	V
+bồ	N
+của	E
+chồng	N
+:	CH
+Ván	N
+bài	N
+êm dịu	A
+.	CH
+
+Một	M
+hôm	N
+,	CH
+đợi	V
+Lan	Np
+ra	V
+ngoài	N
+,	CH
+Thắng	Np
+áo	N
+trắng	A
+,	CH
+quần	N
+xanh	A
+,	CH
+cắp	V
+cặp	N
+và	C
+cầm	V
+tờ	Nc
+bảng biểu	N
+to tướng	A
+ghi	V
+danh sách	N
+tên tuổi	N
+,	CH
+địa chỉ	N
+những	L
+gia đình	N
+bên	N
+cạnh	N
+nhà	N
+Lan	Np
+.	CH
+
+Tiếp cận	V
+.	CH
+
+Thắng	Np
+gõ cửa	V
+,	CH
+bà già	N
+giúp việc	V
+ra	V
+đón	V
+.	CH
+
+Thắng	Np
+giới thiệu	V
+là	C
+cán bộ	N
+Ủy ban	N
+Dân số	N
+&	CH
+kế hoạch hóa	V
+gia đình	N
+phường	N
+đến	V
+điều tra	V
+dân số	N
+,	CH
+kèm	V
+các	L
+khuyến cáo	N
+nuôi	V
+trẻ	N
+nhỏ	A
+.	CH
+
+Bà	N
+mở cửa	V
+và	C
+khai	V
+vào	E
+bảng biểu	N
+:	CH
+nhà	N
+có	V
+ba	M
+người	N
+,	CH
+Bùi Thị Lan	Np
+,	CH
+chủ hộ	N
+,	CH
+26	M
+tuổi	N
+.	CH
+
+Nghề nghiệp	N
+:	CH
+tự do	A
+.	CH
+
+Hộ khẩu	N
+:	CH
+Bắc Ninh	Np
+.	CH
+
+Con trai	N
+:	CH
+Nguyễn Văn Tường	Np
+LBKT	CH
+trùng	V
+họ	N
+với	E
+Nam	Np
+RBKT	CH
+3	M
+tuổi	N
+...	CH
+
+Để	E
+vây	V
+chặt	A
+hơn	R
+,	CH
+Thắng	Np
+gặp	V
+bà	Nc
+chủ	N
+quán	N
+nước	N
+đầu	N
+ngõ	N
+nhà	N
+Lan	Np
+và	C
+nói	V
+:	CH
+"	CH
+Cháu	N
+có	V
+người	N
+vay	V
+tiền	N
+và	C
+trốn	V
+LBKT	CH
+đưa	V
+ảnh	N
+Nam	Np
+RBKT	CH
+.	CH
+
+Cháu	N
+biết	V
+anh	N
+ta	P
+có	V
+người nhà	N
+mới	R
+chuyển	V
+đến	E
+ngôi	Nc
+nhà	N
+kia	P
+.	CH
+
+Cháu	N
+gửi	V
+bác	N
+500 . 000	M
+đ	Nu
+nhờ	V
+bác	N
+thấy	V
+anh	N
+ta	P
+thì	C
+gọi	V
+cho	E
+cháu	N
+số	N
+điện	N
+này	P
+"	CH
+.	CH
+
+Bà	N
+bán	V
+quán	N
+không	R
+phát hiện	V
+được	R
+gì	P
+.	CH
+
+Một	M
+hôm	N
+Thắng	Np
+thấy	V
+Lan	Np
+ra	V
+ngoài	N
+và	C
+đưa	V
+con	N
+đến	E
+một	M
+ngôi	Nc
+nhà	N
+trong	E
+ngõ	N
+Quỳnh	Np
+LBKT	CH
+Thanh Nhàn	Np
+,	CH
+Hai Bà Trưng	Np
+RBKT	CH
+.	CH
+
+Lan	Np
+tỏ vẻ	V
+rất	R
+thân tình	A
+với	E
+chủ	N
+nhà	N
+và	C
+trưa	N
+đó	P
+mẹ con	N
+cô	N
+ăn	V
+cơm	N
+ở	E
+đây	P
+.	CH
+
+Lần	N
+thứ	N
+hai	M
+,	CH
+vào	E
+một	M
+buổi	N
+tối	N
+,	CH
+Lan	Np
+đi	V
+đến	E
+một	M
+nhà hàng	N
+karaoke	FW
+trên	E
+đường	N
+Bưởi	Np
+.	CH
+
+Thắng	Np
+kiểm tra	V
+ví	N
+tiền	N
+và	C
+gọi	V
+thêm	R
+hai	M
+người	N
+bạn	N
+đóng	V
+vai	N
+khách	N
+làng chơi	N
+,	CH
+hùng dũng	A
+tiến	V
+vào	R
+.	CH
+
+Yêu cầu	N
+của	E
+đám	Nc
+công tử	N
+này	P
+là	V
+bắt buộc	V
+phải	V
+có	V
+tiếp viên	N
+mới	A
+.	CH
+
+Cuối cùng	A
+Thắng	Np
+cũng	R
+gặp	V
+Lan	Np
+.	CH
+
+Thắng	Np
+xuất hiện	V
+trong	E
+cuộc chơi	N
+là	C
+một	M
+gã	N
+đốt	V
+tiền	N
+như	C
+giấy	N
+,	CH
+lạnh lùng	A
+,	CH
+không	R
+háo sắc	A
+,	CH
+nho nhã	A
+,	CH
+khí khái	A
+và	C
+đầy	A
+tâm tư	N
+.	CH
+
+Thắng	Np
+gần	R
+như	C
+không	R
+hỏi	V
+gì	P
+về	E
+đời	N
+tư	A
+của	E
+Lan	Np
+.	CH
+
+Thắng	Np
+phân tích	V
+:	CH
+Lan	Np
+có	V
+nguồn gốc	N
+là	V
+tiếp viên	N
+quán	N
+hát	N
+và	C
+có thể	A
+quen	V
+Nam	Np
+từ	E
+đây	P
+.	CH
+
+Khoản	N
+tiền	N
+trợ cấp	V
+của	E
+Nam	Np
+cho	V
+Lan	Np
+chắc	A
+không	R
+đủ	A
+chi phí	V
+cho	E
+một	M
+cô	Nc
+gái	N
+ưa	V
+xài	V
+sang	A
+,	CH
+một	M
+đứa	Nc
+con	N
+nhỏ	A
+và	C
+một	M
+bà	Nc
+giúp việc	V
+.	CH
+
+Cộng	V
+với	E
+cảnh	N
+sống	N
+tù túng	A
+,	CH
+buồn tẻ	A
+;	CH
+và	C
+có thể	R
+do	E
+bạn bè	N
+lôi kéo	V
+,	CH
+Lan	Np
+đã	R
+quay	V
+lại	R
+nghề	N
+cũ	A
+.	CH
+
+Và	C
+đây	P
+là	V
+cơ hội	N
+tốt	A
+nhất	R
+để	E
+khai thác	V
+Lan	Np
+...	CH
+
+Bốn	M
+ngày	N
+sau	N
+Thắng	Np
+lại	R
+đến	V
+quán	N
+hát	V
+cùng	A
+tốp	Nc
+bạn	N
+khác	A
+và	C
+anh	N
+lại	R
+đòi	V
+gặp	V
+Lan	Np
+.	CH
+
+Câu chuyện	N
+lần	N
+này	P
+nồng nhiệt	A
+hơn	R
+nhưng	C
+chủ yếu	A
+là	C
+Thắng	Np
+bộc lộ	V
+hoàn cảnh	N
+của	E
+mình	P
+:	CH
+rất	R
+nhiều	A
+tiền	N
+vì	E
+đang	R
+thắng	V
+trong	E
+kinh doanh	V
+nhưng	C
+bất hạnh	A
+vì	E
+bị	V
+phụ tình	V
+,	CH
+cô đơn	A
+và	C
+thấy	V
+cõi đời	N
+này	P
+nhem nhuốc	A
+,	CH
+xấu xa	A
+,	CH
+không	R
+bao dung	A
+sự	Nc
+tử tế	N
+...	CH
+
+Lan	Np
+bắt đầu	V
+cảm động	V
+trước	E
+người	Nc
+đàn ông	N
+bản lĩnh	A
+,	CH
+phóng khoáng	A
+và	C
+nhân hậu	A
+này	P
+.	CH
+
+Lần	N
+thứ	N
+ba	M
+,	CH
+Thắng	Np
+đến	V
+hát	V
+hơi	R
+muộn	A
+và	C
+tận	E
+khi	N
+nhà hàng	N
+đóng cửa	V
+mới	R
+đứng	V
+dậy	V
+.	CH
+
+Đang	R
+đượm	V
+men	N
+tình	N
+thì	C
+giờ	N
+chia tay	V
+vội	A
+đến	V
+.	CH
+
+Bịn rịn	V
+một	M
+lúc	N
+bên	N
+thềm	N
+,	CH
+Thắng	Np
+đề nghị	V
+được	V
+đưa	V
+Lan	N
+về	V
+nhà	N
+.	CH
+
+Lan	Np
+đồng ý	V
+và	C
+chỉ	R
+cho	V
+Thắng	Np
+về	V
+đến	E
+ngõ	N
+rồi	C
+chia tay	V
+.	CH
+
+Thắng	Np
+tỏ	V
+ra	R
+quá	R
+si mê	A
+và	C
+không thể	R
+chịu đựng	V
+được	R
+sự	Nc
+bí ẩn	A
+của	E
+người	N
+mình	P
+yêu thương	V
+nên	C
+một	M
+lần	N
+anh	N
+đưa	V
+Lan	Np
+đến	E
+ngõ	N
+vờ	V
+bỏ	V
+về	V
+rồi	C
+bất ngờ	A
+quay	V
+lại	R
+khi	N
+Lan	Np
+đang	R
+mở	V
+cổng	N
+.	CH
+
+Lan	Np
+buộc	V
+phải	V
+cho	V
+Thắng	Np
+vào	V
+nhà	N
+.	CH
+
+Câu chuyện	N
+Lan	Np
+đã	R
+có	V
+con	N
+cũng	R
+không thể	R
+giấu	V
+được	R
+nữa	R
+...	CH
+
+Cuối cùng	A
+Thắng	Np
+bày tỏ	V
+tình yêu	N
+với	E
+Lan	Np
+,	CH
+anh	N
+nói	V
+có thể	R
+chấp nhận	V
+hết	R
+quá khứ	N
+không	R
+may	A
+của	E
+Lan	Np
+,	CH
+kể cả	X
+đứa	Nc
+nhỏ	N
+.	CH
+
+Nhưng	C
+Lan	Np
+phải	V
+thành thật	A
+kể	V
+hết	R
+mọi	N
+chuyện	N
+cho	E
+anh	N
+nghe	V
+.	CH
+
+Thắng	Np
+sẽ	R
+tìm	V
+nghề	N
+mới	A
+cho	E
+Lan	Np
+,	CH
+sẽ	R
+xây dựng	V
+tương lai	N
+hai	M
+đứa	Nc
+.	CH
+
+Lúc	N
+này	P
+Lan	Np
+kể	V
+hết	R
+tình	N
+đầu	N
+:	CH
+Lan	Np
+gặp	V
+Nam	Np
+trong	E
+quán	N
+hát	V
+.	CH
+
+Hai	M
+người	N
+yêu quí	V
+và	C
+cặp bồ	V
+.	CH
+
+Lan	Np
+sinh	V
+con	N
+ngoài	N
+ý muốn	N
+.	CH
+
+Biết	V
+con	N
+mình	P
+,	CH
+Nam	Np
+sống	V
+rất	R
+có	V
+trách nhiệm	N
+.	CH
+
+Nam	Np
+đi	V
+xem bói	V
+,	CH
+thầy	N
+bảo	V
+:	CH
+anh	N
+làm ăn	V
+được	R
+là	V
+do	C
+có	V
+đứa	Nc
+con trai	N
+ngoài	N
+giá thú	N
+phù hộ	V
+.	CH
+
+Nam	Np
+càng	R
+gắn bó	V
+hơn	R
+với	E
+mẹ con	N
+Lan	Np
+.	CH
+
+Nam	Np
+mua	V
+nhà	N
+,	CH
+mua	V
+xe	N
+và	C
+chu cấp	V
+hằng	R
+tháng	N
+cho	E
+mẹ con	N
+Lan	Np
+.	CH
+
+Nhưng	C
+Nam	Np
+vô cùng	R
+sợ	V
+vợ	N
+biết	V
+chuyện	N
+.	CH
+
+Mọi	N
+quan hệ	N
+của	E
+hai	M
+người	N
+đều	R
+phải	V
+đảm bảo	V
+tối mật	A
+.	CH
+
+Bởi	C
+Nam	Np
+đã	R
+từng	R
+bị	V
+vợ	N
+bắt	V
+quả tang	R
+bồ bịch	N
+và	C
+chị	N
+đã	R
+đâm đơn	V
+ra	V
+tòa	N
+.	CH
+
+Vấn đề	N
+chính	T
+là	V
+nếu	C
+ly dị	V
+thì	C
+một nửa	L
+tài sản	N
+của	E
+Nam	Np
+,	CH
+tương đương	V
+cả	T
+chục	M
+tỉ	M
+đồng	Nu
+,	CH
+sẽ	R
+thuộc	V
+về	E
+người	Nc
+vợ	N
+.	CH
+
+Nam	Np
+không	R
+dám	V
+.	CH
+
+Nếu	C
+lần	N
+này	P
+vợ	N
+phát hiện	V
+được	R
+thì	C
+chắc chắn	A
+cô	N
+ta	P
+sẽ	R
+ly dị	V
+.	CH
+
+Điều	N
+đó	P
+cũng	R
+có	V
+nghĩa	N
+cho	E
+dù	C
+nồng thắm	A
+,	CH
+nghĩa tình	N
+như thế nào	X
+đi nữa	X
+thì	C
+Nam	Np
+và	C
+Lan	Np
+cũng	R
+không thể	R
+lấy	V
+nhau	N
+.	CH
+
+Và	C
+Lan	Np
+không thể	R
+ở vậy	V
+đến	E
+cuối	N
+đời	N
+mà	C
+dựa	V
+vào	E
+mối	N
+tình	N
+chui lủi	V
+,	CH
+được chăng hay chớ	X
+đó	P
+.	CH
+
+Nhưng	C
+muốn	V
+lấy	V
+chồng	N
+cũng	R
+phải	V
+chờ	V
+con	N
+lớn	V
+,	CH
+ở	E
+hoàn cảnh	N
+đó	P
+thì	C
+lấy	V
+được	R
+chồng	N
+tử tế	A
+không	R
+dễ	A
+...	CH
+
+Lan	Np
+đang	R
+bế tắc	A
+.	CH
+
+Lối thoát	N
+cho	E
+cả	T
+ba	M
+bên	N
+.	CH
+
+Thắng	Np
+cho	V
+Nhi	Np
+nghe	V
+các	L
+cuộc	Nc
+trò chuyện	N
+của	E
+mình	P
+và	C
+Lan	Np
+qua	E
+ghi âm	V
+và	C
+phân tích	V
+tình hình	N
+cụ thể	A
+.	CH
+
+Về	E
+phía	N
+Nam	Np
+,	CH
+mối	N
+quan hệ	N
+mà	C
+anh	N
+có	V
+với	E
+Lan	Np
+một	M
+phần	N
+vì	E
+yêu mến	V
+,	CH
+một	M
+phần	N
+vì	E
+trách nhiệm	N
+,	CH
+một	M
+phần	N
+vì	E
+mê tín	V
+.	CH
+
+Nghĩa là	X
+mối	N
+quan hệ	N
+này	P
+không	R
+có	V
+cơ sở	N
+vững chắc	A
+và	C
+không	R
+đáng	V
+ủng hộ	V
+.	CH
+
+Mặt khác	X
+,	CH
+Nam	Np
+thừa	A
+hiểu	V
+không thể	R
+bỏ	V
+vợ	N
+cũng	R
+như	C
+không thể	R
+cưới	V
+Lan	Np
+.	CH
+
+Như vậy	C
+mối	N
+quan hệ	N
+với	E
+Lan	Np
+sẽ	R
+ngày càng	X
+nguy hiểm	A
+và	C
+ngày càng	X
+nhạt phai	V
+...	CH
+
+Chắc chắn	A
+đã	R
+có	V
+lúc	N
+Nam	Np
+cảm thấy	V
+đó	P
+là	V
+gánh	N
+nặng	A
+khó	A
+giải quyết	V
+.	CH
+
+Và	C
+cảm giác	N
+này	P
+sẽ	R
+lớn	A
+dần	R
+theo	E
+thời gian	N
+,	CH
+theo	E
+tuổi tác	N
+,	CH
+theo	E
+những	L
+xích mích	N
+đôi	N
+bên	N
+và	C
+đặc biệt	A
+khi	N
+Lan	Np
+quay	V
+lại	R
+nghề	N
+cũ	A
+.	CH
+
+Như vậy	C
+,	CH
+bản thân	N
+Nam	Np
+cũng	R
+có thể	R
+chấm dứt	V
+mối	N
+quan hệ	N
+này	P
+nếu	C
+việc	Nc
+đó	P
+không	R
+gây	V
+tác động	V
+lớn	A
+đến	E
+tình cảm	N
+,	CH
+danh dự	N
+,	CH
+tiền bạc	N
+của	E
+anh	N
+.	CH
+
+Về	E
+phía	N
+Lan	Np
+.	CH
+
+Cô	N
+ta	P
+không	R
+có	V
+âm mưu	N
+xui	V
+Nam	Np
+bỏ	V
+vợ	N
+hay	C
+muốn	V
+chính thức	A
+lấy	V
+Nam	Np
+.	CH
+
+Mối	N
+quan hệ	N
+đôi	M
+bên	N
+bây giờ	P
+tồn tại	V
+bởi	E
+hai	M
+sợi	Nc
+dây	N
+.	CH
+
+Thứ	N
+nhất	M
+:	CH
+tình cảm	N
+hai	M
+người	N
+đang	R
+êm đẹp	A
+và	C
+không	R
+ai	P
+có thể	R
+tự	P
+tuyên bố	V
+cắt	V
+bỏ	V
+mà	C
+không	R
+có	V
+tác động	N
+lớn	A
+nào	P
+xen	V
+vào	V
+.	CH
+
+Thứ	N
+hai	M
+,	CH
+dù sao	C
+Lan	Np
+cũng	R
+đang	R
+trông	V
+vào	R
+trợ cấp	V
+của	E
+Nam	Np
+.	CH
+
+Như vậy	C
+về	E
+phía	N
+Lan	Np
+nếu	C
+có	V
+sự	Nc
+chống phá	V
+,	CH
+chia rẽ	V
+hợp lý	A
+cộng	V
+với	T
+có	V
+một	M
+nguồn	N
+kinh tế	N
+nào đó	P
+đủ	A
+để	E
+sống	V
+và	C
+nuôi	V
+con	N
+không	R
+vất vả	A
+thì	C
+cô	N
+sẽ	R
+chấm dứt	V
+được	R
+mối	N
+quan hệ	N
+này	P
+.	CH
+
+Nhi	Np
+muốn	V
+họ	P
+lìa	V
+nhau	N
+theo	E
+ý	N
+của	E
+chị	N
+:	CH
+tuyệt đối	A
+không	R
+đi lại	V
+với	E
+nhau	N
+và	C
+đứa	Nc
+con	N
+của	E
+Lan	Np
+sẽ	R
+không	R
+được	V
+công nhận	V
+trước	E
+pháp lý	N
+là	C
+con	N
+của	E
+Nam	Np
+.	CH
+
+Tức là	C
+mẹ con	N
+Lan	Np
+không	R
+được	R
+đòi	V
+tài sản	N
+thừa kế	V
+từ	E
+Nam	Np
+.	CH
+
+Thêm	V
+nữa	R
+,	CH
+nếu	C
+câu chuyện	N
+này	P
+kết thúc	V
+mà	C
+không	R
+ảnh hưởng	V
+đến	E
+tình cảm	N
+vợ chồng	N
+Nhi	Np
+thì	C
+càng	R
+tốt	A
+.	CH
+
+Qua	E
+phân tích	V
+,	CH
+Thắng	Np
+thấy	V
+cần	V
+loại bỏ	V
+Nam	Np
+khỏi	V
+kế hoạch	N
+này	P
+và	C
+chỉ	R
+tấn công	V
+vào	E
+Lan	Np
+.	CH
+
+Phương pháp	N
+này	P
+sẽ	R
+dễ	A
+thành công	V
+và	C
+êm đẹp	A
+nhất	R
+.	CH
+
+Màn kịch	N
+của	E
+Thắng	Np
+với	C
+Lan	Np
+vẫn	R
+tiếp diễn	V
+.	CH
+
+Sau	E
+cú	Nc
+sốc	N
+biết	V
+Lan	Np
+quan hệ	V
+với	E
+Nam	Np
+,	CH
+Thắng	Np
+khuyên	V
+Lan	Np
+nên	V
+chấm dứt	V
+.	CH
+
+Lý do	N
+:	CH
+Nam	Np
+không thể	R
+cưới	V
+Lan	Np
+.	CH
+
+Lan	Np
+còn	V
+trẻ	A
+,	CH
+đẹp	A
+và	C
+hoàn toàn	A
+có thể	R
+lấy	V
+chồng	N
+tử tế	A
+,	CH
+tự	P
+làm	V
+để	E
+nuôi	V
+gia đình	N
+và	C
+làm giàu	V
+.	CH
+
+Lan	Np
+không thể	R
+dựa	V
+mãi	R
+vào	E
+Nam	Np
+vì	E
+Nam	Np
+có thể	R
+không	R
+có	V
+điều kiện	N
+chu cấp	V
+cho	E
+cô	N
+đến	E
+hết	V
+đời	N
+,	CH
+Nam	Np
+có thể	R
+lại	R
+vướng	V
+vào	R
+hàng	R
+chục	M
+cô	N
+khác	A
+,	CH
+đó	P
+là	V
+chưa	R
+kể	V
+vợ	N
+Nam	Np
+có thể	R
+biết	V
+.	CH
+
+Lan	Np
+cũng	R
+không thể	R
+trông chờ	V
+việc	Nc
+con	Nc
+mình	P
+hưởng	V
+thừa kế	V
+của	E
+Nam	Np
+vì	E
+từ	E
+nay	P
+đến	E
+đó	P
+biết bao	R
+đổi thay	N
+,	CH
+biến cố	N
+.	CH
+
+Hơn nữa	C
+cơ hội	N
+để	E
+lấy	V
+chồng	N
+,	CH
+có	V
+vốn	N
+,	CH
+hoàn lương	V
+ngày một	X
+xa	A
+dần	R
+.	CH
+
+Việc	Nc
+Thắng	Np
+có	V
+lấy	V
+Lan	Np
+hay	C
+không	R
+sẽ	R
+bàn	V
+sau	E
+khi	N
+Lan	Np
+quyết định	V
+từ bỏ	V
+Nam	Np
+.	CH
+
+Lúc	N
+này	P
+Lan	Np
+thật sự	A
+hoang mang	V
+.	CH
+
+Thắng	Np
+cố tình	V
+để	E
+tình cảm	N
+nhạt	A
+dần	R
+và	C
+đánh tiếng	V
+xa xôi	A
+rằng	C
+có	V
+biết	V
+vợ	N
+của	E
+Nam	Np
+,	CH
+cô	N
+ấy	P
+là	V
+người	N
+rất	R
+cứng rắn	A
+và	C
+hiểu biết	V
+,	CH
+nhiều	A
+thế lực	N
+nhưng	C
+rất	R
+nhân hậu	A
+.	CH
+
+Nếu	C
+cô	N
+ta	P
+biết	V
+rõ	A
+hoàn cảnh	N
+của	E
+Lan	Np
+là	C
+làm	V
+ở	E
+quán	N
+hát	V
+,	CH
+không	R
+mua chuộc	V
+,	CH
+dựa dẫm	V
+gì	R
+chồng	N
+cô	N
+ta	P
+,	CH
+chẳng	R
+may	A
+có	V
+con	N
+ngoài	N
+ý muốn	N
+và	C
+bây giờ	P
+gặp	V
+khó khăn	A
+.	CH
+
+Hơn nữa	C
+,	CH
+Lan	Np
+cũng	R
+không	R
+muốn	V
+phá	V
+vỡ	V
+hạnh phúc	N
+gia đình	N
+họ	P
+thì	C
+chắc chắn	A
+cô	N
+ấy	P
+sẽ	R
+bù đắp	V
+tiền	N
+cho	E
+Lan	Np
+khôi phục	V
+cuộc sống	N
+...	CH
+
+Anh	N
+thử	V
+gợi ý	V
+cho	E
+cô	N
+ấy	P
+nhé	T
+?	CH
+"	CH
+,	CH
+Thắng	Np
+hỏi	V
+.	CH
+
+Lan	Np
+không	R
+ngăn cản	V
+.	CH
+
+Sau	N
+đó	P
+Thắng	Np
+không	R
+nhắc	V
+gì	P
+đến	E
+câu chuyện	N
+đó	P
+.	CH
+
+Lan	Np
+sốt ruột	V
+gặng	V
+hỏi	V
+.	CH
+
+Thắng	Np
+nói	V
+:	CH
+"	CH
+Cô	N
+ấy	P
+rất	R
+hào phóng	A
+và	C
+thông cảm	V
+.	CH
+
+Nhưng	C
+cô	N
+ấy	P
+đòi	V
+một số	L
+điều kiện	N
+"	CH
+.	CH
+
+Lan	Np
+hỏi	V
+:	CH
+"	CH
+Điều kiện	N
+gì	P
+?	CH
+"	CH
+.	CH
+
+Đã	R
+đến	E
+lúc	N
+Thắng	Np
+lật	V
+bài	N
+:	CH
+"	CH
+Thật ra	R
+anh	N
+là	V
+em	N
+họ	N
+chị	Nc
+Nhi	Np
+.	CH
+
+Chị	N
+ấy	P
+định	V
+xử	V
+em	N
+theo	E
+luật	N
+giang hồ	N
+nhưng	C
+anh	N
+đã	R
+nói	V
+hết	R
+về	E
+em	N
+.	CH
+
+Chị	N
+ấy	P
+rất	R
+độ lượng	A
+và	C
+thông cảm	V
+.	CH
+
+Chị	N
+chấp nhận	V
+chúng ta	P
+thương lượng	V
+với	E
+nhau	N
+"	CH
+.	CH
+
+Cụ thể	A
+:	CH
+Nhi	Np
+sẽ	R
+không	R
+trả thù	V
+,	CH
+bêu xấu	V
+và	C
+không	R
+đòi	V
+lại	R
+những	L
+tài sản	N
+mà	C
+Nam	Np
+cho	V
+Lan	Np
+.	CH
+
+Nhi	Np
+cho	V
+Lan	Np
+số	N
+tiền	N
+khá	R
+lớn	A
+để	E
+tự	P
+lo	V
+cuộc sống	N
+mới	A
+.	CH
+
+Đổi	V
+lại	R
+,	CH
+Lan	Np
+phải	V
+chấm dứt	V
+tuyệt đối	A
+mối	N
+quan hệ	N
+với	E
+Nam	Np
+,	CH
+phải	V
+chuyển	V
+đến	E
+một	M
+tỉnh	N
+khác	A
+để	E
+sinh sống	V
+.	CH
+
+Lan	Np
+phải	V
+viết	V
+giấy	N
+thừa nhận	V
+đứa	Nc
+con	N
+của	E
+mình	P
+không	R
+phải	A
+là	C
+con	N
+Nam	Np
+vì	E
+nó	P
+được	R
+sinh	V
+ra	R
+trước	E
+ngày	N
+Lan	Np
+đến	V
+Hà Nội	Np
+,	CH
+nó	P
+mang	V
+họ	N
+bố	N
+và	C
+không	R
+trùng	V
+với	E
+họ	N
+của	E
+Nam	Np
+.	CH
+
+Tất cả	P
+chuyện	N
+này	P
+đều	R
+phải	V
+tuyệt đối	A
+giấu	V
+Nam	Np
+.	CH
+
+Tiền	N
+sẽ	R
+được	V
+chuyển	V
+cho	E
+Lan	Np
+từng	R
+phần	N
+,	CH
+phụ thuộc	V
+vào	E
+tiến độ	N
+thực hiện	V
+"	CH
+dự án	N
+"	CH
+trên	N
+.	CH
+
+Trong	E
+hai	M
+tuần	N
+suy nghĩ	V
+và	C
+tham khảo	V
+những	L
+người	N
+xung quanh	N
+,	CH
+Lan	Np
+đã	R
+nhận	V
+thấy	V
+tính	N
+ưu việt	A
+của	E
+kế hoạch	N
+trên	N
+.	CH
+
+Còn	R
+Nhi	Np
+,	CH
+để	E
+hạnh phúc	N
+gia đình	N
+"	CH
+kiên cố	A
+"	CH
+từ	E
+bên	N
+trong	N
+,	CH
+chị	N
+bắt đầu	V
+trau dồi	V
+kiến thức	N
+về	E
+các	L
+loại	Nc
+rượu	N
+bổ	A
+và	C
+nước hoa	N
+...	CH
+
+Mọi	L
+người	N
+đều	R
+thán phục	V
+tài nghệ	N
+của	E
+thám tử	N
+Thắng	Np
+,	CH
+nhưng	C
+cũng	R
+phải	V
+thừa nhận	V
+thuận lợi	N
+ở	E
+đây	P
+là	V
+Nhi	Np
+có	V
+tiền	N
+và	C
+Thắng	Np
+...	CH
+già đời	A
+.	CH
+
+Còn	C
+nhân vật	N
+của	E
+sự kiện	N
+ngày mai	N
+thì	C
+rất	R
+non trẻ	A
+,	CH
+cũng	R
+chẳng	R
+có	V
+tiền	N
+.	CH
+
+Cô	N
+chỉ	R
+là	V
+một	M
+nữ sinh	N
+trung học	N
+và	C
+mất tích	V
+đã	R
+10	M
+ngày	N
+nay	P
+.	CH
+
+Kỷ niệm	V
+59	M
+năm	N
+Cách mạng	N
+Tháng Tám	Np
+và	C
+Quốc khánh	N
+2	M
+-	CH
+9	M
+.	CH
+
+"	CH
+Rủ	V
+nhau	N
+đi	V
+làm	V
+cách mạng	N
+"	CH
+...	CH
+
+Đã	R
+83	M
+tuổi	N
+nhưng	C
+bác	Nc
+Sáu Chí	Np
+LBKT	CH
+Nguyễn Văn Chí	Np
+RBKT	CH
+hồ hởi	A
+ra mặt	V
+khi	N
+nghe	V
+nhắc	V
+chuyện	N
+Cách mạng	N
+Tháng Tám	N
+.	CH
+
+"	CH
+Ui	T
+chao	T
+,	CH
+không khí	N
+những	L
+ngày	N
+ấy	P
+tuyệt vời	A
+lắm	R
+.	CH
+
+Ngày	N
+ấy	P
+chúng tôi	P
+gọi	V
+là	C
+:	CH
+Rủ	V
+nhau	N
+đi	V
+làm	V
+cách mạng	N
+"	CH
+.	CH
+
+Câu chuyện	N
+về	E
+những	L
+ngày	N
+tổng khởi nghĩa	V
+cứ thế	R
+cuốn	V
+theo	R
+cái	Nc
+đà	N
+"	CH
+rủ	V
+nhau	N
+"	CH
+ấy	P
+...	CH
+
+Tham gia	V
+cách mạng	N
+và	C
+vào	V
+Đảng	Np
+từ	E
+phong trào	N
+Nam kỳ	Np
+khởi nghĩa	V
+1940	M
+,	CH
+đến	E
+thời kỳ	N
+tổng khởi nghĩa	V
+tôi	P
+làm	V
+bí thư	N
+quận	N
+Trung	Np
+,	CH
+tỉnh	N
+Chợ Lớn	Np
+LBKT	CH
+một	M
+phần	N
+Long An	Np
+bây giờ	P
+RBKT	CH
+.	CH
+
+Khởi nghĩa	N
+Nam kỳ	Np
+thất bại	V
+,	CH
+phong trào	N
+bị	V
+đàn áp	V
+nhưng	C
+cái	Nc
+mầm	N
+để	E
+khôi phục	V
+rất	R
+lớn	A
+,	CH
+rất	R
+khỏe	A
+.	CH
+
+Nhà	N
+nào	P
+cũng	R
+cất giấu	V
+cờ đỏ sao vàng	N
+,	CH
+bà con	N
+nào	P
+cũng	R
+say mê	V
+tấm	Nc
+ảnh	N
+của	E
+lãnh tụ	N
+Nguyễn Ái Quốc	Np
+.	CH
+
+Dân	N
+tản cư	V
+từ	E
+Sài Gòn	Np
+ra	V
+để	E
+tránh	V
+bom đạn	N
+của	E
+liên quân	N
+cũng	R
+rất	R
+đông	A
+.	CH
+
+Chính sách	N
+tàn bạo	A
+của	E
+Nhật	Np
+thì	C
+ai	P
+cũng	R
+biết	V
+và	C
+khiếp sợ	V
+.	CH
+
+Chúng tôi	P
+cứ	R
+dựa	V
+vào	E
+đó	P
+để	E
+dấy	V
+lên	R
+phong trào	N
+.	CH
+
+Các	L
+tổ chức	N
+đoàn	N
+hội	N
+bán công khai	A
+dưới	E
+danh nghĩa	N
+cứu tế	V
+được	V
+thành lập	V
+,	CH
+thanh niên	N
+được	V
+vận động	V
+trốn lính	V
+,	CH
+giúp	V
+dân	N
+từ	E
+việc	Nc
+làm ruộng	V
+đến	E
+việc	Nc
+tang	N
+ma	N
+.	CH
+
+Chúng tôi	P
+giúp	V
+dân	N
+không	R
+lấy	V
+công	N
+,	CH
+không	R
+ăn	V
+cơm	N
+nên	C
+họ	P
+rất	R
+tin tưởng	V
+.	CH
+
+Những	L
+buổi	N
+tối	N
+,	CH
+buổi	N
+trưa	N
+vãn	V
+việc	N
+,	CH
+thanh niên	N
+trí thức	N
+lại	R
+tập họp	V
+dân chúng	N
+lại	R
+đọc	V
+báo	N
+,	CH
+phổ biến	V
+tình hình	N
+cho	E
+bà con	N
+.	CH
+
+Từ	E
+những	L
+buổi	Nc
+nói chuyện	V
+này	P
+,	CH
+chủ trương	N
+cách mạng	N
+đã	R
+được	R
+tuyên truyền	V
+tới	E
+nông dân	N
+,	CH
+và	C
+tổ chức	N
+cũng	R
+nhận	V
+ra	R
+được	R
+những	L
+người	N
+nòng cốt	N
+,	CH
+sẵn sàng	A
+sống chết	V
+với	E
+cách mạng	N
+.	CH
+
+Tôi	P
+nhớ	V
+mãi	R
+hôm	N
+chúng tôi	P
+tổ chức	V
+đọc	V
+thư	N
+của	E
+lãnh tụ	N
+Nguyễn Ái Quốc	Np
+gửi	V
+đồng bào	N
+cả	P
+nước	N
+.	CH
+
+Trước	E
+đó	P
+,	CH
+hết	T
+Pháp	Np
+rồi	C
+Nhật	Np
+loan	V
+tin	N
+Nguyễn Ái Quốc	Np
+đã	R
+chết	V
+khiến	V
+mọi	N
+người	N
+hoang mang	V
+,	CH
+thất vọng	V
+.	CH
+
+Rồi	C
+thư	N
+của	E
+Người	Np
+đến	V
+:	CH
+"	CH
+Cơ hội	N
+giải phóng	V
+đã	R
+đến	V
+rồi	R
+.	CH
+
+Hiện thời	N
+muốn	V
+đánh	V
+Pháp	Np
+,	CH
+Nhật	Np
+,	CH
+ta	P
+chỉ	R
+cần	V
+một	M
+điều	N
+:	CH
+Toàn	P
+dân	N
+đoàn kết	V
+.	CH
+
+Ai	P
+là	V
+người	Nc
+Việt Nam	Np
+đều	R
+phải	V
+gánh vác	V
+một	M
+phần	L
+trách nhiệm	N
+:	CH
+người	N
+có	V
+tiền	N
+góp	V
+tiền	N
+,	CH
+có	V
+của	N
+góp	V
+của	N
+,	CH
+có	V
+sức	N
+góp	V
+sức	N
+,	CH
+có	V
+tài năng	N
+góp	V
+tài năng	N
+.	CH
+
+Riêng	T
+phần	N
+tôi	P
+,	CH
+xin	V
+đem	V
+hết	R
+tâm lực	N
+đi	V
+cùng	E
+các	L
+bạn	N
+,	CH
+vì	E
+đồng bào	N
+mưu	V
+giành	V
+độc lập	N
+,	CH
+dù	E
+phải	V
+hi sinh	V
+tính mệnh	N
+cũng	R
+không	R
+nề	V
+"	CH
+.	CH
+
+Người	N
+đọc	V
+cao	A
+giọng	N
+ở	E
+trên	N
+,	CH
+người	N
+nghe	V
+sụt sùi	A
+ở	E
+dưới	N
+,	CH
+nhưng	C
+sau	E
+đó	P
+là	C
+một	M
+không khí	N
+bừng bừng	A
+phấn khích	A
+.	CH
+
+Mấy	L
+bà	N
+má	N
+tìm	V
+tôi	P
+:	CH
+"	CH
+Vậy là	C
+Nguyễn Ái Quốc	Np
+còn	R
+sống	V
+,	CH
+thế là	C
+yên tâm	A
+rồi	R
+"	CH
+.	CH
+
+Thời	N
+bây giờ	P
+mà	C
+nhớ	V
+lại	R
+những	L
+ngày	N
+hoạt động	V
+ấy	P
+thì	C
+thấy	V
+buồn cười	A
+.	CH
+
+Chúng tôi	P
+đi	V
+làm	V
+cách mạng	N
+mà	C
+cứ	R
+rủ	V
+nhau	N
+như	C
+là	C
+rủ	V
+ra	V
+ruộng	N
+làm đồng	V
+,	CH
+hẹn	V
+giờ	N
+bằng	E
+đồng hồ mặt trời	N
+.	CH
+
+Tình hình	N
+toàn cục	N
+thì	C
+cứ	R
+mua	V
+Báo	N
+Dân Chúng	Np
+để	E
+theo dõi	V
+,	CH
+vì	E
+tài liệu	N
+của	E
+tổ chức	N
+đưa	V
+theo	E
+đường dây	N
+rất	R
+chậm	A
+,	CH
+giao liên	N
+toàn	R
+đi	V
+bộ	N
+mà	T
+.	CH
+
+Việc	N
+đảm bảo	V
+bí mật	N
+hoàn toàn	A
+dựa	V
+vào	E
+lòng	N
+tin	V
+và	C
+sự	Nc
+lan truyền	V
+của	E
+những	L
+người	N
+cùng	A
+dòng họ	N
+.	CH
+
+Thế mà	X
+việc	N
+cướp	V
+chính quyền	N
+lại	R
+thành công	V
+mỹ mãn	A
+.	CH
+
+Đa số	L
+nhân dân	N
+không	R
+biết	V
+đọc	V
+,	CH
+nhưng	C
+chỉ	R
+sau	E
+một	M
+đêm	N
+họp	V
+phổ biến	V
+bản	Nc
+Hiệu triệu	Np
+của	E
+Xứ	N
+bộ	N
+Đảng	N
+Cộng sản	N
+Đông Dương	Np
+,	CH
+đi	V
+đến	E
+đâu	P
+cũng	R
+nghe	V
+bà con	N
+râm ran	A
+đọc	V
+thuộc lòng	V
+"	CH
+.	CH
+
+Họ	P
+quyết tâm	V
+đưa	V
+chúng ta	P
+làm	V
+bia đỡ đạn	N
+cho	E
+họ	P
+.	CH
+
+Quân đội	N
+họ	P
+nắm	V
+,	CH
+kinh tế	N
+họ	P
+chiếm	V
+,	CH
+ngoại giao	N
+họ	P
+lo	V
+,	CH
+chính trị	N
+họ	P
+cầm	V
+cả	T
+.	CH
+
+Cứu	V
+ta	P
+chỉ	R
+có	V
+ta	P
+thôi	T
+,	CH
+trông cậy	V
+vào	E
+người	N
+là	V
+chết	V
+"	CH
+.	CH
+
+Rằm	N
+tháng	N
+bảy	M
+năm	N
+ấy	P
+LBKT	CH
+tức	E
+khoảng	N
+22	M
+,	CH
+23	M
+-	CH
+8	M
+RBKT	CH
+,	CH
+nửa đêm	N
+Ủy ban	N
+Khởi nghĩa	N
+đánh	V
+trống quân	N
+tập hợp	V
+dân	N
+đi	V
+cướp	V
+chính quyền	N
+.	CH
+
+Khắp	A
+các	L
+làng	N
+mọi	L
+người	N
+đổ	V
+ra	V
+,	CH
+rầm rập	A
+tay	N
+đuốc	N
+,	CH
+tay	N
+vũ khí	N
+,	CH
+mà	C
+chỉ	R
+là	V
+dao	N
+,	CH
+mác	N
+,	CH
+roi	N
+tre	N
+,	CH
+gậy	N
+tầm vông	N
+.	CH
+
+Đội	N
+Thiếu niên	N
+tiền phong	A
+đã	R
+được	V
+tập	V
+từ	E
+trước	N
+nên	C
+hàng ngũ	N
+rất	R
+tề chỉnh	A
+.	CH
+
+Không khí	N
+ấy	P
+khiến	V
+đám	Nc
+hương ước	N
+,	CH
+hội tề	N
+trong	E
+làng	N
+rất	R
+kinh hoảng	V
+không	R
+dám	V
+chống cự	V
+.	CH
+
+Chúng tôi	P
+chiếm đóng	V
+nhà	N
+làm việc	V
+,	CH
+và	C
+đến	E
+sáng	N
+thì	C
+chính quyền	N
+mới	A
+đã	R
+thành lập	V
+xong	V
+,	CH
+đầy đủ	A
+các	L
+chức vị	N
+chủ tịch	N
+,	CH
+ủy viên	N
+hành chính	A
+,	CH
+quân sự	N
+,	CH
+an ninh	N
+...	CH
+,	CH
+các	L
+chính sách	N
+lớn	A
+như	C
+bỏ	V
+thuế thân	N
+,	CH
+tự do	A
+hội họp	V
+được	V
+công bố	V
+khiến	V
+bà con	N
+rất	R
+phấn khởi	A
+.	CH
+
+Nhưng	C
+tất cả	P
+việc	N
+đó	P
+vẫn	R
+chỉ	R
+là	V
+hình thức	N
+của	E
+cách mạng	N
+.	CH
+
+Cái	Nc
+lớn	A
+nhất	R
+mà	C
+công cuộc	N
+tập hợp	V
+nhân dân	N
+cướp	V
+chính quyền	N
+đã	R
+đạt	V
+được	R
+chính	T
+là	V
+điều	N
+được	V
+nhấn mạnh	V
+trong	E
+thư	N
+của	E
+Nguyễn Ái Quốc	Np
+:	CH
+Toàn	R
+dân	N
+đoàn kết	V
+.	CH
+
+Sự	Nc
+đoàn kết	V
+,	CH
+thương yêu	V
+lẫn	R
+nhau	N
+trong	E
+những	L
+ngày	N
+ấy	P
+đạt	V
+đến	E
+mức	N
+gần	A
+như	C
+tuyệt đối	A
+.	CH
+
+Đi	V
+đến	E
+đâu	P
+chúng tôi	P
+cũng	R
+gặp	V
+những	L
+gương mặt	N
+tươi cười	A
+,	CH
+hào hứng	A
+,	CH
+sẵn sàng	A
+đem	V
+tất cả	P
+những	L
+gì	P
+mình	P
+có	V
+để	E
+giúp	V
+người	N
+khác	A
+.	CH
+
+Những	L
+xích mích	N
+về	E
+bờ giậu	N
+,	CH
+khoảnh	Nc
+ruộng	N
+,	CH
+bờ	Nc
+ao	N
+mới	R
+hôm	N
+trước	N
+còn	R
+là	V
+những	L
+việc	N
+tày đình	A
+thì	C
+hôm nay	N
+mọi	L
+người	N
+vui cười	V
+bỏ qua	V
+trước	E
+sự	Nc
+chứng kiến	V
+của	E
+mặt trận	N
+Việt Minh	Np
+.	CH
+
+Các	L
+gia đình	N
+chia	V
+nhau	N
+nấu	V
+cơm	N
+cho	E
+anh em	N
+tự vệ	V
+,	CH
+trước	E
+cửa	N
+nhà	N
+làm việc	V
+lúc	N
+nào	P
+cũng	R
+có	V
+mấy	L
+bà	N
+má	N
+xởi lởi	A
+mang	V
+sang	V
+rổ	Nc
+khoai	N
+,	CH
+mớ	Nc
+bánh ú	N
+.	CH
+
+Chuyện	N
+cờ bạc	N
+,	CH
+trộm cắp	V
+,	CH
+nghiện hút	V
+mới	R
+cách	V
+đó	P
+ít lâu	N
+còn	V
+đầy rẫy	A
+thì	C
+nay	P
+bỗng	R
+vắng	V
+bóng	N
+.	CH
+
+Trong	E
+quy định	N
+của	E
+Việt Minh	Np
+còn	R
+có	V
+khoản	N
+cấm	V
+rượu chè	V
+,	CH
+nhưng	C
+ở	E
+tỉnh	N
+Chợ Lớn	Np
+có	V
+làng	N
+Gò Đen	Np
+nổi tiếng	A
+,	CH
+dân	N
+địa phương	N
+quan niệm	V
+"	CH
+vô	Z
+tửu	N
+bất	Z
+thành	V
+lễ	N
+"	CH
+.	CH
+
+Biết	V
+không thể	R
+cấm	V
+được	R
+,	CH
+chúng tôi	P
+đưa	V
+ra	V
+khuyến cáo	N
+"	CH
+không	R
+được	R
+say xỉn	V
+"	CH
+.	CH
+
+Thế là	X
+cảnh	N
+thanh niên	N
+,	CH
+đàn ông	N
+mặt mày	N
+đỏ gay	A
+,	CH
+đi lại	V
+ngật ngưỡng	A
+không	R
+thấy	V
+xuất hiện	V
+nữa	R
+.	CH
+
+Tối tối	N
+,	CH
+các	L
+lớp học	N
+bình dân	N
+rộn ràng	A
+tiếng	N
+đánh vần	V
+,	CH
+ai	P
+cũng	R
+đi	V
+học	V
+,	CH
+từ	E
+con nít	N
+đến	E
+ông bà	N
+già	A
+.	CH
+
+Họ	P
+bảo	V
+nhau	N
+:	CH
+"	CH
+Không	R
+đi	V
+học	V
+làm sao	R
+đọc	V
+được	R
+thư	N
+của	E
+lãnh tụ	N
+“	CH
+.	CH
+
+Sáng	N
+2	M
+-	CH
+9	M
+,	CH
+chúng tôi	P
+cũng	R
+tổ chức	V
+lễ	N
+độc lập	A
+,	CH
+chủ tịch	N
+tỉnh	N
+đứng	V
+lên	V
+đọc	V
+các	L
+văn bản	N
+được	V
+tổ chức	N
+gửi	V
+xuống	R
+,	CH
+đọc	V
+các	L
+tin tức	N
+trên	E
+báo chí	N
+.	CH
+
+Nghe	V
+tên	N
+Hồ Chí Minh	Np
+,	CH
+mọi	L
+người	N
+rất	R
+xôn xao	V
+,	CH
+nhao nhao	V
+hỏi	V
+:	CH
+"	CH
+Hồ Chí Minh	Np
+là	V
+ai	P
+?	CH
+"	CH
+.	CH
+
+Chúng tôi	P
+giải thích	V
+đó	P
+là	V
+tên	N
+mới	A
+của	E
+lãnh tụ	N
+Nguyễn Ái Quốc	Np
+,	CH
+rồi	C
+phải	V
+mang	V
+ảnh	N
+ra	R
+so sánh	V
+làm	V
+bằng chứng	N
+mọi	L
+người	N
+mới	R
+tin	V
+.	CH
+
+Và	C
+từ	E
+đó	P
+lại	R
+càng	R
+nô nức	A
+đi	V
+học	V
+.	CH
+
+Những	L
+ngày	N
+tuyệt vời	A
+ấy	P
+tiếc	V
+thay	T
+lại	R
+chỉ	R
+có	V
+29	M
+ngày	N
+ngắn ngủi	A
+.	CH
+
+háp	Np
+quay	V
+trở lại	V
+.	CH
+
+Đã	R
+biết	V
+kinh nghiệm	N
+của	E
+những	L
+ngày	N
+phong trào	N
+Nam kỳ	Np
+khởi nghĩa	V
+bị	V
+đàn áp	V
+đẫm	A
+máu	N
+,	CH
+một số	L
+người	N
+có	V
+tư tưởng	N
+hoang mang	V
+,	CH
+dao động	V
+,	CH
+chúng tôi	P
+lại	R
+tập họp	V
+,	CH
+giải thích	V
+rằng	C
+lần	N
+này	P
+chúng ta	P
+đã	R
+có	V
+Nhà nước	N
+,	CH
+có	V
+Chính phủ	N
+,	CH
+thủ đô	N
+vẫn	R
+còn	V
+,	CH
+Bác Hồ	Np
+vẫn	R
+đó	P
+,	CH
+chiến khu	N
+Việt Bắc	Np
+đã	R
+được	V
+chuẩn bị	V
+sẵn	A
+...	CH
+
+Nghe	V
+đến	E
+tên	N
+Bác Hồ	Np
+,	CH
+mọi	L
+người	N
+lại	R
+yên tâm	A
+,	CH
+lại	R
+bừng bừng	A
+khí thế	N
+và	C
+cứ thế	R
+nô nức	A
+đi	V
+thẳng	A
+đến	E
+những	L
+ngày	N
+Nam bộ	Np
+kháng chiến	V
+...	CH
+
+Theo	V
+chân	N
+đội	N
+quy tập	V
+mộ	N
+liệt sĩ	N
+LBKT	CH
+kì	N
+1	M
+RBKT	CH
+:	CH
+Đêm	N
+Thượng Lào	Np
+cuối	N
+mùa	N
+khô	A
+.	CH
+
+Trong	E
+cuộc	N
+chiến đấu	V
+vì	E
+nghĩa vụ	N
+quốc tế	A
+với	E
+nước	N
+bạn	N
+Lào	Np
+có	V
+36 . 000	M
+quân tình nguyện	N
+VN	Ny
+mãi mãi	R
+nằm	V
+lại	R
+trên	E
+những	L
+cánh	N
+rừng	N
+bạt ngàn	A
+trên	E
+đất	N
+bạn	N
+.	CH
+
+Tìm kiếm	V
+hài cốt	N
+liệt sĩ	N
+,	CH
+hơn	R
+20	M
+năm	N
+qua	V
+,	CH
+những	L
+người	Nc
+lính	N
+hậu sinh	N
+đã	R
+vượt	V
+rừng	N
+đến	V
+những	L
+vùng	N
+hiểm trở	A
+nhất	R
+...	CH
+
+Phóng viên	N
+Vũ Toàn	Np
+của	E
+báo	N
+Tuổi Trẻ	Np
+đã	R
+có	V
+những	L
+ngày đêm	N
+cùng	A
+những	L
+người	Nc
+lính	N
+trẻ	A
+băng	V
+rừng	N
+lội	V
+suối	N
+trên	E
+đất	N
+Lào	Np
+để	E
+tường trình	V
+một	M
+phần	N
+hành trình	N
+thầm lặng	A
+trong	E
+thời	N
+bình	A
+nhưng	C
+không	R
+kém	A
+phần	N
+gian khó	A
+để	E
+tìm kiếm	V
+một	M
+phần	N
+thân thể	N
+,	CH
+hình hài	N
+những	L
+người	Nc
+lính	N
+đã	R
+nằm xuống	V
+...	CH
+
+Những	L
+chấm	N
+đỏ	A
+trên	E
+tấm	Nc
+bản đồ	N
+chiến dịch	N
+.	CH
+
+Tôi	P
+đến	V
+được	R
+hậu cứ	N
+của	E
+đoàn	N
+quy tập	V
+hài cốt	N
+quân tình nguyện	N
+của	E
+Bộ chỉ huy	N
+quân sự	N
+tỉnh	N
+Nghệ An	Np
+đóng	V
+tại	E
+bìa	N
+rừng	N
+vùng	N
+ven	N
+thị xã	N
+Phôn Sa Vẳn	Np
+,	CH
+tỉnh	N
+Xiêng Khuảng	Np
+LBKT	CH
+miền	N
+Thượng Lào	Np
+RBKT	CH
+thì	C
+trời	N
+đã	R
+khuya	A
+.	CH
+
+Trong	E
+dãy	N
+nhà	N
+mái	N
+tôn	N
+thấp	A
+bé	A
+,	CH
+những	L
+người	Nc
+lính	N
+quy tập	V
+nằm	V
+úp thìa	V
+bên	N
+nhau	N
+theo	V
+đội hình	N
+hàng	N
+dọc	A
+trên	E
+từng	R
+dãy	N
+phản	N
+gỗ	N
+.	CH
+
+Phía	N
+ngoài	E
+sân	N
+thấp thoáng	V
+bóng	N
+hai	M
+chiến sĩ	N
+quàng	V
+súng	N
+đứng	V
+gác	V
+đêm	N
+.	CH
+
+Thượng tá	N
+Hồ Trọng Bình	Np
+,	CH
+đoàn trưởng	N
+đoàn	N
+quy tập	V
+,	CH
+dẫn	V
+tôi	P
+vào	E
+phòng	N
+chỉ huy	V
+.	CH
+
+Dù	C
+đêm	N
+đã	R
+khuya	A
+nhưng	C
+anh	N
+vẫn	R
+nhiệt tình	A
+mang	V
+tấm	Nc
+bản đồ	N
+mà	C
+các	L
+anh	N
+gọi	V
+là	C
+"	CH
+bản đồ	N
+chiến dịch	V
+đi	V
+tìm	V
+mộ	N
+liệt sĩ	N
+"	CH
+ra	R
+cho	E
+tôi	P
+xem	V
+.	CH
+
+Tấm	Nc
+bản đồ	N
+có	V
+nhiều	A
+vết	N
+gấp khúc	V
+,	CH
+chi chít	A
+những	L
+chấm	N
+đỏ	A
+dọc ngang	A
+bình	N
+độ	N
+ở	E
+nhiều	A
+cao độ	N
+khác	A
+nhau	P
+.	CH
+
+Tôi	P
+nhẩm	V
+đọc	V
+các	L
+địa danh	N
+đã	R
+nghe	V
+từ	E
+thời	N
+chiến tranh	V
+:	CH
+Mường Pẹt	Np
+,	CH
+Phu Phả Xay	Np
+,	CH
+bản	N
+Na	Np
+,	CH
+Mường Mộc	N
+,	CH
+Bom Loọng	N
+,	CH
+Loong Chẹng	N
+...	CH
+
+Dừng	V
+mắt	N
+lại	R
+khu vực	N
+Loong Chẹng	Np
+nơi	N
+hiện	V
+lên	R
+dày đặc	A
+những	L
+chấm	N
+đỏ	A
+,	CH
+tôi	P
+hỏi	V
+thượng tá	N
+Bình	Np
+:	CH
+Loong Chẹng	Np
+vốn	R
+là	V
+thủ phủ	N
+của	E
+"	CH
+châu	N
+phạ	N
+"	CH
+LBKT	CH
+vua	N
+trời	N
+RBKT	CH
+Vàng Pao	Np
+?	CH
+
+Đúng	A
+!	CH
+
+Sau	E
+1975	M
+Vàng Pao	Np
+đã	R
+chạy	V
+,	CH
+nhưng	C
+tàn quân	N
+phỉ	N
+vẫn	R
+còn	V
+hàng	R
+ngàn	M
+tay	N
+súng	N
+nằm	V
+rải rác	A
+quanh	N
+vùng	N
+...	CH
+
+Anh	N
+cho	V
+tôi	P
+vào	V
+Loong Chẹng	Np
+được	R
+không	R
+?	CH
+
+Thượng tá	N
+Bình	Np
+nhìn	V
+tôi	P
+thật	R
+lâu	A
+rồi	C
+buông	V
+lửng	A
+:	CH
+"	CH
+Căng	A
+đấy	T
+"	CH
+!	CH
+
+Đây	P
+là	V
+khu vực	N
+báo động	V
+số một	N
+của	E
+Lào	Np
+đấy	T
+.	CH
+
+Đường	N
+vào	V
+Loong Chẹng	Np
+phải	V
+vòng	V
+qua	R
+rừng	N
+Huội Mọ	Np
+hiểm trở	A
+,	CH
+đi	V
+qua	R
+đặc khu	N
+Xây Xẩm Bun	Np
+,	CH
+rồi	C
+đi	V
+thêm	V
+500	M
+km	Nu
+nữa	R
+mới	R
+tới	V
+.	CH
+
+Ôtô	N
+ngốn	V
+mất	R
+một	M
+ngày	N
+.	CH
+
+Đi	V
+bộ	N
+phải	V
+ba	M
+ngày	N
+.	CH
+
+Nhưng	C
+nguy hiểm	A
+nhất	R
+là	C
+gặp	V
+phỉ	N
+"	CH
+.	CH
+
+Quay	V
+lại	R
+chiếc	Nc
+bàn	N
+gỗ	N
+mộc	N
+,	CH
+thượng tá	N
+Bình	Np
+cho	V
+biết	V
+:	CH
+"	CH
+Mùa	N
+khô	A
+năm	N
+nay	P
+riêng	T
+mũi	N
+Loong Chẹng	Np
+qui tập	V
+được	R
+97	M
+mộ	N
+.	CH
+
+Sáu	M
+mũi	N
+khác	A
+đều	R
+tìm	V
+được	R
+50	M
+mộ	N
+trở lên	A
+.	CH
+
+Cuối	N
+tháng	N
+năm	M
+,	CH
+rừng	N
+Lào	Np
+chuyển	V
+mùa	N
+mưa	V
+,	CH
+tôi	P
+rút	V
+một số	L
+mũi	N
+ra	R
+,	CH
+còn	V
+một số	L
+mũi	N
+tiếp tục	R
+cắm	V
+chốt	N
+làm	V
+công tác	N
+dân vận	N
+cho	E
+mùa	N
+quy tập	V
+tiếp theo	V
+bắt đầu	V
+từ	E
+tháng	N
+11	M
+-	CH
+2005	M
+"	CH
+.	CH
+
+Tiếng	N
+gà	N
+gáy	V
+sang	V
+canh	N
+của	E
+bản	N
+Phôn Sa Vẳn	Np
+đã	R
+cất	V
+lên	R
+phía	N
+sau	A
+hậu cứ	N
+.	CH
+
+Thượng tá	N
+Bình	Np
+thắp	V
+thêm	V
+một	M
+ngọn	Nc
+nến	N
+nhỏ	A
+đủ	A
+hai	M
+người	N
+ngồi	V
+trò chuyện	V
+tiếp	V
+.	CH
+
+Biết	V
+tôi	P
+là	V
+phóng viên	N
+lặn lội	V
+sang	E
+rừng	N
+Lào	Np
+quyết	V
+vào	V
+bằng được	R
+những	L
+vùng	N
+rừng	N
+hiểm trở	A
+để	E
+viết	V
+về	E
+những	L
+người	Nc
+lính	N
+quy tập	V
+,	CH
+thượng tá	N
+Bình	Np
+tỏ	V
+ra	R
+xúc động	V
+lắm	R
+,	CH
+ông	N
+bảo	V
+:	CH
+"	CH
+Nếu	C
+không	R
+vì	E
+cái	N
+tâm	N
+,	CH
+vì	E
+tấm	N
+lòng	N
+với	E
+những	L
+người	N
+đã	R
+ngã	V
+xuống	R
+thì	C
+không thể	R
+làm	V
+lính	N
+quy tập	V
+được	R
+"	CH
+.	CH
+
+Tiêu chuẩn	N
+số một	N
+của	E
+lính	N
+quy tập	V
+là	V
+ai	P
+cũng	R
+phải	V
+ý thức	V
+được	R
+:	CH
+lớp	N
+đàn anh	N
+đã	R
+hy sinh	V
+,	CH
+còn	C
+mình	P
+là	V
+người	Nc
+lính	N
+hậu sinh	N
+phải	V
+đi	V
+tìm	V
+bằng được	R
+và	C
+đưa	V
+họ	P
+về	V
+với	E
+quê	N
+nhà	N
+,	CH
+mấy mươi	L
+năm	N
+rồi	R
+còn	R
+gì	T
+!	CH
+
+"	CH
+Ngôi	Nc
+nhà	N
+"	CH
+của	E
+các	L
+anh	N
+.	CH
+
+Đưa	V
+tôi	P
+sang	E
+ngôi	Nc
+nhà	N
+nhỏ	A
+nằm	V
+bên	N
+cạnh	N
+phòng	N
+chỉ huy	V
+,	CH
+căn	Nc
+nhà	N
+lúc	N
+nào	P
+cũng	R
+thoang thoảng	V
+mùi	N
+hương	N
+nhè nhẹ	A
+,	CH
+khung cảnh	N
+tịch liêu	A
+,	CH
+thượng tá	N
+Bình	Np
+nói	V
+khẽ	A
+:	CH
+“	CH
+Nhà	Np
+của	E
+các	L
+anh	N
+đấy	P
+!	CH
+"	CH
+và	C
+ông	P
+thắp	V
+nén	N
+nhang	N
+lên	E
+bàn thờ	N
+.	CH
+
+Trên	E
+bàn thờ	N
+không	R
+có	V
+một	M
+tấm	Nc
+ảnh	N
+,	CH
+không	R
+một	M
+dòng	N
+tên tuổi	N
+,	CH
+quê quán	N
+nào	P
+.	CH
+
+Chỉ	R
+có	V
+hai	M
+lá cờ	N
+Tổ quốc	N
+Việt	Np
+-	CH
+Lào	Np
+phủ	V
+song song	A
+trên	E
+hòm	N
+gỗ	N
+hình chữ nhật	N
+cao	A
+2	M
+m	Nu
+.	CH
+
+Trong	E
+hòm	N
+là	V
+hàng	R
+trăm	M
+bộ	N
+hài cốt	N
+liệt sĩ	N
+vô danh	A
+đã	R
+được	V
+gói	V
+buộc	V
+cẩn thận	A
+bằng	E
+những	L
+tấm	Nc
+vải	N
+trắng tinh	A
+.	CH
+
+Đang	R
+đưa	V
+cao	A
+nén	N
+nhang	N
+lên	V
+đầu	N
+tôi	P
+nghe	V
+thượng tá	N
+Bình	Np
+khấn	V
+thầm	A
+:	CH
+Hôm nay	N
+có	V
+nhà báo	N
+từ	E
+bên	N
+nhà	N
+sang	V
+và	C
+cùng	A
+chúng tôi	P
+đi	V
+cất	V
+bốc	V
+mộ	N
+cho	E
+các	L
+anh	N
+.	CH
+
+Các	L
+anh	N
+sống	V
+khôn	A
+,	CH
+chết	V
+thiêng	A
+xin	V
+phù hộ	V
+cho	E
+chuyến	N
+đi	V
+này	P
+được	V
+bình an	A
+và	C
+mang	V
+thêm	V
+nhiều	A
+đồng đội	N
+trở	V
+về	R
+...	CH
+
+Tôi	P
+nghe	V
+anh	P
+khấn	V
+mà	C
+ứa	V
+nước mắt	N
+.	CH
+
+Đối với	E
+những	L
+người	Nc
+lính	N
+tham gia	V
+quy tập	V
+giữa	E
+rừng	N
+,	CH
+nơi	N
+linh thiêng	A
+và	C
+tôn nghiêm	A
+nhất	R
+là	V
+"	CH
+nhà	N
+liệt sĩ	N
+"	CH
+này	P
+đây	P
+,	CH
+việc	N
+dọn	V
+bàn	N
+thờ	N
+,	CH
+dâng	V
+hoa	N
+quả	N
+,	CH
+thắp	V
+hương	N
+đều đặn	A
+mỗi	M
+ngày	N
+hai	M
+buổi	N
+,	CH
+sáng	N
+tinh mơ	N
+và	C
+trước	E
+khi	N
+đi	V
+ngủ	V
+.	CH
+
+Ai	P
+bị	V
+kỷ luật	V
+cũng	R
+vào	V
+"	CH
+nhà	N
+liệt sĩ	N
+"	CH
+thắp	V
+hương	N
+,	CH
+xin lỗi	V
+,	CH
+hứa	V
+sửa chữa	V
+.	CH
+
+"	CH
+Vì thế	C
+sự	N
+hiện diện	V
+của	E
+những	L
+vong linh	N
+liệt sĩ	N
+đối với	E
+anh em	N
+là	V
+rất	R
+quan trọng	A
+,	CH
+nhiều	A
+khi	N
+tôi	P
+không	R
+nói	V
+,	CH
+cán bộ	N
+chiến sĩ	N
+trong	E
+đội	N
+chỉ	R
+cần	V
+bước	V
+chân	N
+vào	E
+ngôi	Nc
+nhà	N
+này	P
+là	V
+đã	R
+thay	V
+tôi	P
+làm	V
+công tác	N
+tư tưởng	N
+mỗi	M
+ngày	N
+,	CH
+những	L
+người	Nc
+lính	N
+với	E
+nhau	N
+,	CH
+cho dù	C
+người	N
+thác	V
+,	CH
+kẻ	N
+sống	V
+nhưng	C
+họ	P
+vẫn	R
+tôn trọng	V
+nhau	N
+lắm	R
+"	CH
+-	CH
+thượng tá	N
+Bình	Np
+nói	V
+.	CH
+
+Tôi	P
+thật sự	R
+bất ngờ	A
+khi	N
+được	V
+anh em	N
+trong	E
+đội	N
+quy tập	V
+cho	V
+biết	V
+:	CH
+trong	E
+12 . 000	M
+ngôi	Nc
+mộ	N
+đã	R
+được	V
+bộ đội	N
+VN	Ny
+và	C
+Lào	Np
+tìm	V
+ra	R
+trên	E
+địa bàn	N
+Xiêng Khuảng	Np
+từ	E
+khi	N
+có	V
+chương trình	N
+quy tập	V
+mộ	N
+liệt sĩ	N
+đến	E
+nay	N
+,	CH
+có	V
+hài cốt	N
+các	L
+anh	N
+đã	R
+hi sinh	V
+cách	V
+đây	P
+50	M
+năm	N
+,	CH
+những	L
+ngôi	Nc
+mộ	N
+hay	C
+hố	N
+chôn	V
+được	V
+xem	V
+là	C
+"	CH
+mới	A
+nhất	R
+"	CH
+cũng	R
+đã	R
+nằm	V
+giữa	E
+rừng	N
+30	M
+năm	N
+và	C
+công việc	N
+thầm lặng	A
+của	E
+những	L
+người	Nc
+lính	N
+quy tập	V
+đã	R
+diễn	V
+ra	R
+21	M
+năm	N
+rồi	R
+.	CH
+
+21	M
+năm	N
+cho	E
+12 . 000	M
+vong linh	N
+được	R
+tề tựu	V
+cùng	A
+đồng đội	N
+,	CH
+đồng chí	N
+và	C
+có	V
+đến	T
+10 . 000	M
+bộ	N
+hài cốt	N
+được	V
+các	L
+chiến sĩ	N
+trẻ	A
+hôm nay	N
+băng	V
+rừng	N
+,	CH
+vượt	V
+suối	N
+đưa	V
+về	E
+quê	N
+nhà	N
+.	CH
+
+Một	M
+khoảng	N
+thời gian	N
+đủ	A
+để	E
+người	Nc
+lính	N
+tình nguyện	V
+Hồ Trọng Bình	Np
+,	CH
+28	M
+tuổi	Nu
+,	CH
+mang	V
+quân hàm	N
+thiếu úy	N
+rời	V
+chiến trường	N
+Campuchia	Np
+về	V
+quê	N
+nhà	N
+thuộc	V
+Quân khu	N
+4	M
+và	C
+đầu quân	V
+vào	E
+đội	N
+quy tập	V
+ngay	T
+từ	E
+năm	N
+1984	M
+,	CH
+đến	E
+nay	N
+ông	P
+đã	R
+ở	V
+ngưỡng	N
+tuổi	N
+50	M
+!	CH
+
+Ông	P
+vẫn	R
+trầm lặng	V
+như	C
+bao	N
+người	Nc
+lính	N
+Cụ Hồ	Np
+với	E
+bao	N
+ngày	N
+bao	N
+đêm	N
+sống	V
+giữa	E
+rừng già	N
+,	CH
+sống	V
+trên	E
+những	L
+đỉnh	N
+núi	N
+cao	A
+chót vót	A
+trên	E
+đất	N
+Lào	Np
+chỉ	R
+để	E
+mỏi mong	V
+tìm	V
+được	R
+một	M
+vết tích	N
+của	E
+cuộc chiến	N
+,	CH
+một	M
+nắm	N
+xương	N
+của	E
+bậc	N
+cha anh	N
+,	CH
+hoặc	C
+thậm chí	R
+chỉ	R
+là	V
+một	M
+kỷ vật	N
+được	V
+chôn	V
+theo	V
+người	N
+nằm	V
+xuống	R
+mà	C
+đã	R
+có	V
+lúc	N
+tưởng chừng	V
+như	C
+phải	V
+đánh đổi	V
+bằng	E
+chính	T
+sinh mạng	N
+của	E
+mình	P
+.	CH
+
+Chúng tôi	P
+đã	R
+thề	V
+với	E
+nhau	N
+rằng	C
+không	R
+bỏ	V
+sót	V
+bất cứ	R
+một	M
+người	Nc
+lính	N
+nào	P
+nằm	V
+lại	R
+chiến trường	N
+-	CH
+đó	P
+là	V
+mệnh lệnh	N
+!	CH
+"	CH
+.	CH
+
+Từ	E
+khi	N
+thành lập	V
+các	L
+đoàn	N
+quy tập	V
+mộ	N
+liệt sĩ	V
+LBKT	CH
+1984	M
+RBKT	CH
+,	CH
+riêng	T
+tại	E
+Xiêng Khuảng	Np
+đoàn	N
+quy tập	V
+Nghệ An	Np
+đã	R
+tìm kiếm	V
+,	CH
+phát hiện	V
+12 . 000	M
+mộ	N
+liệt sĩ	N
+và	C
+đã	R
+tổ chức	V
+mang	V
+về	E
+nước	N
+được	R
+10 . 000	M
+bộ	N
+hài cốt	N
+...	CH
+
+Nhiều	A
+người	Nc
+lính	N
+trẻ	A
+trong	E
+đội	N
+quy tập	V
+đã	R
+kể	V
+cho	E
+tôi	P
+nghe	V
+câu chuyện	N
+về	E
+đội	N
+quy tập	V
+vừa	R
+luồn	V
+rừng	N
+tìm	V
+hài cốt	N
+,	CH
+vừa	R
+tham gia	V
+tiễu phỉ	V
+giúp	V
+bạn	N
+,	CH
+nên	C
+có	V
+lúc	N
+bọn	N
+phỉ	N
+Vàng Pao	Np
+đã	R
+công khai	V
+treo	V
+giá	N
+20 . 000	M
+USD	Nu
+nếu	E
+ai	P
+bắt	V
+sống	V
+hoặc	C
+thủ tiêu	V
+được	R
+đoàn trưởng	N
+Hồ Trọng Bình	Np
+.	CH
+
+Nghe	V
+tin	N
+này	P
+bà	Nc
+Bun May	Np
+-	CH
+nguyên	Z
+tỉnh trưởng	N
+tỉnh	N
+Xiêng Khuảng	Np
+nay	N
+là	V
+thứ trưởng	N
+Bộ	N
+Giáo dục	N
+nước	N
+CHDCND	Ny
+Lào	Np
+-	CH
+NV	Ny
+-	CH
+lo lắng	V
+điện	V
+hỏi	V
+và	C
+đề nghị	V
+sẽ	R
+cho	V
+công an	N
+,	CH
+quân đội	N
+Lào	Np
+theo	V
+đoàn	N
+bảo vệ	V
+,	CH
+nhưng	C
+Hồ Trọng Bình	Np
+chỉ	R
+cười	V
+từ chối	V
+và	C
+nói	V
+lời	N
+cảm ơn	V
+.	CH
+
+Nhắc	V
+lại	R
+chuyện	N
+cũ	A
+,	CH
+thượng tá	N
+Bình	Np
+cười cười	V
+.	CH
+
+Đã	R
+hơn	A
+nửa đêm	N
+về	E
+sáng	N
+,	CH
+tôi	P
+thì	C
+như	C
+muốn	V
+rũ	V
+xuống	R
+,	CH
+còn	C
+ông	P
+vẫn	R
+tỉnh táo	A
+,	CH
+cương nghị	A
+:	CH
+"	CH
+Bọn	N
+chúng	P
+nói	V
+thế	P
+chứ	C
+có	V
+dám	V
+làm	V
+gì	P
+đâu	T
+.	CH
+
+Có	V
+lần	N
+giúp	V
+bạn	N
+mà	C
+chúng tôi	P
+phải	V
+trà trộn	V
+vào	E
+bản	N
+phỉ	N
+ngồi	V
+chạm	V
+chén	N
+uống	V
+rượu	N
+với	E
+chúng	P
+.	CH
+
+Hỏi	V
+chuyện	N
+tìm hiểu	V
+mới	R
+hiểu	V
+bọn	Nc
+phỉ	N
+chỉ	R
+nghe	V
+tên	N
+tôi	P
+thôi	T
+chứ	C
+chúng	P
+chưa	R
+biết	V
+mặt	N
+cái	T
+lão	Nc
+Bình	Np
+này	P
+vuông	A
+hay	C
+dẹt	A
+.	CH
+
+Bọn	N
+nó	P
+thường	R
+kháo	V
+nhau	N
+“	CH
+lão	Nc
+Bình	Np
+thoắt	A
+ở	V
+bản	N
+này	P
+thoắt	A
+hiện	V
+vùng	N
+rừng	N
+khác	A
+như	A
+một	M
+bóng ma	N
+,	CH
+khó	A
+bắt	V
+sống	V
+lắm	R
+"	CH
+!	CH
+.	CH
+
+Ông	N
+giục	V
+tôi	P
+đi	V
+ngủ	V
+,	CH
+"	CH
+ngày mai	N
+công việc	N
+dài	A
+lắm	R
+,	CH
+cố	V
+ngủ	V
+một chút	N
+mà	C
+lấy	V
+sức	N
+"	CH
+...	CH
+
+Ông	P
+xem	V
+tôi	P
+như	C
+một	M
+người	Nc
+lính	N
+.	CH
+
+Đêm	N
+rừng	N
+Lào	Np
+đang	R
+chuyển	V
+mùa	N
+mưa	V
+.	CH
+
+Từng	R
+hồi	N
+sấm	N
+dữ dội	A
+làm	V
+rung chuyển	V
+bầu trời	N
+.	CH
+
+Tôi	P
+nằm	V
+yên	A
+trong	E
+hậu cứ	N
+rồi	R
+mà	C
+vẫn	R
+không	R
+sao	T
+chợp	V
+được	R
+đôi	M
+mắt	N
+đã	R
+nặng trĩu	A
+.	CH
+
+Ngay	T
+sáng mai	N
+tôi	P
+sẽ	R
+được	R
+cùng	A
+các	L
+anh	N
+luồn	V
+rừng	N
+,	CH
+vượt	V
+núi	N
+để	E
+tìm	V
+những	L
+hình hài	N
+người	Nc
+lính	N
+vẫn	R
+còn	R
+nằm	V
+lại	R
+sau	E
+hàng	R
+mấy	M
+mươi	M
+năm	N
+trên	E
+đất	N
+khách	N
+...	CH
+
+Đứng	V
+vững	A
+trên	E
+đôi	M
+chân	N
+tật nguyền	A
+.	CH
+
+Cố gắng	V
+lắm	T
+chị	N
+mới	R
+sắp xếp	V
+được	R
+cho	E
+tôi	P
+một	M
+buổi	N
+gặp	V
+ngắn ngủi	A
+,	CH
+vì	E
+thời gian	N
+làm việc	V
+của	E
+chị	N
+hầu như	R
+chật	A
+kín	A
+.	CH
+
+Và	C
+chị	N
+đã	R
+kể	V
+tôi	P
+nghe	V
+về	E
+mình	P
+.	CH
+
+Tuổi thơ	N
+của	E
+chị	N
+là	V
+chiến tranh	N
+,	CH
+bom đạn	N
+,	CH
+chết chóc	N
+và	C
+hình ảnh	N
+người	N
+mẹ	N
+còng	A
+lưng	N
+nhặt	V
+từng	R
+hạt	Nc
+thóc	N
+để	E
+nuôi	V
+bốn	M
+đứa	Nc
+con	N
+ăn học	V
+.	CH
+
+Là	V
+hình ảnh	N
+của	E
+những	L
+ngày	N
+chị	N
+cố	V
+lê	V
+đôi	M
+chân	N
+tật nguyền	A
+để	E
+đến	V
+trường	N
+trên	E
+quãng	N
+đường	N
+đất đỏ	N
+mịt mù	A
+.	CH
+
+Chị	N
+là	V
+Võ Thị Hoàng Yến	Np
+LBKT	CH
+38	M
+tuổi	N
+RBKT	CH
+sinh	V
+ra	R
+và	C
+lớn	V
+lên	R
+ở	E
+một	M
+làng	N
+quê	N
+xa	A
+thuộc	V
+xã	N
+Hiệp Phước	Np
+,	CH
+huyện	N
+Nhơn Trạch	Np
+LBKT	CH
+Đồng Nai	Np
+RBKT	CH
+.	CH
+
+Từ	E
+cú	Nc
+sốc	N
+đầu	N
+đời	N
+.	CH
+
+Những	L
+năm học	N
+cấp	N
+I	M
+,	CH
+mấy	L
+đứa	Nc
+bạn	N
+nhỏ	A
+tinh nghịch	A
+cứ	R
+hay	R
+trêu đùa	V
+chọc ghẹo	V
+,	CH
+thậm chí	R
+còn	R
+xa lánh	V
+vì	E
+đôi	M
+chân	N
+bị	V
+bại liệt	A
+từ	E
+tuổi	N
+lên	V
+3	M
+.	CH
+
+Nghĩ	V
+đến	R
+thân phận	N
+của	E
+mình	P
+chị	N
+cũng	R
+buồn	V
+,	CH
+cũng	R
+tủi	V
+.	CH
+
+Chị	N
+nói	V
+:	CH
+"	CH
+Nhiều	A
+đứa	Nc
+bé	N
+tật nguyền	A
+khác	A
+khi	N
+bị	V
+trêu chọc	V
+thì	C
+hay	R
+mắc cỡ	V
+nên	C
+bỏ	V
+học	V
+,	CH
+nhưng	C
+không	R
+hiểu	V
+sao	P
+lúc	N
+đó	P
+mình	P
+lại	R
+tự tin	V
+ghê gớm	A
+,	CH
+đã	R
+không	R
+bị	V
+mặc cảm	V
+mà còn	C
+tâm niệm	V
+rằng	C
+phải	V
+học	V
+thật	R
+giỏi	A
+.	CH
+
+Càng	R
+bị	V
+coi thường	V
+càng	R
+phải	V
+học	V
+giỏi	A
+"	CH
+.	CH
+
+Quyết tâm	N
+học tập	V
+của	E
+chị	N
+lúc	N
+đó	P
+như	A
+một	M
+sự	Nc
+phản kháng	V
+,	CH
+một	M
+cách	N
+tự vệ	V
+cho	E
+riêng	T
+mình	P
+.	CH
+
+Không	R
+chỉ	R
+học	V
+giỏi	A
+,	CH
+chị	N
+còn	R
+tham gia	V
+công tác	N
+Đoàn	Np
+-	CH
+Hội	Np
+ở	E
+trường	N
+.	CH
+
+Ở	E
+cấp	N
+I	M
+,	CH
+cấp	N
+II	M
+chị	N
+từng	R
+làm	V
+chi đội trưởng	N
+,	CH
+rồi	C
+liên đội trưởng	N
+Đội	N
+thiếu niên	N
+tiền phong	N
+.	CH
+
+Lên	E
+cấp	N
+III	M
+,	CH
+cô	Nc
+Út	Np
+học	V
+giỏi	A
+lại	R
+tiếp tục	V
+tham gia	V
+công tác	N
+Đoàn	N
+và	C
+làm	V
+bí thư	N
+Đoàn	Np
+trường	N
+...	CH
+
+Với	E
+sức	N
+học	V
+của	E
+mình	P
+,	CH
+chị	N
+đã	R
+thi	V
+đậu	V
+vào	E
+ĐH	Ny
+Kinh tế	N
+TP.HCM	Ny
+.	CH
+
+Chị	N
+nói	V
+dù	C
+là	V
+con	N
+nhà	N
+nghèo	A
+,	CH
+dù	C
+là	V
+đứa	Nc
+trẻ	N
+tật nguyền	A
+nhưng	C
+lúc nào	N
+chị	N
+cũng	R
+là	V
+một	M
+người	N
+tự tin	V
+vào	E
+năng lực	N
+của	E
+mình	P
+.	CH
+
+Nhờ	V
+thế	P
+suốt	A
+những	L
+năm	N
+cắp	V
+sách	N
+đến	V
+trường	N
+,	CH
+dù	E
+gặp	V
+không	R
+ít	A
+những	L
+khó khăn	A
+nhưng	C
+chị	N
+đều	R
+vượt	V
+qua	R
+.	CH
+
+Thế	T
+nhưng	C
+,	CH
+ngay	T
+lần	N
+đầu tiên	A
+bước	V
+ra	R
+đời	N
+,	CH
+vác	V
+đơn	N
+đi	V
+xin	V
+việc làm	N
+sau	E
+khi	N
+tốt nghiệp	V
+ĐH	Ny
+Kinh tế	N
+năm	N
+1990	M
+,	CH
+chị	N
+đã	R
+bị	V
+một	M
+cú	Nc
+sốc	N
+kinh khủng	A
+đầu	N
+đời	N
+.	CH
+
+Đến	E
+hôm nay	N
+,	CH
+khi	N
+nghĩ lại	V
+chị	N
+cũng	R
+không	R
+biết	V
+rằng	C
+cú	Nc
+sốc	N
+đó	P
+là	V
+họa	N
+hay	C
+may	N
+.	CH
+
+Gõ cửa	V
+nơi	N
+nào	P
+chị	N
+cũng	R
+nhận	V
+được	R
+những	L
+cái	Nc
+lắc đầu	V
+đầy	A
+thương hại	V
+,	CH
+có	V
+những	L
+nơi	N
+sau	E
+khi	N
+kiểm tra	V
+năng lực	N
+của	E
+chị	N
+người ta	N
+đã	R
+đồng ý	V
+nhận	V
+ngay	R
+,	CH
+nhưng	C
+rồi	C
+sau	E
+đó	P
+lại	R
+từ chối	V
+thẳng thừng	A
+khi	N
+phát hiện	V
+chị	N
+là	V
+người	N
+khuyết tật	A
+LBKT	CH
+NKT	Ny
+RBKT	CH
+.	CH
+
+Cả	P
+một	M
+thời gian	N
+dài	A
+dù	E
+cố gắng	V
+nhưng	C
+chị	N
+không	R
+xin	V
+được	R
+việc làm	N
+ở	E
+đâu	P
+:	CH
+"	CH
+Người ta	N
+không	R
+nói	V
+ra	R
+nhưng	C
+mình	P
+thừa	R
+biết	V
+mình	P
+không	R
+được	V
+nhận	V
+vào	R
+làm việc	V
+không	R
+phải	A
+là	C
+vì	E
+năng lực	N
+kém	A
+,	CH
+mà	C
+chỉ	R
+vì	E
+là	V
+NKT	Ny
+"	CH
+-	CH
+chị	Nc
+Yến	Np
+bùi ngùi	A
+nhớ	V
+lại	R
+.	CH
+
+Lặng thinh	V
+hồi	N
+lâu	A
+,	CH
+chị	N
+lại	R
+tiếp	V
+:	CH
+"	CH
+Lúc	N
+đó	P
+mình	P
+thấy	V
+đau	V
+lắm	R
+,	CH
+lo lắng	V
+cho	E
+mình	P
+và	C
+cho	E
+cả	P
+những	L
+NKT	Ny
+"	CH
+.	CH
+
+Bạn bè	N
+cùng	A
+trường	N
+ai	P
+cũng	R
+tỏ	V
+ra	R
+ái ngại	V
+cho	R
+tình cảnh	N
+của	E
+chị	N
+.	CH
+
+Xin	V
+việc làm	N
+không	R
+được	V
+,	CH
+chị	N
+nghĩ	V
+phải	V
+đi	V
+học	V
+thêm	V
+ngoại ngữ	N
+với	E
+ý nghĩ	N
+sau này	N
+có	V
+cơ hội	N
+thì	C
+xin	V
+dạy	V
+kèm	V
+,	CH
+tự	P
+kiếm	V
+sống	V
+.	CH
+
+Đồng thời	R
+với	E
+vốn	N
+ngoại ngữ	N
+học	V
+được	R
+,	CH
+chị	N
+sẽ	R
+tìm	V
+đọc	V
+thêm	R
+những	L
+tài liệu	N
+của	E
+nước ngoài	N
+liên quan	V
+đến	R
+NKT	Ny
+,	CH
+biết đâu	R
+từ	E
+đó	P
+có thể	R
+tìm	V
+được	R
+những	L
+cơ hội	N
+không	R
+chỉ	R
+cho	E
+riêng	T
+mình	P
+mà còn	C
+cho	E
+những	L
+NKT	Ny
+khác	A
+cùng	A
+cảnh ngộ	N
+.	CH
+
+Vậy	C
+là	C
+năm	N
+1993	M
+,	CH
+lần	N
+đầu tiên	N
+chị	N
+làm quen	V
+với	E
+tiếng	N
+Anh	Np
+.	CH
+
+Chị	N
+nói	V
+:	CH
+"	CH
+Hồi	N
+trước	N
+ở	E
+quê	N
+mình	P
+người ta	N
+chưa	R
+dạy	V
+ngoại ngữ	N
+,	CH
+vào	V
+ĐH	Ny
+mình	P
+mới	R
+được	V
+học	V
+tiếng	N
+Nga	Np
+,	CH
+còn	C
+tiếng	N
+Anh	Np
+thì	C
+hoàn toàn	R
+xa lạ	A
+"	CH
+.	CH
+
+Học	V
+được	R
+một	M
+năm	N
+thì	C
+việc	N
+học	V
+của	E
+chị	N
+phải	V
+gián đoạn	V
+vì	E
+đôi	M
+chân	N
+yếu	A
+dần	R
+nên	C
+phải	V
+mổ	V
+.	CH
+
+Hơn	A
+một	M
+năm	N
+trời	T
+chị	N
+phải	V
+nằm	V
+ở	E
+nhà	N
+dưỡng thương	V
+.	CH
+
+Trong	E
+khoảng	N
+thời gian	N
+đó	P
+chị	N
+cố công	V
+tự	R
+học	V
+tiếng	N
+Anh	Np
+.	CH
+
+Đến	E
+cuối	N
+1995	M
+chị	N
+thi	V
+đậu	V
+bằng	N
+C	Ny
+tiếng	N
+Anh	Np
+của	E
+ĐH	Ny
+Sư phạm	N
+TP.HCM	Ny
+.	CH
+
+Nói	V
+về	R
+thành tích	N
+này	P
+,	CH
+chị	N
+cười	V
+rạng rỡ	A
+:	CH
+"	CH
+Thật ra	R
+mình	P
+chẳng	R
+tài giỏi	A
+gì	T
+đâu	R
+,	CH
+chẳng qua	R
+là	C
+nhờ	V
+mình	P
+có	V
+khiếu	N
+học	V
+ngoại ngữ	N
+thôi	T
+,	CH
+với lại	C
+ở	E
+nhà	N
+mình	P
+ai	P
+cũng	R
+học	V
+giỏi	A
+hết	R
+,	CH
+chỉ	R
+có	V
+mình	P
+là	C
+học	V
+ẹ	A
+nhất	R
+"	CH
+.	CH
+
+Sau	E
+khi	N
+tích lũy	V
+được	R
+vốn	N
+tiếng	N
+Anh	Np
+kha khá	A
+,	CH
+chị	N
+thi	V
+vào	R
+khoa	N
+tiếng	N
+Anh	Np
+của	E
+Trường	N
+ĐH	Ny
+Sư phạm	N
+TP.HCM	Ny
+.	CH
+
+Đến	E
+năm	N
+1999	M
+,	CH
+chị	N
+là	V
+một	M
+trong	E
+bảy	M
+tân	Z
+cử nhân	N
+đạt	V
+được	R
+số	N
+điểm	N
+thi	V
+cao	A
+nhất	R
+trong	E
+kỳ	N
+thi	V
+tốt nghiệp	V
+của	E
+Trường	N
+ĐH	Ny
+Sư phạm	N
+TP.HCM	Ny
+.	CH
+
+Nỗ lực	N
+học tập	V
+và	C
+năng lực	N
+của	E
+chị	N
+rồi	C
+cũng	R
+được	V
+công nhận	V
+,	CH
+tháng	N
+6	M
+-	CH
+2003	M
+chị	N
+đoạt	V
+được	R
+học bổng	N
+toàn phần	N
+của	E
+Quĩ	N
+Ford	Np
+.	CH
+
+Chị	N
+theo	V
+học	V
+ngành	N
+phát triển	V
+con người	N
+tại	E
+ĐH	Ny
+Kansas	Np
+LBKT	CH
+Mỹ	Np
+RBKT	CH
+.	CH
+
+Để	E
+theo	V
+kịp	A
+những	L
+SV	Ny
+khác	A
+buộc	V
+những	L
+SV	Ny
+VN	Ny
+như	C
+chị	N
+phải	V
+nỗ lực	V
+vượt bậc	V
+.	CH
+
+Ấy	P
+vậy	P
+mà	C
+ngay	T
+học kỳ	N
+đầu	N
+chị	N
+đã	R
+đoạt	V
+được	R
+ba	M
+điểm	N
+A	Ny
+.	CH
+
+Không những	R
+thế	P
+chị	N
+còn	R
+là	V
+người	N
+trợ giảng	V
+cho	E
+một	M
+giáo sư	N
+người	N
+Mỹ	Np
+tên	N
+Glen White	Np
+.	CH
+
+Tháng	N
+6	M
+-	CH
+2004	M
+vừa qua	X
+,	CH
+đề tài	N
+nghiên cứu	V
+"	CH
+Giúp	V
+phát triển	V
+kỹ năng	N
+cho	E
+NKT	Ny
+"	CH
+của	E
+chị	N
+được	V
+hội đồng	N
+khoa học	N
+tại	E
+ĐH	Ny
+Kansas	Np
+đánh giá	V
+cao	A
+.	CH
+
+Sau	E
+đó	P
+,	CH
+đích thân	P
+bà	Nc
+Judith E . Heuman	Np
+-	CH
+cố vấn	N
+các	L
+vấn đề	N
+phát triển	V
+cho	E
+NKT	Ny
+của	E
+Ngân hàng	N
+Thế giới	Np
+LBKT	CH
+WB	Ny
+RBKT	CH
+-	CH
+đã	R
+mời	V
+chị	N
+báo cáo	V
+đề tài	N
+này	P
+tại	E
+trụ sở	N
+chính	A
+của	E
+WB	Ny
+ở	E
+Washington DC	Np
+.	CH
+
+Hiện nay	N
+công trình	N
+nghiên cứu	V
+của	E
+chị	N
+đã	R
+được	V
+in	V
+thành	V
+sách	N
+và	C
+được	V
+xem	V
+như	C
+một	M
+loại	Nc
+giáo trình	N
+cho	E
+SV	Ny
+học tập	V
+tại	E
+ĐH	Ny
+Kansas	Np
+.	CH
+
+Từ chối	V
+ở	V
+lại	R
+nước	N
+Mỹ	Np
+.	CH
+
+Giờ đây	N
+,	CH
+cô	Nc
+Út	Np
+Yến	Np
+tật nguyền	A
+ngày xưa	N
+mà	C
+người	Nc
+mẹ	N
+cứ	R
+thắc thỏm	V
+lo âu	V
+không	R
+biết	V
+làm	V
+gì	P
+để	E
+sống	V
+,	CH
+đã	R
+trở thành	V
+thạc sĩ	N
+với	E
+tấm	Nc
+bằng	N
+xuất sắc	A
+.	CH
+
+Cô	Nc
+Út	Np
+tật nguyền	A
+ngày xưa	N
+còn	R
+được	V
+đi	V
+dự	V
+hội nghị	N
+ở	E
+Washington DC	Np
+,	CH
+được	V
+vô	V
+thượng viện	N
+để	E
+gặp	V
+các	L
+nghị sĩ	N
+và	C
+cùng	R
+nói chuyện	V
+với	E
+họ	P
+về	E
+NKT	Ny
+.	CH
+
+Được	V
+gặp gỡ	V
+trao đổi	V
+với	E
+thượng nghị sĩ	N
+Tom Harkins	Np
+-	CH
+người	N
+đã	R
+có	V
+những	L
+đóng góp	N
+rất	R
+nhiều	A
+cho	E
+các	L
+chương trình	N
+và	C
+chính sách	N
+dành	V
+cho	R
+NKT	Ny
+Mỹ	Np
+.	CH
+
+Chị	N
+còn	R
+được	V
+mời	V
+vào	R
+Nhà Trắng	Np
+,	CH
+gặp	V
+tiến sĩ	N
+Troy Justesen	Np
+-	CH
+một	M
+NKT	Ny
+đang	R
+là	V
+cố vấn	N
+cho	E
+tổng thống	N
+Mỹ	Np
+về	E
+các	L
+chính sách	N
+liên quan	V
+đến	R
+NKT	Ny
+.	CH
+
+Rồi	C
+cùng	A
+nhóm	N
+của	E
+mình	P
+,	CH
+chị	N
+được	V
+mời	V
+đến	R
+Bộ	N
+Giáo dục	N
+Mỹ	Np
+để	E
+nói chuyện	V
+với	E
+những	L
+người	N
+phụ trách	V
+các	L
+chương trình	N
+nghiên cứu	V
+về	E
+khuyết tật	N
+và	C
+phục hồi	V
+chức năng	N
+LBKT	CH
+NIDRR	Ny
+RBKT	CH
+.	CH
+
+Một	M
+lần	N
+nọ	P
+,	CH
+biết	V
+chị	N
+một mực	R
+đòi	V
+quay	V
+về	R
+quê hương	N
+,	CH
+giáo sư	N
+Glen White	Np
+liền	R
+bày tỏ	V
+ý định	N
+xin	V
+nhận	V
+chị	N
+làm	V
+con nuôi	N
+và	C
+giúp	V
+chị	N
+ở	V
+lại	R
+Mỹ	Np
+.	CH
+
+Không những	R
+thế	P
+,	CH
+ông	N
+hứa	V
+sẽ	R
+rước	V
+cả	P
+người	N
+mẹ	N
+thân yêu	A
+của	E
+chị	N
+sang	V
+Mỹ	Np
+định cư	V
+,	CH
+nhưng	C
+chị	N
+một mực	R
+từ chối	V
+.	CH
+
+Chị	N
+nói	V
+rằng	C
+mình	P
+cần	V
+phải	V
+trở	V
+về	R
+vì	E
+không thể	R
+sống	V
+thiếu	V
+những	L
+người thân	N
+trong	E
+gia đình	N
+và	C
+trên hết	N
+là	C
+không thể	R
+sống	V
+thiếu	V
+quê hương	N
+.	CH
+
+Chị	N
+bộc bạch	V
+:	CH
+"	CH
+Những	L
+năm	N
+xa	V
+quê hương	N
+,	CH
+mình	P
+mới	R
+thấm thía	V
+hết	R
+hai	M
+tiếng	N
+Việt Nam	Np
+thiêng liêng	A
+và	C
+thân thiết	A
+đến	E
+ngần	N
+nào	P
+"	CH
+.	CH
+
+Trở	V
+về	R
+,	CH
+chị	N
+còn	R
+muốn	V
+được	V
+đóng góp	V
+chút ít	L
+gì	P
+đó	P
+cho	E
+quê hương	N
+VN	Ny
+.	CH
+
+Chia tay	V
+tôi	P
+,	CH
+chị	N
+lại	R
+tất tả	A
+lao	V
+vào	R
+hàng	R
+đống	Nc
+tài liệu	N
+,	CH
+hồ sơ	N
+được	V
+mang	V
+về	R
+từ	E
+nước ngoài	N
+để	E
+soạn	V
+những	L
+giáo trình	N
+giảng dạy	V
+phù hợp	V
+với	E
+điều kiện	N
+giáo dục	V
+ở	E
+VN	Ny
+.	CH
+
+Được	V
+biết	V
+,	CH
+Trường	N
+ĐH	Ny
+Đà Lạt	Np
+đã	R
+mời	V
+chị	N
+tham gia	V
+giảng dạy	V
+và	C
+ngày	N
+6	M
+-	CH
+12	M
+-	CH
+2004	M
+là	V
+lần	N
+đầu tiên	A
+chị	N
+mang	V
+kiến thức	N
+học	V
+được	R
+của	E
+mình	P
+truyền đạt	V
+đến	E
+các	L
+SV	Ny
+VN	Ny
+.	CH
+
+Ở	E
+số	N
+10	M
+phố	N
+Hàng Mành	Np
+Hà Nội	Np
+,	CH
+vợ chồng	N
+Dương Tuấn	Np
+-	CH
+Ðặng Hải Lý	Np
+,	CH
+26	M
+tuổi	Nu
+,	CH
+mở	V
+lớp	N
+dạy	V
+viết	V
+chữ	N
+đẹp	A
+.	CH
+
+Lớp học	N
+của	E
+họ	P
+ngày càng	X
+thu hút	V
+nhiều	A
+học viên	N
+.	CH
+
+Trong	E
+ngôi	Nc
+nhà	N
+lớn	A
+của	E
+gia tộc	N
+họ	N
+Dương	Np
+ở	E
+phố	N
+Hàng Mành	Np
+,	CH
+Dương Tuấn	Np
+cho	V
+biết	V
+,	CH
+nhà	N
+có	V
+truyền thống	N
+viết	V
+chữ	N
+đẹp	A
+,	CH
+nên	C
+cũng	R
+ham mê	V
+luyện	V
+chữ	N
+đẹp	A
+.	CH
+
+Trở	V
+về	R
+từ	E
+cõi	N
+chết	V
+...	CH
+
+Sáng	N
+sớm	A
+22	M
+-	CH
+10	M
+–	CH
+2003	M
+,	CH
+những	L
+thủy thủ	N
+bị	V
+nạn	N
+của	E
+tàu	N
+Hoàng Đạt	Np
+35	M
+đã	R
+được	V
+tàu	N
+Capability	Np
+LBKT	CH
+Liberia	Np
+RBKT	CH
+đưa	V
+về	R
+tới	E
+Nha Trang	Np
+.	CH
+
+Họ	P
+chỉ	R
+còn	V
+13	M
+người	N
+tự	P
+đặt chân	V
+lên	E
+cầu cảng	N
+,	CH
+và	C
+hai	M
+đồng đội	N
+xấu số	A
+...	CH
+
+Tai ương	N
+đã	R
+ập	V
+đến	R
+với	E
+con	Nc
+tàu	N
+Hoàng Đạt	Np
+35	M
+vào	E
+lúc	N
+gần	A
+3	M
+giờ	Nu
+sáng	N
+21	M
+-	CH
+10	M
+–	CH
+2003	M
+tại	E
+vùng biển	N
+Trường Sa	Np
+VN	Np
+,	CH
+cách	V
+vịnh	N
+Cam Ranh	Np
+chừng	N
+hơn	A
+100	M
+hải lý	Nu
+...	CH
+
+Thủy thủ	N
+Lê Văn Vinh	Np
+LBKT	CH
+46	M
+tuổi	Nu
+RBKT	CH
+,	CH
+đại phó	N
+của	E
+tàu	N
+Hoàng Đạt	Np
+35	M
+nói	V
+:	CH
+"	CH
+Chẳng	R
+ai	P
+còn	V
+gì	P
+cả	T
+,	CH
+chỉ	R
+còn	V
+mỗi	M
+chiếc	Nc
+quần đùi	N
+sóng	N
+cũng	R
+đánh	V
+rách	A
+tơi tả	A
+...	CH
+”	CH
+.	CH
+
+Các	L
+anh	N
+chuyền	V
+cho	E
+nhau	N
+để	E
+chọn	V
+cho	E
+mỗi	M
+người	N
+một	M
+bộ	Nc
+áo	N
+mới	A
+vừa	R
+được	V
+công ty	N
+LBKT	CH
+từ	E
+Hải Phòng	Np
+RBKT	CH
+mang	V
+vào	R
+tiếp tế	V
+...	CH
+
+Nguyễn Khắc Trường	Np
+LBKT	CH
+27	M
+tuổi	Nu
+RBKT	CH
+,	CH
+thủy thủ	N
+,	CH
+một	M
+trong	E
+hai	M
+trường hợp	N
+bị	V
+mất tích	V
+nhưng	C
+may mắn	A
+trở thành	V
+người	N
+sau cùng	A
+được	V
+vớt	V
+lên	R
+.	CH
+
+Trường	Np
+cho	V
+biết	V
+:	CH
+“	CH
+Tôi	P
+là	V
+người	N
+phải	V
+chịu	V
+ở	V
+dưới	E
+nước	N
+lâu	A
+nhất	A
+,	CH
+kinh hãi	V
+lắm	T
+...	CH
+”	CH
+-	CH
+vừa	R
+nói	V
+,	CH
+Trường	Np
+vừa	R
+lắc đầu	V
+rùng mình	V
+...	CH
+
+Anh	Nc
+Nguyễn Văn Quỳnh	Np
+LBKT	CH
+47	M
+tuổi	Nu
+RBKT	CH
+nói	V
+:	CH
+"	CH
+Lúc	N
+ấy	P
+tôi	N
+đang	R
+ngủ	V
+vì	E
+không	R
+phải	V
+ca	Nc
+trực	V
+của	E
+mình	N
+thì	C
+nghe	V
+hiệu lệnh	N
+báo động	V
+.	CH
+
+Tôi	P
+vơ	V
+vội	A
+áo phao	N
+trên	E
+đầu	N
+giường	N
+mặc	V
+vào	R
+và	C
+chạy	V
+ra	R
+.	CH
+
+Trời	N
+đang	R
+mưa	V
+lớn	A
+,	CH
+con	Nc
+tàu	N
+bị	V
+chao	V
+lắc	V
+rất	R
+mạnh	A
+và	C
+sóng	N
+đánh	V
+văng	V
+dội	V
+lên	E
+cả	T
+boong	N
+tàu	N
+...	CH
+”	CH
+.	CH
+
+Thuyền trưởng	N
+Trần Minh Đức	Np
+cho	V
+biết	V
+:	CH
+“	CH
+Đêm tối	N
+quá	A
+mịt mùng	A
+,	CH
+sóng	N
+cấp	N
+5	M
+và	C
+gió	N
+cấp	N
+6	M
+,	CH
+lại	R
+có	V
+cả	T
+mưa	N
+lớn	A
+.	CH
+
+Con	Nc
+tàu	N
+bị	V
+nghiêng	V
+,	CH
+ban đầu	N
+khoảng	N
+10	M
+-	CH
+15	M
+độ	Nu
+,	CH
+chúng tôi	P
+cố	V
+tìm	V
+mọi	L
+cách	N
+để	E
+cứu	V
+tàu	N
+.	CH
+
+Đồng thời	R
+tôi	P
+đánh	V
+tín hiệu	N
+cấp cứu	V
+theo	E
+hệ thống	N
+thông tin	N
+toàn cầu	N
+để	E
+chuyển	V
+đến	E
+tất cả	P
+đài	N
+cấp cứu	V
+cùng	C
+các	L
+tàu	N
+và	C
+phát	V
+lệnh	N
+báo động	V
+.	CH
+
+Con	Nc
+tàu	N
+càng	R
+nghiêng	V
+rất	R
+nhanh	A
+,	CH
+khi	N
+độ	N
+nghiêng	A
+đến	V
+lên	V
+hơn	A
+20	M
+-	CH
+25	M
+độ	Nu
+,	CH
+tôi	P
+biết	V
+tình thế	N
+không	R
+còn	V
+cách	N
+nào	P
+có thể	A
+cứu	V
+được	R
+tàu	N
+nữa	T
+,	CH
+khi	N
+ấy	P
+chỉ	R
+còn	V
+nghĩ	V
+đến	R
+cách	N
+phải	V
+cứu	V
+cho	R
+được	R
+thủy thủ	N
+...	CH
+”	CH
+.	CH
+
+Trong	E
+khi	N
+ấy	P
+sóng	N
+vẫn	R
+rất	R
+lớn	A
+,	CH
+tàu	N
+tiếp tục	V
+bị	V
+nghiêng	V
+lắc	V
+dữ dội	A
+hơn	R
+,	CH
+nhiều	A
+thủy thủ	N
+bị	V
+va đập	V
+chấn thương	V
+ngay	T
+trên	E
+tàu	N
+.	CH
+
+Anh em	N
+bắn	V
+lên	R
+mọi	L
+tín hiệu	N
+cấp cứu	V
+có	V
+được	R
+.	CH
+
+Thuyền trưởng	N
+tìm	V
+cách	N
+liên lạc	V
+trực tiếp	A
+theo	V
+các	L
+kênh	N
+sóng	N
+khác	A
+trên	E
+tàu	N
+.	CH
+
+Và	C
+họ	N
+nhận	V
+được	R
+thông báo	N
+trở lại	V
+của	E
+tàu	N
+Capability	Np
+.	CH
+
+Trần Minh Đức	Np
+nói	V
+:	CH
+“	CH
+Lúc	N
+đó	P
+tôi	P
+mới	R
+có	V
+một chút	M
+hi vọng	N
+là	C
+chúng tôi	P
+có	V
+khả năng	N
+sẽ	R
+được	V
+cứu	V
+sống	V
+”	CH
+.	CH
+
+Tàu	N
+cứu hộ	V
+báo	V
+họ	P
+không thể	R
+vào	V
+gần	A
+tàu	N
+bị	V
+nạn	N
+vì	E
+rất	R
+nguy hiểm	A
+.	CH
+
+Họ	P
+cho	V
+biết	V
+chỉ	R
+có thể	A
+cứu	V
+được	R
+khi	N
+các	L
+thủy thủ	N
+rời	V
+tàu	N
+và	C
+ở	V
+trên	E
+xuồng	N
+hoặc	C
+có	V
+phao	N
+trên	E
+mặt biển	N
+.	CH
+
+"	CH
+Bấy giờ	P
+con	Nc
+tàu	N
+đã	R
+bị	V
+nghiêng	V
+quá	A
+lớn	A
+,	CH
+nếu	C
+không	R
+ra lệnh	V
+cho	E
+thủy thủ	N
+rời	V
+tàu	N
+kịp thời	A
+thì	C
+khi	N
+nó	P
+chìm	V
+tất cả	P
+sẽ	R
+bị	V
+cuốn	V
+theo	V
+tàu	N
+"	CH
+,	CH
+thuyền trưởng	N
+Trần Minh Đức	Np
+nói	V
+.	CH
+
+Thế là	C
+những	L
+chiếc	Nc
+xuồng	N
+tự	P
+thổi	V
+đã	R
+được	V
+thả	V
+xuống	R
+nhưng	C
+lập tức	R
+sóng	N
+lớn	A
+đánh	V
+dập	V
+mạnh	A
+,	CH
+vướng mắc	V
+vào	E
+thành	N
+tàu	N
+làm	V
+chiếc	N
+thì	C
+rách	A
+,	CH
+chiếc	N
+thì	C
+xẹp	A
+.	CH
+
+Ngay	T
+lúc	N
+đó	P
+thuyền trưởng	N
+phải	V
+tổ chức	V
+cho	E
+anh em	N
+nhảy	V
+biển	N
+.	CH
+
+Trong	E
+đêm tối	N
+mịt mùng	A
+,	CH
+họ	P
+chỉ	R
+nhận	V
+được	R
+ra	R
+nhau	N
+nhờ	V
+chiếc	Nc
+đèn	N
+tín hiệu	N
+trên	E
+áo phao	N
+cá nhân	N
+và	C
+phao	N
+tròn	A
+.	CH
+
+Khi	N
+xuống	V
+nước	N
+,	CH
+tất cả	P
+cùng	R
+bám	V
+chung	V
+vào	E
+một	M
+sợi	Nc
+dây	N
+dài	A
+hơn	R
+trăm	M
+mét	Nu
+.	CH
+
+Thế	T
+nhưng	C
+chỉ	R
+được	V
+chừng	N
+một	M
+tiếng	Nu
+đồng hồ	N
+thì	C
+anh em	N
+đã	R
+bị	V
+đánh	V
+dạt	V
+ra	R
+thành	V
+nhiều	A
+tốp	N
+.	CH
+
+Các	L
+tốp	N
+chỉ	R
+còn	R
+kẹp	V
+sát	A
+và	C
+bám	V
+được	R
+với	E
+nhau	N
+theo	V
+chung	V
+chiếc	Nc
+phao	N
+tròn	A
+.	CH
+
+Còn	C
+tàu	N
+cứu hộ	V
+thì	C
+ở	V
+ngoài	E
+xa	A
+đến	T
+chừng	N
+cả	T
+cây số	N
+.	CH
+
+“	CH
+...	CH
+Nước	N
+lạnh	A
+,	CH
+sóng	N
+to	A
+,	CH
+trong	E
+đêm tối	N
+anh em	N
+trong	E
+tốp	N
+tôi	P
+bám	V
+vào	E
+nhau	N
+và	C
+thỉnh thoảng	R
+nhắc	V
+nhau	N
+cố	V
+đạp	V
+chân	N
+cho	E
+bớt	V
+lạnh	A
+,	CH
+chứ	C
+còn	C
+ban đầu	N
+chẳng thể	R
+biết	V
+phải	V
+bơi	V
+theo	V
+hướng	N
+nào	P
+.	CH
+
+Cứ	V
+thế	P
+để	R
+trôi	V
+và	C
+chờ	V
+tàu	N
+đến	V
+cứu	V
+...	CH
+"	CH
+-	CH
+anh	Nc
+Nguyễn Tiến Thảo	Np
+kể	V
+.	CH
+
+Thế	T
+nhưng	C
+tới	E
+khi	N
+đến	V
+gần	A
+được	R
+tàu	N
+lại	R
+càng	R
+nguy hiểm	A
+hơn	R
+.	CH
+
+Nguyễn Đình Hùng	Np
+,	CH
+thủy thủ	N
+22	M
+tuổi	Nu
+,	CH
+cho	V
+biết	V
+:	CH
+"	CH
+Tôi	P
+là	V
+người	N
+thuộc	V
+tốp	N
+đầu tiên	N
+bám	V
+được	R
+vào	E
+thang	N
+dây	N
+của	E
+tàu	N
+cứu hộ	V
+.	CH
+
+Nhưng	C
+khủng khiếp	A
+nhất	R
+là	V
+lúc	N
+bị	V
+sóng	N
+nhồi	V
+đập	V
+vào	E
+thành	N
+tàu	N
+.	CH
+
+Vừa	R
+bám	V
+giữ	V
+cho	R
+được	R
+theo	E
+sợi	Nc
+dây	N
+người ta	P
+thả	V
+xuống	R
+từ	E
+trên	N
+tàu	N
+,	CH
+vừa	R
+lượn	V
+người	N
+để	E
+giảm	V
+sức	N
+va đập	V
+do	E
+sóng	N
+đánh	V
+dập	V
+mình	N
+vào	E
+thành	N
+tàu	N
+,	CH
+đồng thời	R
+phải	V
+gắng sức	V
+bám	V
+cho	R
+được	R
+vào	E
+thang	N
+dây	N
+.	CH
+
+Mỗi	M
+khi	N
+sóng	N
+dập	V
+vào	R
+và	C
+đẩy	V
+người	N
+lên	V
+theo	V
+thật	T
+cao	A
+thì	C
+mới	R
+có thể	A
+với	V
+tới	V
+được	R
+.	CH
+
+Phải	V
+mấy	L
+lần	N
+như	C
+thế	P
+tôi	P
+mới	R
+may mắn	A
+bám	V
+được	R
+vào	E
+thang	N
+"	CH
+.	CH
+
+Và	C
+hầu như	R
+ai	P
+cũng	R
+bị	V
+chấn thương	A
+với	E
+những	L
+va đập	N
+bởi	E
+sóng	N
+quá	R
+mạnh	A
+như	C
+thế	P
+.	CH
+
+Tàu	N
+Capability	Np
+quá	R
+lớn	A
+nên	C
+khoảng cách	N
+từ	E
+boong	N
+tàu	N
+xuống	E
+đến	E
+mặt biển	N
+ước chừng	V
+hơn	R
+12	M
+m	Nu
+.	CH
+
+Sau	E
+khi	N
+đánh	V
+vào	E
+thành	N
+tàu	N
+,	CH
+con	Nc
+sóng	N
+sẽ	R
+rút	V
+xuống	R
+rất	R
+sâu	A
+,	CH
+người	N
+bám	V
+được	R
+vào	E
+thang	N
+sẽ	R
+lơ lửng	A
+trên	E
+cao	A
+,	CH
+nếu	C
+không	R
+gắng sức	V
+giữ	V
+được	R
+mà	C
+để	R
+tuột	V
+tay	N
+rơi	V
+lại	R
+xuống	E
+biển	N
+mà	C
+không	R
+bám	V
+được	R
+lại	R
+vào	E
+phao	N
+hay	C
+dây	N
+thì	C
+tức khắc	R
+sóng	N
+sẽ	R
+cuốn	V
+trôi	V
+.	CH
+
+Hầu hết	X
+đều	R
+phải	V
+chịu đựng	V
+và	C
+cố	V
+nhiều	A
+lần	N
+như	C
+thế	P
+mới	R
+bám	V
+được	R
+vào	E
+thang	N
+.	CH
+
+Chính	T
+anh	Nc
+Vũ Ngọc Bình	Np
+LBKT	CH
+máy	N
+trưởng	A
+RBKT	CH
+là	V
+người	N
+bám	V
+được	R
+đầu tiên	A
+vào	E
+thang	N
+dây	N
+cứu hộ	V
+nhưng	C
+lại	R
+không	R
+giữ	V
+được	R
+và	C
+rơi	V
+xuống	R
+.	CH
+
+Sau	E
+đó	P
+,	CH
+do	E
+dây	N
+quấn	V
+,	CH
+anh	N
+không	R
+còn	V
+đủ	A
+sức	N
+bám	V
+vào	E
+thang	N
+dây	N
+lần	N
+nữa	R
+...	CH
+
+Khi	N
+đã	R
+được	V
+về	V
+tĩnh dưỡng	V
+tại	E
+nhà nghỉ	N
+Bộ đội	N
+biên phòng	N
+tỉnh	N
+Khánh Hòa	Np
+,	CH
+nhiều	A
+thủy thủ	N
+vẫn	R
+còn	V
+chưa	R
+hết	V
+vẻ	N
+bàng hoàng	A
+...	CH
+
+Chiều	N
+hôm qua	N
+tại	E
+nhà	N
+tang lễ	N
+Bệnh viện	N
+tỉnh	N
+Khánh Hòa	Np
+,	CH
+cùng	A
+với	E
+công ty	N
+chủ	N
+tàu	N
+,	CH
+những	L
+người	N
+may mắn	A
+thoát	V
+nạn	N
+đã	R
+tiễn đưa	V
+hai	M
+đồng đội	N
+xấu số	A
+của	E
+mình	N
+LBKT	CH
+anh	Nc
+Vũ Ngọc Bình	Np
+và	C
+anh	Nc
+Đào Xuân Nhung	Np
+-	CH
+sinh	V
+năm	N
+1944	M
+,	CH
+sĩ quan	N
+boong	N
+tàu	N
+RBKT	CH
+về	V
+quê	N
+nhà	N
+...	CH
+
+Sài Gòn	Np
+hàng hiệu	N
+thể thao	N
+.	CH
+
+Quần soóc	N
+,	CH
+áo thun	N
+Adidas	Np
+,	CH
+giày	N
+Nike	Np
+,	CH
+túi	N
+vợt	N
+Wilson	Np
+,	CH
+đồng hồ	N
+Rolex	Np
+,	CH
+điện thoại	N
+Nokia	Np
+...	CH
+
+Chỉ	R
+còn	V
+mỗi	M
+da	N
+và	C
+...	CH
+mũi	N
+là	V
+chính hiệu	A
+VN	Ny
+.	CH
+
+Đó	P
+là	V
+"	CH
+chân dung	N
+"	CH
+của	E
+khá	R
+nhiều	A
+người	Nc
+Sài Gòn	Np
+hôm nay	N
+,	CH
+trẻ	A
+cũng	R
+như	C
+sồn sồn	A
+...	CH
+
+Khách hàng	N
+.	CH
+
+Kh.	Ny
+học	V
+lớp	N
+10	M
+,	CH
+thành viên	N
+đội tuyển	N
+bóng rổ	N
+Trường	N
+NTMK	Ny
+.	CH
+
+Vai	N
+mang	V
+túi xách	N
+to đùng	A
+như	A
+dân	N
+chuyên nghiệp	A
+,	CH
+Kh.	Ny
+bước	V
+vào	E
+cửa hàng	N
+Nike	Np
+trên	E
+đường	N
+Hai Bà Trưng	Np
+và	C
+đi	V
+thẳng	A
+đến	E
+quầy	N
+giày	N
+.	CH
+
+"	CH
+Không	R
+có	V
+giày	N
+bóng rổ	N
+à	T
+?	CH
+"	CH
+.	CH
+
+Cô	Nc
+nhân viên	N
+lắc đầu	V
+"	CH
+hết	V
+rồi	R
+em	N
+ạ	T
+"	CH
+.	CH
+
+Tôi	P
+tranh thủ	V
+chặn	V
+Kh.	Ny
+lại	R
+,	CH
+"	CH
+Em	N
+thích	V
+giày	N
+Nike	Np
+à	T
+?	CH
+"	CH
+.	CH
+
+Kh.	Ny
+quay	V
+cái	Nc
+túi xách	N
+về	E
+phía	N
+tôi	P
+trên	E
+đó	P
+có	V
+cái	Nc
+tên	N
+được	V
+viết	V
+bằng	E
+bút bi	N
+khá	R
+to	A
+Allen Iverson	Np
+.	CH
+
+"	CH
+Em	N
+thích	V
+cầu thủ	N
+LBKT	CH
+bóng rổ	N
+RBKT	CH
+Mỹ	Np
+này	P
+,	CH
+anh	N
+ấy	P
+thường	R
+mang	V
+giày	N
+Nike	Np
+"	CH
+.	CH
+
+"	CH
+Thế	C
+các	L
+bạn	N
+khác	A
+trong	E
+đội	N
+?	CH
+"	CH
+.	CH
+
+"	CH
+Mỗi	L
+đứa	Nc
+một	M
+kiểu	N
+,	CH
+nhưng	C
+chỉ	R
+toàn	R
+hàng hiệu	N
+,	CH
+không	R
+đôi	N
+nào	P
+dưới	A
+1	M
+triệu	M
+"	CH
+.	CH
+
+"	CH
+Chắc	V
+là	C
+cưng	V
+đôi	M
+giày	N
+hết	R
+cỡ	N
+?	CH
+"	CH
+.	CH
+
+Kh.	Ny
+bật	V
+cười	V
+:	CH
+"	CH
+Hồi	N
+mua	V
+lần	N
+đầu	N
+thôi	T
+,	CH
+lúc	N
+đó	P
+không	R
+dám	V
+chạy	V
+mạnh	A
+sợ	V
+hư	A
+,	CH
+ngày	N
+nào	P
+chơi	V
+về	R
+cũng	R
+lau	V
+kỹ	A
+.	CH
+
+Còn	C
+bây giờ	P
+gần	A
+một	M
+năm	N
+rồi	T
+em	N
+chẳng	R
+thèm	V
+chùi	V
+rửa	V
+!	CH
+"	CH
+.	CH
+
+Tôi	P
+chỉ	V
+tay	N
+vào	E
+quả	Nc
+bóng	N
+:	CH
+"	CH
+Em	N
+chơi	V
+loại	Nc
+bóng	N
+nào	P
+?	CH
+"	CH
+.	CH
+
+"	CH
+Trường	N
+phát	V
+cho	T
+bóng	N
+Động Lực	Np
+thi đấu	V
+nhưng	C
+bọn	Nc
+em	N
+hùn	V
+tiền	N
+mua	V
+riêng	A
+bóng	N
+Nike	Np
+.	CH
+
+Đắt	A
+gấp	V
+3	M
+-	CH
+4	M
+lần	N
+nhưng	C
+nhìn	V
+thấy	V
+cái	Nc
+biểu tượng	N
+Nike	Np
+trên	E
+trái	Nc
+bóng	N
+cũng	R
+...	CH
+oai	A
+"	CH
+-	CH
+Kh.	Ny
+trả lời	V
+.	CH
+
+cô	N
+bán	V
+hàng	N
+.	CH
+
+T.	Ny
+đúng	A
+là	V
+cô	Nc
+nhân viên	N
+may mắn	A
+của	E
+đại lý	N
+Adidas	Np
+trên	E
+đường	N
+Hai Bà Trưng	Np
+.	CH
+
+Chiếc	Nc
+áo	N
+có	R
+in	V
+tên	N
+Beckham	Np
+giá	N
+1.725 . 000	M
+đồng	Nu
+nhập	V
+về	R
+gần	A
+bốn	M
+tháng	N
+nay	P
+đã	R
+bán	V
+được	R
+...	CH
+hai	M
+cái	Nc
+và	C
+đều	R
+trúng	V
+vào	E
+ca	N
+bán	V
+của	E
+T.	Ny
+.	CH
+
+"	CH
+Khách hàng	N
+nào	P
+mua	V
+áo	N
+đó	P
+?	CH
+"	CH
+.	CH
+
+"	CH
+Một	M
+anh	Nc
+Việt kiều	Np
+,	CH
+anh	N
+ấy	P
+nói	V
+giá	N
+ở	E
+đây	P
+rẻ	A
+hơn	A
+,	CH
+bên	N
+kia	P
+giá	N
+đến	T
+150	M
+USD	Ny
+.	CH
+
+Khách hàng	N
+thứ	N
+hai	M
+là	V
+một	M
+nhóm	Nc
+người	N
+.	CH
+
+Họ	P
+đến	V
+nhìn	V
+,	CH
+hỏi	V
+,	CH
+bàn tán	V
+kỹ	A
+lắm	R
+rồi	C
+...	CH
+về	V
+.	CH
+
+Ngày	N
+hôm	N
+sau	A
+họ	P
+lại	R
+đến	V
+và	C
+lần	N
+này	P
+thì	C
+mua	V
+.	CH
+
+Nghe	V
+họ	P
+trao đổi	V
+mới	R
+biết	V
+rằng	C
+họ	P
+góp	V
+tiền	N
+mua	V
+để	E
+làm quà	V
+tặng	V
+...	CH
+con trai	N
+sếp	N
+nhân	C
+một	M
+dịp	N
+gì	P
+đấy	P
+!	CH
+"	CH
+.	CH
+
+Cũng	R
+ở	E
+một	M
+đại lý	N
+của	E
+Adidas	Np
+trên	E
+đường	N
+Lê Lợi	Np
+.	CH
+
+Cô	N
+bán	V
+hàng	N
+có	V
+nụ	Nc
+cười	V
+duyên dáng	A
+kể	V
+:	CH
+"	CH
+Bán	V
+hàng hiệu	N
+nhiều	A
+chuyện	N
+vui	A
+và	C
+bất ngờ	A
+lắm	R
+anh	N
+à	T
+.	CH
+
+Hôm	N
+trước	A
+có	V
+một	M
+ông	Nc
+khách	N
+đến	V
+bằng	E
+chiếc	Nc
+xe	N
+không	R
+có	V
+"	CH
+đề	N
+"	CH
+,	CH
+ăn mặc	V
+thì	C
+lùi xùi	A
+...	CH
+đến	T
+tội nghiệp	A
+,	CH
+cứ	R
+tưởng	V
+là	C
+ông	N
+ta	P
+vô	V
+lộn	V
+chỗ	N
+.	CH
+
+vào	V
+cửa hàng	N
+ngó nghiêng	V
+một	M
+hồi	N
+rồi	C
+mua	V
+...	CH
+tùm lum	A
+thứ	N
+,	CH
+toàn	R
+là	C
+hàng hiệu	N
+,	CH
+hết	V
+hơn	A
+3	M
+triệu	M
+đồng	Nu
+"	CH
+.	CH
+
+"	CH
+Rồi	C
+ông	N
+ta	P
+trả	V
+bằng	E
+đôla	Nu
+hay	C
+euro	Nu
+?	CH
+"	CH
+-	CH
+tôi	P
+hỏi	V
+đùa	V
+.	CH
+
+"	CH
+Bằng	E
+tiền	N
+VN	Ny
+thôi	T
+.	CH
+
+Ông	N
+ta	P
+mua	V
+đồ	N
+để	E
+chạy	V
+bộ	N
+buổi	N
+sáng	N
+.	CH
+
+Lại	R
+có	V
+nhiều	A
+khách hàng	N
+tới	V
+mua	V
+hoài	R
+,	CH
+không	R
+rõ	A
+họ	P
+xài	V
+cách	N
+nào	P
+cho	E
+hết	V
+.	CH

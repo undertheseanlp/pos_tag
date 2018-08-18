@@ -56,7 +56,7 @@ def train_test(train_path, test_path):
         y_test = [token[1] for token in sample]
         y_pred = estimator.predict(sentence)
         for i in range(len(y_test)):
-            line = "{}\t{}\t{}\n".format(y_pred[i][0], y_test[i], y_pred[i][1])
+            line = "{}\tB-{}\tB-{}\n".format(y_pred[i][0], y_test[i], y_pred[i][1])
             output.write(line)
         output.write("\n")
 

@@ -3,7 +3,7 @@ from underthesea.word_tokenize import tokenize
 from util.crf.pos_tag.model import CRFModel
 
 
-def word_tokenize(sentence, format=None, model_path=None):
+def pos_tag(sentence, format=None, model_path=None):
     tokens = tokenize(sentence).split()
     model = CRFModel.instance(model_path)
     output = model.predict(tokens)
@@ -21,5 +21,5 @@ def word_tokenize(sentence, format=None, model_path=None):
 
 
 if __name__ == '__main__':
-    output = word_tokenize("Đang họp báo vụ điểm cao bất thường ở Sơn La", format="text")
+    output = pos_tag("Đang họp báo vụ điểm cao bất thường ở Sơn La", format="text")
     print(output)
