@@ -1,22 +1,19 @@
-from underthesea.word_tokenize import tokenize
+from underthesea import word_tokenize
 
 from util.crf.pos_tag.model import CRFModel
 
 
 def pos_tag(sentence, format=None, model_path=None):
-    tokens = tokenize(sentence).split()
+    tokens = word_tokenize(sentence)
     model = CRFModel.instance(model_path)
     output = model.predict(tokens)
     tokens = [token[0] for token in output]
     tags = [token[1] for token in output]
     output = []
     for tag, token in zip(tags, tokens):
-        if tag == "I-W":
-            output[-1] = output[-1] + " " + token
-        else:
-            output.append(token)
+        output.append((token, tag))
     if format == "text":
-        output = u" ".join([item.replace(" ", "_") for item in output])
+        output = u" ".join(["{}/{}".format(token.replace(" ", "_"), tag) for token, tag in output])
     return output
 
 

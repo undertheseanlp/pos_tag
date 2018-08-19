@@ -4,7 +4,7 @@ from os.path import abspath
 
 from util.crf.pos_tag import pos_tag
 
-parser = argparse.ArgumentParser("word_tokenize.py")
+parser = argparse.ArgumentParser("pos_tag.py")
 text_group = parser.add_argument_group("The following arguments are mandatory for text option")
 text_group.add_argument("--text", metavar="TEXT", help="text to predict")
 file_group = parser.add_argument_group("The following arguments are mandatory for file option")

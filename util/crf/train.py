@@ -3,11 +3,11 @@ from os import makedirs
 from os.path import dirname
 from languageflow.model.crf import CRF
 
-from util.crf.conlleval import evaluate, parse_args
+from util.crf.conlleval import evaluate
 from util.crf.pos_tag.features import template
 from util.crf.pos_tag.model import CRFModel
 from .load_data import load_dataset
-from .transformer.custom_transformer import CustomTransformer
+from util.crf.pos_tag.custom_transformer import CustomTransformer
 
 
 def train(train_path, model_path):
@@ -69,3 +69,6 @@ def train_test(train_path, test_path):
     args.delimiter = None
     args.oTag = "O"
     evaluate(open(output_path), args)
+
+    os.remove(model_path)
+    os.remove(output_path)
