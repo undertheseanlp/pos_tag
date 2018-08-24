@@ -1,29 +1,11 @@
 import torch
 
+from models.lstm.lstm_tagger import LSTMTagger
 from .load_data import load_dataset
 from torch import nn, optim
-import torch.nn.functional as F
+import joblib
 
-
-class LSTMTagger(nn.Module):
-    def __init__(self, hidden_dim, tags_size):
-        super(LSTMTagger, self).__init__()
-        self.hidden_dim = hidden_dim
-        self.lstm = nn.LSTM(1, self.hidden_dim)
-
-        self.hidden2tag = nn.Linear(hidden_dim, tags_size)
-        self.hidden = self.init_hidden()
-
-    def init_hidden(self):
-        return (torch.zeros(1, 1, self.hidden_dim),
-                torch.zeros(1, 1, self.hidden_dim))
-
-    def forward(self, sentence):
-        input = sentence.view(len(sentence), 1, -1).float()
-        lstm_out, self.hidden = self.lstm(input, self.hidden)
-        tag_space = self.hidden2tag(lstm_out.view(len(sentence), -1))
-        tag_scores = F.log_softmax(tag_space, dim=1)
-        return tag_scores
+use_gpu = torch.cuda.is_available()
 
 
 def prepare_sequence(sequence, to_ix):
@@ -32,13 +14,18 @@ def prepare_sequence(sequence, to_ix):
 
 
 def extract_indexes(train_set):
-    tags_to_indexes = {}
-    words_to_indexes = {}
-    w_i = 0
-    t_i = 0
+    tags_to_indexes = {
+        "<UNK>": 0
+    }
+    words_to_indexes = {
+        "<UNK>": 0
+    }
+    w_i = 1
+    t_i = 1
     for sentence in train_set:
         words, tags = zip(*sentence)
         for word in words:
+            word = word.lower()
             if word not in words_to_indexes:
                 words_to_indexes[word] = w_i
                 w_i += 1
@@ -62,14 +49,27 @@ def _reverse_dict(dict):
 
 def train(train_path, model_path):
     dataset = load_dataset(train_path)
+    metadata = {}
     words_to_indexes, tags_to_indexes = extract_indexes(dataset)
+    metadata["words_to_indexes"] = words_to_indexes
+    metadata["tags_to_indexes"] = tags_to_indexes
+    metadata["indexes_to_tags"] = _reverse_dict(tags_to_indexes)
     indexes_to_tags = _reverse_dict(tags_to_indexes)
-
-    model = LSTMTagger(hidden_dim=10, tags_size=len(tags_to_indexes))
+    params = {}
+    params["hidden_dim"] = 200
+    params["embedding_dim"] = 100
+    params["vocab_size"] = len(words_to_indexes)
+    params["tags_size"] = len(tags_to_indexes)
+    metadata["params"] = params
+    model = LSTMTagger(hidden_dim=params["hidden_dim"],
+                       embedding_dim=params["embedding_dim"],
+                       vocab_size=params["vocab_size"],
+                       tags_size=params["tags_size"])
+    model = model.cuda()
 
     loss_function = nn.NLLLoss()
-    optimizer = optim.SGD(model.parameters(), lr=0.1)
-    n_epoch = 300
+    optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+    n_epoch = 10
 
     train_size = 0.9
     n = int(train_size * len(dataset))
@@ -77,8 +77,11 @@ def train(train_path, model_path):
     for epoch in range(n_epoch):
         for sentence in train_set:
             words, tags = zip(*sentence)
+            words = [word.lower() for word in words]
             words_indexes = prepare_sequence(words, to_ix=words_to_indexes)
             tags_indexes_true = prepare_sequence(tags, to_ix=tags_to_indexes)
+            if use_gpu:
+                tags_indexes_true = tags_indexes_true.cuda()
 
             model.zero_grad()
 
@@ -89,16 +92,19 @@ def train(train_path, model_path):
             print(loss)
             optimizer.step()
         print("Epoch: {}/{}".format(epoch + 1, n_epoch))
-    print("Load data from file", train_path)
 
     with torch.no_grad():
         for sentence in test_set:
             words, tags_true = zip(*sentence)
+            words = [word.lower() for word in words]
             words_indexes = prepare_sequence(words, to_ix=words_to_indexes)
             tags_indexs_true = prepare_sequence(tags, to_ix=tags_to_indexes)
 
             tags_scores = model(words_indexes)
+            tags_scores = tags_scores.cpu()
             tags_predict = _category_from_output(tags_scores, indexes_to_tags)
             if len(set(tags_predict)) > 1:
-                print(list(zip(words,tags_true, tags_predict)))
+                print(list(zip(words, tags_true, tags_predict)))
+    torch.save(model.state_dict(), model_path)
+    joblib.dump(metadata, "metadata.bin")
     print(0)
