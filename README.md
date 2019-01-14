@@ -21,7 +21,7 @@ This repository contains starter code for training and evaluating machine learni
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.6`
 * `Anaconda`
-* `languageflow==1.1.7`
+* `underthesea==1.1.9a2`
 
 ### 1.2 Download and Setup Environment
 
@@ -48,15 +48,40 @@ $ cd pos_tag
 $ source activate pos_tag
 ``` 
 
+### 2.1 Using a pre-trained model
+
+```
+$ python pos_tag.py --text "Chàng trai 9X Quảng Trị khởi nghiệp từ nấm sò"
+Chàng/Nc trai/N 9X/N Quảng_Trị/Np khởi_nghiệp/V từ/E nấm/N sò/M
+
+$ python pos_tag.py --fin tmp/input.txt --fout tmp/output.txt
+```
+
 ### 2.2 Train a new dataset
 
 **Train and test**
 
 ```
 $ python util/preprocess_vlsp2013.py
-$ python train.py \
+$ python train.py train-test \
     --train tmp/vlsp2013/train.txt \
     --test tmp/vlsp2013/test.txt
+```
+
+**Train and export model**
+
+```
+$ python train.py \
+    --train tmp/vlsp2013/train.txt \
+    --model tmp/model.bin
+```
+
+Predict with trained model
+
+```
+$ python pos_tag.py \
+    --fin tmp/input.txt --fout tmp/output.txt \
+    --model tmp/model.bin
 ```
 
 Last update: August 2018

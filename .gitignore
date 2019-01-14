@@ -156,3 +156,4 @@ fabric.properties
 
 tmp
 !tmp/.gitkeep
+!tmp/input.txt
