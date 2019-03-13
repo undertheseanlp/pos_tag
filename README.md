@@ -1,18 +1,19 @@
-# Underthesea POS Tagging
+# Gán nhãn từ loại tiếng Việt
 
-![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/accuracy-92.3%25-red.svg)
+![](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)
+![](https://img.shields.io/badge/opensource-vietnamese-blue.svg)
+![](https://img.shields.io/badge/contributions-welcome-green.svg)
 
-This repository contains starter code for training and evaluating machine learning models in *Vietnamese POS Tagging* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models. 
+Dự án nghiên cứu về bài toán *gán nhãn từ loại tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/undertheseanlp). Chứa mã nguồn các thử nghiệm cho việc xử lý dữ liệu, huấn luyện và đánh giá mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
-## Table of contents
+**Nhóm tác giả** 
 
-* [1. Installation](#1-installation)
-  * [1.1 Requirements](#11-requirements)
-  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
-* [2. Usage](#2-usage)
-  * [2.1 Using a pretrained model](#21-using-a-pre-trained-model)
-  * [2.2 Train a new dataset](#22-train-a-new-dataset)
-* [3. References](#3-references)
+* Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
+* Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
+
+**Tham gia đóng góp**
+
+Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
 
 ## 1. Installation
 
@@ -84,4 +85,6 @@ $ python pos_tag.py \
     --model tmp/model.bin
 ```
 
-Last update: August 2018
+## Bản quyền
+
+Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
