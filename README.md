@@ -35,7 +35,7 @@ $ git clone https://github.com/undertheseanlp/pos_tag.git
 Create environment and install requirements
 
 ```
-$ cd word_tokenize
+$ cd pos_tag
 $ conda create -n pos_tag python=3.6
 $ pip install -r requirements.txt
 ```
